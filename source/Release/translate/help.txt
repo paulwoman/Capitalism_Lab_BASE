@@ -1920,8 +1920,8 @@ The market capitalization of a company.
 It equals to its share price times the total number of shares outstanding. In other words, it is the total market value of the company in the stock market. 
 ~
 STK_EARN
-Earning Per Share 
-The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares. When a company issues new shares, the Earning Per Share will be diluted as the company's profit will be divided by a larger number of shares. 
+Earnings Per Share 
+The Earnings Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares. When a company issues new shares, the Earning Per Share will be diluted as the company's profit will be divided by a larger number of shares. 
 ~
 STK_EQUI
 Equity Per Share 
