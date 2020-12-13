@@ -62,14 +62,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Are you using any anti-virus software that runs in background?</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T220546Z" creationid="Olivier" creationdate="20201213T220546Z">
-        <seg>Are you using any anti-virus software that runs in background?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Boom-Bust Cycle Volatility=Moderate</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215058Z" creationid="Olivier" creationdate="20201213T215058Z">
@@ -194,14 +186,6 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215129Z" creationid="Olivier" creationdate="20201213T215129Z">
         <seg>Goal Title=Meta de desempenho operacional</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>If so, add MOD tool EXE files "LibResDir.EXE" and "LibResXL.EXE" into your anti-virus software exception list to prevent it from blocking the tools or slow down their executions</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T220543Z" creationid="Olivier" creationdate="20201213T220543Z">
-        <seg>If so, add MOD tool EXE files "LibResDir.EXE" and "LibResXL.EXE" into your anti-virus software exception list to prevent it from blocking the tools or slow down their executions</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,14 +354,6 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215052Z" creationid="Olivier" creationdate="20201213T215052Z">
         <seg>Technology Disruption=On</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T220434Z" creationid="Olivier" creationdate="20201213T220434Z">
-        <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
       </tuv>
     </tu>
     <tu>
