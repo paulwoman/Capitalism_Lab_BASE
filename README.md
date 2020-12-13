@@ -1,2 +1,2 @@
-# Capitalism_Lab_ENG_to_NL
-Translate of CapLab into Dutch
+# Capitalism_Lab_ENG_to_RU
+Translate of CapLab into Russian
