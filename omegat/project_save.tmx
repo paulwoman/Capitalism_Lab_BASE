@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fast forward days=5</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220113Z" creationid="Olivier" creationdate="20201217T220113Z">
+        <seg>Fast forward days=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flex Text Box=300,280,400,0</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215817Z" creationid="Olivier" creationdate="20201217T215817Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215104Z" creationid="Olivier" creationdate="20201213T215104Z">
         <seg>Inflation=Inverse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interface Select=Select Supplier, Seaport</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220031Z" creationid="Olivier" creationdate="20201217T220031Z">
+        <seg>Interface Select=Select Supplier, Seaport</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=38,121,55,238</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220139Z" creationid="Olivier" creationdate="20201217T220139Z">
+        <seg>Pointer=38,121,55,238</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=70,120,185,230</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215910Z" creationid="Olivier" creationdate="20201217T215910Z">
@@ -534,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=12,270,320,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220102Z" creationid="Olivier" creationdate="20201217T220102Z">
+        <seg>Text Box=12,270,320,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=32,270,300,0</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215936Z" creationid="Olivier" creationdate="20201217T215936Z">
@@ -550,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=40,270,350,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220135Z" creationid="Olivier" creationdate="20201217T220135Z">
+        <seg>Text Box=40,270,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T220434Z" creationid="Olivier" creationdate="20201213T220434Z">
@@ -558,10 +598,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220133Z" creationid="Olivier" creationdate="20201217T220133Z">
+        <seg>Желтый ~столбик ПРЕДЛОЖЕНИЯ~ показывает, сколько продукта доступно в вашем магазине, а оранжевый ~столбик СПРОСА~ показывает потребительский спрос на этот продукт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the ~Select a Supplier~ window.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215924Z" creationid="Olivier" creationdate="20201217T215924Z">
         <seg>Это окно ~Выбора поставщика~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This window shows all products available from the local seaports.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220044Z" creationid="Olivier" creationdate="20201217T220044Z">
+        <seg>Окно обновилось, чтобы показать все продукты, доступные из местных морских портов.</seg>
       </tuv>
     </tu>
     <tu>
