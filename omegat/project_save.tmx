@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=360, 649, 448, 665</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220835Z" creationid="Olivier" creationdate="20201217T220835Z">
+        <seg>Pointer=360, 649, 448, 665</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=38,121,55,238</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T220139Z" creationid="Olivier" creationdate="20201217T220139Z">
