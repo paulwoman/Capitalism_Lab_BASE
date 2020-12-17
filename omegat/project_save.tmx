@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215810Z" creationid="Olivier" creationdate="20201217T215810Z">
+        <seg>Также вы можете нажать клавишу ~Enter~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you using any anti-virus software that runs in background?</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T220546Z" creationid="Olivier" creationdate="20201213T220546Z">
@@ -74,6 +82,38 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215058Z" creationid="Olivier" creationdate="20201213T215058Z">
         <seg>Boom-Bust Cycle Volatility=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build Firm=Department Store, My Department Store</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215822Z" creationid="Olivier" creationdate="20201217T215822Z">
+        <seg>Build Firm=Department Store, My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can you apply what you have learned into running a business in the real world?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215757Z" creationid="Olivier" creationdate="20201217T215757Z">
+        <seg>Сможете ли вы применить то, что узнали, в реальном мире?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Center on firm=My Department Store</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215825Z" creationid="Olivier" creationdate="20201217T215825Z">
+        <seg>Center on firm=My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Add Product icon~ now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215905Z" creationid="Olivier" creationdate="20201217T215855Z">
+        <seg>Кликните на иконку ~Добавить новый продукт~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Current Firm=My Department Store</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215852Z" creationid="Olivier" creationdate="20201217T215852Z">
+        <seg>Current Firm=My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=Years of research in training methodology by a consortium of leading business schools has finally produced astonishing results.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215041Z" creationid="Olivier" creationdate="20201213T214958Z">
@@ -130,6 +178,38 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215047Z" creationid="Olivier" creationdate="20201213T215047Z">
         <seg>Difficulty Rating=90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click ~Seaport~ from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215957Z" creationid="Olivier" creationdate="20201217T215957Z">
+        <seg>Выберите ~морской порт~ двойным щелчком в выпадающем списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extend Text Box=32,420,300,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215844Z" creationid="Olivier" creationdate="20201217T215844Z">
+        <seg>Extend Text Box=32,420,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast forward days=5</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220113Z" creationid="Olivier" creationdate="20201217T220113Z">
+        <seg>Fast forward days=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flex Text Box=300,280,400,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215817Z" creationid="Olivier" creationdate="20201217T215817Z">
+        <seg>Flex Text Box=300,280,400,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +278,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hide=Minimap and Filter</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215729Z" creationid="Olivier" creationdate="20201217T215729Z">
+        <seg>Hide=Minimap and Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide=Preview</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215733Z" creationid="Olivier" creationdate="20201217T215733Z">
+        <seg>Hide=Preview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If so, add MOD tool EXE files "LibResDir.EXE" and "LibResXL.EXE" into your anti-virus software exception list to prevent it from blocking the tools or slow down their executions</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T220543Z" creationid="Olivier" creationdate="20201213T220543Z">
@@ -238,6 +334,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Interface Select=Select Supplier, Seaport</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220031Z" creationid="Olivier" creationdate="20201217T220031Z">
+        <seg>Interface Select=Select Supplier, Seaport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It lists all the products currently available within the game.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215929Z" creationid="Olivier" creationdate="20201217T215929Z">
+        <seg>Здесь перечислены все доступные в игре продукты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lifetime shareholder return=1000</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215124Z" creationid="Olivier" creationdate="20201213T215124Z">
@@ -250,6 +362,38 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215103Z" creationid="Olivier" creationdate="20201213T215103Z">
         <seg>Macro Economy Realism=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NIL</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215713Z" creationid="Olivier" creationdate="20201217T215713Z">
+        <seg>NIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Arrow=Yes</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215820Z" creationid="Olivier" creationdate="20201217T215820Z">
+        <seg>Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now it is your chance to prove your ability!^^Click the flashing Next icon to continue.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215805Z" creationid="Olivier" creationdate="20201217T215805Z">
+        <seg>Это ваш шанс показать всем, на что вы способны!^^Кликните на мигающую иконку "Далее" для продолжения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now left click it to view its detail.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215837Z" creationid="Olivier" creationdate="20201217T215837Z">
+        <seg>Кликните по нему левой кнопкой мыши для просмотра подробностей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +450,46 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215124Z" creationid="Olivier" creationdate="20201213T215124Z">
         <seg>Player Company Annual Revenue=800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Point at Firm=My Department Store</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215847Z" creationid="Olivier" creationdate="20201217T215847Z">
+        <seg>Point at Firm=My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=200,40,353,57</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215943Z" creationid="Olivier" creationdate="20201217T215943Z">
+        <seg>Pointer=200,40,353,57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=202,85,348,102</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220002Z" creationid="Olivier" creationdate="20201217T220002Z">
+        <seg>Pointer=202,85,348,102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=38,121,55,238</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220139Z" creationid="Olivier" creationdate="20201217T220139Z">
+        <seg>Pointer=38,121,55,238</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=70,120,185,230</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215910Z" creationid="Olivier" creationdate="20201217T215910Z">
+        <seg>Pointer=70,120,185,230</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,10 +558,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=12,270,320,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220102Z" creationid="Olivier" creationdate="20201217T220102Z">
+        <seg>Text Box=12,270,320,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=32,270,300,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215936Z" creationid="Olivier" creationdate="20201217T215936Z">
+        <seg>Text Box=32,270,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=32,420,300,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215907Z" creationid="Olivier" creationdate="20201217T215907Z">
+        <seg>Text Box=32,420,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=40,270,350,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220135Z" creationid="Olivier" creationdate="20201217T220135Z">
+        <seg>Text Box=40,270,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T220434Z" creationid="Olivier" creationdate="20201213T220434Z">
         <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220133Z" creationid="Olivier" creationdate="20201217T220133Z">
+        <seg>Желтый ~столбик ПРЕДЛОЖЕНИЯ~ показывает, сколько продукта доступно в вашем магазине, а оранжевый ~столбик СПРОСА~ показывает потребительский спрос на этот продукт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the ~Select a Supplier~ window.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215924Z" creationid="Olivier" creationdate="20201217T215924Z">
+        <seg>Это окно ~Выбора поставщика~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This window shows all products available from the local seaports.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T220044Z" creationid="Olivier" creationdate="20201217T220044Z">
+        <seg>Окно обновилось, чтобы показать все продукты, доступные из местных морских портов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,10 +654,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Window=Select Supplier</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215949Z" creationid="Olivier" creationdate="20201217T215949Z">
+        <seg>Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have been assigned to run this department store.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215833Z" creationid="Olivier" creationdate="20201217T215833Z">
+        <seg>Вы были назначены для управления этим универмагом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have graduated with an MBA from a renowned business school.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215746Z" creationid="Olivier" creationdate="20201217T215746Z">
+        <seg>Вы получили степень MBA в известной бизнес-школе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have significantly improved your corporation's operating profit margin.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215230Z" creationid="Olivier" creationdate="20201213T215230Z">
         <seg>Você melhorou significativamente a margem de lucro operacional de sua empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may use the three filters at the top of the window to help you find the products you want.^^You intend to purchase products from the local seaports, so click the ~Suppliers~ filter box, as indicated.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215933Z" creationid="Olivier" creationdate="20201217T215933Z">
+        <seg>Вы можете использовать три фильтра наверху, чтобы найти то, что вам нужно. ^^Вам нужно купить продукты в местном морском порту, для этого кликните на фильтре ~поставщиков~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[ACTION]</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215727Z" creationid="Olivier" creationdate="20201217T215727Z">
+        <seg>[ACTION]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[CHALLENGE GAME]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215305Z" creationid="Olivier" creationdate="20201213T215305Z">
@@ -450,6 +730,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215105Z" creationid="Olivier" creationdate="20201213T215105Z">
         <seg>[COMPETITORS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[CONDITION]</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215850Z" creationid="Olivier" creationdate="20201217T215850Z">
+        <seg>[CONDITION]</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[POS]</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215813Z" creationid="Olivier" creationdate="20201217T215813Z">
+        <seg>[POS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[SPECIAL RULES]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215114Z" creationid="Olivier" creationdate="20201213T215114Z">
@@ -530,6 +826,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215126Z" creationid="Olivier" creationdate="20201213T215126Z">
         <seg>[SUBGOAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201217T215723Z" creationid="Olivier" creationdate="20201217T215723Z">
+        <seg>[TEXT]</seg>
       </tuv>
     </tu>
     <tu>
