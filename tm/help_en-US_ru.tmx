@@ -1,0 +1,4978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toolbox (hotkey: Ctrl-T)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Toolbox Display the Toolbox menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Show or hide the Toolbox menu.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Press Ctrl-T to toggle between the standard menu and the extended menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Show or hide the Mini Map.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Display the Mini Map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Show or hide the World Map.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Display the World Map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Open the Information Center screen.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Open the Information Center screen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Open the Event Tracker Window.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Open the Event Tracker Window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Back to the previous firm (hotkey: q)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Back to previous firm (hotkey: q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Go back to the previously selected firm.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Go back to the previously selected firm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This figure is the amount of cash that your corporation currently has. Click here to view its #Balance Sheet#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>This figure is the amount of cash your corporation currently has.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This figure is your corporation's operating profit over the past 12 months. Click here to view its #Income Statement#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>This figure is your corporation's operating profit over the past 12 months.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The vertical bars represent your corporation's monthly profit or loss.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Vertical bars represent your corporation's monthly profit or loss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the current game date.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>This is the current game date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Build Menu (hotkey: B) Click to open the Build Menu.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Build Menu (hotkey: B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Press Ctrl-Z to open the same sub-menu on the Build interface as the last time. (the same firm type and the same company/subsidiary)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click to open the Build Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Buy plots of land (hotkey: CTRL-L)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Buy plots of land</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activate the mode for buying plots of land.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Activate the mode for buying plots of land</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>T_ZONE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>T_SETLND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MMENUHQ</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>MMENUHQ (hotkey: 'H')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Headquarters (hotkey: 'H')</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Headquarters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Go to the Headquarters.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stock Market (hotkey: F4)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Stock Market</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Game Speed (hotkey: '1' to '5')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the speed dial to change the game speed. #Double-click# here to see tips for #improving game running speed#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click the speed dial to alter the game speed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The default setting of #Internal Sale# is #Disabled#. Competitors are allowed to buy your products.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click to disable Internal Sale and allow competitors to buy your products</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The default setting of #Internal Sale# is #Enabled#. Competitors are not allowed to buy your products.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click to enable Internal Sale and ban competitors from buying your products</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The default setting of #AutoLink to Supplier# is #Disabled#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click to disable AutoLink to Supplier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You must select suppliers manually.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You must select suppliers manually</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The default setting of #AutoLink to Supplier# is #Enabled#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click to enable AutoLink to Supplier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your purchasing units will attempt to find suppliers automatically.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Your purchasing units will attempt to find a supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The default setting of #Auto Apply R&amp;D Results# is #Disabled#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click to disable Auto Apply R&amp;D Results.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The default setting of #Auto Apply R&amp;D Results# is #Enabled#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click to enable Auto Apply R&amp;D Results.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hold #SHIFT# key while clicking for #10X# speed. Hold #CTRL# key while clicking for #100X# speed.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Hold SHIFT key while clicking for 10X speed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hold #SHIFT# key while clicking for #10X# speed. Hold #CTRL# key while clicking for #100X# speed.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Hold SHIFT key while clicking for 10X speed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Open News Log window (hotkey: 'V')</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Open News Log window (hotkey:'V')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Close News Log window (hotkey: 'V')</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Close News Log window (hotkey:'V')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click to allow purchasing units to find their own suppliers. #Double-click# to apply the change of this setting to #all your firms#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click to allow purchasing units to find their own suppliers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Set up a new production for this firm (hotkey: A)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Set up a new production for this firm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A unit with a higher experience level has #larger capacity# and #higher productivity#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The overall productivity and capacity of most units increase when their unit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A unit's level can be increased through #training#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>levels increase. Training will increase them increase their levels faster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Capacity Utilization Rate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Capacity Utilization Rate of the Unit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A high utilization rate means that the unit is operating efficiently.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A high utilization rate means that your unit is operating efficiently.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A low rate means that the unit has idle time and its capacity is underutilized.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A low rate means that your unit has idle time and its capacity is not well utilized.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hotkey: Press the first letter of the name of a functional unit to add it instantly.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Hotkey: Press the first letter of the name of an functional unit to add it instantly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gray colors mean imports from seaports.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Gray colors means imports from seaports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When #Internal Sale# is enabled, competitors cannot purchase this product from you.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When Internal Sale is enabled, competitors cannot purchase this product from you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you want to enable #Internal Sale# by default, you can open the #Option menu# (hotkey: 'O') and set #Default Internal Sale# to #Enabled#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>If you want to enable Internal Sale by default, you can open the Option menu (hotkey: 'O') and set Default Internal Sale to Enabled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>View Clients View the list of clients that are purchasing this product.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Show Clients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hotkey: Ctrl-M</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Hotkey: F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A city's population growth is supported by 1) #a low unemployment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A city's population growth is supported by 1) #a low employment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Generally, when there are a large number of job openings available in the city, the city can afford to accept immigrants at a faster pace.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Generally, when there is a large number of job openings available in the city, the city can afford to accept immigrants at a faster pace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The unemployment rate decreases when the economy is growing, and companies are expanding and creating new jobs.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The unemployment rate trends lower when the GDP growth is healthy and private companies are expanding and creating new jobs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A growing real wage rate means that people are earning more money, even after adjusting for inflation.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A growing real wage rate means that people are earning more money, even after being adjusted for inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The inflation rate is primarily affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (increased money supply promotes consumer spending).</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The inflation rate is affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (higher money supply promotes spending).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consumer Price Index</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Consumer Price Index (CPI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This shows the cumulative change in the price level of consumer goods since the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>CPI tells the accmulated effects of inflation over years.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The base value is 100.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It starts with a base value of 100 and increases during inflation times and decreases during deflation times.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wildcard layout plans are for factories and can be used for producing any products with the same number of inputs.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Wildcard layout plans are for factories only and can be used for producing any products with the same number of inputs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Financial stocks</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Only show companies whose main business activities are investing into other companies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only show financial companies, including companies whose main business activities are investing into other companies.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Operational Level Setting When this civic building is #not in full operation#, its #operating cost is lower#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When this civic building is not in full operation, its operating cost is lower.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You are advised to set this based on the #Supply/Demand index# displayed at the lower part of this info window.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You are advised to set this based on the Supply/Demand index displayed at the lower part of this info window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The low value of this aspect of quality of life has caused some people to emigrate from this city to other cities.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The low value of this aspect of quality of life has caused some people to emigrating from this city to other cities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click here to open the #Goal report#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click here to open the Goal report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Confirm the price change (hotkey: ']')</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Confirm the price change (hotkey: '*' or ']')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The current stock price.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Текущая цена акций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The total number of shares currently held by all its shareholders.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Общее количество акций, которыми в настоящее время владеют все ее акционеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The market capitalization of a company.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Рыночная капитализация компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It equals to its share price times the total number of shares outstanding.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Она равна её цене акции, умноженной на общее количество акций в обращении.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In other words, it is the total market value of the company in the stock market.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Другими словами, это общая рыночная стоимость компании на фондовом рынке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Earnings Per Share</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Earning Per Share</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Earnings Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A high P/E ratio generally means the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A high P/E ratio generally means the the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If any of your other firms have #broken supply links# which require the #same item# that #this Sales unit# is selling, you may use this button to #redirect all the affected supply links# to #this Sales unit#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>If any of your other firms have broken supply links which requires the same item that this Sales unit is selling, you may use this button to redirect the supply link to the current Sales unit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, your mine's reserve #has exhausted#, and you have just #built a new mine#, then you may use this button to #redirect all the affected supply links# to the #new mine#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>For instance, your mine's reserve has exhausted, and you have just built a new mine, then you may use this button to redirect supply links to the new mine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To increase the limit, first increase the tech level of the product.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>To increase the limit, first increase the tech level of the prodcut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>e.g. You have defined a custom image of Smart Phone with a tech level of 300.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>e.g. You have defined a custom image of Smart Phone with a tech level of 300.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled, any firms in your company and #subsidiaries# will always be able to buy products from each other, regardless of the #Internal Sale# setting.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>If this is enabled, any firms in your company and subsidiaries will always be able to buy products from each other, regardless of the [Internal Sale] setting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Customize the production technology level for this manufacturing unit.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Customize the production technology level for this manufacturning unit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>e.g. You have defined a custom image of Smart Phone with a tech level of 300.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>e.g. You have defined a custom image of Smart Phone with a tech level of 300.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>e.g. You have defined a custom image of Smart Phone with a tech level of 300.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>e.g. You have defined a custom image of Smart Phone with a tech level of 300.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is used for calculating the Net Imports component of GDP.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It is used for calculating the Net Exports component of GDP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A nation's population growth is supported by 1) #a low unemployment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A nation's population growth is supported by a low employment rate, high quality of living, and sufficient supplies of new apartments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The population growth rate is a result of comparing the nation's population in the beginning of this year with the same period last year.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The population growth rate is a result of comparing the city's population in the beginning of this year with the same period last year.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI will NOT change the product type when it sources new supplies.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The AI will NOT change the product type when it sources new supplies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI may change the product types at will.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The AI may change the product types at will.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You cannot build new ones.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You cannot build any more new ones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you enable eCommerce sales for this firm, your eCommerce sites will add all consumer products from this firm to its catalog.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When you enable eCommerce sales for this firm, your eCommerce  sites will add all consumer products from this firm to its catalog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toggle Display (Hotkey: Ctrl-A)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Toogle Display (Hotkey: Ctrl-A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Internet Users</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Personal Computer Users</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toggle Analysis Mode (Hotkey: X)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Toogle Analysis Mode (Hotkey: X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The staff's #skill level# affects the #quality of service# of this bank branch.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The staff's skill level affects the quality of service of this bank branch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may set the #training budget# to provide training to the staff to increase their skills.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You may set the training budget to provide training to the staff to increase their skills.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the #City Economics Simulation DLC# is enabled, it is also affected by the #education level# of people in the city.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>If the City Economics Simulation DLC is enabled, it is also affected by the education level of people in the city.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A long customer waiting time negatively affects the #service quality# of the branch.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A long customer waiting time negatively affects the service quality of the branch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The quality of service of this bank branch is primarily determined by the #staff skill level# and the #customer waiting time#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The quality of service of this bank branch is primarily determined by the Staff Skill Level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the #customer waiting time# is higher than 30, it starts to negatively affect the #quality of service#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When the Customer Waiting Time is higher than 30, it starts to negatively affect the Quality of Service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To increase it, select the #Marketing# tab and set up advertising.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>To increase it, select the "Marketing" tab and set up advertising.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The average staff skill level of all the bank's branches. It affects the overall #service quality# of the bank.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The average staff skill level of all the bank's branches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the #City Economics Simulation DLC# is enabled, the #skill level# is also affected by the #education level# of people.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It affects the overall service quality of the bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It affects the overall #service quality# of the bank.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It affects the overall service quality of the bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The average service quality of all the bank's branches.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The average service qualty of all the bank's branches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is determined by the #staff skill level# and the #customer waiting time#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It is determined by the Staff Skill Level and the Customer Waiting Time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To increase it, select the #Marketing# page and set up advertising.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>To increase it, select the "Marketing" page and set up advertising.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that these loan defaults, together with those by local companies, constitute the loan defaults shown on the [All Defaults] page. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Note that these loan defaults, together with those by local companies, constitute the loan defaults shown on the [All Defaults] page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DEPOBRAN Deposits from all branches of this bank</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select this to show all customer deposits made via all the branches of this bank. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>DEPOBRAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DEPOHQ Deposits from the headquarters</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Deposits from all branches of this bank</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select this to show a list of deposits made by corporations and game persons via the bank headquarters. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Select this to show all customer deposits made via all the branches of this bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INSUFINA Financial Statements</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>View the financial statements of this corporate group, in addition to those of this insurance company. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>DEPOHQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ITRAFFIC Customer Traffic index of this area</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Deposits from the headquarters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The higher the customer traffic index, the larger the number of potential customers will visit this insurance front office.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Select this to show a list of deposits made by corporations and game persons via the bank headquarters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INHQTRAI</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INSUFINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Average Training Budget</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Financial Statements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The average training budget of all the insurance company's front offices. If you change the #training budget# here, the change will apply to all the front offices.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>View the financial statements of this corporate group, in addition to those of this insurance company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INHQSKIL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>ITRAFFIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Average Staff Skill Level The average staff skill level of all the insurance company's front offices.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Customer Traffic index of this area</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It affects the overall #service quality# of the insurance company. If the #City Economics Simulation DLC# is enabled, the skill level is also affected by the #education level# of people.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The higher the customer traffic index, the larger the number of potential customers will visit this insurance front office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ INHQWAIT</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Average Customer Waiting Time The average customer waiting time of all the insurance company's insurance front offices.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INHQTRAI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It affects the overall #service quality# of the insurance company. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Average Training Budget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INHQSERV Quality of Service</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The average training budget of all the insurance company's front offices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The average service quality of all the insurance company's insurance front offices. It is determined by the #staff skill level# and the #customer waiting time#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>If you change the training budget here, the change will apply to all the front offices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INBRAND</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INHQSKIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insurance Brand Rating The brand rating of the insurance company in this city.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Average Staff Skill Level</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To increase it, select the #Marketing# tab and set up advertising. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The average staff skill level of all the insurance company's front offices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INPRICE Premium Price Level</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It affects the overall service quality of the insurance company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The price level of the insurance premiums. It ranges from 80 to 120.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>100 is normal. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INHQWAIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INAVGPRI Average Premium</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Average Customer Waiting Time</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The average amount of insurance premium this company has received per customer annually. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The average customer waiting time of all the insurance company's insurance front offices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INFINPER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Financial Performance The financial performance of this insurance company in the past 12 months.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It affects the overall service quality of the insurace company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ INPREMIU</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insurance Premiums Insurance premium incomes in this past 365 days.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INHQSERV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ INPREMI1</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Quality of Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Premiums from New Insurance Policies These are insurance premiums earned from new insurance contracts in the past 365 days.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The average service qualty of all the insurance company's insurance front offices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>#Life insurance policies#, which are assumed to last an average of 30 years in this game, will generate premium incomes for the insurance company on a yearly basis until the policies mature.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It is determined by the Staff Skill Level and the Customer Waiting Time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INPREMI2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INBRAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Premiums from Existing Insurance Policies</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Insurance Brand Rating</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Existing Life Insurance Policies provide a reliable stream of premium incomes to the insurance company.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The brand rating of the insurance company in this city.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This figure shows the amount of insurance premium incomes from existing insurance policies in this past 365 days. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>To increase it, select the "Marketing" tab and set up advertising.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INPREMI3 Total Insurance Premiums</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Total insurance premium incomes in this past 365 days. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INPRICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INCLAIM Claims</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Premium Price Level</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Total claims paid to customers in the past 365 days. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The price level of the insurance premiums.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>OM_WSAD WSAD Keys</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It ranges from 10 to 200; 100 is normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may assign the 'W', 'S', 'A' and 'D' keys as context sensitive shortcut keys or use them for scrolling the city map.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A lower price level makes the insurance products more competitive but it also increases the ratio of claims to received premiums, resulting in a lower profit margin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ B_ANY</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Show any types of bonds. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INAVGPRI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ B_GROUP</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Average Premium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only show corporate bonds. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The average amount of insurance premium this company has received per customer annually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ B_TOWN</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only show municipal bonds issued by city governments. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INFINPER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ B_OWNED</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Financial Performance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toggle whether showing only bonds that you own. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The financial performance of this insurance company in the past 12 months.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ MFT_SOFT</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Set this manufacturing unit to produce software products. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INPREMIU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ MMFILBLD</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Insurance Premiums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Show filtered firms only (hotkey: Ctrl-F) When enabled, only firms that match the filter criteria will be shown on the city view; other buildings will be hidden.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Insurance premium incomes in this past 365 days.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>U_FUND2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INPREMI1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Additional funding for the focused area.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Premiums from New Insurance Policies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The funding will increase the city's competitiveness in the focused area and improve the skills and supply of talents specializing in the focused area. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Insurance premium incomes from new insurance policies in this past 365 days.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I_CDET2 Hotkey: Ctrl-D or F10</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>` ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INPREMI2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AINPCOST Cost of the Input</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Premiums from Existing Insurance Policies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that this cost price may be different from the cost price shown at the Purchasing Unit, as it takes into account the quantity of the input required for the production. In other words: &lt;this cost price&gt; = &lt;cost price at the Purchasing Unit&gt; X &lt;Quantity of the Input&gt; / &lt;Quantity of the Finished Product&gt; shown on the Manufacturer Guide.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Insurance premium incomes from existing insurance policies in this past 365 days.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>NECEINDX</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INPREMI3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Necessity Index</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Total Insurance Premiums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A high index value indicates that the product is necessary to people in their daily lives. The demand for necessary goods is fairly constant, because people must buy them even if the price they are offered is not attractive.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Total insurance premium incomes in this past 365 days.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DEPOSBRA</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INCLAIM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Client Deposits</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Claims</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The figure shows the total client deposits and the year-over-year growth rate. The graph shows the deposits over the past 36 months.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Total claims paid to customers in the past 365 days.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DEPOSHQ</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>OM_WSAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Client Deposits from All Branches of This Bank</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>WSAD Keys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The figure shows the total client deposits from all branches of this bank and the year-over-year growth rate. The graph shows the deposits over the past 36 months.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You may assign the 'W', 'S', 'A' and 'D' keys as context sensitive shortcut keys or use them for scrolling the city map.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ADVERT Advertisement</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>B_ANY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click here to view the advertisement setting. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Show any types of bonds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RINCCAP1 Increase the Retail Capacity</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Allocate retail space and hire staff for selling the same product. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RINCCAP0 Cannot Increase the Retail Capacity</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>B_GROUP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sorry, you cannot expand its capacity further as there is no space left in the retail store. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Only show corporate bonds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RDECCAP1 Reduce the Retail Capacity</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shrink the retail space and reduce the staff size for selling this product. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RDECCAP0 Cannot Reduce the Retail Capacity</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>B_TOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sorry, you cannot reduce its capacity further as it is already at the minimum capacity. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Only show municipal bonds issued by city governments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RREMOVE Remove the Product</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remove this product from the retail store. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RSUPPLY This product is sourced from multiple suppliers.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>B_OWNED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use these buttons to select which supplier's information to be displayed. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Toggle whether showing only bonds that you own.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>FARMSET1 Set up a new production at the current farm.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>`</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ FARMSET0</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>MFT_SOFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The farm does not have sufficient space for setting up a new production. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Set this manufacturing unit to produce software products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ STKSPLIT</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stock Split A stock split increases the total number of shares in a corporation and diminishes its stock price.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is allowed when the stock price is over $100. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>MMFILBLD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DIVIDMAX Maximum Special Dividend</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Show filtered firms only (hotkey: Ctrl-F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The maximum amount of special dividends you can pay is the smaller value of 1) the company's #cash# and 2) its #Retained Earnings# (viewable on its #Balance Sheet#). ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>If enabled, only firms that match the filter criteria will be shown on the city view; other buildings will be hidden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DIVIDEAR Retained Earnings</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The retained earnings are the accumulative net earnings of a company. You can view it on the #Balance Sheet# at the #Corporate Details# screen.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>U_FUND2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ DIVIDPAY</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Additional funding for the focused area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pay a Special Dividend You may arrange a special dividend payment from #your company# or #a subsidiary# with a controlling interest of at least 75%.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The funding will increase the city's competitiveness in the focused area and improve the skills and supply of talents specializing in the focused area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PININPUT Pin Input</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>I_CDET2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pin the current input. Then you may browse productions that use the current input.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Hotkey: Ctrl-D or F10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PINPREV Previous production</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Display the previous production that uses the pinned input. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>AINPCOST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PINNEXT Next production</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Cost of the Input</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Display the next production that uses the pinned input. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Note that this cost price may be different from the cost price shown at the Purchasing Unit, as it takes into account the quantity of the input required for the production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BANKBRFI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Operating Expenses Report View the operating expenses of this bank branch.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>In other words: &lt;this cost price&gt; = &lt;cost price at the Purchasing Unit&gt; X &lt;Quantity of the Input&gt; / &lt;Quantity of the Finished Product&gt; shown on the Manufacturer Guide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ INSUBRFI</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Operating Expenses Report View the operating expenses of this insurance office.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>NECEINDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ LOANIIAN</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Necessity Index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Projected Annual Total Loan Interest Incomes This figure is projected by multiplying the latest monthly loan interest incomes by 12 months.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A high index value indicates that the product is necessary to people in their daily lives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The same for the other 2 figures below. To see the real historical total net interest incomes, please view the Financial report.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The demand for necessary goods is fairly constant, because people must buy them even if the price they are offered is not attractive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LOANCRED</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>DEPOSBRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Loan Credit Rating</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Client Deposits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Loans are categorized based on the borrowers' credit ratings which indicate the financial health of the borrowers.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The figure shows the total client deposits and the year-over-year growth rate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AAA is the best credit rating. C is the poorest credit rating.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The graph shows the deposits over the past 36 months.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LOANINT</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>DEPOSHQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Loan Interest Rate Borrowers with good credit ratings can obtain loans with lower interest rates.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Client Deposits from All Branches of This Bank</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Conversely, borrowers with poor credit ratings have the higher default risks, thus the bank charges higher interest rates to justify the risks. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The figure shows the total client deposits from all branches of this bank and the year-over-year growth rate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LOANALLO New Loans Allocation</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The graph shows the deposits over the past 36 months.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each). When you increase the allocation to borrowers of poorer credit ratings, the bank will receive higher interest income, but the loan default rate will also increase as a result.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ LOANAII</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>ADVERT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Projected Annual Interest Incomes</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Advertisement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bank collects interest payments from loan borrowers. Loan interests are the main incomes of the bank.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click here to view the advertisement setting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LOANIITO Projected Annual Total Loan Interest Incomes</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RINCCAP1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This figure is projected by multiplying the latest monthly loan interest incomes by 12 months. The same for the other 2 figures below.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Increase the Retail Capacity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To see the real historical total net interest incomes, please view the Financial report. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Allocate retail space and hire staff for selling the same product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>REALGDPG Real GDP Growth</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Real GDP growth on an annual basis is the nominal GDP growth rate adjusted for inflation. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RINCCAP0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>REGLOBAL Global Rent Settings</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Cannot Increase the Retail Capacity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It currently uses the global rent settings from its HQ's Real Estate department. Click to toggle it to use local settings.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Sorry, you cannot expand its capacity further as there is no space left in the retail store.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RELOCAL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RDECCAP1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Local Rent Settings The rent is set locally.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Reduce the Retail Capacity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click to toggle it to use the global settings from its HQ's Real Estate department.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Shrink the retail space and reduce the staff size for selling this product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HQ_AUTOA</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RDECCAP0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Auto Manage Apartments</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Cannot Reduce the Retail Capacity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the corporation's existing apartments. It will set the apartments' rents based on your preference which you may customize with the "Rent" setting below.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Sorry, you cannot reduce its capacity further as it is already at the minimum capacity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HQ_AUTOC</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RREMOVE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Auto Manage Commercial Buildings</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Remove the Product</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the corporation's existing commercial buildings. It will set the commercial buildings' rents based on your preference which you may customize with the "Rent" setting below.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Remove this product from the retail store.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TRANCASH</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RSUPPLY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transferable Cash The maximum amount of cash that you are allowed to transfer from the bank to your corporation.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>This product is sourced from multiple suppliers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On its balance sheet, the bank's net assets must be greater than the required bank capital. The capital requirement set by the central bank.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Use these buttons to select which supplier's information to be displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TRANMODE Transfer Mode</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>FARMSET1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may change the transfer mode - whether it is to transfer funds from the bank to its parent corporation, or the other way round, by clicking on the Arrow icon. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Set up a new production at the current farm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MARKETSH Market Share Window</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click here to show/hide the window that shows the Market Share of the current product. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DEPOSCAP Deposit</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>FARMSET0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The #maximum deposit amount# is constrained by the #deposit cap#. Under the regulation, deposits should be #not concentrated# on a small number of large depositors.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The farm does not have sufficient space for setting up a new production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is a cap that #limits the maximum amount# of deposit each depositor can make. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BANKINCO Consolidated Bank Income Statement</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It consolidates the financial data from the Bank HQ and all its bank branches. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>STKSPLIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BANKASSE Bank Assets</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Stock Split</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A bank has its own balance sheet and its assets are separate from the parent company's. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A stock split increases the total number of shares in a corporation and diminishes its stock price.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BFUNDTRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fund Transfer You may transfer funds from the parent company to the bank's balance sheet or vice versa.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It is allowed when the stock price is over $100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ INSUINCO</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consolidated Insurance Company Income Statement It consolidates the financial data from the HQ and all its front offices.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>DIVIDMAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ INSUASSE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Maximum Special Dividend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insurance Company Assets An insurance company has its own balance sheet and its assets are separate from the parent company's.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The maximum amount of special dividend you can pay is the smaller value of 1) the company's cash and 2) its retained earnings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>IFUNDTRA</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>DIVIDEAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fund Transfer</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Retained Earnings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may transfer funds from the parent company to the insurance company's balance sheet or vice versa. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The retained earnings are the accumulative net earnings of a company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PREMRESE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Claims Reserves The claims reserves represent the money which must be held by the insurance company so as to be able to meet all future claims arising from policies written in the past.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You can view it on the Balance Sheet at the Corporate Details screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>UWPROFIT</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>DIVIDPAY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Underwriting Profit</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Pay a Special Dividend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The profit from underwriting insurance policies. It equals to the amount of premiums received, less insurance claims and operating expenses.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You may pay a special dividend from your company or a subsidiary with a controlling interest of at least 75%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ IVPROFIT</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Investment Profit The profits from investments in stocks, bonds, and bank deposits.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>PININPUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ STOPDEPO</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Pin Input</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stop Bank Deposits Stop accepting new bank deposits.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Pin the current input.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only do this when you intend to wind down the bank's deposits and eventually close it down. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Then you may browse productions that use the current input.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>STOPLOAN Stop Bank Loans</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stop approving new loans. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>PINPREV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RESUDEPO Resume Bank Deposits</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Previous production</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bank has stopped accepting new bank deposits. Click here to resume accepting new bank deposits.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Display the previous production that uses the pinned input.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RESULOAN</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>PINNEXT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Resume Bank Loans</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Next production</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bank has stopped approving new loans. Click here to resume approving new loans.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Display the next production that uses the pinned input.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BCAPRAT1</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BANKBRFI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bank Capital Ratio</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Operating Expenses Report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The #Capital Ratio# is the ratio of a bank's #Equity Capital# to its total #Loans to Customers#. A bank must maintain a capital ratio that meets the central bank's requirement.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>View the operating expenses of this bank branch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BCAPRAT2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INSUBRFI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Required Bank Capital Ratio</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Operating Expenses Report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The central bank requires banks to have set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>View the operating expenses of this insurance office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LOANDEPP</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>LOANIIAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maximum Loans-to-Assets Ratio The maximum amount of loans that the bank can lend out is restricted by this ratio.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Projected Annual Total Loan Interest Incomes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A higher ratio increases incomes from loan interests but it also increases the bank's liquidity risks. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>This figure is projected by multiplying the latest monthly loan interest incomes by 12 months.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INT_MARG Net Interest Margin</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The same for the other 2 figures below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The #net interest margin# is a measure of the difference between the bank's #interest income from loans# and the amount of #deposit interest paid out to its customers#, relative to the amount of its #interest-earning assets#. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>To see the real historical total net interest incomes, please view the Financial report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BFACEVAL Face Value</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the Inflation mode is set to #Inverse Inflation#, a bond's #Face Value# may decline over time due to inflation. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>LOANCRED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BCOUPONR Coupon Rate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Loan Credit Rating</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It tells you what the bond paid when it was issued. The amount of interest income earned on the bond each year can be calculated by multiplying the bond's Face Value by its Coupon Rate.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Loans are categorized based on the borrowers' credit ratings which indicate the financial health of the borrowers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ BYIELD</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>AAA is the best credit rating.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yield (also called Yield to Maturity) A bond's Yield takes into account the bond's current market price and tells you what you will actually earn on an annualized basis when you buy the bond at its current market price.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>C is the poorest credit rating.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RESETSRH Reset Stock Returns History</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>LOANINT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>` ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Loan Interest Rate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>STOPBANK Stop Bank Deposits and Loans</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Borrowers with good credit ratings can obtain loans with lower interest rates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Access the interface for stopping new bank deposits and/or loans. Only do this when you intend to wind down the bank.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Conversely, borrowers with poor credit ratings have the higher default risks, thus the bank charges higher interest rates to justify the risks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AVGINTER</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>LOANALLO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Average Interest Rate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>New Loans Allocation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is the average interest rate of all deposits under this term, including older time deposits that were set up at interest rates different than the current interest rate. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>WTOTTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Total Tech The Total Tech value is calculated by adding up the values of individual tech, adjusted by their assigned weights (indicated by the yellow bars).</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When you increase the allocation to borrowers of poorer credit ratings, the bank will receive higher interest income, but the loan default rate will also increase as a result.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A tech with a bigger weight means that it is more important. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>WTOPTECH Top Tech</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>LOANAII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Top Tech value represents the highest Total Tech value that is ever achieved by a company, whether it is this company or a competitor, for this type of Internet business. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Projected Annual Interest Incomes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>WTECHQUA Tech Quality</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The bank collects interest payments from loan borrowers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tech Quality is calculated by dividing the current Total Tech by Top Tech, then multiplied by 100. (100 x Total Tech / Top Tech.) It represents this Internet firm's relative strength in the technology.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Loan interests are the main incomes of the bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>WREQTECH</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>LOANIITO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Required Tech</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Projected Annual Total Loan Interest Incomes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This Internet company does not have the required technology to start operation yet, as the current Tech Quality is still lower than the Required Tech. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>This figure is projected by multiplying the latest monthly loan interest incomes by 12 months.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CLOANDEP Current Loans-to-Assets Ratio</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The same for the other 2 figures below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Loans-to-Assets ratio is calculated by dividing the bank's total amount of loans by its total amount of assets. When it is higher than the Maximum Loans-to-Assets Ratio, the bank will stop giving out new loans.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>To see the real historical total net interest incomes, please view the Financial report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BUSIACTI</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>REALGDPG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Business Activity Index</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Real GDP Growth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is an index measuring business activity in the city. When the city has a high level of business activity, more jobs will be created, lowering the unemployment rate.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Real GDP growth on an annual basis is the nominal GDP growth rate adjusted for inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TAXOFFSE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>REGLOBAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Profit Tax</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Global Rent Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The profit of this firm is offset against losses in other firms of this corporation, resulting in a reduction in its profit tax. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It currently uses the global rent settings from its HQ's Real Estate department.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>STKBNDAC Stock and Bond Return</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click to toggle it to use local settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hover the mouse over the financial figures on this row to see the detailed amounts. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HOUSGRAP Housing Graph Mode</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RELOCAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click here to change the housing graph to display one of the following: supply, demand, or supply vs demand. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Local Rent Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>OFFIGRAP Office Space Graph Mode</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The rent is set locally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click here to change the office space graph to display one of the following: supply, demand, or supply vs demand.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click to toggle it to use the global settings from its HQ's Real Estate department.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ PARENTCR</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Parent Company Credit Rating The credit rating of a subsidiary company would never exceed its parent company's credit rating.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>HQ_AUTOA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ CAPRATIO</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Auto Manage Apartments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bank's Capital Ratio is too low The bank's Capital Ratio is too low and has stopped issuing new loans.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When this is enabled, the computer will automatically manage all of the corporation's existing apartments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To resume loan issuance, access the bank, select [Financial] and [Fund Transfer]. Then inject capital into the bank.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It will set the apartments' rents based on your preference which you may customize with the "Rent" setting below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BCRMODE0</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>HQ_AUTOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Options for Handling Insufficient Bank Capital Ratio</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Auto Manage Commercial Buildings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the Bank Capital Ratio falls below the Requirement, there are 3 possible ways to handle it. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When this is enabled, the computer will automatically manage all of the corporation's existing commercial buildings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BCRMODE1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Must Take Action When the bank capital ratio is too low, the game will pop up a window forcing the player to take action.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It will set the commercial buildings' rents based on your preference which you may customize with the "Rent" setting below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BCRMODE2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>TRANCASH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Notification Only</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Transferable Cash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the bank capital ratio is too low, the game will stop issuing loans and notify you via the Event Tracker. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The maximum amount of cash that you are allowed to transfer from the bank to your corporation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BCRMODE3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No Notification When the bank capital ratio is too low, the game will stop issuing loans.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>On its balance sheet, the bank's net assets must be greater than the required bank capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It will not notify you. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The capital requirement set by the central bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ITRANCAS Transferable Cash</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The maximum amount of cash that you are allowed to transfer from the insurance company to your corporation. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>TRANMODE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ITRANMOD Transfer Mode</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Transfer Mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may change the transfer mode - whether it is to transfer funds from the insurance company to its parent corporation, or the other way round, by clicking on the Arrow icon.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You may change the transfer mode - whether it is to transfer funds from the bank to its parent corporation, or the other way round, by clicking on the Arrow icon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BANKROE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>MARKETSH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Return on Equity Return on Equity (ROE) is calculated by dividing the bank's Net Profit by its Equity Capital.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Market Share Window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ROE is considered a measure of how effectively the bank is using its capital to generate profits. (The change from 12 months ago is displayed in brackets.)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click here to show/hide the window that shows the Market Share of the current product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INSUROE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>DEPOSCAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Return on Equity</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Deposit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Return on Equity (ROE) is calculated by dividing the insurance company's Net Profit by its Equity Capital.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The maximum deposit amount is constrained by the deposit cap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is capped to a range from -50% to 50% for the purpose of calculating the average ROE. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Under the regulation, deposits should be not concentrated on a small number of large depositors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SWITMODE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Switch View (hotkey: 'A') Click here to switch between the standard view and the Cumulative Performance view.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>There is a cap that limits the maximum amount of deposit each depositor can make.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INBRSKIL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BANKINCO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Staff Skill Level The staff's skill level affects the quality of service of this insurance front office.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Consolidated Bank Income Statement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may set the #training budget# to provide training to the staff to increase their skills. If the City Economics Simulation DLC is enabled, it is also affected by the education level of people in the city.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It consolidates the financial data from the Bank HQ and all its bank branches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INBRWAIT</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BANKASSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Customer Waiting Time</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Bank Assets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A long customer waiting time negatively affects the service quality of this insurance front office. To serve your customers better, you should open new front offices whenever the customer waiting time is alarmingly long.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A bank has its own balance sheet and its assets are separate from the parent company's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INBRSERV</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BFUNDTRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quality of Service</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Fund Transfer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The quality of service of this insurance front office is primarily determined by the Staff Skill Level. When the Customer Waiting Time is higher than 30, it starts to negatively affect the Quality of Service.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You may transfer funds from the parent company to the bank's balance sheet or vice versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INBRBRAN</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INSUINCO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insurance Company Brand Rating</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Consolidated Insurance Company Income Statement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The brand rating of the insurance company in this city. To increase it, select the "Marketing" tab and set up advertising.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It consolidates the financial data from the HQ and all its front offices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ INT1YEAR</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interest Rate The interest rate for 1 Year Time Deposit.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INSUASSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ BKABRAND</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Insurance Company Assets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Average Brand Rating The average brand rating of the bank in all the cities.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>An insurance company has its own balance sheet and its assets are separate from the parent company's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ INABRAND</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Average Brand Rating The average brand rating of the insurance company in all the cities.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>IFUNDTRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ DEPOALL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Fund Transfer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All Deposits Select this to show a summary of customer deposits made via bank branches and deposits made by corporations and game persons via the bank headquarters.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You may transfer funds from the parent company to the insurance company's balance sheet or vice versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>UR_PROD</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>PREMRESE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>University Research in Products University Research in specific industries leads to #higher competitiveness#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Claims Reserves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1) The city's local businesses benefit from increased competitiveness and #export#, thus hiring more workers and decreasing the city's #unemployment rate#. 2) #Manufacturing units# in factories have #City Quality Bonuses# added to their products' #Product Quality# ratings.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The claims reserves represent the money which must be held by the insurance company so as to be able to meet all future claims arising from policies written in the past.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>UR_TECH University Research in Tech</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>UWPROFIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>University Research in specific fields of technology leads to increases in #skill levels# of researchers and software engineers in those fields (under the Talent system). ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Underwriting Profit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BATCHTRA Batch Transfer Firms</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The profit from underwriting insurance policies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transfer the selected firms to another company under your control.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It equals to the amount of premiums received, less insurance claims and operating expenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MANAPOLI</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>IVPROFIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Management Policies</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Investment Profit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Open the Management Policies interface for this company.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The profits from investments in stocks, bonds, and bank deposits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RENAMESU Rename Subsidiary</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>STOPDEPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rename this subsidiary company. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Stop Bank Deposits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MERGECOM Merge Company</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Stop accepting new bank deposits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Merge this company into your company. (Your company is the majority shareholder of this company.)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Only do this when you intend to wind down the bank's deposits and eventually close it down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MERGECO2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>STOPLOAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Merge Company Merge this company into your subsidiary company.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Stop Bank Loans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Your subsidiary company is the majority shareholder of this company.)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Stop approving new loans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TRANFIRM Transfer Firms</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RESUDEPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transfer a group of selected firms from this company to another company under your control. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Resume Bank Deposits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SELALLFI Select All</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The bank has stopped accepting new bank deposits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select all firms in the current list. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click here to resume accepting new bank deposits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>UNSELALL Unselect All</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unselect all firms in the current list. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RESULOAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LOCSTOCK Local Stock Market</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Resume Bank Loans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>` ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The bank has stopped approving new loans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>GLOSTOCK Global Stock Market (hotkey: Ctrl-G)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click here to resume approving new loans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>`</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ DISCORD</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BCAPRAT1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Join the Discord channel of Capitalism Lab. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Bank Capital Ratio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ FACEBOOK</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The capital ratio is the ratio of a bank's Equity Capital to its total Loans to Customers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Open the official Capitalism Lab Facebook page. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A bank must maintain a capital ratio that meets the central bank's requirement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ FORUM</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Access the official Capitalism Lab Forum. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BCAPRAT2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ INSUSTK</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Required Bank Capital Ratio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insurance Company Order this insurance company to buy or sell stocks.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The central bank requires banks to have set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INSUBOND Insurance Company</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>LOANDEPP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Order this insurance company to buy or sell bonds. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Maximum Loans-to-Assets Ratio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>FREIGHTC Freight Concern</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The maximum amount of loans that the bank can lend out is restricted by this ratio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is set to a high value, the AI executive will be more concerned with freight costs and tend to pick suppliers from closer distances.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A higher ratio increases incomes from loan interests but it also increases the bank's liquidity risks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CINTSALE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INT_MARG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Internal Sale</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Net Interest Margin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This option specifies whether you want the AI executive to change products #Internal Sale# settings for you. When #Internal Sale# is enabled for a product, it is for internal sale only and competitors are not allowed to buy it.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Net interest margin is a measure of the difference between the bank's interest income from loans and the amount of deposit interest paid out to its customers, relative to the amount of its interest-earning assets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ INTSALEC</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sell factory #Internal Sale# products at cost For those products marked for #Internal Sale# in factories, the AI will always sell them at cost.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BFACEVAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ COOCHG</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Face Value</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Change These options specify whether you want the AI executive to change Training Budgets, R&amp;D Projects and Advertising Budgets for you.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When the Inflation mode is set to 'Inverse Inflation', a bond's Face Value may decline over time due to inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CTOCHGRD Change R&amp;D Projects</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BCOUPONR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This option specifies whether you want the CTO to manage and change R&amp;D Projects for you. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Coupon Rate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CTOCHGTR Change Training Budget</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It tells you what the bond paid when it was issued.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This option specifies whether you want the CTO to change Training Budgets in research facilities for you. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The amount of interest income earned on the bond each year can be calculated by multiplying the bond's Face Value by its Coupon Rate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CURPRICE The Selling Price</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>` ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BYIELD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>NEWPRICE Set a New Price</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Yield (also called Yield to Maturity)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It shows the current price. Use [+][-] to set a New Price.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A bond's Yield takes into account the bond's current market price and tells you what you will actually earn on an annualized basis when you buy the bond at its current market price.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ COSTFREI</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cost + Freight `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RESETSRH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ COSTONLY</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Reset Stock Returns History</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cost `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ FREIGHT</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Freight `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>STOPBANK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ ZEROUTIL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Stop Bank Deposits and Loans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zero Capacity Utilization Rate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Access the interface for stopping new bank deposits and/or loans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Warning: The Capacity Utilization Rate of this unit is zero. The workers are idle.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Only do this when you intend to wind down the bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ PRICSYN0</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Price Synchronization Disabled Price Synchronization is Disabled.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>AVGINTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ PRICSYN1</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Average Interest Rate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Price Synchronization Enabled for Retail Stores Only When you set a new price, the new price will be applied to all of your #Retail Stores# selling the same product in the same city.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It is the average interest rate of all deposits under this term, including older time deposits that were set up at interest rates different than the current interest rate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ PRICSYN2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Price Synchronization Enabled for All Firms When you set a new price, the new price will be applied to #all of your firms# of the same type selling the same product in the same city.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>WTOTTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ SINCELVR</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Total Tech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The number of years since the release of the last version The demand for a software product soars during the release of a new version, then decreases over time as more users have already owned the new version.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The Total Tech value is calculated by adding up the values of individual tech, adjusted by their assigned weights (indicated by the yellow bars).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thus it is important to regularly release new versions to generate new demand. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A tech with a bigger weight means that it is more important.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>B_NATION Sovereign Bonds</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only show sovereign bonds. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>WTOPTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PREBUILD Building for preparing this product</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Top Tech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This product must be prepared in this specific building using #[Prepare] units#. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The Top Tech value represents the highest Total Tech value that is ever achieved by a company, whether it is this company or a competitor, for this type of Internet business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MLAYOUT Set up a layout in your firm for preparing this product.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>` ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>WTECHQUA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PLANSRC4 Select the folder containing wildcard layout plans.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Tech Quality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wildcard layout plans are for setting up a layout with #[Prepare] units# and can be used for preparing any products with the same number of inputs. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Tech Quality is calculated by dividing the current Total Tech by Top Tech, then multiplied by 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TOTALCF Cost + Freight</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>(100 x Total Tech / Top Tech.) It represents this Internet firm's relative strength in the technology.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>` ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>QUALITY Quality Rating</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>WREQTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ OVERALLR</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Required Tech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Overall Rating The Overall rating is determined by the #Price#, the #Quality# rating and the #Brand# rating.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>This Internet company does not have the required technology to start operation yet, as the current Tech Quality is still lower than the Required Tech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HEADQUAL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>CLOANDEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Quality section</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Current Loans-to-Assets Ratio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hover the mouse over any of the text lines below to see context sensitive help. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The Loans-to-Assets ratio is calculated by dividing the bank's total assets by its customer deposits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PRODQUA1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Product Quality #Product Quality# is the sum total of #Raw Material Quality# and #Production Quality#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When it is higher than the Maximum Loans-to-Assets Ratio, the bank will stop giving out new loans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RAWQUAL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BUSIACTI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Raw Materials Quality</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Business Activity Index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The aggregate quality of all the required raw materials and semi products for making this product.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It is an index measuring business activity in the city.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For more details, press F1 to open the guide to see the production details.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When the city has a high level of business activity, more jobs will be created, lowering the unemployment rate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PRODQUA2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>TAXOFFSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Production Quality</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Profit Tax</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>#Production Quality# is determined by the #Product Technology# of the producer company. It equals to #Maximum Production Quality# X #Owned Tech# / #Top Tech# (see below)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The profit of this firm is offset against losses in other firms of this corporation, resulting in a reduction in its profit tax.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CITYQUAB</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>STKBNDAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>City Quality Bonus The #Quality Rating# gets a boost from the #City Competitiveness Rating# in this product class.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Stock and Bond Return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To see the #City Competitiveness Rating#, open the #Cities report# and select the #Industries# page. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Hover the mouse over the financial figures on this row to see the detailed amounts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>OWNTECH Owned Technology</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The producer company's #Production Technology# on this product, which can be improved in #R&amp;D Centers#. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>HOUSGRAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TOPTECH Top Technology</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Housing Graph Mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The World's Top #Production Technology# on this product. The closer the #Owned Tech# is to this #Top Tech#, the higher the product's #Quality# is.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click here to change the housing graph to display one of the following: supply, demand, or supply vs demand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ HEADBRAN</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Brand section Hover the mouse over any of the text lines below to see context sensitive help.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>OFFIGRAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BRANDSTR Brand Strategy</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Office Space Graph Mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A company's brand strategy can be viewed in the #Corporate Details# report's #Brand# page. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click here to change the office space graph to display one of the following: supply, demand, or supply vs demand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BRANDRAT Brand Rating</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A product's #Brand Rating# is the sum of its #Brand Awareness# and #Brand Loyalty#. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>PARENTCR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BRANDAWA Brand Awareness</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Parent Company Credit Rating</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Brand awareness measures consumers' knowledge that a particular brand exists. It can be increased via advertising.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The credit rating of a subsidiary company would never exceed its parent company's credit rating.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BRANDLOY</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>CAPRATIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Brand Loyalty Brand loyalty measures the attachment that a customer has to a brand.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The bank's Capital Ratio is too low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a customer is satisfied after using a product (#good product quality#), brand loyalty #increases#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The bank's Capital Ratio is too low and has stopped issuing new loans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Conversely, a bad experience with a product (#poor product quality#) will lead to a #decrease# in brand loyalty. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>To resume loan issuance, access the bank, select [Financial] and [Fund Transfer].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ADVSPEND Advertising Expense</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Then inject capital into the bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The monthly advertising expense on this product. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HEADPRIC The Price section</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BCRMODE0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It shows the cost and price of this product. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Options for Handling Insufficient Bank Capital Ratio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BRANDCOR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Corporate Brand When a corporation uses a single umbrella brand for all its products, newly launched products will benefit from the existing corporate brand.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When the Bank Capital Ratio falls below the Requirement, there are 3 possible ways to handle it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BRANDRAN</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BCRMODE1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Range Brand</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Must Take Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Under this strategy, products in the #Same Product Class# are labeled with a single range brand.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When the bank capital ratio is too low, the game will pop up a window forcing the player to take action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BRANDUNI</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BCRMODE2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unique Brand</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Notification Only</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Under this strategy, each product has a unique brand. The advantage is that a product's brand will not be weighted down by quality issues from other product lines.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When the bank capital ratio is too low, the game will stop issuing loans and notify you via the Event Tracker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>APREMIUM</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BCRMODE3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Average Premium Price Level</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>No Notification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The average premium price level of #Life# insurance, #Home# insurance and #Car# insurance.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When the bank capital ratio is too low, the game will stop issuing loans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can see the price level of each insurance type on the #Insurances# page.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It will not notify you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ICAPRAT1</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>ITRANCAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insurance Company Capital Ratio</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Transferable Cash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The #Capital Ratio# is the ratio of an insurance company's #Equity Capital# to its #Total Assets#. An insurance company must maintain a positive capital ratio.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The maximum amount of cash that you are allowed to transfer from the insurance company to your corporation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TALICLAS Show talents specializing in Products.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>ITRANMOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>` ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Transfer Mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TALTECH Show talents specializing in Technology.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You may change the transfer mode - whether it is to transfer funds from the insurance company to its parent corporation, or the other way round, by clicking on the Arrow icon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>` ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>VIEWTAL View Talents</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BANKROE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>View available talents in different cities. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Return on Equity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PRODQUAC Product Quality</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Return on Equity (ROE) is calculated by dividing the bank's Net Profit by its Equity Capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>#Product Quality# is the sum total of #Raw Material Quality#, #Production Quality# and #City Quality Bonus#. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>ROE is considered a measure of how effectively the bank is using its capital to generate profits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ASERVICE Click here to set up the layout (hotkey: A)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>(The change from 12 months ago is displayed in brackets.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>`</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ OVERALL2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INSUROE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Overall Rating</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Return on Equity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Overall rating is determined by the #Price# and the #Quality# rating. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Return on Equity (ROE) is calculated by dividing the insurance company's Net Profit by its Equity Capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>IMPORT1 Import a new item.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>It is capped to a range from -50% to 50% for the purpose of calculating the average ROE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>`</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>SWITMODE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>IMPORT0</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Switch Display Mode (hotkey: 'A')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The capacity of this Import company is full. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Click here to switch the display mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ IMP_DEL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Delete Item `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INBRSKIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ IMP_CLI</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Staff Skill Level</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Show clients that are purchasing this item. `</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The staff's skill level affects the quality of service of this insurance front office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>IMP_CAPA Import Capacity</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>You may set the #training budget# to provide training to the staff to increase their skills.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It shows the #number of items being imported# and the #maximum number of items# that this Import Company can import. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>If the City Economics Simulation DLC is enabled, it is also affected by the education level of people in the city.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>IMPORTA Available via Import</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This item can be imported via an Import Company. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INBRWAIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LOANDEMA Loan Demand</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Customer Waiting Time</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This indicates the level of #demand for bank loans# which is correlated to the total GDP of the cities. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>A long customer waiting time negatively affects the service quality of this insurance front office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>STOPCDEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Threshold for Stopping Accepting Corporate Deposits If this is enabled, the bank will #stop accepting new deposits# from #corporate clients# when the bank's #cash# as a percentage of its #total assets# exceeds the specified threshold.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>To serve your customers better, you should open new front offices whenever the customer waiting time is alarmingly long.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MYNATPOP</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INBRSERV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your Nation's Population It equals to the total population of all your cities.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Quality of Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In #Survival Mode#, your objective is to develop your nation's economy to support fast population growth. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The quality of service of this insurance front office is primarily determined by the Staff Skill Level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CONATPOP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Competing Nation's Population In #Survival Mode#, one way to measure your performance is to compare your nation's population growth with that of the competing nation.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>When the Customer Waiting Time is higher than 30, it starts to negatively affect the Quality of Service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PUBINVMO</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INBRBRAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public Investors' Money Available to Your Company</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Insurance Company Brand Rating</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>#Realistic Money Supply# is enabled in this game. It is more difficult for player and AI companies to #raise funds# from IPO, issuing new shares and bonds as there is a limited supply of #Public Investors' Money#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The brand rating of the insurance company in this city.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The rate at which #Public Investors' Money# increases is based on the national GDP.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>To increase it, select the "Marketing" tab and set up advertising.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ PO_BCIVI</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Auto Build Civic Buildings When this is enabled, AI will automatically build civic buildings when there is unmet demand.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INT1YEAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ PO_BAPAR</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Interest Rate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Auto Build Apartments When this is enabled, AI will automatically build apartments when there is unmet demand.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The interest rate for 1 Year Time Deposit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MARSHARE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BKABRAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Market Share Chart</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Average Brand Rating</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It shows this product's market share in the current city.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The average brand rating of the bank in all the cities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>T_LEVEL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>INABRAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Experience Level of the Team</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Average Brand Rating</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A unit with a higher experience level has #larger capacity# and #higher productivity#. A unit's level can be increased through #training#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>The average brand rating of the insurance company in all the cities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>T_UTIL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>DEPOALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Capacity Utilization Rate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>All Deposits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A high utilization rate means that the team is operating efficiently. A low rate means that the team has idle time and its capacity is underutilized.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Select this to show a summary of customer deposits made via bank branches and deposits made by corporations and game persons via the bank headquarters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>T_STOCK Stock Inventory</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>UR_PROD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It shows the amount of stock. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>University Research in Products</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>INC_COMP How to increase a city's competitiveness</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>University Research in specific industries leads to #higher competitiveness#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1)A city's competitiveness increases faster when there is a larger number of companies engaging in R&amp;D or production activities in the industry.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>1) The city's local businesses benefit from increased competitiveness and #export#, thus hiring more workers and decreasing the city's #unemployment rate#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2)The city government sponsors a university to conduct research in a specific industry. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>2) #Manufacturing units# in factories have #City Quality Bonuses# added to their products' #Product Quality# ratings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>T_ROAD Open the Road Editor (hotkey: Ctrl-R)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>` ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>UR_TECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>UNIVSUSP No Active Research</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>University Research in Tech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The operation of this University is currently suspended. To enable research, please set the #Operation slider# of this university to a value larger than zero.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>University Research in specific fields of technology leads to increases in #skill levels# of researchers and software engineers in those fields (under the Talent system).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HIRETAL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>BATCHTRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hire (hotkey: 'W')</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Batch Transfer Firms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hire a team lead for the current functional unit.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Transfer the selected firms to another company under your control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HEADHTAL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>MANAPOLI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Headhunt (hotkey: 'U')</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Management Policies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To headhunt a person to lead the current functional unit.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Open the Management Policies interface for this company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>GDP_EFF1</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>RENAMESU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effects of GDP (part 1)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Rename Subsidiary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The following #GDP components# contribute to the GDP growth and make a huge impact on the economy, leading to booms and #busts in the economic cycle#, affecting #inflation#, #employment rates#, #wage rates#, and #interest rates#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Rename this subsidiary company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>GDP_EFF2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>MERGECOM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effects of GDP (part 2)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Merge Company</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, when your company embarks on a large-scale business expansion in a city, it increases the #Investment component# of GDP, which in turn contributes to the #GDP growth# and kicks the economy into the high gear.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Merge this company into your company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The newly established companies #create jobs# for the city, lowering the #unemployment rate#. Subsequently the #tightening labor market# will force companies to #raise salaries of their employees#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>(Your company is the majority shareholder of this company.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>GDP_EFF3</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>MERGECO2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effects of GDP (part 3)</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Merge Company</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Further along in this chain of effects, #a higher wage rate# leads to #increased consumer spending#, setting the stage for #inflation to rise#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Merge this company into your subsidiary company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When rising inflation is unchecked and eventually runs rampant, the central bank will have no choice but to put a break on it by #hiking the interest rate# aggressively, which will inevitably #drag the economy into recession#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>(Your subsidiary company is the majority shareholder of this company.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ GDP_CONS</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consumption Consumption is the total value of goods and services that are bought by the population simulated in the game.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>TRANFIRM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~ GDP_INVE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Transfer Firms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Investment Investment is the total investment made by the player and AI corporations in setting up new businesses.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Transfer a group of selected firms from this company to another company under your control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>GDP_GOVE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>SELALLFI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Government Expenditure</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Select All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Government Expenditure is the total expenditure of the city government, which can be run by a player controlled mayor.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Select all firms in the current list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>GDP_NETE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>UNSELALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Net Exports Net Exports equal to #exports# minus #imports#.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Unselect All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>#Imports# occur when companies in the game purchase products from suppliers in a different city. #Exports# occur when companies sell products to business clients in another city.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Unselect all firms in the current list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ECOSTATE</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>LOCSTOCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Economic State This indicates the present state of the city's economy.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Local Stock Market</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the economy is booming, there will be strong demand for consumer goods. Conversely, during a recession, consumers reduce their spending, especially for non-essential goods.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>GDP_GROW GDP Growth Rate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>GLOSTOCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The GDP growth rate indicates how fast the economy is growing. A negative growth rate means that the economy is shrinking.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Global Stock Market</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CBANKATT</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Central Bank Attitude</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>DISCORD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This shows the central bank's attitude toward inflation. Inflation Dove means that the central bank is willing to let inflation run higher before raising the interest rate.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Join the Discord channel of Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CBANKPOL</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Central Bank Policy</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>FACEBOOK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This indicates whether the central bank currently maintains a loose monetary policy with increased money supply and a low interest rate, or a tight monetary policy with reduced money supply and a high interest rate.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Open the official Capitalism Lab Facebook page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MONEYSD</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Money Supply and Demand This indicates the current levels of money supply and demand.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>FORUM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the central bank maintains a loose monetary policy, there will be an increase to the money supply and the interest rate will fall. ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>Access the official Capitalism Lab Forum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>REDDIT Visit the Reddit community of Capitalism Lab.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>` ~</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T215014Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

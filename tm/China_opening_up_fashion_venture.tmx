@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Title=China Opening Up</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Title=Fashion Venture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=In the 1990s, China continues its economic reform with great strides, attracting tens of billions of dollars of foreign investments each year.^^You must set up factories to take advantage of the low labor cost, and at the same time establish a retail presence and start cultivating brand awareness for your products.^^While the wage rate and local demands for high-end products are still low, they are increasing rapidly.^^If you can successfully secure a foothold in the market, you will be in a strong position to reap the benefits when the consumer market in China grows to a substantial size in the near future.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Description=На протяжении многих лет вы пытались привлечь капитал для своего стартапа в индустрии моды. К сожалению, процесс поиска инвесторов труден и медлен, так что, скорее всего, на момент запуска вашей компании (предпол.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Difficulty Rating=110</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>в 2000 г.) на рынке уже будут конкуренты. Есть ли у вас все что требуется для того, чтобы занять нишу с вашим новым модным брендом и процветать на рынке?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[ENVIRONMENT]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Difficulty Rating=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of Cities=5</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[ENVIRONMENT] Number of Cities=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Boom-Bust Cycle Volatility=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Macro Economy Realism=High Inflation=Inverse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Macro Economy Realism=High</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Inflation Strength=Normal [CITIES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inflation=Inverse</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>City=Seoul City=Warsaw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inflation Strength=Normal</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>City=Paris City=Miami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[CITIES]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[COMPETITORS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>City=Beijing</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Number of Competitors=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>City=Shanghai</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Competitor Start-up Capital=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>City=Guangzhou</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Competitor Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>City=Chengdu</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Competitor Expertise Level=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>City=New York City</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[COMPETITORS]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>AI Friendly Merger=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of Competitors=25</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Competence of Local Competitors=Moderate Retail Focused Companies=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Competitor Start-up Capital=High</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Stock Focused Companies=2 Real Estate Focused Companies=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Expansion Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Tech Focused Companies=2 Media Focused Companies=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Pricing Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Diversified Companies=13 AI Product Expertise=Apparel,2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Expertise Level=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>//of the 13 diversified companies, 2 of them have expertise in apparel [IMPORTS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Tech Head Start=None</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Consumer Goods Seaports=2 Industrial Goods Seaports=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Constant Import Supply=No Import Quality=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Friendly Merger=No</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[PLAYER EXPERTISE] Product Expertise=Apparel, 80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Competence of Local Competitors=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[SPECIAL RULES] Years of Advanced Start for AI=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[IMPORTS]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>//-------------------------------------------------------------------// [SUBGOAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consumer Goods Seaports=2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Goal Title=Launching a New Brand Goal Description=Facing tough competition from established fashion companies, your near term goal is to stay afloat and curve out a niche with your new fashion brand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Industrial Goods Seaports=2</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Goal Achieved Text=Congratulations! Your company's performance has impressed investors and led to a new round of investment of $100 million into your company!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Constant Import Supply=No</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[SUBGOAL VALUES] Player Company Annual Revenue=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Import Quality=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Player Company Annual Profit=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[LOCKS]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[SUBGOAL REWARDS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firm, Logging Camp</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Score change=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firm, Mine</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Corporate cash change=10 //-------------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firm, Oil Well</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[SUBGOAL] Goal Title=Growing Your Business</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firm, TV Station</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Goal Description=Having secured a foothold in the market with your brand and strengthened your war chest with the new investment, you can now afford to expand your business aggressively and seize market shares from your competitors. Goal Achieved Text=Excellent!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firm, Newspaper Publisher</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>You have developed your company into a force to be reckoned with!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firm, Radio Station</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Parent Goal=Launching a New Brand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firm, Apartment</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[SUBGOAL VALUES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firm, Commercial Building</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Player Company Annual Revenue=200 Player Company Annual Profit=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firm, Civic Building</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[SUBGOAL REWARDS] Score change=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Firm, Sports Facilities</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Personal Cash Change=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>//-------------------------------------------------------------------</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>//-------------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MAIN GOAL]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[SUBGOAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Seize the Opportunities</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Goal Title=Market Leadership</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=Seize the opportunities that emerge during China's opening-up and grow your company to become a dominating force in the market.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Goal Description=Thanks to your recent rounds of successful expansions, you are now in a position to take another leap and eventually become the market leader in the apparel industry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of Game Years=50</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MAIN GOAL VALUES]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>You have come a long way since your humble beginning!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Player Company Net Worth=250</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Parent Goal=Growing Your Business</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Player Company Annual Revenue=300</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[SUBGOAL VALUES] Player Company Annual Revenue=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MAIN GOAL INDUSTRIES]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Player Company Annual Profit=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retail</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[SUBGOAL PRODUCTS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Apparel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MAIN GOAL REWARDS]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[SUBGOAL REWARDS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Score change=200</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Score change=150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[SUBGOAL]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[MAIN GOAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Title=Upstream Business</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Goal Title=Fashion Dominance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Description=In order to receive permission to invest in the natural resource business, your company's net worth must be at least $150 million and have an annual revenue of $200 million.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Goal Description=The leather product market is highly lucrative, you should leverage your success in the fashion market to broaden your product lines to cover leather products. You win this game when you achieve market dominance in both apparel and leather products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Number of Game Years=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may now set up natural resource firms.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Parent Goal=Market Leadership</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[SUBGOAL VALUES]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[MAIN GOAL VALUES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Player Company Net Worth=150</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Player Company Annual Revenue=500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Player Company Annual Revenue=200</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Player Company Annual Profit=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[SUBGOAL REWARDS]</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[MAIN GOAL PRODUCTS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlock Firm=Logging Camp</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Apparel Leather Goods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlock Firm=Mine</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>[MAIN GOAL REWARDS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlock Firm=Oil Well</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Score change=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of Game Years=50</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214054Z">
+        <seg>Number of Game Years=30</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

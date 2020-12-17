@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=You are always fascinated by stories of legendary investors who have amassed astronomical wealth and exerted great influence over the corporate world. ^^Can you become a legendary investor yourself one day?</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214211Z">
+        <seg>Description=Вас всегда очаровывали рассказы о легендарных инвесторах, которые накопили астрономические богатства и оказали большое влияние на корпоративный мир.^^Сможете ли вы и сами однажды стать легендарным инвестором?^^В этом сценарии вы попытаетесь реализовать свою мечту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>^^In this scenario game, your will just attempt to realize this dream. You win this game when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214211Z">
+        <seg>Вы выиграете эту игру, если накопите состояние в $1 миллиард и получите контроль над 5 публичными компаниями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Boom-Bust Cycle Volatility=Moderate Macro Economy Realism=High</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214211Z">
+        <seg>Macro Economy Realism=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Competitor Start-up Capital=High AI Expansion Aggressiveness=High</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214211Z">
+        <seg>Competitor Start-up Capital=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Pricing Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214211Z">
+        <seg>Competitor Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Expertise Level=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214211Z">
+        <seg>Competitor Expertise Level=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Tech Head Start=None Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214211Z">
+        <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Friendly Merger=Yes</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214211Z">
+        <seg>AI Friendly Merger=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Import Quality=Low</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214211Z">
+        <seg>Import Quality=Moderate</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

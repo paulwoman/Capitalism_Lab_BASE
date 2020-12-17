@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+You have graduated with an MBA from a renowned business school.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Вы получили степень MBA в известной бизнес-школе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Can you apply what you have learned into running a business in the real world?</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Сможете ли вы применить то, что узнали, в реальном мире?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now it is your chance to prove your ability!^^Click the flashing Next icon to continue.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Это ваш шанс показать всем, на что вы способны!^^Кликните на мигающую иконку "Далее" для продолжения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Также вы можете нажать клавишу ~Enter~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+You have been assigned to run this department store.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Вы были назначены для управления этим универмагом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now left click it to view its detail.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Кликните по нему левой кнопкой мыши для просмотра подробностей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Click the ~Add Product icon~ now.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Кликните на иконку ~Добавить новый продукт~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[POS]
+Text Box=32,420,300,0
+Pointer=70,120,185,230</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[POS]
+Text Box=32,420,300,0
+Pointer=60,120,165,230</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+This is the ~Select a Supplier~ window.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Это окно ~Выбора поставщика~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It lists all the products currently available within the game.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Здесь перечислены все доступные в игре продукты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may use the three filters at the top of the window to help you find the products you want.^^You intend to purchase products from the local seaports, so click the ~Suppliers~ filter box, as indicated.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Вы можете использовать три фильтра наверху, чтобы найти то, что вам нужно. ^^Вам нужно купить продукты в местном морском порту, для этого кликните на фильтре ~поставщиков~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[POS]
+Text Box=32,270,300,0
+Pointer=200,40,353,57
+Window=Select Supplier</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[POS]
+Text Box=32,270,300,0
+Pointer=200,30,353,47
+Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Double-click ~Seaport~ from the drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Выберите ~морской порт~ двойным щелчком в выпадающем списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[POS]
+Text Box=32,270,300,0
+Pointer=202,85,348,102
+Window=Select Supplier</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[POS]
+Text Box=32,270,300,0
+Pointer=202,75,348,92
+Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+This window shows all products available from the local seaports.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Окно обновилось, чтобы показать все продукты, доступные из местных морских портов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At this stage you don't need to concern yourself with the details provided with each product.^^(Information such as freight costs, ratings, brand will explained in a later tutorial.)^^For now, let's just purchase the first product on the list to get things moving. Click the ~SELECT~ button now.^^</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>На этом этапе вам не нужно беспокоиться об информации, предоставляемой по каждому продукту (фрахт, рейтинги, бренд и остальная информация будет объяснена в дальнейших уроках).^^А сейчас, чтобы пошёл процесс, просто выберите первый продукт в списке и нажмите кнопку ~Назначить~.^^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[POS]
+Text Box=12,270,320,0
+Pointer=360, 649, 448, 665
+Window=Select Supplier</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[POS]
+Text Box=32,270,300,0
+Pointer=360, 482, 448, 497
+Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+You are now back in your department store.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Вы вернулись в универмаг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image. See the vertical yellow and orange bars?</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Теперь магазин автоматически покупает выбранный вами продукт и выставляет его на продажу вашим покупателям.^^Слева от картинки продукта расположены желтый и оранжевый столбики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Желтый ~столбик ПРЕДЛОЖЕНИЯ~ показывает, сколько продукта доступно в вашем магазине, а оранжевый ~столбик СПРОСА~ показывает потребительский спрос на этот продукт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Each retail store has four product slots.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+В каждом магазине доступно четыре слота для продуктов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increase the variety of products in your store and make use of the available slots.^^Repeat what you did just now.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Увеличьте разнообразие продуктов в вашем магазине, повторив действия, которые вы только что выполнили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Кликните на ~иконку~ добавления продукта, потом выберите ~морской порт~ в списке поставщиков, и выберите продукт.^^Убедитесь, что на этот раз вы выбрали другой продукт, в дополнение к тому, который уже продается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Well done!</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Отлично!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keep on adding more products to your store.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Продолжайте добавлять продукты в ваш магазин.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Кроме клика по кнопке ~Назначить~, вы можете выбрать продукт, просто сделав ~двойной щелчок~ по нему в списке.^^Когда вы будете готовы двигаться дальше, кликните ~правой кнопкой~ в любом месте, чтобы выйти из магазина и вернуться к обзору города.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Good.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Хорошо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We are now in the city view.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Сейчас мы находимся на экране городского обзора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Давайте его изучим.^^Видите панель инструментов в нижней части экрана?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[POS]
+Flex Text Box=80,550,400,0
+Pointer=30,0,640,30
+Window=Bottom Toolbar 
+Next Arrow=Yes</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[POS]
+Flex Text Box=80,550,400,0
+Pointer=30,0,600,30
+Window=Bottom Toolbar 
+Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+It shows the amount of cash your corporation currently has and its operating profit in the past 12 months.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Здесь показано, сколько наличных денег есть у вашей компании на данный момент, а также её операционная прибыль за последние 12 месяцев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Здесь вы можете видеть текущую игровую дату.^^Обратите внимание, что игра идет в реальном времени. Вы можете изменять игровую скорость, используя кнопки от ~'1'~ (очень медленно) до ~'5'~ (очень быстро).^^Также вы можете поставить игру на паузу, нажав кнопку ~'0'~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[POS]
+Flex Text Box=80,500,400,0
+Pointer=666,0,755,30
+Window=Bottom Toolbar 
+Next Arrow=Yes</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[POS]
+Flex Text Box=80,500,400,0
+Pointer=680,0,764,30
+Window=Bottom Toolbar 
+Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+There is a row of icons on the toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+На панели инструментов есть ряд иконок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's click on the ~Mini Map~ icon now.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Давайте нажмём на иконку ~миникарты~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[POS]
+Flex Text Box=60,550,300,0
+Pointer=52,6,90,30
+Window=Bottom Toolbar</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[POS]
+Flex Text Box=60,550,300,0
+Pointer=65,6,94,30
+Window=Bottom Toolbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+The mini map shows the entire city.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Миникарта показывает весь город.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Along its top border you see the ~City Select icon~ (represented by a down arrow), which is for showing a list of cities in the current game.^^The ~left and right arrow icons~ next to the city name allow you to cycle through the previous or next city.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Сверху есть иконка ~выбора города~ (выглядит как ~стрелка вниз~), с помощью которой можно посмотреть список городов в игре.^^Стрелки ~вправо~ и ~влево~ рядом с названием города нужны для перехода в следующий или предыдущий города.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+The animated rectangle frame on the mini map represents the area displayed in the city view.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Анимированная прямоугольная рамка на миникарте показывает область, которая отображена на главном экране.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+There are several icons around the mini map for switching to different map modes.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Вокруг миникарты есть несколько иконок для перехода в различные режимы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+The first icon, the one that looks like a building, toggles the ~Ownership~ mode.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Первая иконка, которая выглядит как здание, включает режим отображения ~собственности~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the mini map, the white areas represent the city's buildings that are not owned by corporations, like houses and parks.^^Colored areas represent corporation owned buildings and are shown in the corporate color.^^~Seaports~ are represented by the letter 'C' or 'I' - ~'C' for Consumer products~ (like televisions or jeans) and ~'I' for industrial products~ (like coal or steel).</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Белые области представляют здания, не принадлежащие компаниям.^^Цветные области представляют здания, принадлежащие корпорациям, и окрашены в корпоративные цвета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Now click the ~Land Value~ icon to change to that mode.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+~Морские порты~ представлены буквами 'C' или 'I' - ~'C'~ для потребительских товаров (вроде телевизоров или джинсов), а ~'I'~ для промышленных товаров (вроде угля или стали).^^Теперь нажмите на иконку ~Стоимость земли~, чтобы переключиться в этот режим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+The mini map display changes to show Land Value data.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Теперь миникарта отображает данные по стоимости земли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>~Чем темнее цвет, тем дороже земля.~ Строительство в дорогих районах может быть затратным, но оно привлекает более богатых клиентов, которые готовы платить по более высоким ценам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Now click the ~Profit~ icon to change to that mode.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Теперь нажмите на иконку ~Прибыль~, чтобы переключиться в этот режим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+В этом режиме прибыльные предприятия представлены ~зелеными~ точками, а убыточные соответственно ~красными~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The darker the color, the greater the profit or loss.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Чем темнее цвет, тем больше прибыль или убыток.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The white colored buildings on display are government owned and as such do not show a profit or a loss.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Белые здания принадлежат правительству и их доходы и расходы не отображаются в этом режиме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Теперь кратко рассмотрим интерфейс фильтра ~предприятий~.^^Здесь есть пять кнопок: ~Тип~ предприятия, ~Корп~орация, ~Город~, ~Мои~ предприятия и ~Продукты~.^^Когда какие-либо из этих фильтров включены, только предприятия, отвечающие критериям, будут отображаться в режимах ~Прибыль~ или ~Собственность~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+To browse the firms within the filter, use the up and down buttons.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Для просмотра отобранных предприятий, нажимайте кнопки со стрелками ~вверх~ и ~вниз~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Нажмите на кнопку фильтра ~Мои~, чтобы отобразить только принадлежащие вам предприятия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Так как на данный момент ваша корпорация состоит только из одного предприятия - вашего универсама, то отображается только одна точка в цвете вашей корпорации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can cancel this mode by clicking the ~My Firms~ button again. But for now keep it active.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Вы можете отключить этот режим, снова нажав на кнопку ~Мои~, но сейчас оставим его активным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Did you wonder which seaports are supplying products to your department store?</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Вам интересно, где находятся морские порты, поставляющие продукты в ваш магазин?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well now it is your chance to find that out.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Сейчас у вас есть шанс это выяснить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+With the display still only showing your department store (as a colored square), click the ~Business Relationship~ mode icon.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+С настройками, по-прежнему показывающими только ваш универмаг (как цветной квадрат), нажмите на иконку режима ~деловых связей~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Now the display is updated to show from which seaports your department store is receiving the products that you are selling.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Теперь экран обновился, чтобы показать, из каких морских портов ваш универмаг получает те продукты, которые вы продаёте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT] 
+While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT] 
+Пока мы изучали интерфейс, ваш универмаг уже вовсю получает доход.^^Взгляните на показатели ~денег~ и ~прибыли~ на панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you have enough money to build a second department store yet?</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Достаточно ли у вас денег, чтобы построить еще и второй универмаг?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Новый универмаг стоит $1,000,000 на строительство, плюс цена земельного участка, и еще $100,000 ежемесячно на содержание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It seems within your budget, so let's proceed.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Кажется, это входит в рамки вашего бюджета, так что давайте продолжим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Click the ~Build Menu~ icon on the ~Game Tools Menu~ at the top-left of the screen.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Нажмите на иконку меню ~строительства~ в ~игровом меню~ вверху слева экрана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[POS]
+Flex Text Box=300,280,400,0
+Pointer=3,25,52,62</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[POS]
+Flex Text Box=300,280,400,0
+Pointer=31,30,79,58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Now choose ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Теперь выберите в меню ~Магазин~...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+And choose ~Department Store~.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+...и выберите ~Универмаг~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Your cursor now highlights a square on the city.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Теперь ваш курсор подсвечивает участок в городе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Постарайтесь найти место рядом с жилыми зданиями, чтобы извлечь выгоду из высокого уровня оживленности в выбранном районе. ^^~Желтый~ цвет участка показывает, что строить можно.^^Когда выберете место для постройки, кликните левой кнопкой мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Congratulations!</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Поздравляем!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have just expanded your business!</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Вы только что расширили свой бизнес!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You now have to set up products in your new department store.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Теперь вам нужно настроить продукты в вашем новом универмаге.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To so, simply repeat the steps that you just did for setting up your first department store.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Для этого просто повторите шаги, которые вы делали до этого в первом магазине.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+You win this game when your company's annual revenue reaches $20 million.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Вы выиграете эту игру, когда годовой доход вашей компании достигнет $20 миллионов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Чтобы увидеть ~отчёт о цели~, нажмите на иконку ~информационного центра~ внизу экрана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[POS]
+Extend Text Box=120,500,450,0
+Pointer=146,6,183,30
+Window=Bottom Toolbar</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[POS]
+Extend Text Box=120,500,450,0
+Pointer=156,6,183,30
+Window=Bottom Toolbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Click the ~Goal~ option.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Выберите раздел ~Цели~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[TEXT]
+Well done!</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>[TEXT]
+Хорошо!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have completed this tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Вы завершили этот обучающий урок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You must apply what you have just learned into running your company.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Вы должны применить то, что вы узнали, в работе вашей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now go and add products to your new department store and grow your business!</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T213150Z">
+        <seg>Теперь отправляйтесь добавлять продукты в ваш новый универмаг и развивайте свой бизнес!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

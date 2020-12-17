@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Description=You have an excellent track record in the food and beverage industry.</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214134Z">
+        <seg>Description=У вас прекрасная репутация в пищевой промышленности и производстве напитков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now you are starting on your own and have raised tens of millions from investors. ^^You have promised the investors to keep your new company's focus on the food and beverage industry as specialization is key to success at the early growth phase.^^Once you have achieved market dominance in the food and beverage industry, there will be bigger challenges for you to undertake!</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214134Z">
+        <seg>Теперь вы начинаете свой собственный бизнес и привлекли десятки миллионов от инвесторов.^^Вы пообещали инвесторам удерживать фокус на пище и напитках на раннем этапе роста.^^После того, как вы достигнете доминирования в этих областях, перед вами предстанут более масштабные и трудные задачи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Boom-Bust Cycle Volatility=Moderate Macro Economy Realism=High</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214134Z">
+        <seg>Macro Economy Realism=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of Competitors=25</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214134Z">
+        <seg>Number of Competitors=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Competitor Start-up Capital=Moderate AI Expansion Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214134Z">
+        <seg>Competitor Start-up Capital=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Pricing Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214134Z">
+        <seg>Competitor Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Expertise Level=Moderate</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214134Z">
+        <seg>Competitor Expertise Level=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Tech Head Start=None Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214134Z">
+        <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Friendly Merger=Yes</seg>
+      </tuv>
+      <tuv xml:lang="ru" creationid="OmegaT Aligner" creationdate="20201217T214134Z">
+        <seg>AI Friendly Merger=No</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
