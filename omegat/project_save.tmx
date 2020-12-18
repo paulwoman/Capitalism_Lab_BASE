@@ -1987,11 +1987,11 @@ GM_CUST
 Product Customization
 If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T181130Z" creationid="Александр" creationdate="20201218T181130Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201218T183314Z" creationid="Александр" creationdate="20201218T181130Z">
         <seg>~
 GM_CUST
-Product Customization
-If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
+Настройка продукта
+Если установлено значение Вкл, вы найдете инструмент настройки продукта в Руководстве производителя..</seg>
       </tuv>
     </tu>
     <tu>
