@@ -474,6 +474,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181956Z" creationid="Александр" creationdate="20201218T181917Z">
+        <seg>Если установлено значение обратной инфляции,  то денежные суммы корректируются в зависимости от их чистой покупательской способности..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If so, add MOD tool EXE files "LibResDir.EXE" and "LibResXL.EXE" into your anti-virus software exception list to prevent it from blocking the tools or slow down their executions</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T220543Z" creationid="Olivier" creationdate="20201213T220543Z">
@@ -862,6 +870,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T220434Z" creationid="Olivier" creationdate="20201213T220434Z">
         <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Purchasing Power Index starts at 100% and diminishes over those years with inflation.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181947Z" creationid="Александр" creationdate="20201218T181947Z">
+        <seg>Индекс покупательской способности начинается на уровне 100% и снижается в течение этих лет в связи с инфляцией..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1962,6 +1978,34 @@ If it is set to On, two AI corporations may merge with each other on mutually be
 GM_FM
 Дружественное слияние ИИ 
 Если установлено значение Вкл, две корпорации ИИ могут сливаться друг с другом на взаимовыгодных условиях..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
+GM_INF
+Inflation 
+Inflation is enabled when this option is set to On.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181857Z" creationid="Александр" creationdate="20201218T181857Z">
+        <seg>~
+GM_INF
+Инфляция 
+Инфляция включена, когда эта опция установлена в положение Вкл..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
+GM_MER
+Macro Economy Realism 
+If it is set to High, the macro economy in the game will be simulated with a high level of realism.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181834Z" creationid="Александр" creationdate="20201218T181834Z">
+        <seg>~
+GM_MER
+Реализм макроэкономики 
+Если установлено значение Высоко, то макроэкономика в игре будет смоделирована с высоким уровнем реализма..</seg>
       </tuv>
     </tu>
     <tu>
