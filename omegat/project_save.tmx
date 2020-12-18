@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Noto fonts are under &lt;a0&gt;Apache License 2.0&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T102426Z" creationid="Александр" creationdate="20201218T102426Z">
+        <seg>Noto fonts are under &lt;a0&gt;Apache License 2.0&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Noto is Google’s font family that aims to support all the world’s languages.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T101601Z" creationid="Александр" creationdate="20201218T101601Z">
