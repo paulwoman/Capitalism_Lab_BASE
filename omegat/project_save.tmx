@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This product uses Noto fonts from Google.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T101240Z" creationid="Александр" creationdate="20201218T101240Z">
+        <seg>В этом продукте используются шрифты Noto от Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This window shows all products available from the local seaports.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T220044Z" creationid="Olivier" creationdate="20201217T220044Z">
