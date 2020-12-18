@@ -1999,6 +1999,20 @@ GM_FM
     <tu>
       <tuv lang="en-US">
         <seg>~
+GM_GSY
+Game starting year
+If you set it to a later year, there will be fewer types of technology that you have to research, as some of them will be already available when the game starts.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T182607Z" creationid="Александр" creationdate="20201218T182607Z">
+        <seg>~
+GM_GSY
+Год начала игры
+Если вы установите более поздний год, будет меньше типов технологий, которые вам нужно будет исследовать, так как некоторые из них будут уже доступны к моменту начала игры..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
 GM_INF
 Inflation 
 Inflation is enabled when this option is set to On.</seg>
@@ -2041,6 +2055,20 @@ GM_MER
     <tu>
       <tuv lang="en-US">
         <seg>~
+GM_NOCO
+Number of AI Competitors
+This determines the number of AI controlled corporations.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T182633Z" creationid="Александр" creationdate="20201218T182633Z">
+        <seg>~
+GM_NOCO
+Количество участников соревнований по ИИ
+Это определяет количество корпораций, контролируемых ИИ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
 GM_PRI
 Private Company (Subsidiary DLC)
 If this is set to On, your company will start as a private company.</seg>
@@ -2064,6 +2092,20 @@ Allow such occurences as plagues, animal disease and power black-outs and their 
 GM_RE
 Случайные события
 допускать такие случаи, как чума, болезни животных и отключение электроэнергии, а также их экономические последствия..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
+GM_RST
+Retail store type
+Choose 'Many' to allow specialist stores, such as supermarkets, furniture stores etc., or 'One' to have only department stores.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T182528Z" creationid="Александр" creationdate="20201218T182528Z">
+        <seg>~
+GM_RST
+Тип розничного магазина
+Выберите "Множество", чтобы разрешить специализированные магазины, такие как супермаркеты, мебельные магазины и т.д., или "Один", чтобы иметь только универмаги..</seg>
       </tuv>
     </tu>
     <tu>
