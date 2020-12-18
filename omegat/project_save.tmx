@@ -1953,6 +1953,20 @@ If this is set to On, you will find the Product Customization tool in the Manufa
     <tu>
       <tuv lang="en-US">
         <seg>~
+GM_FM
+AI Friendly Merger 
+If it is set to On, two AI corporations may merge with each other on mutually beneficial terms.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181804Z" creationid="Александр" creationdate="20201218T181804Z">
+        <seg>~
+GM_FM
+Дружественное слияние ИИ 
+Если установлено значение Вкл, две корпорации ИИ могут сливаться друг с другом на взаимовыгодных условиях..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
 GM_PRI
 Private Company (Subsidiary DLC)
 If this is set to On, your company will start as a private company.</seg>
@@ -1962,6 +1976,20 @@ If this is set to On, your company will start as a private company.</seg>
 GM_PRI
 Частная компания (Дополнение DLC)
 Если установлено значение "Вкл", ваша компания начнет свою деятельность как частная компания..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
+GM_RE
+Random Events
+Allow such occurences as plagues, animal disease and power black-outs and their economic consequences.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181602Z" creationid="Александр" creationdate="20201218T181602Z">
+        <seg>~
+GM_RE
+Случайные события
+допускать такие случаи, как чума, болезни животных и отключение электроэнергии, а также их экономические последствия..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,6 +2018,20 @@ If this is set to Yes, 1) stock prices are unaffected by the current economic st
 GM_SUE
 Альтернативные акции
 Если для этого параметра установлено значение «Да», 1) текущее экономическое состояние не влияет на цены акций и 2) торговля акциями между компанией игрока и его дочерними предприятиями запрещена, что затрудняет спекуляцию акциями для получения быстрой прибыли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
+GM_TEC
+Technology Disruption
+If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181627Z" creationid="Александр" creationdate="20201218T181627Z">
+        <seg>~
+GM_TEC
+Технологический сбой
+Если установлено значение Вкл, то технологический сбой происходит постоянно, и все технологические переменные уменьшаются на 10% каждый год..</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
