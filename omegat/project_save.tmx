@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now go and add products to your new department store and grow your business!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154429Z" creationid="Александр" creationdate="20201218T154429Z">
+        <seg>Теперь идите и добавляйте товары в свой новый универмаг и развивайте свой бизнес.!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now it is your chance to prove your ability!^^Click the flashing Next icon to continue.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215805Z" creationid="Olivier" creationdate="20201217T215805Z">
@@ -902,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have completed this tutorial.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154341Z" creationid="Александр" creationdate="20201218T154309Z">
+        <seg>Вы успешно завершили этот обучающий урок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have graduated with an MBA from a renowned business school.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215746Z" creationid="Olivier" creationdate="20201217T215746Z">
@@ -922,6 +938,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215933Z" creationid="Olivier" creationdate="20201217T215933Z">
         <seg>Вы можете использовать три фильтра наверху, чтобы найти то, что вам нужно. ^^Вам нужно купить продукты в местном морском порту, для этого кликните на фильтре ~поставщиков~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must apply what you have just learned into running your company.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154412Z" creationid="Александр" creationdate="20201218T154317Z">
+        <seg>Вы должны применять то, что вы только что узнали, для управления своей компанией.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1319,6 +1343,16 @@ Click the ~Add Product icon~ now.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+Click the ~Goal~ option.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154455Z" creationid="Александр" creationdate="20201218T154455Z">
+        <seg>[TEXT]
+Щелкните опцию ~ Цель ~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 Double-click ~Seaport~ from the drop-down list.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120724Z" creationid="Александр" creationdate="20201218T120651Z">
@@ -1414,6 +1448,16 @@ You have graduated with an MBA from a renowned business school.</seg>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154030Z" creationid="Александр" creationdate="20201218T154030Z">
         <seg>[TEXT]
 Вы получили степень MBA в известной бизнес-школе..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+You win this game when your company's annual revenue reaches $20 million.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154538Z" creationid="Александр" creationdate="20201218T154538Z">
+        <seg>[TEXT]
+Вы завершите этот обучающий урок, когда годовой доход вашей компании достигнет 20 миллионов долларов.</seg>
       </tuv>
     </tu>
     <tu>
