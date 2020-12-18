@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you have enough money to build a second department store yet?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155210Z" creationid="Александр" creationdate="20201218T155210Z">
+        <seg>У вас уже есть деньги, чтобы построить второй универмаг?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-click ~Seaport~ from the drop-down list.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215957Z" creationid="Olivier" creationdate="20201217T215957Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215929Z" creationid="Olivier" creationdate="20201217T215929Z">
         <seg>Здесь перечислены все доступные в игре продукты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It seems within your budget, so let's proceed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155047Z" creationid="Александр" creationdate="20201218T155047Z">
+        <seg>Кажется, в рамках вашего бюджета, так что давайте продолжим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1373,11 +1389,41 @@ Next Arrow=Yes</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155026Z" creationid="Александр" creationdate="20201218T155026Z">
+        <seg>[TEXT]
+Строительство нового универмага стоит 1000000 долларов, плюс стоимость земли и еще 100000 долларов в месяц на эксплуатацию..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+And choose ~Department Store~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154906Z" creationid="Александр" creationdate="20201218T154906Z">
+        <seg>[TEXT]
+И выберите ~ Универмаг ~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 Click the ~Add Product icon~ now.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154157Z" creationid="Александр" creationdate="20201218T120230Z">
         <seg>[TEXT]
 Щелкните значок ~ Добавить продукт ~ .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Click the ~Build Menu~ icon on the ~Game Tools Menu~ at the top-left of the screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155004Z" creationid="Александр" creationdate="20201218T155004Z">
+        <seg>[TEXT]
+Щелкните значок ~ Строительство~ в ~ Меню игровых инструментов ~ в верхнем левом углу экрана..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1438,6 +1484,16 @@ NIL</seg>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120217Z" creationid="Александр" creationdate="20201218T120217Z">
         <seg>[TEXT]
 NIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Now choose ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154924Z" creationid="Александр" creationdate="20201218T154924Z">
+        <seg>[TEXT]
+Теперь выберите в меню ~ Магазин ~..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1574,16 @@ Your cursor now highlights a square on the city.</seg>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154802Z" creationid="Александр" creationdate="20201218T154802Z">
         <seg>[TEXT]
 Теперь ваш курсор выделяет квадрат на городе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT] 
+While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155116Z" creationid="Александр" creationdate="20201218T155116Z">
+        <seg>[TEXT] 
+Пока мы изучали интерфейс, ваш универмаг уже приносит доход. ^^ Взгляните на ~ данные о денежных средствах и прибыли ~ на панели инструментов.</seg>
       </tuv>
     </tu>
     <tu>
