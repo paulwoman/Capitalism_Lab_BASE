@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)
+~
+GM_CUSTR
+Product Customization Range
+Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181200Z" creationid="Александр" creationdate="20201218T181200Z">
+        <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)
+~
+GM_CUSTR
+Product Customization Range
+Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//-------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215114Z" creationid="Olivier" creationdate="20201213T215114Z">
@@ -994,6 +1010,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may also #Customize# or #Randomize# the game settings
+~
+GM_NOC
+Number of Cities
+Play with single or multiple cities.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181056Z" creationid="Александр" creationdate="20201218T181056Z">
+        <seg>You may also #Customize# or #Randomize# the game settings
+~
+GM_NOC
+Количество городов
+Играть с одним или несколькими городами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may use the three filters at the top of the window to help you find the products you want.^^You intend to purchase products from the local seaports, so click the ~Suppliers~ filter box, as indicated.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215933Z" creationid="Olivier" creationdate="20201217T215933Z">
@@ -1880,6 +1912,56 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T101549Z" creationid="Александр" creationdate="20201218T101549Z">
         <seg>http://www.apache.org/licenses/LICENSE-2.0.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
+GM_ADV
+Your Advantage
+`
+~
+GM_ASI
+Stock Market
+The stock market allows for stock trading.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181126Z" creationid="Александр" creationdate="20201218T181126Z">
+        <seg>~
+GM_ADV
+Your Advantage
+`
+~
+GM_ASI
+Stock Market
+The stock market allows for stock trading.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
+GM_CUST
+Product Customization
+If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181130Z" creationid="Александр" creationdate="20201218T181130Z">
+        <seg>~
+GM_CUST
+Product Customization
+If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
+GM_SUC
+Your start-up capital
+Set the level of cash your corporation has at the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181118Z" creationid="Александр" creationdate="20201218T181118Z">
+        <seg>~
+GM_SUC
+Ваш стартовый капитал
+Установите уровень денежных средств, которые ваша корпорация имеет в начале игры.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
