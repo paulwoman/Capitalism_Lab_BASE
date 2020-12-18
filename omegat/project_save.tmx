@@ -959,11 +959,43 @@
     <tu>
       <tuv lang="en-US">
         <seg>[ACTION]
+Build Firm=Department Store, My Department Store
+Center on firm=My Department Store</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154055Z" creationid="Александр" creationdate="20201218T154055Z">
+        <seg>[ACTION]
+Build Firm=Department Store, My Department Store
+Center on firm=My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[ACTION]
 Fast forward days=5</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120906Z" creationid="Александр" creationdate="20201218T120906Z">
         <seg>[ACTION]
 Fast forward days=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[ACTION]
+Hide=Minimap and Filter</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T153948Z" creationid="Александр" creationdate="20201218T153948Z">
+        <seg>[ACTION]
+Hide=Minimap and Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[ACTION]
+Hide=Preview</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T153954Z" creationid="Александр" creationdate="20201218T153954Z">
+        <seg>[ACTION]
+Hide=Preview</seg>
       </tuv>
     </tu>
     <tu>
@@ -1137,6 +1169,18 @@ Point at Firm=My Department Store</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154048Z" creationid="Александр" creationdate="20201218T154048Z">
+        <seg>[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[POS]
 Text Box=10,270,220,0</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121600Z" creationid="Александр" creationdate="20201218T121600Z">
@@ -1267,9 +1311,9 @@ Next Arrow=Yes</seg>
         <seg>[TEXT]
 Click the ~Add Product icon~ now.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T120230Z" creationid="Александр" creationdate="20201218T120230Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154157Z" creationid="Александр" creationdate="20201218T120230Z">
         <seg>[TEXT]
-Click the ~Add Product icon~ now.</seg>
+Щелкните значок ~ Добавить продукт ~ .</seg>
       </tuv>
     </tu>
     <tu>
@@ -1317,9 +1361,9 @@ NIL</seg>
         <seg>[TEXT]
 This is the ~Select a Supplier~ window.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T120311Z" creationid="Александр" creationdate="20201218T120311Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154246Z" creationid="Александр" creationdate="20201218T120311Z">
         <seg>[TEXT]
-This is the ~Select a Supplier~ window.</seg>
+Это окно ~ Выбор поставщика ~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,6 +1394,26 @@ You are now back in your department store.</seg>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120926Z" creationid="Александр" creationdate="20201218T120926Z">
         <seg>[TEXT]
 Вы вернулись в свой универмаг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+You have been assigned to run this department store.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154119Z" creationid="Александр" creationdate="20201218T154119Z">
+        <seg>[TEXT]
+Вам поручили управлять этим универмагом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+You have graduated with an MBA from a renowned business school.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154030Z" creationid="Александр" creationdate="20201218T154030Z">
+        <seg>[TEXT]
+Вы получили степень MBA в известной бизнес-школе..</seg>
       </tuv>
     </tu>
     <tu>
