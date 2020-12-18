@@ -366,6 +366,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_DIFF
+Game difficulty level
+Choose one of eight pre-set difficulty levels.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181018Z" creationid="Александр" creationdate="20201218T180801Z">
+        <seg>GM_DIFF
+Уровень сложности игры
+Выберите один из восьми предварительно установленных уровней сложности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game Starting Year=1990</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
