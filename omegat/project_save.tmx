@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T121559Z" creationid="Александр" creationdate="20201218T121559Z">
+        <seg>Помимо нажатия кнопки ~ Выбрать ~, вы можете просто ~ дважды щелкнуть ~ продукт в списке, чтобы выбрать его. ^^ Когда вы будете готовы двигаться дальше, ~ щелкните правой кнопкой мыши в любом месте экрана ~, чтобы выйти из магазина и вернуться на экран города.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boom-Bust Cycle Volatility=Moderate</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215058Z" creationid="Olivier" creationdate="20201213T215058Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T115659Z" creationid="Александр" creationdate="20201218T115659Z">
         <seg>ывJanuary 2004&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep on adding more products to your store.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T121513Z" creationid="Александр" creationdate="20201218T121513Z">
+        <seg>Продолжайте добавлять в свой магазин больше товаров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -979,6 +995,16 @@ Current Firm=My Department Store</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[CONDITION]
+Firm product count=My Department Store, 2</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T121358Z" creationid="Александр" creationdate="20201218T121358Z">
+        <seg>[CONDITION]
+Firm product count=My Department Store, 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[CONDITION]
 Interface Select=Select Supplier, Seaport</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120731Z" creationid="Александр" creationdate="20201218T120731Z">
@@ -1102,6 +1128,16 @@ Window=Select Supplier</seg>
 Text Box=12,270,320,0
 Pointer=360, 649, 448, 665
 Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[POS]
+Text Box=20,270,280,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T121357Z" creationid="Александр" creationdate="20201218T121357Z">
+        <seg>[POS]
+Text Box=20,270,280,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1256,6 +1292,16 @@ This window shows all products available from the local seaports.</seg>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120800Z" creationid="Александр" creationdate="20201218T120800Z">
         <seg>[TEXT]
 В этом окне показаны все товары, которые можно купить в местных морских портах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Well done!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T121412Z" creationid="Александр" creationdate="20201218T121412Z">
+        <seg>[TEXT]
+Превосходно!</seg>
       </tuv>
     </tu>
     <tu>
