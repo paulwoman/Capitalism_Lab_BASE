@@ -158,6 +158,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All cash and loan amounts will shrink in accordance to this Purchasing Power Index.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T182235Z" creationid="Александр" creationdate="20201218T182235Z">
+        <seg>Все денежные средства и суммы займов будут сокращаться в соответствии с данным индексом покупательной способности..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternative Stock Sim=Yes</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215054Z" creationid="Olivier" creationdate="20201213T215054Z">
@@ -186,6 +194,14 @@ Low - product customization applies to your company only; Medium - it applies to
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T220546Z" creationid="Olivier" creationdate="20201213T220546Z">
         <seg>Are you using any anti-virus software that runs in background?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As such, it will have the inflation artificially suppressed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T182418Z" creationid="Александр" creationdate="20201218T182338Z">
+        <seg>Таким образом, инфляция будет искусственно подавлена.</seg>
       </tuv>
     </tu>
     <tu>
@@ -476,8 +492,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T181956Z" creationid="Александр" creationdate="20201218T181917Z">
-        <seg>Если установлено значение обратной инфляции,  то денежные суммы корректируются в зависимости от их чистой покупательской способности..</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T182330Z" creationid="Александр" creationdate="20201218T181917Z">
+        <seg>Если установлено значение обратной инфляции,  то денежные суммы корректируются в зависимости от их чистой покупательной способности..</seg>
       </tuv>
     </tu>
     <tu>
@@ -876,8 +892,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The Purchasing Power Index starts at 100% and diminishes over those years with inflation.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T181947Z" creationid="Александр" creationdate="20201218T181947Z">
-        <seg>Индекс покупательской способности начинается на уровне 100% и снижается в течение этих лет в связи с инфляцией..</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T182248Z" creationid="Александр" creationdate="20201218T181947Z">
+        <seg>Индекс покупательной способности начинается на уровне 100% и снижается в течение этих лет в связи с инфляцией..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1992,6 +2008,20 @@ Inflation is enabled when this option is set to On.</seg>
 GM_INF
 Инфляция 
 Инфляция включена, когда эта опция установлена в положение Вкл..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
+GM_INFS
+Inflation Strength 
+Select Reduced Inflation Strength if you prefer less strong inflation.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T182353Z" creationid="Александр" creationdate="20201218T182330Z">
+        <seg>~
+GM_INFS
+Сила инфляции 
+Выберите "Сниженная инфляция", если вы предпочитаете менее сильную инфляцию..</seg>
       </tuv>
     </tu>
     <tu>
