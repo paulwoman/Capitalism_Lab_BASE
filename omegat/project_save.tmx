@@ -1249,6 +1249,34 @@ Point at Firm=My Department Store</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[POS]
+Extend Text Box=450,100,300,0
+Pointer=172,71,196,91
+Window=Minimap</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155232Z" creationid="Александр" creationdate="20201218T155232Z">
+        <seg>[POS]
+Extend Text Box=450,100,300,0
+Pointer=172,71,196,91
+Window=Minimap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[POS]
+Extend Text Box=450,100,300,0
+Window=Minimap
+Next Arrow=Yes</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155235Z" creationid="Александр" creationdate="20201218T155235Z">
+        <seg>[POS]
+Extend Text Box=450,100,300,0
+Window=Minimap
+Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[POS]
 Flex Text Box=300,280,400,0
 Next Arrow=Yes</seg>
       </tuv>
@@ -1256,6 +1284,46 @@ Next Arrow=Yes</seg>
         <seg>[POS]
 Flex Text Box=300,280,400,0
 Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[POS]
+Flex Text Box=300,280,400,0
+Pointer=267, 10, 575,24
+Window=Bottom Toolbar 
+Next Arrow=Yes</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155237Z" creationid="Александр" creationdate="20201218T155237Z">
+        <seg>[POS]
+Flex Text Box=300,280,400,0
+Pointer=267, 10, 575,24
+Window=Bottom Toolbar 
+Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[POS]
+Flex Text Box=300,280,400,0
+Pointer=3,25,52,62</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155238Z" creationid="Александр" creationdate="20201218T155238Z">
+        <seg>[POS]
+Flex Text Box=300,280,400,0
+Pointer=3,25,52,62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[POS]
+Flex Text Box=300,280,400,0
+Pointer=52,61,235,75</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155239Z" creationid="Александр" creationdate="20201218T155239Z">
+        <seg>[POS]
+Flex Text Box=300,280,400,0
+Pointer=52,61,235,75</seg>
       </tuv>
     </tu>
     <tu>
@@ -1499,6 +1567,16 @@ Now choose ~Retail Store~ from the menu.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+Now the display is updated to show from which seaports your department store is receiving the products that you are selling.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155235Z" creationid="Александр" creationdate="20201218T155235Z">
+        <seg>[TEXT]
+Now the display is updated to show from which seaports your department store is receiving the products that you are selling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 This is the ~Select a Supplier~ window.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154246Z" creationid="Александр" creationdate="20201218T120311Z">
@@ -1524,6 +1602,16 @@ Well done!</seg>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121412Z" creationid="Александр" creationdate="20201218T121412Z">
         <seg>[TEXT]
 Превосходно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+With the display still only showing your department store (as a colored square), click the ~Business Relationship~ mode icon.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155229Z" creationid="Александр" creationdate="20201218T155229Z">
+        <seg>[TEXT]
+Пока на дисплее отображается только ваш универмаг (в виде цветного квадрата), щелкните значок режима ~ Деловые отношения ~.</seg>
       </tuv>
     </tu>
     <tu>
