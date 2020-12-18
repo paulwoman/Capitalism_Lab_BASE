@@ -214,6 +214,18 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B_TOOL
+Toolbox (hotkey: Ctrl-T)
+Show or hide the Toolbox menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T182821Z" creationid="Александр" creationdate="20201218T182821Z">
+        <seg>B_TOOL
+Toolbox (hotkey: Ctrl-T)
+Show or hide the Toolbox menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121559Z" creationid="Александр" creationdate="20201218T121559Z">
@@ -1048,8 +1060,8 @@ GM_NOC
 Number of Cities
 Play with single or multiple cities.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T181056Z" creationid="Александр" creationdate="20201218T181056Z">
-        <seg>You may also #Customize# or #Randomize# the game settings
+      <tuv lang="ru" changeid="Александр" changedate="20201218T182954Z" creationid="Александр" creationdate="20201218T181056Z">
+        <seg>Вы также можете #Вручную# или #Слуачйно# настроить игру.
 ~
 GM_NOC
 Количество городов
