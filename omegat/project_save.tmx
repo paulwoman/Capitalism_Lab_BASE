@@ -1161,6 +1161,16 @@ Interface Select=Select Supplier, Seaport</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[HEADER]
+Title=1.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155458Z" creationid="Александр" creationdate="20201218T155458Z">
+        <seg>[HEADER]
+Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[HEADER]
 Title=Fashion Venture 
 Description=You have been trying to raise capital for your fashion startup for years.</seg>
       </tuv>
@@ -1196,10 +1206,38 @@ Description=You have bought the brand asset of a defunct company which used to b
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[HEADER]
+Title=Sample script - Special Rules 
+Description=This is a sample script for Capitalism Lab, listing all variables under the [SPECIAL RULES] section.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155713Z" creationid="Александр" creationdate="20201218T155713Z">
+        <seg>[HEADER]
+Title=Sample script - Special Rules 
+Description=This is a sample script for Capitalism Lab, listing all variables under the [SPECIAL RULES] section.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[IMPORTS]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215112Z" creationid="Olivier" creationdate="20201213T215112Z">
         <seg>[IMPORTS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Logging Unit]
+~Raw Material Name~
+The raw material which the unit is currently producing.^
+~Raw Material Stock~
+This area shows the stock of the raw material in the unit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T155710Z" creationid="Александр" creationdate="20201218T155710Z">
+        <seg>[Logging Unit]
+~Raw Material Name~
+The raw material which the unit is currently producing.^
+~Raw Material Stock~
+This area shows the stock of the raw material in the unit.</seg>
       </tuv>
     </tu>
     <tu>
