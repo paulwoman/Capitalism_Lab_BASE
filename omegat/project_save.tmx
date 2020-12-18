@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its design goal is to achieve visual harmonization across languages.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T101603Z" creationid="Александр" creationdate="20201218T101603Z">
+        <seg>Its design goal is to achieve visual harmonization across languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lifetime shareholder return=1000</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215124Z" creationid="Olivier" creationdate="20201213T215124Z">
@@ -378,6 +386,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215820Z" creationid="Olivier" creationdate="20201217T215820Z">
         <seg>Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Noto is Google’s font family that aims to support all the world’s languages.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T101601Z" creationid="Александр" creationdate="20201218T101601Z">
+        <seg>Noto - это семейство шрифтов Google, предназначенное для поддержки всех языков мира..</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +882,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215045Z" creationid="Olivier" creationdate="20201213T215045Z">
         <seg>^^Sua empresa também aderiu a esse movimento e você está planejando aproveitá-lo para melhorar significativamente a produtividade de sua força de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>http://www.apache.org/licenses/LICENSE-2.0.html</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T101549Z" creationid="Александр" creationdate="20201218T101549Z">
+        <seg>http://www.apache.org/licenses/LICENSE-2.0.html</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
