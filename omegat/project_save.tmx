@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are now in the city view.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T121657Z" creationid="Александр" creationdate="20201218T121657Z">
+        <seg>Сейчас мы находимся на ПАНАРАМЕ города.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Window=Select Supplier</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215949Z" creationid="Olivier" creationdate="20201217T215949Z">
@@ -980,6 +988,16 @@ Fast forward days=5</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215850Z" creationid="Olivier" creationdate="20201217T215850Z">
         <seg>[CONDITION]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[CONDITION]
+Active Interface=City View</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T121601Z" creationid="Александр" creationdate="20201218T121601Z">
+        <seg>[CONDITION]
+Active Interface=City View</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,6 +1132,16 @@ Point at Firm=My Department Store</seg>
         <seg>[POS]
 Extend Text Box=32,420,300,0
 Point at Firm=My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[POS]
+Text Box=10,270,220,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T121600Z" creationid="Александр" creationdate="20201218T121600Z">
+        <seg>[POS]
+Text Box=10,270,220,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,6 +1290,16 @@ Each retail store has four product slots.</seg>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121140Z" creationid="Александр" creationdate="20201218T121140Z">
         <seg>[TEXT]
 В каждом розничном магазине есть четыре слота для продуктов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Good.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T121610Z" creationid="Александр" creationdate="20201218T121610Z">
+        <seg>[TEXT]
+Хорошо.</seg>
       </tuv>
     </tu>
     <tu>
