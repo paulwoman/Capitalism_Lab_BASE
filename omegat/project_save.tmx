@@ -6,10 +6,98 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115732Z" creationid="Александр" creationdate="20201218T115732Z">
+        <seg>"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115707Z" creationid="Александр" creationdate="20201218T115707Z">
+        <seg>"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115706Z" creationid="Александр" creationdate="20201218T115706Z">
+        <seg>"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115706Z" creationid="Александр" creationdate="20201218T115706Z">
+        <seg>"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115725Z" creationid="Александр" creationdate="20201218T115725Z">
+        <seg>"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115725Z" creationid="Александр" creationdate="20201218T115725Z">
+        <seg>"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115725Z" creationid="Александр" creationdate="20201218T115725Z">
+        <seg>"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115725Z" creationid="Александр" creationdate="20201218T115725Z">
+        <seg>"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//-------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215114Z" creationid="Olivier" creationdate="20201213T215114Z">
         <seg>//-------------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a2&gt;http://www.apache.org/licenses/&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115703Z" creationid="Александр" creationdate="20201218T115703Z">
+        <seg>&lt;a2&gt;http://www.apache.org/licenses/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115702Z" creationid="Александр" creationdate="20201218T115702Z">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;1.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115705Z" creationid="Александр" creationdate="20201218T115705Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +154,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215810Z" creationid="Olivier" creationdate="20201217T215810Z">
         <seg>Также вы можете нажать клавишу ~Enter~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apache License, Version 2.0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115657Z" creationid="Александр" creationdate="20201218T115657Z">
+        <seg>ывыApache License, Version 2.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Definitions&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115706Z" creationid="Александр" creationdate="20201218T115706Z">
+        <seg>Definitions&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=Years of research in training methodology by a consortium of leading business schools has finally produced astonishing results.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215041Z" creationid="Olivier" creationdate="20201213T214958Z">
@@ -210,6 +314,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215817Z" creationid="Olivier" creationdate="20201217T215817Z">
         <seg>Flex Text Box=300,280,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115723Z" creationid="Александр" creationdate="20201218T115718Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +466,14 @@
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T101603Z" creationid="Александр" creationdate="20201218T101603Z">
         <seg>Its design goal is to achieve visual harmonization across languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>January 2004&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115659Z" creationid="Александр" creationdate="20201218T115659Z">
+        <seg>ывJanuary 2004&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +698,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215054Z" creationid="Olivier" creationdate="20201213T215054Z">
         <seg>Stock Market=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115704Z" creationid="Александр" creationdate="20201218T115704Z">
+        <seg>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +1018,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215045Z" creationid="Olivier" creationdate="20201213T215045Z">
         <seg>^^Sua empresa também aderiu a esse movimento e você está planejando aproveitá-lo para melhorar significativamente a produtividade de sua força de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>http://www.apache.org/licenses/</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T115658Z" creationid="Александр" creationdate="20201218T115658Z">
+        <seg>ывыhttp://www.apache.org/licenses/</seg>
       </tuv>
     </tu>
     <tu>
