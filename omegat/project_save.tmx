@@ -1925,15 +1925,15 @@ GM_ASI
 Stock Market
 The stock market allows for stock trading.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T181126Z" creationid="Александр" creationdate="20201218T181126Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181229Z" creationid="Александр" creationdate="20201218T181126Z">
         <seg>~
 GM_ADV
-Your Advantage
+Ваше Преимущество
 `
 ~
 GM_ASI
-Stock Market
-The stock market allows for stock trading.</seg>
+Рынок ценных бумаг
+Фондовый рынок позволяет торговать акциями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1953,6 +1953,20 @@ If this is set to On, you will find the Product Customization tool in the Manufa
     <tu>
       <tuv lang="en-US">
         <seg>~
+GM_PRI
+Private Company (Subsidiary DLC)
+If this is set to On, your company will start as a private company.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181333Z" creationid="Александр" creationdate="20201218T181333Z">
+        <seg>~
+GM_PRI
+Частная компания (Дополнение DLC)
+Если установлено значение "Вкл", ваша компания начнет свою деятельность как частная компания..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
 GM_SUC
 Your start-up capital
 Set the level of cash your corporation has at the beginning of the game.</seg>
@@ -1962,6 +1976,20 @@ Set the level of cash your corporation has at the beginning of the game.</seg>
 GM_SUC
 Ваш стартовый капитал
 Установите уровень денежных средств, которые ваша корпорация имеет в начале игры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~
+GM_SUE
+Alternative Stock Sim 
+If this is set to Yes, 1) stock prices are unaffected by the current economic state, and 2) stock trading between the player's company and its subsidiaries is prohibited, thus making it harder to speculate stocks for quick profits.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T181535Z" creationid="Александр" creationdate="20201218T181535Z">
+        <seg>~
+GM_SUE
+Альтернативные акции
+Если для этого параметра установлено значение «Да», 1) текущее экономическое состояние не влияет на цены акций и 2) торговля акциями между компанией игрока и его дочерними предприятиями запрещена, что затрудняет спекуляцию акциями для получения быстрой прибыли.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
