@@ -862,6 +862,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154749Z" creationid="Александр" creationdate="20201218T154749Z">
+        <seg>Чтобы увидеть ~ отчет о целях ~, щелкните значок ~ Информационный центр ~ в строке меню в нижней части экрана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To so, simply repeat the steps that you just did for setting up your first department store.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154715Z" creationid="Александр" creationdate="20201218T154715Z">
+        <seg>Для этого просто повторите шаги, которые вы только что сделали для создания своего первого универмага.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total Number of Employees=1000</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215302Z" creationid="Olivier" creationdate="20201213T215302Z">
@@ -874,6 +890,14 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215114Z" creationid="Olivier" creationdate="20201213T215114Z">
         <seg>Training Effect Modifier=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154849Z" creationid="Александр" creationdate="20201218T154849Z">
+        <seg>Постарайтесь найти место рядом с жилыми домами, чтобы посещаемость клиентов была выше. ^^ Если местоположение закрашено ~ желтым ~, это означает, что это подходящее место для строительства универмага. ^^ Выбрав местоположение, щелкните левой кнопкой мыши и универмаг будет построен.</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have just expanded your business!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154604Z" creationid="Александр" creationdate="20201218T154604Z">
+        <seg>Вы только что расширили свой бизнес!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have significantly improved your corporation's operating profit margin.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215230Z" creationid="Olivier" creationdate="20201213T215230Z">
@@ -946,6 +978,14 @@
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154412Z" creationid="Александр" creationdate="20201218T154317Z">
         <seg>Вы должны применять то, что вы только что узнали, для управления своей компанией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You now have to set up products in your new department store.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154636Z" creationid="Александр" creationdate="20201218T154636Z">
+        <seg>Теперь вам нужно настроить продукты в своем новом универмаге.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1353,6 +1393,16 @@ Click the ~Goal~ option.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+Congratulations!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154552Z" creationid="Александр" creationdate="20201218T154552Z">
+        <seg>[TEXT]
+Превосходно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 Double-click ~Seaport~ from the drop-down list.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120724Z" creationid="Александр" creationdate="20201218T120651Z">
@@ -1458,6 +1508,16 @@ You win this game when your company's annual revenue reaches $20 million.</seg>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154538Z" creationid="Александр" creationdate="20201218T154538Z">
         <seg>[TEXT]
 Вы завершите этот обучающий урок, когда годовой доход вашей компании достигнет 20 миллионов долларов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Your cursor now highlights a square on the city.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T154802Z" creationid="Александр" creationdate="20201218T154802Z">
+        <seg>[TEXT]
+Теперь ваш курсор выделяет квадрат на городе.</seg>
       </tuv>
     </tu>
     <tu>
