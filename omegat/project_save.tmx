@@ -910,6 +910,16 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[CONDITION]
+Current Firm=My Department Store</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T120221Z" creationid="Александр" creationdate="20201218T120221Z">
+        <seg>[CONDITION]
+Current Firm=My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ENVIRONMENT]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215048Z" creationid="Olivier" creationdate="20201213T215048Z">
@@ -922,6 +932,42 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T214953Z" creationid="Olivier" creationdate="20201213T214953Z">
         <seg>[HEADER]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[HEADER]
+Title=Fashion Venture 
+Description=You have been trying to raise capital for your fashion startup for years.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T120156Z" creationid="Александр" creationdate="20201218T120156Z">
+        <seg>[HEADER]
+Title=Fashion Venture 
+Description=You have been trying to raise capital for your fashion startup for years.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[HEADER]
+Title=Food and Beverage
+Description=You have an excellent track record in the food and beverage industry.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T120148Z" creationid="Александр" creationdate="20201218T120148Z">
+        <seg>[HEADER]
+Title=Food and Beverage
+Description=You have an excellent track record in the food and beverage industry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[HEADER]
+Title=Legacy Brand 
+Description=You have bought the brand asset of a defunct company which used to be a popular consumer brand and still carries significant brand value in the present day.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T120146Z" creationid="Александр" creationdate="20201218T120146Z">
+        <seg>[HEADER]
+Title=Legacy Brand 
+Description=You have bought the brand asset of a defunct company which used to be a popular consumer brand and still carries significant brand value in the present day.</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +1012,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[POS]
+Extend Text Box=32,420,300,0
+Point at Firm=My Department Store</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T120220Z" creationid="Александр" creationdate="20201218T120220Z">
+        <seg>[POS]
+Extend Text Box=32,420,300,0
+Point at Firm=My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[POS]
+Text Box=32,420,300,0
+Pointer=70,120,185,230</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T120300Z" creationid="Александр" creationdate="20201218T120300Z">
+        <seg>[POS]
+Text Box=32,420,300,0
+Pointer=70,120,185,230</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[SPECIAL RULES]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215114Z" creationid="Olivier" creationdate="20201213T215114Z">
@@ -1002,6 +1072,36 @@
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215723Z" creationid="Olivier" creationdate="20201217T215723Z">
         <seg>[TEXT]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Click the ~Add Product icon~ now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T120230Z" creationid="Александр" creationdate="20201218T120230Z">
+        <seg>[TEXT]
+Click the ~Add Product icon~ now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+NIL</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T120217Z" creationid="Александр" creationdate="20201218T120217Z">
+        <seg>[TEXT]
+NIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+This is the ~Select a Supplier~ window.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201218T120311Z" creationid="Александр" creationdate="20201218T120311Z">
+        <seg>[TEXT]
+This is the ~Select a Supplier~ window.</seg>
       </tuv>
     </tu>
     <tu>
