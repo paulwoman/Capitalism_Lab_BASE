@@ -670,10 +670,10 @@ Show or hide the Toolbox menu.</seg>
 [2859]&lt;CORP&gt;CORPORATIONS (Total|
 [2860]&lt;FLR0&gt;Sorry, you do not have sufficient cash.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201222T152125Z" creationid="Александр" creationdate="20201222T152125Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201222T163159Z" creationid="Александр" creationdate="20201222T152125Z">
         <seg>Теперь каждый акционер владеет|
 [2753]&lt;NSS3&gt;разное количество акций.|
-[2754]&lt;NSS4&gt;подвергается1-|
+[2754]&lt;NSS4&gt;подвергается 1-|
 [2755]&lt;NSS5&gt;слияние акций, которое группирует каждый|
 [2756]&lt;NSS6&gt;акции в одну.|
 [2757]&lt;NBM1&gt;покупает|
@@ -698,88 +698,88 @@ Show or hide the Toolbox menu.</seg>
 [2776]&lt;NRI0&gt;Бунт
 [2777]&lt;NSC0&gt;Падение акций|
 [2778]&lt;NCR0&gt;переоценка валют!|
-[2779]&lt;CBA1&gt;Inflation Hawk (modest)|
-[2780]&lt;CBA2&gt;Inflation Hawk (strong)|
-[2781]&lt;CBA3&gt;Neutral|
-[2782]&lt;CBA4&gt;Inflation Dove (modest)|
-[2783]&lt;CBA5&gt;Inflation Dove (strong)|
-[2784]&lt;CBP1&gt;Ultra Tight|
-[2785]&lt;CBP2&gt;Very Tight|
-[2786]&lt;CBP3&gt;Tight|
-[2787]&lt;CBP4&gt;Slightly Tight|
-[2788]&lt;CBP5&gt;Normal|
-[2789]&lt;CBP6&gt;Slightly Loose|
-[2790]&lt;CBP7&gt;Loose|
-[2791]&lt;CBP8&gt;Very Loose|
-[2792]&lt;CBP9&gt;Ultra Loose|
-[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|
-[2794]&lt;AAS2&gt;Sorry, the AI is having an advance start and you cannot buy land until year|
-[2795]&lt;AAS3&gt;Sorry, the AI is having an advance start and you cannot buy stock until year|
-[2796]&lt;SCO1&gt;Score:|
-[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|
-[2798]&lt;BF01&gt;Use your personal money to build your mansion.|
-[2799]&lt;BF02&gt;to relocate the firm.|
-[2800]&lt;BF03&gt;to duplicate the firm.|
-[2801]&lt;BF04&gt;to build the firm.|
-[2802]&lt;BF05&gt;Customer Traffic Index:|
-[2803]&lt;BF06&gt;Compensation:|
-[2804]&lt;BF07&gt;Price Premium|
-[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to Build More|
-[2806]&lt;PSTO&gt;Stock|
-[2807]&lt;FRE1&gt;Freight Cost Breakdown|
-[2808]&lt;FRE2&gt;Truck - Supplier to Seaport:|
-[2809]&lt;FRE3&gt;Cargo Ship - City to City:|
-[2810]&lt;FRE4&gt;Truck - Seaport to Buyer:|
-[2811]&lt;FRE5&gt;TOTAL:|
-[2812]&lt;FRE6&gt;Freight Cost|
-[2813]&lt;FRE7&gt;Shipment from Supplier to Buyer:|
-[2814]&lt;SOW1&gt;Sowing in|
-[2815]&lt;HARV&gt;Harvest in|
-[2816]&lt;ITP1&gt;Organize an Intensive Training Program|
-[2817]&lt;ITP2&gt;Training effect will be instant but|
-[2818]&lt;ITP3&gt;its cost-effectiveness is 30% lower than normal training.|
-[2819]&lt;ITP4&gt;How much will you allocate for training per employee?|
-[2820]&lt;RDC1&gt;firm|
-[2821]&lt;RDC2&gt;firms|
-[2822]&lt;RDC3&gt; of yours have been redirected to purchase |
-[2823]&lt;RDC4&gt; from the current firm.|
-[2824]&lt;RDC5&gt;To view the new client list, click the [Clients] button on your Sales Unit's interface.|
-[2825]&lt;RDC6&gt;None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|
-[2826]&lt;KOC1&gt;King of Capitalism|
-[2827]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|
-[2828]&lt;KOC3&gt;billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|
-[2829]&lt;AGS1&gt;To win this game, you must achieve the given goals.|
-[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|
-[2831]&lt;AGS3&gt;Your possess expertise in the|
-[2832]&lt;AGS4&gt;industry (expertise rating:|
-[2833]&lt;FEGN&gt;The city government does not have enough cash.|
-[2834]&lt;NCT1&gt;To acquire the exclusive rights to develop and run the new city for|
-[2835]&lt;NCT2&gt;years, you must donate|
-[2836]&lt;NCT3&gt;to the city's treasury.|
-[2837]&lt;AIG6&gt;OS Focused|
-[2838]&lt;AIS6&gt;OS|
-[2839]&lt;AIG7&gt;Software Focused|
-[2840]&lt;AIS7&gt;Software|
-[2841]&lt;AIG8&gt;Internet Focused|
-[2842]&lt;AIS8&gt;Internet|
-[2843]&lt;FEQU&gt;Features Quality|
-[2844]&lt;FEBU&gt;Monthly budget for new features development|
-[2845]&lt;TECH&gt;Tech|
+[2779]&lt;CBA1&gt;Инфляция Ястреб (слабая)|
+[2780]&lt;CBA2&gt;Инфляция Ястреб (сильная)|
+[2781]&lt;CBA3&gt;Нейтральный|
+[2782]&lt;CBA4&gt;Инфляция Голубь (слабая)|
+[2783]&lt;CBA5&gt;Инфляция Голубь (сильная)|
+[2784]&lt;CBP1&gt;Сверх плотный|
+[2785]&lt;CBP2&gt;Очень плотный|
+[2786]&lt;CBP3&gt;Плотный|
+[2787]&lt;CBP4&gt;Немного плотный|
+[2788]&lt;CBP5&gt;Нормальный|
+[2789]&lt;CBP6&gt;Немного свобоодный|
+[2790]&lt;CBP7&gt;Свободный|
+[2791]&lt;CBP8&gt;Очень свободный|
+[2792]&lt;CBP9&gt;Сверх свободный|
+[2793]&lt;AAS1&gt;Извините, у ИИ предварительный старт, и вы не можете строить здания до года.|
+[2794]&lt;AAS2&gt;Извините, у ИИ предварительный старт, и вы не можете покупать землю до конца года.|
+[2795]&lt;AAS3&gt;Извините, у ИИ предварительный старт, и вы не можете покупать акции до конца года.|
+[2796]&lt;SCO1&gt;Результат:|
+[2797]&lt;SCO2&gt;миллиард х 100 с корректировкой на инфляцию.|
+[2798]&lt;BF01&gt;Используйте ваши личные деньги, чтобы построить особняк.|
+[2799]&lt;BF02&gt;перенести фирму.|
+[2800]&lt;BF03&gt;дублировать фирму.|
+[2801]&lt;BF04&gt;построить фирму.|
+[2802]&lt;BF05&gt;Индекс клиентского трафика:|
+[2803]&lt;BF06&gt;Компенсация:|
+[2804]&lt;BF07&gt;Премиум-цена|
+[2805]&lt;BF08&gt;Зажмите клавишу [SHIFT], чтобы построить больше.|
+[2806]&lt;PSTO&gt;Акции|
+[2807]&lt;FRE1&gt;Расходы на транспортировку|
+[2808]&lt;FRE2&gt;Грузовик - Поставщик в морской порт:|
+[2809]&lt;FRE3&gt;Грузовой корабль - От города к городу:|
+[2810]&lt;FRE4&gt;Грузовик - морской порт для покупателя:|
+[2811]&lt;FRE5&gt;ИТОГО:|
+[2812]&lt;FRE6&gt;Стоимость доставки:|
+[2813]&lt;FRE7&gt;Отгрузка от поставщика к покупателю:|
+[2814]&lt;SOW1&gt;Посев|
+[2815]&lt;HARV&gt;Уборка урожая|
+[2816]&lt;ITP1&gt;Организовать программу интенсивного обучения|
+[2817]&lt;ITP2&gt;Эффект обучения будет мгновенным, но|
+[2818]&lt;ITP3&gt;его эффективность с точки зрения затрат на 30% ниже, чем у обычного обучения.|
+[2819]&lt;ITP4&gt;Сколько вы выделите на обучение одного сотрудника?|
+[2820]&lt;RDC1&gt;Фирма|
+[2821]&lt;RDC2&gt;Фирмы|
+[2822]&lt;RDC3&gt; ваши средства были перенаправлены на покупку |
+[2823]&lt;RDC4&gt; от нынешней фирмы.|
+[2824]&lt;RDC5&gt;Для просмотра списка новых клиентов, нажмите кнопку [Клиенты] на интерфейсе вашего торгового центра.|
+[2825]&lt;RDC6&gt;В настоящее время ни в одной из Ваших фирм нет ни одного Покупательского подразделения. \n\nThus не было предпринято никаких действий.|
+[2826]&lt;KOC1&gt;Король Капитализма|
+[2827]&lt;KOC2&gt;Чтобы стать бесспорным Королем Капитализма, вы должны быть достаточно финансово подкованным, а также вам нужно увеличить рыночную капитализацию вашей компании,|
+[2828]&lt;KOC3&gt;до миллиарда, сохранив при этом не менее 80% своих акций, и достичь всех поставленных целей.|
+[2829]&lt;AGS1&gt;Чтобы выиграть, вы должны достичь поставленных целей.|
+[2830]&lt;AGS2&gt;(Нажмите клавишу 'G' в любое время для просмотра экрана "Цели".)|
+[2831]&lt;AGS3&gt;Ваш опыт работы с|
+[2832]&lt;AGS4&gt;промышленный (экспертный рейтинг):|
+[2833]&lt;FEGN&gt;У правительства не хватает денег.|
+[2834]&lt;NCT1&gt;Приобрести эксклюзивные права на развитие и управление новым городом для|
+[2835]&lt;NCT2&gt;годы, вы должны пожертвовать|
+[2836]&lt;NCT3&gt;в городскую казну.|
+[2837]&lt;AIG6&gt;ориентированный на ОС|
+[2838]&lt;AIS6&gt;ОС|
+[2839]&lt;AIG7&gt;Ориентированный на ПО|
+[2840]&lt;AIS7&gt;Программное обеспечение|
+[2841]&lt;AIG8&gt;Ориентированный	 на интернет|
+[2842]&lt;AIS8&gt;Интернет|
+[2843]&lt;FEQU&gt;Характеристики Качества|
+[2844]&lt;FEBU&gt;Ежемесячный бюджет на разработку новых функций|
+[2845]&lt;TECH&gt;Технологии|
 [2846]&lt;ADSC&gt;Data Server Cost|
 [2847]&lt;REAC&gt;Reach|
-[2848]&lt;LTEX&gt;Lifetime Expense|
-[2849]&lt;CIT1&gt;For all|
-[2850]&lt;CIT2&gt;s|
-[2851]&lt;CIT3&gt;in this city (Total:|
-[2852]&lt;AIG9&gt;Telecom Focused|
-[2853]&lt;AIS9&gt;Telecom|
-[2854]&lt;AK10&gt;Received Dividends|
-[2855]&lt;AK11&gt;Increase in Asset Value|
-[2856]&lt;AK12&gt;Loan Interest|
-[2857]&lt;AK20&gt;Data Server Cost|
-[2858]&lt;DIFF&gt;DIFFICULTY RATING|
-[2859]&lt;CORP&gt;CORPORATIONS (Total|
-[2860]&lt;FLR0&gt;Sorry, you do not have sufficient cash.</seg>
+[2848]&lt;LTEX&gt;Расходы в течение жизни|
+[2849]&lt;CIT1&gt;Для всех|
+[2850]&lt;CIT2&gt;с|
+[2851]&lt;CIT3&gt;в этом городе (Итого:|
+[2852]&lt;AIG9&gt;Ориентированный на телекоммуникации|
+[2853]&lt;AIS9&gt;Телекоммуникации|
+[2854]&lt;AK10&gt;Полученные дивиденды|
+[2855]&lt;AK11&gt;Увеличение стоимости активов|
+[2856]&lt;AK12&gt;Проценты по кредиту|
+[2857]&lt;AK20&gt;Стоимость сервера данных|
+[2858]&lt;DIFF&gt;РЕЙТИНГ СЛОЖНОСТИ|
+[2859]&lt;CORP&gt;КОРПОРАЦИИ (Итого|
+[2860]&lt;FLR0&gt;Извините, у вас недостаточно денег..</seg>
       </tuv>
     </tu>
     <tu>
