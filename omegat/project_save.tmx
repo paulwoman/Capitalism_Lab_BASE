@@ -86,6 +86,90 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- help|
+[0322]&lt;ENVI&gt;ENVIRONMENT|
+[0323]&lt;CMPT&gt;COMPETITORS|
+[0324]&lt;IMPT&gt;PRODUCTS|
+[0325]&lt;GOAL&gt;GOALS|
+[0326]&lt;CITY&gt;Number of Cities|
+[0327]&lt;SCAP&gt;Your Start-up Capital|
+[0329]&lt;ALLS&gt;Stock Market|
+[0341]&lt;NCOM&gt;Number of Competitors|
+[0342]&lt;CCAP&gt;Competitor Start-up Capital|
+[0343]&lt;CAGG&gt;AI Expansion Aggressiveness|
+[0344]&lt;COML&gt;AI Expertise Level|
+[0346]&lt;CSEC&gt;Show Competitor Trade Secrets|
+[0347]&lt;CCOM&gt;Competence of Local Competitors|
+[0348]&lt;CSEA&gt;Seaports Importing Consumer Goods per City|
+[0349]&lt;ISEA&gt;Seaports Importing Industrial Goods per City|
+[0351]&lt;ISUP&gt;Constant Import Supply|
+[0352]&lt;IQUA&gt;Import Quality|
+[0460]&lt;CCTI&gt;Macro Economy Realism|
+[0462]&lt;DSMI&gt;Retail Store Type|
+[0463]&lt;DSM1&gt;Many|
+[0464]&lt;DSM2&gt;One|
+[0467]&lt;GSYI&gt;Game Starting Year|
+[0504]&lt;AIG1&gt;Grand strategy failed, cannot find location to build.|
+[0505]&lt;GP41&gt;Declare Bankruptcy, ARE YOU SURE ?|
+[0506]&lt;GP42&gt;Yes|
+[0507]&lt;GP43&gt;No|
+[0508]&lt;IGM1&gt;Do you really want to retire?|
+[0509]&lt;IGM2&gt;Yes|
+[0510]&lt;IGM3&gt;No|
+[0511]&lt;IGM4&gt;Do you really want to quit to the Main Menu?|
+[0512]&lt;IGM5&gt;Yes|
+[0513]&lt;IGM6&gt;No|
+[0514]&lt;IGM7&gt;Do you really want to quit to Windows?|
+[0515]&lt;IGM8&gt;Yes|
+[0516]&lt;IGM9&gt;No|
+[0517]&lt;PR31&gt;Yes|
+[0518]&lt;PR32&gt;No|
+[0519]&lt;PLB1&gt;The plan will replace the existing layout of the current firm.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201222T124808Z" creationid="Александр" creationdate="20201222T124808Z">
+        <seg>- help|
+[0322]&lt;ENVI&gt;ENVIRONMENT|
+[0323]&lt;CMPT&gt;COMPETITORS|
+[0324]&lt;IMPT&gt;PRODUCTS|
+[0325]&lt;GOAL&gt;GOALS|
+[0326]&lt;CITY&gt;Number of Cities|
+[0327]&lt;SCAP&gt;Your Start-up Capital|
+[0329]&lt;ALLS&gt;Stock Market|
+[0341]&lt;NCOM&gt;Number of Competitors|
+[0342]&lt;CCAP&gt;Competitor Start-up Capital|
+[0343]&lt;CAGG&gt;AI Expansion Aggressiveness|
+[0344]&lt;COML&gt;AI Expertise Level|
+[0346]&lt;CSEC&gt;Show Competitor Trade Secrets|
+[0347]&lt;CCOM&gt;Competence of Local Competitors|
+[0348]&lt;CSEA&gt;Seaports Importing Consumer Goods per City|
+[0349]&lt;ISEA&gt;Seaports Importing Industrial Goods per City|
+[0351]&lt;ISUP&gt;Constant Import Supply|
+[0352]&lt;IQUA&gt;Import Quality|
+[0460]&lt;CCTI&gt;Macro Economy Realism|
+[0462]&lt;DSMI&gt;Retail Store Type|
+[0463]&lt;DSM1&gt;Many|
+[0464]&lt;DSM2&gt;One|
+[0467]&lt;GSYI&gt;Game Starting Year|
+[0504]&lt;AIG1&gt;Grand strategy failed, cannot find location to build.|
+[0505]&lt;GP41&gt;Declare Bankruptcy, ARE YOU SURE ?|
+[0506]&lt;GP42&gt;Yes|
+[0507]&lt;GP43&gt;No|
+[0508]&lt;IGM1&gt;Do you really want to retire?|
+[0509]&lt;IGM2&gt;Yes|
+[0510]&lt;IGM3&gt;No|
+[0511]&lt;IGM4&gt;Do you really want to quit to the Main Menu?|
+[0512]&lt;IGM5&gt;Yes|
+[0513]&lt;IGM6&gt;No|
+[0514]&lt;IGM7&gt;Do you really want to quit to Windows?|
+[0515]&lt;IGM8&gt;Yes|
+[0516]&lt;IGM9&gt;No|
+[0517]&lt;PR31&gt;Yes|
+[0518]&lt;PR32&gt;No|
+[0519]&lt;PLB1&gt;The plan will replace the existing layout of the current firm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//-------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215114Z" creationid="Olivier" creationdate="20201213T215114Z">
@@ -607,17 +691,17 @@ Choose one of eight pre-set difficulty levels.</seg>
 [0300]&lt;#?L0&gt;#r - ranking of players|
 [0301]&lt;#?L1&gt;#?</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201222T124747Z" creationid="Александр" creationdate="20201222T124747Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201222T125337Z" creationid="Александр" creationdate="20201222T124747Z">
         <seg>Эта игра была сохранениа на другой версии Капитализма.|
 [0169]&lt;LE_G&gt;Ошибка загрузки игры.|
-[0170]&lt;SE_C&gt;Ошиька создания сохранения|
-[0171]&lt;SE_H&gt;Error creating save game header.|
-[0172]&lt;SE_G&gt;Error writing save game data.|
-[0174]&lt;LOB?&gt;Cannot connect to lobby|
-[0175]&lt;LOBC&gt;Cannot get connection string from lobby|
-[0186]&lt;STAY&gt;Do you want to continue to stay in the game?|
-[0188]&lt;RSTT&gt;Restart Game|
-[0189]&lt;RETI&gt;Retire|
+[0170]&lt;SE_C&gt;Ошибка создания сохранения|
+[0171]&lt;SE_H&gt;Ошибка названия сохранения игры.|
+[0172]&lt;SE_G&gt;Ошибка при записи сохранения.|
+[0174]&lt;LOB?&gt;Невозможно подключиться к лобби.|
+[0175]&lt;LOBC&gt;Ошибка соединения.|
+[0186]&lt;STAY&gt;Хотите продолжить игру?|
+[0188]&lt;RSTT&gt;Перезапуск игры|
+[0189]&lt;RETI&gt;Уйти в отставку|
 [0190]&lt;RETR&gt;Retreat|
 [0196]&lt;ASRS&gt;Do you really want to restart?|
 [0241]&lt;CHEA&gt;Cheat Mode Enabled.|
