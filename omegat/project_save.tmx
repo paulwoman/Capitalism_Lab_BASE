@@ -691,7 +691,7 @@ Choose one of eight pre-set difficulty levels.</seg>
 [0300]&lt;#?L0&gt;#r - ranking of players|
 [0301]&lt;#?L1&gt;#?</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201222T125337Z" creationid="Александр" creationdate="20201222T124747Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201222T133143Z" creationid="Александр" creationdate="20201222T124747Z">
         <seg>Эта игра была сохранениа на другой версии Капитализма.|
 [0169]&lt;LE_G&gt;Ошибка загрузки игры.|
 [0170]&lt;SE_C&gt;Ошибка создания сохранения|
@@ -702,19 +702,19 @@ Choose one of eight pre-set difficulty levels.</seg>
 [0186]&lt;STAY&gt;Хотите продолжить игру?|
 [0188]&lt;RSTT&gt;Перезапуск игры|
 [0189]&lt;RETI&gt;Уйти в отставку|
-[0190]&lt;RETR&gt;Retreat|
-[0196]&lt;ASRS&gt;Do you really want to restart?|
-[0241]&lt;CHEA&gt;Cheat Mode Enabled.|
-[0257]&lt;SVSU&gt;Game Saved Successfully|
-[0258]&lt;WAIT&gt;Waiting for %1s %2s|
-[0274]&lt;GOAW&gt;You will be victorious when you have:|
-[0286]&lt;IPXL&gt;Join a local area network game|
-[0287]&lt;TCPL&gt;Join a local area network or Internet game|
-[0288]&lt;MODL&gt;Join with another player by Modem|
-[0289]&lt;COML&gt;Join with another player linked by serial cable|
-[0298]&lt;PRFL&gt;Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|
+[0190]&lt;RETR&gt;Ретрит|
+[0196]&lt;ASRS&gt;Вы действительно хотите начать заново?|
+[0241]&lt;CHEA&gt;Чит-режим включён.|
+[0257]&lt;SVSU&gt;Игра успешно сохранена|
+[0258]&lt;WAIT&gt;Ожидание %1s %2s|
+[0274]&lt;GOAW&gt;Ты одержишь победу после то как:|
+[0286]&lt;IPXL&gt;Присоединиться к игре по локальной сети|
+[0287]&lt;TCPL&gt;Присоединиться к игре по локальной сети или интернету|
+[0288]&lt;MODL&gt;Присоединиться к другому игроку через модем|
+[0289]&lt;COML&gt;Присоединитесь к другому игроку чере кабельное|
+[0298]&lt;PRFL&gt;Внимание: Это удалит всю информацию в вашем многопользовательском аккаунте лобби.|
 [0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|
-[0300]&lt;#?L0&gt;#r - ranking of players|
+[0300]&lt;#?L0&gt;#r - рейтинг игроков|
 [0301]&lt;#?L1&gt;#?</seg>
       </tuv>
     </tu>
