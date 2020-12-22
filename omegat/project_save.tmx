@@ -1167,43 +1167,43 @@ GM_NOC
 [0160]&lt;FNAM&gt;File name: |
 [0161]&lt;AOVW&gt;It will overwrite the existing save game.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T160203Z" creationid="Александр" creationdate="20201218T160203Z">
-        <seg>[0001]&lt;VERS&gt;Version %1s|
-[0011]&lt;QUIT&gt;Quit|
-[0012]&lt;TRAN&gt;Training|
-[0017]&lt;CANC&gt;Cancel|
-[0019]&lt;NEWP&gt;New Player|
-[0020]&lt;DELP&gt;Delete|
-[0021]&lt;SELP&gt;Continue|
-[0022]&lt;PRF1&gt;Please select your name from this list|
-[0023]&lt;PRF2&gt;If your name is not here, click on "New Player" below|
-[0024]&lt;PRFN&gt;Please enter your name|
-[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|
-[0026]&lt;PRDY&gt;Yes|
-[0027]&lt;PRDN&gt;No|
-[0028]&lt;PRED&gt;Same profile has already been created|
-[0029]&lt;PREI&gt;Error creating %1s directory|
-[0030]&lt;PREC&gt;Error creating profile|
-[0038]&lt;NAH_&gt;Human|
-[0040]&lt;DIFF&gt;Difficulty Level|
-[0092]&lt;RNDE&gt;Random Events|
-[0118]&lt;RFU0&gt;The host refuses you|
-[0119]&lt;RFU1&gt;Cannot join a new game session|
-[0120]&lt;RFU2&gt;Cannot join a load game session|
-[0121]&lt;RFU3&gt;You cannot join the game because the save game is different from the host|
-[0122]&lt;RFU4&gt;You cannot join the game because the host does not accept your game version|
-[0123]&lt;RFU5&gt;You cannot join the game because the session is full|
-[0148]&lt;SV_G&gt;Save Game|
-[0149]&lt;0SAV&gt;You haven't saved any games yet.|
-[0150]&lt;SAVE&gt;Save|
-[0152]&lt;LOAD&gt;Load|
-[0154]&lt;EMGS&gt;Empty Game Slot|
-[0155]&lt;PAGE&gt;page %1d/%2d|
-[0156]&lt;-DSL&gt;Cannot delete this slot|
-[0158]&lt;GDAT&gt;Game date: |
-[0159]&lt;FDAT&gt;File date: |
-[0160]&lt;FNAM&gt;File name: |
-[0161]&lt;AOVW&gt;It will overwrite the existing save game.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201222T124012Z" creationid="Александр" creationdate="20201218T160203Z">
+        <seg>[0001]&lt;VERS&gt;Версия %1s|
+[0011]&lt;QUIT&gt;Выход
+[0012]&lt;TRAN&gt;Обучение|
+[0017]&lt;CANC&gt;Отмена|
+[0019]&lt;NEWP&gt;Новый игорк|
+[0020]&lt;DELP&gt;Удалить|
+[0021]&lt;SELP&gt;Продолжить|
+[0022]&lt;PRF1&gt;Пожалуйста, выберите Ваше имя из этого списка|
+[0023]&lt;PRF2&gt;Если Вашего имени здесь нет, выберите "Новый игрок ниже.|
+[0024]&lt;PRFN&gt;Пожалуйста введите своё имя|
+[0025]&lt;PRFD&gt;Вы уверены, что хотите удалить этого человека из списка?|
+[0026]&lt;PRDY&gt;Да|
+[0027]&lt;PRDN&gt;Нет|
+[0028]&lt;PRED&gt;Такой профиль уже создан|
+[0029]&lt;PREI&gt;Ошибка создания %1s |
+[0030]&lt;PREC&gt;Ошибка создания профиля|
+[0038]&lt;NAH_&gt;Человек|
+[0040]&lt;DIFF&gt;Уровень сложности|
+[0092]&lt;RNDE&gt;Случайные события|
+[0118]&lt;RFU0&gt;Отказано|
+[0119]&lt;RFU1&gt;Невозможно присоединиться к новой игре|
+[0120]&lt;RFU2&gt;Невозможно присоединитсья к этой игре|
+[0121]&lt;RFU3&gt;Невозможно присоединиться к игре, потому что сохраненная игра отличается от хоста|.
+[0122]&lt;RFU4&gt;Невозможно присоединиться к игре, потому что хост не распознаёт вашу версию игры.|
+[0123]&lt;RFU5&gt;Вы не можете присоединиться к игре, потому что сеанс уже полон|.
+[0148]&lt;SV_G&gt;Сохранить игру|
+[0149]&lt;0SAV&gt;Вы еще не сохраняли игру.|
+[0150]&lt;SAVE&gt;Сохранить|
+[0152]&lt;LOAD&gt;Загрузить|
+[0154]&lt;EMGS&gt;Пустой игровой слот|
+[0155]&lt;PAGE&gt;Страница %1d/%2d|
+[0156]&lt;-DSL&gt;Невозможно удалить этот слот|
+[0158]&lt;GDAT&gt;Данные игры:|
+[0159]&lt;FDAT&gt;Данные файла:|
+[0160]&lt;FNAM&gt;Имя файла:|
+[0161]&lt;AOVW&gt;Перезаписать сохранённую игру.</seg>
       </tuv>
     </tu>
     <tu>
