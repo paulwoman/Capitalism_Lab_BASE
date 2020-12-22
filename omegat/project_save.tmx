@@ -934,6 +934,20 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The game is not saved.|
+[0166]&lt;LE_O&gt;Cannot open the save game file|
+[0167]&lt;LE_H&gt;Cannot read file header|
+[0168]&lt;LE_P&gt;Cannot load the save game.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201222T124538Z" creationid="Александр" creationdate="20201222T124538Z">
+        <seg>Игра не сохранена.|
+[0166]&lt;LE_O&gt;Не могу открыть сохраненный файл игры|
+[0167]&lt;LE_H&gt;Невозможно прочитать файл|
+[0168]&lt;LE_P&gt;Невозможно загрузить сохранённую игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121100Z" creationid="Olivier" creationdate="20201217T220133Z">
