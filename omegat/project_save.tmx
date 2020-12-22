@@ -560,6 +560,230 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each shareholder now holds|
+[2753]&lt;NSS3&gt;times as many shares.|
+[2754]&lt;NSS4&gt;undergoes a 1-|
+[2755]&lt;NSS5&gt;stock merge, which groups every|
+[2756]&lt;NSS6&gt;shares into one share.|
+[2757]&lt;NBM1&gt;buys an|
+[2758]&lt;NBM2&gt;buys a|
+[2759]&lt;NBM3&gt;in|
+[2760]&lt;NBM4&gt;from|
+[2761]&lt;NBM5&gt;for|
+[2762]&lt;NCI1&gt;The central bank increases the interest rate from|
+[2763]&lt;NCI2&gt;The central bank decreases the interest rate from|
+[2764]&lt;NCI3&gt;to|
+[2765]&lt;NCB1&gt;A new chairman with|
+[2766]&lt;NCB2&gt;attitude is now at the helm of the central bank.|
+[2767]&lt;NAT1&gt;acquires technology for|
+[2768]&lt;NAT2&gt;from|
+[2769]&lt;NAT3&gt;for|
+[2770]&lt;NGV1&gt;The Government|
+[2771]&lt;NGV2&gt;the Government|
+[2772]&lt;NAC0&gt;Corporation Changes Strategy|
+[2773]&lt;NIR0&gt;Central Bank Changes Interest Rate|
+[2774]&lt;NBC0&gt;The New Central Bank Chairman|
+[2775]&lt;NCC0&gt;Career Change|
+[2776]&lt;NRI0&gt;Riot|
+[2777]&lt;NSC0&gt;Stock Crash|
+[2778]&lt;NCR0&gt;Currency Revalued!|
+[2779]&lt;CBA1&gt;Inflation Hawk (modest)|
+[2780]&lt;CBA2&gt;Inflation Hawk (strong)|
+[2781]&lt;CBA3&gt;Neutral|
+[2782]&lt;CBA4&gt;Inflation Dove (modest)|
+[2783]&lt;CBA5&gt;Inflation Dove (strong)|
+[2784]&lt;CBP1&gt;Ultra Tight|
+[2785]&lt;CBP2&gt;Very Tight|
+[2786]&lt;CBP3&gt;Tight|
+[2787]&lt;CBP4&gt;Slightly Tight|
+[2788]&lt;CBP5&gt;Normal|
+[2789]&lt;CBP6&gt;Slightly Loose|
+[2790]&lt;CBP7&gt;Loose|
+[2791]&lt;CBP8&gt;Very Loose|
+[2792]&lt;CBP9&gt;Ultra Loose|
+[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|
+[2794]&lt;AAS2&gt;Sorry, the AI is having an advance start and you cannot buy land until year|
+[2795]&lt;AAS3&gt;Sorry, the AI is having an advance start and you cannot buy stock until year|
+[2796]&lt;SCO1&gt;Score:|
+[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|
+[2798]&lt;BF01&gt;Use your personal money to build your mansion.|
+[2799]&lt;BF02&gt;to relocate the firm.|
+[2800]&lt;BF03&gt;to duplicate the firm.|
+[2801]&lt;BF04&gt;to build the firm.|
+[2802]&lt;BF05&gt;Customer Traffic Index:|
+[2803]&lt;BF06&gt;Compensation:|
+[2804]&lt;BF07&gt;Price Premium|
+[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to Build More|
+[2806]&lt;PSTO&gt;Stock|
+[2807]&lt;FRE1&gt;Freight Cost Breakdown|
+[2808]&lt;FRE2&gt;Truck - Supplier to Seaport:|
+[2809]&lt;FRE3&gt;Cargo Ship - City to City:|
+[2810]&lt;FRE4&gt;Truck - Seaport to Buyer:|
+[2811]&lt;FRE5&gt;TOTAL:|
+[2812]&lt;FRE6&gt;Freight Cost|
+[2813]&lt;FRE7&gt;Shipment from Supplier to Buyer:|
+[2814]&lt;SOW1&gt;Sowing in|
+[2815]&lt;HARV&gt;Harvest in|
+[2816]&lt;ITP1&gt;Organize an Intensive Training Program|
+[2817]&lt;ITP2&gt;Training effect will be instant but|
+[2818]&lt;ITP3&gt;its cost-effectiveness is 30% lower than normal training.|
+[2819]&lt;ITP4&gt;How much will you allocate for training per employee?|
+[2820]&lt;RDC1&gt;firm|
+[2821]&lt;RDC2&gt;firms|
+[2822]&lt;RDC3&gt; of yours have been redirected to purchase |
+[2823]&lt;RDC4&gt; from the current firm.|
+[2824]&lt;RDC5&gt;To view the new client list, click the [Clients] button on your Sales Unit's interface.|
+[2825]&lt;RDC6&gt;None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|
+[2826]&lt;KOC1&gt;King of Capitalism|
+[2827]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|
+[2828]&lt;KOC3&gt;billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|
+[2829]&lt;AGS1&gt;To win this game, you must achieve the given goals.|
+[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|
+[2831]&lt;AGS3&gt;Your possess expertise in the|
+[2832]&lt;AGS4&gt;industry (expertise rating:|
+[2833]&lt;FEGN&gt;The city government does not have enough cash.|
+[2834]&lt;NCT1&gt;To acquire the exclusive rights to develop and run the new city for|
+[2835]&lt;NCT2&gt;years, you must donate|
+[2836]&lt;NCT3&gt;to the city's treasury.|
+[2837]&lt;AIG6&gt;OS Focused|
+[2838]&lt;AIS6&gt;OS|
+[2839]&lt;AIG7&gt;Software Focused|
+[2840]&lt;AIS7&gt;Software|
+[2841]&lt;AIG8&gt;Internet Focused|
+[2842]&lt;AIS8&gt;Internet|
+[2843]&lt;FEQU&gt;Features Quality|
+[2844]&lt;FEBU&gt;Monthly budget for new features development|
+[2845]&lt;TECH&gt;Tech|
+[2846]&lt;ADSC&gt;Data Server Cost|
+[2847]&lt;REAC&gt;Reach|
+[2848]&lt;LTEX&gt;Lifetime Expense|
+[2849]&lt;CIT1&gt;For all|
+[2850]&lt;CIT2&gt;s|
+[2851]&lt;CIT3&gt;in this city (Total:|
+[2852]&lt;AIG9&gt;Telecom Focused|
+[2853]&lt;AIS9&gt;Telecom|
+[2854]&lt;AK10&gt;Received Dividends|
+[2855]&lt;AK11&gt;Increase in Asset Value|
+[2856]&lt;AK12&gt;Loan Interest|
+[2857]&lt;AK20&gt;Data Server Cost|
+[2858]&lt;DIFF&gt;DIFFICULTY RATING|
+[2859]&lt;CORP&gt;CORPORATIONS (Total|
+[2860]&lt;FLR0&gt;Sorry, you do not have sufficient cash.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201222T152125Z" creationid="Александр" creationdate="20201222T152125Z">
+        <seg>Теперь каждый акционер владеет|
+[2753]&lt;NSS3&gt;разное количество акций.|
+[2754]&lt;NSS4&gt;подвергается1-|
+[2755]&lt;NSS5&gt;слияние акций, которое группирует каждый|
+[2756]&lt;NSS6&gt;акции в одну.|
+[2757]&lt;NBM1&gt;покупает|
+[2758]&lt;NBM2&gt;покупает|
+[2759]&lt;NBM3&gt;в|
+[2760]&lt;NBM4&gt;из|
+[2761]&lt;NBM5&gt;за|
+[2762]&lt;NCI1&gt;Центральный банк повышает процентную ставку от|
+[2763]&lt;NCI2&gt;Центральный банк снижает процентную ставку с|
+[2764]&lt;NCI3&gt;на|
+[2765]&lt;NCB1&gt;Новый руководитель|
+[2766]&lt;NCB2&gt;отношение теперь управляется центральным банком.|
+[2767]&lt;NAT1&gt;приобретает технологи|
+[2768]&lt;NAT2&gt;из|
+[2769]&lt;NAT3&gt;за|
+[2770]&lt;NGV1&gt;Государство|
+[2771]&lt;NGV2&gt;Государство|
+[2772]&lt;NAC0&gt;Стратегия изменений корпорации|
+[2773]&lt;NIR0&gt;Центральный банк меняет процентную ставку|
+[2774]&lt;NBC0&gt;Новый руководитель Центрального банка|
+[2775]&lt;NCC0&gt;Смена порфессии|
+[2776]&lt;NRI0&gt;Бунт
+[2777]&lt;NSC0&gt;Падение акций|
+[2778]&lt;NCR0&gt;переоценка валют!|
+[2779]&lt;CBA1&gt;Inflation Hawk (modest)|
+[2780]&lt;CBA2&gt;Inflation Hawk (strong)|
+[2781]&lt;CBA3&gt;Neutral|
+[2782]&lt;CBA4&gt;Inflation Dove (modest)|
+[2783]&lt;CBA5&gt;Inflation Dove (strong)|
+[2784]&lt;CBP1&gt;Ultra Tight|
+[2785]&lt;CBP2&gt;Very Tight|
+[2786]&lt;CBP3&gt;Tight|
+[2787]&lt;CBP4&gt;Slightly Tight|
+[2788]&lt;CBP5&gt;Normal|
+[2789]&lt;CBP6&gt;Slightly Loose|
+[2790]&lt;CBP7&gt;Loose|
+[2791]&lt;CBP8&gt;Very Loose|
+[2792]&lt;CBP9&gt;Ultra Loose|
+[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|
+[2794]&lt;AAS2&gt;Sorry, the AI is having an advance start and you cannot buy land until year|
+[2795]&lt;AAS3&gt;Sorry, the AI is having an advance start and you cannot buy stock until year|
+[2796]&lt;SCO1&gt;Score:|
+[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|
+[2798]&lt;BF01&gt;Use your personal money to build your mansion.|
+[2799]&lt;BF02&gt;to relocate the firm.|
+[2800]&lt;BF03&gt;to duplicate the firm.|
+[2801]&lt;BF04&gt;to build the firm.|
+[2802]&lt;BF05&gt;Customer Traffic Index:|
+[2803]&lt;BF06&gt;Compensation:|
+[2804]&lt;BF07&gt;Price Premium|
+[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to Build More|
+[2806]&lt;PSTO&gt;Stock|
+[2807]&lt;FRE1&gt;Freight Cost Breakdown|
+[2808]&lt;FRE2&gt;Truck - Supplier to Seaport:|
+[2809]&lt;FRE3&gt;Cargo Ship - City to City:|
+[2810]&lt;FRE4&gt;Truck - Seaport to Buyer:|
+[2811]&lt;FRE5&gt;TOTAL:|
+[2812]&lt;FRE6&gt;Freight Cost|
+[2813]&lt;FRE7&gt;Shipment from Supplier to Buyer:|
+[2814]&lt;SOW1&gt;Sowing in|
+[2815]&lt;HARV&gt;Harvest in|
+[2816]&lt;ITP1&gt;Organize an Intensive Training Program|
+[2817]&lt;ITP2&gt;Training effect will be instant but|
+[2818]&lt;ITP3&gt;its cost-effectiveness is 30% lower than normal training.|
+[2819]&lt;ITP4&gt;How much will you allocate for training per employee?|
+[2820]&lt;RDC1&gt;firm|
+[2821]&lt;RDC2&gt;firms|
+[2822]&lt;RDC3&gt; of yours have been redirected to purchase |
+[2823]&lt;RDC4&gt; from the current firm.|
+[2824]&lt;RDC5&gt;To view the new client list, click the [Clients] button on your Sales Unit's interface.|
+[2825]&lt;RDC6&gt;None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|
+[2826]&lt;KOC1&gt;King of Capitalism|
+[2827]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|
+[2828]&lt;KOC3&gt;billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|
+[2829]&lt;AGS1&gt;To win this game, you must achieve the given goals.|
+[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|
+[2831]&lt;AGS3&gt;Your possess expertise in the|
+[2832]&lt;AGS4&gt;industry (expertise rating:|
+[2833]&lt;FEGN&gt;The city government does not have enough cash.|
+[2834]&lt;NCT1&gt;To acquire the exclusive rights to develop and run the new city for|
+[2835]&lt;NCT2&gt;years, you must donate|
+[2836]&lt;NCT3&gt;to the city's treasury.|
+[2837]&lt;AIG6&gt;OS Focused|
+[2838]&lt;AIS6&gt;OS|
+[2839]&lt;AIG7&gt;Software Focused|
+[2840]&lt;AIS7&gt;Software|
+[2841]&lt;AIG8&gt;Internet Focused|
+[2842]&lt;AIS8&gt;Internet|
+[2843]&lt;FEQU&gt;Features Quality|
+[2844]&lt;FEBU&gt;Monthly budget for new features development|
+[2845]&lt;TECH&gt;Tech|
+[2846]&lt;ADSC&gt;Data Server Cost|
+[2847]&lt;REAC&gt;Reach|
+[2848]&lt;LTEX&gt;Lifetime Expense|
+[2849]&lt;CIT1&gt;For all|
+[2850]&lt;CIT2&gt;s|
+[2851]&lt;CIT3&gt;in this city (Total:|
+[2852]&lt;AIG9&gt;Telecom Focused|
+[2853]&lt;AIS9&gt;Telecom|
+[2854]&lt;AK10&gt;Received Dividends|
+[2855]&lt;AK11&gt;Increase in Asset Value|
+[2856]&lt;AK12&gt;Loan Interest|
+[2857]&lt;AK20&gt;Data Server Cost|
+[2858]&lt;DIFF&gt;DIFFICULTY RATING|
+[2859]&lt;CORP&gt;CORPORATIONS (Total|
+[2860]&lt;FLR0&gt;Sorry, you do not have sufficient cash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extend Text Box=32,420,300,0</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215844Z" creationid="Olivier" creationdate="20201217T215844Z">
