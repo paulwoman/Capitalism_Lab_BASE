@@ -582,6 +582,60 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It was saved with a different version of Capitalism.|
+[0169]&lt;LE_G&gt;Load game error|
+[0170]&lt;SE_C&gt;Error creating save game file.|
+[0171]&lt;SE_H&gt;Error creating save game header.|
+[0172]&lt;SE_G&gt;Error writing save game data.|
+[0174]&lt;LOB?&gt;Cannot connect to lobby|
+[0175]&lt;LOBC&gt;Cannot get connection string from lobby|
+[0186]&lt;STAY&gt;Do you want to continue to stay in the game?|
+[0188]&lt;RSTT&gt;Restart Game|
+[0189]&lt;RETI&gt;Retire|
+[0190]&lt;RETR&gt;Retreat|
+[0196]&lt;ASRS&gt;Do you really want to restart?|
+[0241]&lt;CHEA&gt;Cheat Mode Enabled.|
+[0257]&lt;SVSU&gt;Game Saved Successfully|
+[0258]&lt;WAIT&gt;Waiting for %1s %2s|
+[0274]&lt;GOAW&gt;You will be victorious when you have:|
+[0286]&lt;IPXL&gt;Join a local area network game|
+[0287]&lt;TCPL&gt;Join a local area network or Internet game|
+[0288]&lt;MODL&gt;Join with another player by Modem|
+[0289]&lt;COML&gt;Join with another player linked by serial cable|
+[0298]&lt;PRFL&gt;Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|
+[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|
+[0300]&lt;#?L0&gt;#r - ranking of players|
+[0301]&lt;#?L1&gt;#?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201222T124747Z" creationid="Александр" creationdate="20201222T124747Z">
+        <seg>Эта игра была сохранениа на другой версии Капитализма.|
+[0169]&lt;LE_G&gt;Ошибка загрузки игры.|
+[0170]&lt;SE_C&gt;Ошиька создания сохранения|
+[0171]&lt;SE_H&gt;Error creating save game header.|
+[0172]&lt;SE_G&gt;Error writing save game data.|
+[0174]&lt;LOB?&gt;Cannot connect to lobby|
+[0175]&lt;LOBC&gt;Cannot get connection string from lobby|
+[0186]&lt;STAY&gt;Do you want to continue to stay in the game?|
+[0188]&lt;RSTT&gt;Restart Game|
+[0189]&lt;RETI&gt;Retire|
+[0190]&lt;RETR&gt;Retreat|
+[0196]&lt;ASRS&gt;Do you really want to restart?|
+[0241]&lt;CHEA&gt;Cheat Mode Enabled.|
+[0257]&lt;SVSU&gt;Game Saved Successfully|
+[0258]&lt;WAIT&gt;Waiting for %1s %2s|
+[0274]&lt;GOAW&gt;You will be victorious when you have:|
+[0286]&lt;IPXL&gt;Join a local area network game|
+[0287]&lt;TCPL&gt;Join a local area network or Internet game|
+[0288]&lt;MODL&gt;Join with another player by Modem|
+[0289]&lt;COML&gt;Join with another player linked by serial cable|
+[0298]&lt;PRFL&gt;Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|
+[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|
+[0300]&lt;#?L0&gt;#r - ranking of players|
+[0301]&lt;#?L1&gt;#?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its design goal is to achieve visual harmonization across languages.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T101603Z" creationid="Александр" creationdate="20201218T101603Z">
