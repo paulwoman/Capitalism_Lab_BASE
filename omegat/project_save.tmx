@@ -782,6 +782,18 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proceed ?|
+[0162]&lt;SE-L&gt;Cannot load in scenario editor|
+[0163]&lt;ADLS&gt;This save game will be deleted.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201222T122616Z" creationid="Александр" creationdate="20201222T122616Z">
+        <seg>Proceed ?|
+[0162]&lt;SE-L&gt;Cannot load in scenario editor|
+[0163]&lt;ADLS&gt;This save game will be deleted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random Events=Occasional</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215050Z" creationid="Olivier" creationdate="20201213T215050Z">
