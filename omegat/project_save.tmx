@@ -786,10 +786,22 @@ Choose one of eight pre-set difficulty levels.</seg>
 [0162]&lt;SE-L&gt;Cannot load in scenario editor|
 [0163]&lt;ADLS&gt;This save game will be deleted.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201222T122616Z" creationid="Александр" creationdate="20201222T122616Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201222T124112Z" creationid="Александр" creationdate="20201222T122616Z">
         <seg>Proceed ?|
-[0162]&lt;SE-L&gt;Cannot load in scenario editor|
-[0163]&lt;ADLS&gt;This save game will be deleted.</seg>
+[0162]&lt;SE-L&gt;Невозможно загрузить в редакторе сценариев|
+[0163]&lt;ADLS&gt;Загружаемая игра была удалена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proceed ?|
+[0164]&lt;DESV&gt;Description of the save game:|
+[0165]&lt;OUTD&gt;Insufficient disk space !</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201222T124309Z" creationid="Александр" creationdate="20201222T124025Z">
+        <seg>Proceed ?|
+[0164]&lt;DESV&gt;Описание сохранённой игры:|
+[0165]&lt;OUTD&gt;Недостаточно места на диске !</seg>
       </tuv>
     </tu>
     <tu>
