@@ -126,32 +126,32 @@ Low - product customization applies to your company only; Medium - it applies to
 [0518]&lt;PR32&gt;No|
 [0519]&lt;PLB1&gt;The plan will replace the existing layout of the current firm.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201222T124808Z" creationid="Александр" creationdate="20201222T124808Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201222T134542Z" creationid="Александр" creationdate="20201222T124808Z">
         <seg>- help|
-[0322]&lt;ENVI&gt;ENVIRONMENT|
-[0323]&lt;CMPT&gt;COMPETITORS|
-[0324]&lt;IMPT&gt;PRODUCTS|
-[0325]&lt;GOAL&gt;GOALS|
-[0326]&lt;CITY&gt;Number of Cities|
-[0327]&lt;SCAP&gt;Your Start-up Capital|
-[0329]&lt;ALLS&gt;Stock Market|
-[0341]&lt;NCOM&gt;Number of Competitors|
-[0342]&lt;CCAP&gt;Competitor Start-up Capital|
-[0343]&lt;CAGG&gt;AI Expansion Aggressiveness|
-[0344]&lt;COML&gt;AI Expertise Level|
-[0346]&lt;CSEC&gt;Show Competitor Trade Secrets|
-[0347]&lt;CCOM&gt;Competence of Local Competitors|
-[0348]&lt;CSEA&gt;Seaports Importing Consumer Goods per City|
-[0349]&lt;ISEA&gt;Seaports Importing Industrial Goods per City|
-[0351]&lt;ISUP&gt;Constant Import Supply|
-[0352]&lt;IQUA&gt;Import Quality|
+[0322]&lt;ENVI&gt;ОКРУЖАЮЩАЯ СРЕДА|
+[0323]&lt;CMPT&gt;СОПЕРНИКИ|
+[0324]&lt;IMPT&gt;ПРОДУКТЫ|
+[0325]&lt;GOAL&gt;ЦЕЛИ|
+[0326]&lt;CITY&gt;Количество городов|
+[0327]&lt;SCAP&gt;Ваш стартовый капитал|
+[0329]&lt;ALLS&gt;Фондовая биржа|
+[0341]&lt;NCOM&gt;Количество соперников|
+[0342]&lt;CCAP&gt;Стартовый капитал соперников|
+[0343]&lt;CAGG&gt;Агрессивность распространения ИИ|
+[0344]&lt;COML&gt;Уровень квалификации ИИ|
+[0346]&lt;CSEC&gt;Показывать секреты конкурентов|
+[0347]&lt;CCOM&gt;Компетентность конкурентов|
+[0348]&lt;CSEA&gt;Импорт потребительских товаров из Морских портов|
+[0349]&lt;ISEA&gt;Имарпт промышленный товаров из Морских портов|
+[0351]&lt;ISUP&gt;Постоянные поставки на импорт|
+[0352]&lt;IQUA&gt;Качество импорта|
 [0460]&lt;CCTI&gt;Macro Economy Realism|
-[0462]&lt;DSMI&gt;Retail Store Type|
-[0463]&lt;DSM1&gt;Many|
-[0464]&lt;DSM2&gt;One|
-[0467]&lt;GSYI&gt;Game Starting Year|
-[0504]&lt;AIG1&gt;Grand strategy failed, cannot find location to build.|
-[0505]&lt;GP41&gt;Declare Bankruptcy, ARE YOU SURE ?|
+[0462]&lt;DSMI&gt;Тип розничного магазина|
+[0463]&lt;DSM1&gt;Много|
+[0464]&lt;DSM2&gt;ОДин|
+[0467]&lt;GSYI&gt;Стартовый год|
+[0504]&lt;AIG1&gt;Грандиозная стратегия провалилась, не найдено место для строительства.|
+[0505]&lt;GP41&gt;Объявить о банкротстве?  ВЫ УВЕРЕНЫ?|
 [0506]&lt;GP42&gt;Yes|
 [0507]&lt;GP43&gt;No|
 [0508]&lt;IGM1&gt;Do you really want to retire?|
