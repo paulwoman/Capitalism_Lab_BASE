@@ -1546,6 +1546,42 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The goal has been achieved.|
+[2926]&lt;TGW2&gt;Congratulations!|
+[2927]&lt;TGT1&gt;City Goal:|
+[2928]&lt;TGT2&gt;Town Goal:|
+[2929]&lt;TGT3&gt;Village Goal:|
+[2930]&lt;PEDU&gt;% of population with education from:|
+[2931]&lt;PUB1&gt;For this|
+[2932]&lt;APR1&gt;can be acquired for|
+[2933]&lt;APR2&gt;But you do not have enough cash at the moment.|
+[2934]&lt;APR3&gt;Do you want to acquire it now?|
+[2935]&lt;TUT1&gt;If this is your first time playing Capitalism Lab, you are advised to start with tutorial #1.\n\n|
+[2936]&lt;TUT2&gt;The last tutorial you have finished is tutorial #|
+[2937]&lt;TUT3&gt;.\n\nYou are advised to follow the tutorials in a sequential order.\n\n|
+[2938]&lt;TUT4&gt;Are you sure that you want to start tutorial #|
+[2939]&lt;TUT5&gt; now?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201223T123858Z" creationid="Александр" creationdate="20201223T123858Z">
+        <seg>Цель достигнута.|
+[2926]&lt;TGW2&gt;Превосходно!|
+[2927]&lt;TGT1&gt;Городские цели:|
+[2928]&lt;TGT2&gt;Городские цели:|
+[2929]&lt;TGT3&gt;Цели деревень:|
+[2930]&lt;PEDU&gt;% населения с образованием от:|
+[2931]&lt;PUB1&gt;Для этого|
+[2932]&lt;APR1&gt;можно приобрести для|
+[2933]&lt;APR2&gt;Но у тебя не хватает денег на данный момент.|
+[2934]&lt;APR3&gt;Вы хотите приобрести сейчас?|
+[2935]&lt;TUT1&gt;Если вы впервые играете в "Лабораторию Капитализма", советуем вам начать с урока №1.\n\n|
+[2936]&lt;TUT2&gt;Последний урок, который вы закончили, это урок №|
+[2937]&lt;TUT3&gt;.\n\nРекомендуем  следовать инструкциям в последовательном порядке..\n\n|
+[2938]&lt;TUT4&gt;Are you sure that you want to start tutorial #|
+[2939]&lt;TUT5&gt; now?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121100Z" creationid="Olivier" creationdate="20201217T220133Z">
