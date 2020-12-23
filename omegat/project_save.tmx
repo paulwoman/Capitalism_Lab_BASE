@@ -126,7 +126,7 @@ Low - product customization applies to your company only; Medium - it applies to
 [0518]&lt;PR32&gt;No|
 [0519]&lt;PLB1&gt;The plan will replace the existing layout of the current firm.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201222T134542Z" creationid="Александр" creationdate="20201222T124808Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201223T121045Z" creationid="Александр" creationdate="20201222T124808Z">
         <seg>- help|
 [0322]&lt;ENVI&gt;ОКРУЖАЮЩАЯ СРЕДА|
 [0323]&lt;CMPT&gt;СОПЕРНИКИ|
@@ -152,14 +152,14 @@ Low - product customization applies to your company only; Medium - it applies to
 [0467]&lt;GSYI&gt;Стартовый год|
 [0504]&lt;AIG1&gt;Грандиозная стратегия провалилась, не найдено место для строительства.|
 [0505]&lt;GP41&gt;Объявить о банкротстве?  ВЫ УВЕРЕНЫ?|
-[0506]&lt;GP42&gt;Yes|
-[0507]&lt;GP43&gt;No|
-[0508]&lt;IGM1&gt;Do you really want to retire?|
-[0509]&lt;IGM2&gt;Yes|
-[0510]&lt;IGM3&gt;No|
-[0511]&lt;IGM4&gt;Do you really want to quit to the Main Menu?|
-[0512]&lt;IGM5&gt;Yes|
-[0513]&lt;IGM6&gt;No|
+[0506]&lt;GP42&gt;Да|
+[0507]&lt;GP43&gt;Нет|
+[0508]&lt;IGM1&gt;Вы действительно хотите уйти в отставку?|
+[0509]&lt;IGM2&gt;Да|
+[0510]&lt;IGM3&gt;Нет|
+[0511]&lt;IGM4&gt;Вы действительно хотите выйти в Главное меню?|
+[0512]&lt;IGM5&gt;Да|
+[0513]&lt;IGM6&gt;Нет|
 [0514]&lt;IGM7&gt;Do you really want to quit to Windows?|
 [0515]&lt;IGM8&gt;Yes|
 [0516]&lt;IGM9&gt;No|
