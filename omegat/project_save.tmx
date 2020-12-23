@@ -1461,73 +1461,73 @@ Choose one of eight pre-set difficulty levels.</seg>
 [2924]&lt;TGD2&gt;and improve the quality of life of its citizens.|
 [2925]&lt;TGW1&gt;Congratulations!</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201222T163208Z" creationid="Александр" creationdate="20201222T163208Z">
-        <seg>The cost of adding a new floor is|
-[2861]&lt;FLR1&gt;The cost of adding a new floor is|
-[2862]&lt;FLR2&gt;Do you want to proceed?|
-[2863]&lt;NSUB&gt;Set Up a New Subsidiary Company|
-[2864]&lt;NSN1&gt;Sorry, the requirement is not met.|
-[2865]&lt;NSN2&gt;The initial capital of your new subsidiary company must be at least|
-[2866]&lt;NSN3&gt;million|
-[2867]&lt;NSC1&gt;You must now hire a CEO for your new subsidiary company.|
-[2868]&lt;NSC2&gt;To do so, in the next screen, select a CEO candidate and click the [Hire Chief Executive] button.|
-[2869]&lt;NSH1&gt;the job as the|
-[2870]&lt;NSH2&gt;of|
-[2871]&lt;NSH3&gt;the new subsidiary company|
-[2872]&lt;SUB1&gt;Your corporation owns|
-[2873]&lt;SUB2&gt;shares of this company.|
-[2874]&lt;LAN1&gt;Decrease All Civic Building Setup Costs by|
-[2875]&lt;LAN2&gt;Decrease All Civic Building Operating Costs by|
-[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|
-[2877]&lt;LAN4&gt;Decrease All Commercial Firm Fixed Operating Costs by|
-[2878]&lt;LAN5&gt;Increase Industry Competitiveness by|
-[2879]&lt;LAN6&gt;Increase a Selected Firm Unit Type's Level by|
-[2880]&lt;EVRY&gt;Every|
-[2881]&lt;ATS1&gt;This cannot be done because [|
-[2882]&lt;ATS2&gt;] which is outside the subsidiary company's Scope of Production.|
-[2883]&lt;LAN7&gt;Increase this city's competitiveness in|
-[2884]&lt;LAN8&gt;Increase the levels of all|
-[2885]&lt;LAN9&gt;in this city by|
-[2886]&lt;NCG1&gt;You have enabled Survival Mode in City Economic Simulation DLC.\n\n|
-[2887]&lt;NCG2&gt;All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n|
-[2888]&lt;NCG3&gt;You have been assigned with new goals.\n\n|
-[2889]&lt;NCG4&gt;Press the 'G' shortcut key anytime to view the Goal screen.|
-[2890]&lt;NCG5&gt;You have been assigned with a new goal.\n\n|
-[2891]&lt;NCG6&gt;Press the 'G' shortcut key anytime to view the Goal screen.|
-[2892]&lt;NCG7&gt;Are you sure that you want to remove all the goals in this game?|
-[2893]&lt;PLG1&gt;Set up a factory to produce|
-[2894]&lt;PLG2&gt;and launch it onto the market.|
-[2895]&lt;OWNT&gt;Owned Tech|
-[2896]&lt;TOPT&gt;Top Tech|
-[2897]&lt;QUAR&gt;Quality Rating|
-[2898]&lt;FLVL&gt;Factory Level|
-[2899]&lt;ECOM&gt;E-commerce Sale %:|
-[2900]&lt;GDIF&gt;Current Game's Difficulty Level|
-[2901]&lt;BSOF&gt;sets up a Software Company|
-[2902]&lt;BINT&gt;sets up an Internet Company|
-[2903]&lt;BTEL&gt;sets up a Telecom|
-[2904]&lt;BOND&gt;Bond|
-[2905]&lt;BCOU&gt;Coupon|
-[2906]&lt;BYIE&gt;Yield|
-[2907]&lt;BMAT&gt;Maturity|
-[2908]&lt;BPRI&gt;Price|
-[2909]&lt;BOWQ&gt;Owned Qty|
-[2910]&lt;BOWV&gt;Owned Value|
-[2911]&lt;BCRE&gt;Credit Rating|
-[2912]&lt;BHOL&gt;Public Bondholders|
-[2913]&lt;ACP1&gt;Acquisition!|
-[2914]&lt;ACP2&gt;acquires the private company|
+      <tuv lang="ru" changeid="Александр" changedate="20201223T123529Z" creationid="Александр" creationdate="20201222T163208Z">
+        <seg>Стоимость добавления нового этажа|
+[2861]&lt;FLR1&gt;Стоимость добавления нового этажа|
+[2862]&lt;FLR2&gt;Хотите ли вы продолжить?|
+[2863]&lt;NSUB&gt;Создать новый филиал|
+[2864]&lt;NSN1&gt;Извините, требования не выполнены.|
+[2865]&lt;NSN2&gt;Первоначальный капитал вашего нового филиала должен быть как минимум|
+[2866]&lt;NSN3&gt;миллион|
+[2867]&lt;NSC1&gt;Теперь вы должны нанять генерального директора для вашего нового филиала.|
+[2868]&lt;NSC2&gt;Для этого на следующем экране выберите кандидата на пост генерального директора и нажмите [Нанять исполнительного директора].|
+[2869]&lt;NSH1&gt;работа в качестве|
+[2870]&lt;NSH2&gt;от|
+[2871]&lt;NSH3&gt;новый филиал|
+[2872]&lt;SUB1&gt;Ваша корпорация владеет|
+[2873]&lt;SUB2&gt;акции этой компании.|
+[2874]&lt;LAN1&gt;Уменьшить все расходы по установке гражданских зданий путем|
+[2875]&lt;LAN2&gt;Уменьшить все эксплуатационные расходы на строительство гражданских зданий|
+[2876]&lt;LAN3&gt;Уменьшить все расходы по установке коммерческой фирмы на|
+[2877]&lt;LAN4&gt;Уменьшить все фиксированные операционные расходы коммерческой фирмы путем|
+[2878]&lt;LAN5&gt;Повышение конкурентоспособности промышленности путем|
+[2879]&lt;LAN6&gt;Увеличьте уровень выбранного типа твердого блока на|
+[2880]&lt;EVRY&gt;Каждый|
+[2881]&lt;ATS1&gt;Это невозможно сделать, потому что [|
+[2882]&lt;ATS2&gt;] которая не входит в сферу деятельности филиала.|
+[2883]&lt;LAN7&gt;Увеличить конкурентоспособность города в|
+[2884]&lt;LAN8&gt;Повышение уровня всех|
+[2885]&lt;LAN9&gt;в этом городе по|
+[2886]&lt;NCG1&gt;Вы включили режим выживания в доподнении "Городское экономическое моделирование" \n\n.|
+[2887]&lt;NCG2&gt;Вся продукция заблокирована, требуюется повторное исследование, за исключением продуктов питания и напитков мега-класса и продуктов, в которых вы имеете опыт..\n\n|
+[2888]&lt;NCG3&gt;Вам были поставлены новые цели.\n\n|
+[2889]&lt;NCG4&gt;Нажмите клавишу 'G' в любое время для просмотра экрана "Целей".|
+[2890]&lt;NCG5&gt;Вам была поставлена новая цель.\n\n|
+[2891]&lt;NCG6&gt;Нажмите клавишу 'G' в любое время для просмотра экрана "Целей".|
+[2892]&lt;NCG7&gt;Вы уверены, что хотите удалить все цели в игре?|
+[2893]&lt;PLG1&gt;Создать фабрику по производству|
+[2894]&lt;PLG2&gt;и запустить его на рынок.|
+[2895]&lt;OWNT&gt;Собственная технология|
+[2896]&lt;TOPT&gt;Высшая технология|
+[2897]&lt;QUAR&gt;Оценка качества|
+[2898]&lt;FLVL&gt;Уровень фабрики|
+[2899]&lt;ECOM&gt;Продажа электронной комерции %:|
+[2900]&lt;GDIF&gt;Уровень сложности текущей игры|
+[2901]&lt;BSOF&gt;создать компанию по разработке ПО|
+[2902]&lt;BINT&gt;создать интернет-компанию|
+[2903]&lt;BTEL&gt;создать телекоммуникации|
+[2904]&lt;BOND&gt;Облигация|
+[2905]&lt;BCOU&gt;Купон|
+[2906]&lt;BYIE&gt;Доход|
+[2907]&lt;BMAT&gt;Срок годности|
+[2908]&lt;BPRI&gt;Цена|
+[2909]&lt;BOWQ&gt;Количество собственности|
+[2910]&lt;BOWV&gt;Собственная стоимость|
+[2911]&lt;BCRE&gt;Кредитный рейтинг|
+[2912]&lt;BHOL&gt;Владельцы государственных облигаций|
+[2913]&lt;ACP1&gt;Приобретение!|
+[2914]&lt;ACP2&gt;приобретает частную компанию|
 [2915]&lt;IPO1&gt;IPO!|
-[2916]&lt;IPO2&gt;goes public raising|
-[2917]&lt;IPO3&gt;in IPO.|
-[2918]&lt;ELE1&gt;The mayoral election in|
-[2919]&lt;ELE2&gt;and|
-[2920]&lt;ELE3&gt;will take place in one year.|
-[2921]&lt;ELE4&gt;Those who wish to run for mayor should act now.|
-[2922]&lt;ELE5&gt;(Press the '!' shortcut key to open the Political Party screen.)|
-[2923]&lt;TGD1&gt;Grow the city of|
-[2924]&lt;TGD2&gt;and improve the quality of life of its citizens.|
-[2925]&lt;TGW1&gt;Congratulations!</seg>
+[2916]&lt;IPO2&gt;общественное повышение|
+[2917]&lt;IPO3&gt;в IPO.|
+[2918]&lt;ELE1&gt;Выборы мэра в|
+[2919]&lt;ELE2&gt;и|
+[2920]&lt;ELE3&gt;состоится через год.|
+[2921]&lt;ELE4&gt;Те, кто хочет баллотироваться на пост мэра, должны действовать сейчас..|
+[2922]&lt;ELE5&gt;(Нажмите клавишу '!', чтобы открыть экран Политической партии.)|
+[2923]&lt;TGD1&gt;Развивайте город|
+[2924]&lt;TGD2&gt;и улучшайте качество жизни своих граждан.|
+[2925]&lt;TGW1&gt;Превосходно!</seg>
       </tuv>
     </tu>
     <tu>
