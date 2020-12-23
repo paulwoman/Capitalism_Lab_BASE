@@ -1562,7 +1562,7 @@ Choose one of eight pre-set difficulty levels.</seg>
 [2938]&lt;TUT4&gt;Are you sure that you want to start tutorial #|
 [2939]&lt;TUT5&gt; now?</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201223T123858Z" creationid="Александр" creationdate="20201223T123858Z">
+      <tuv lang="ru" changeid="Александр" changedate="20201223T124045Z" creationid="Александр" creationdate="20201223T123858Z">
         <seg>Цель достигнута.|
 [2926]&lt;TGW2&gt;Превосходно!|
 [2927]&lt;TGT1&gt;Городские цели:|
@@ -1575,9 +1575,9 @@ Choose one of eight pre-set difficulty levels.</seg>
 [2934]&lt;APR3&gt;Вы хотите приобрести сейчас?|
 [2935]&lt;TUT1&gt;Если вы впервые играете в "Лабораторию Капитализма", советуем вам начать с урока №1.\n\n|
 [2936]&lt;TUT2&gt;Последний урок, который вы закончили, это урок №|
-[2937]&lt;TUT3&gt;.\n\nРекомендуем  следовать инструкциям в последовательном порядке..\n\n|
-[2938]&lt;TUT4&gt;Are you sure that you want to start tutorial #|
-[2939]&lt;TUT5&gt; now?</seg>
+[2937]&lt;TUT3&gt;.\n\nРекомендуем Вам проходить обучение по порядку.\n\n|
+[2938]&lt;TUT4&gt;Ты уверен, что хочешь начать урок №|
+[2939]&lt;TUT5&gt; сейчас?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1602,6 +1602,172 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T101240Z" creationid="Александр" creationdate="20201218T101240Z">
         <seg>В этом продукте используются шрифты Noto от Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will skip the tutorials|
+[2941]&lt;TUT7&gt; prior to it and you will be missing important information.\n\n|
+[2942]&lt;TUT8&gt; in between and you will be missing important information.\n\n|
+[2943]&lt;AK30&gt;Stock and Bond Return|
+[2944]&lt;AK31&gt;Loan and Bond Interests|
+[2945]&lt;BF01&gt;Net Interest Income|
+[2946]&lt;BF02&gt;Loan Defaults (Losses)|
+[2947]&lt;SLD1&gt;Do you want to sell this land plot for|
+[2948]&lt;SLD2&gt;This land plot is owned by your subsidiary company.\nDo you want to sell it for|
+[2949]&lt;SLD3&gt;The owner will sell this land plot for|
+[2950]&lt;SLD4&gt;Price premium:|
+[2951]&lt;SLD5&gt;Do you want to buy it?|
+[2952]&lt;SLD6&gt;But you don't have enough cash.|
+[2953]&lt;AK13&gt;Deposit Interest Income|
+[2954]&lt;BI01&gt;Premium Income|
+[2955]&lt;BI02&gt;Investment Income|
+[2956]&lt;BI03&gt;Claims|
+[2957]&lt;BDOF&gt; Bonds of |
+[2958]&lt;FREI&gt;Freight|
+[2959]&lt;BAO1&gt;Bank owned by |
+[2960]&lt;BAO2&gt;went out of business!|
+[2961]&lt;BAO3&gt;Depositors received 100% of their money back.|
+[2962]&lt;BAO4&gt;Depositors only received|
+[2963]&lt;BAO5&gt;of their money back.|
+[2964]&lt;LDE1&gt;defaults on a loan from Bank|
+[2965]&lt;LDE2&gt;Default amount:|
+[2966]&lt;BDR1&gt;INSUFFICIENT CASH FOR BOND REDEMPTION|
+[2967]&lt;BDR2&gt;A Corporate Bond issued by your company has matured, you must redeem it now.|
+[2968]&lt;BDR3&gt;A Corporate Bond issued by your subsidiary |
+[2969]&lt;BDR4&gt; has matured, you must redeem it now.|
+[2970]&lt;BDR5&gt;Bond Issue Date|
+[2971]&lt;COUP&gt;Coupon Rate|
+[2972]&lt;TERM&gt;Term Length|
+[2973]&lt;BDD1&gt; defaults on the bond [maturity date: |
+[2974]&lt;BDD2&gt; coupon: |
+[2975]&lt;BDD3&gt;Default amount: |
+[2976]&lt;LNR1&gt;INSUFFICIENT CASH FOR LOAN REPAYMENT|
+[2977]&lt;LNR2&gt;A Bank Loan taken by your company has matured, you must repay it now.|
+[2978]&lt;LNR3&gt;A Bank Loan taken your subsidiary |
+[2979]&lt;LNR4&gt; has matured, you must repay it now.|
+[2980]&lt;CASN&gt;CASH NEEDED|
+[2981]&lt;MCOS&gt;Monthly Cost|
+[2982]&lt;SCO3&gt;billion x 10 x inflation adjustment|
+[2983]&lt;SDIV&gt;Pays a Special Dividend of|
+[2984]&lt;AIB1&gt;Bank Focused|
+[2985]&lt;AIC1&gt;Bank|
+[2986]&lt;AIB2&gt;Insurance Focused|
+[2987]&lt;AIC2&gt;Insurance|
+[2988]&lt;AIB3&gt;Global Stock Focused|
+[2989]&lt;AIC3&gt;Global Stock|
+[2990]&lt;BIPR&gt;Claims Reserves|
+[2991]&lt;ISBP&gt;Bank Net Profit|
+[2992]&lt;ISLP&gt;Insurance Net Profit|
+[2993]&lt;BLBA&gt;Bank Net Asset|
+[2994]&lt;BLIA&gt;Insurance Net Asset|
+[2995]&lt;EXPE&gt;Expenses|
+[2996]&lt;SEHQ&gt;Salaries Expense (HQ)|
+[2997]&lt;SEBR&gt;Salaries Expense (Branches)|
+[2998]&lt;OOHQ&gt;Operating Overhead (HQ)|
+[2999]&lt;OOBR&gt;Operating Overhead (Branches)|
+[3000]&lt;AM09&gt;Real Estate Department|
+[3001]&lt;KNO1&gt;You must first possess the knowhow for|
+[3002]&lt;KNO2&gt;(click to view it now)|
+[3003]&lt;KNO3&gt;and|
+[3004]&lt;KNO4&gt;And talents required for the invention project is expected to be available in year|
+[3005]&lt;KNO5&gt;Talents required for the invention project is expected to be available in year|
+[3006]&lt;KNO6&gt;You must first own an IP or have access to open-source tech.|
+[3007]&lt;KNO7&gt;Missing knowhow for input(s):|
+[3008]&lt;KNO8&gt;Nil|
+[3009]&lt;KNO9&gt;Invention Pre-requisites:|
+[3010]&lt;KN10&gt;Invention Pre-requisite:|
+[3011]&lt;BIP2&gt;Claims Reserves|
+[3012]&lt;BIP3&gt;Claims Reserves|
+[3013]&lt;CBK1&gt;You must first close down all the Bank Branches before you can close down the Bank Headquarters.|
+[3014]&lt;CBK2&gt;Sorry, you cannot close down the bank.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201223T124148Z" creationid="Александр" creationdate="20201223T124148Z">
+        <seg>Пропустить все сценарии обучения|
+[2941]&lt;TUT7&gt; prior to it and you will be missing important information.\n\n|
+[2942]&lt;TUT8&gt; in between and you will be missing important information.\n\n|
+[2943]&lt;AK30&gt;Stock and Bond Return|
+[2944]&lt;AK31&gt;Loan and Bond Interests|
+[2945]&lt;BF01&gt;Net Interest Income|
+[2946]&lt;BF02&gt;Loan Defaults (Losses)|
+[2947]&lt;SLD1&gt;Do you want to sell this land plot for|
+[2948]&lt;SLD2&gt;This land plot is owned by your subsidiary company.\nDo you want to sell it for|
+[2949]&lt;SLD3&gt;The owner will sell this land plot for|
+[2950]&lt;SLD4&gt;Price premium:|
+[2951]&lt;SLD5&gt;Do you want to buy it?|
+[2952]&lt;SLD6&gt;But you don't have enough cash.|
+[2953]&lt;AK13&gt;Deposit Interest Income|
+[2954]&lt;BI01&gt;Premium Income|
+[2955]&lt;BI02&gt;Investment Income|
+[2956]&lt;BI03&gt;Claims|
+[2957]&lt;BDOF&gt; Bonds of |
+[2958]&lt;FREI&gt;Freight|
+[2959]&lt;BAO1&gt;Bank owned by |
+[2960]&lt;BAO2&gt;went out of business!|
+[2961]&lt;BAO3&gt;Depositors received 100% of their money back.|
+[2962]&lt;BAO4&gt;Depositors only received|
+[2963]&lt;BAO5&gt;of their money back.|
+[2964]&lt;LDE1&gt;defaults on a loan from Bank|
+[2965]&lt;LDE2&gt;Default amount:|
+[2966]&lt;BDR1&gt;INSUFFICIENT CASH FOR BOND REDEMPTION|
+[2967]&lt;BDR2&gt;A Corporate Bond issued by your company has matured, you must redeem it now.|
+[2968]&lt;BDR3&gt;A Corporate Bond issued by your subsidiary |
+[2969]&lt;BDR4&gt; has matured, you must redeem it now.|
+[2970]&lt;BDR5&gt;Bond Issue Date|
+[2971]&lt;COUP&gt;Coupon Rate|
+[2972]&lt;TERM&gt;Term Length|
+[2973]&lt;BDD1&gt; defaults on the bond [maturity date: |
+[2974]&lt;BDD2&gt; coupon: |
+[2975]&lt;BDD3&gt;Default amount: |
+[2976]&lt;LNR1&gt;INSUFFICIENT CASH FOR LOAN REPAYMENT|
+[2977]&lt;LNR2&gt;A Bank Loan taken by your company has matured, you must repay it now.|
+[2978]&lt;LNR3&gt;A Bank Loan taken your subsidiary |
+[2979]&lt;LNR4&gt; has matured, you must repay it now.|
+[2980]&lt;CASN&gt;CASH NEEDED|
+[2981]&lt;MCOS&gt;Monthly Cost|
+[2982]&lt;SCO3&gt;billion x 10 x inflation adjustment|
+[2983]&lt;SDIV&gt;Pays a Special Dividend of|
+[2984]&lt;AIB1&gt;Bank Focused|
+[2985]&lt;AIC1&gt;Bank|
+[2986]&lt;AIB2&gt;Insurance Focused|
+[2987]&lt;AIC2&gt;Insurance|
+[2988]&lt;AIB3&gt;Global Stock Focused|
+[2989]&lt;AIC3&gt;Global Stock|
+[2990]&lt;BIPR&gt;Claims Reserves|
+[2991]&lt;ISBP&gt;Bank Net Profit|
+[2992]&lt;ISLP&gt;Insurance Net Profit|
+[2993]&lt;BLBA&gt;Bank Net Asset|
+[2994]&lt;BLIA&gt;Insurance Net Asset|
+[2995]&lt;EXPE&gt;Expenses|
+[2996]&lt;SEHQ&gt;Salaries Expense (HQ)|
+[2997]&lt;SEBR&gt;Salaries Expense (Branches)|
+[2998]&lt;OOHQ&gt;Operating Overhead (HQ)|
+[2999]&lt;OOBR&gt;Operating Overhead (Branches)|
+[3000]&lt;AM09&gt;Real Estate Department|
+[3001]&lt;KNO1&gt;You must first possess the knowhow for|
+[3002]&lt;KNO2&gt;(click to view it now)|
+[3003]&lt;KNO3&gt;and|
+[3004]&lt;KNO4&gt;And talents required for the invention project is expected to be available in year|
+[3005]&lt;KNO5&gt;Talents required for the invention project is expected to be available in year|
+[3006]&lt;KNO6&gt;You must first own an IP or have access to open-source tech.|
+[3007]&lt;KNO7&gt;Missing knowhow for input(s):|
+[3008]&lt;KNO8&gt;Nil|
+[3009]&lt;KNO9&gt;Invention Pre-requisites:|
+[3010]&lt;KN10&gt;Invention Pre-requisite:|
+[3011]&lt;BIP2&gt;Claims Reserves|
+[3012]&lt;BIP3&gt;Claims Reserves|
+[3013]&lt;CBK1&gt;You must first close down all the Bank Branches before you can close down the Bank Headquarters.|
+[3014]&lt;CBK2&gt;Sorry, you cannot close down the bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will skip the tutorial|
+[2940]&lt;TUT6&gt; now?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201223T124126Z" creationid="Александр" creationdate="20201223T124126Z">
+        <seg>Пропустить этот обучающий урок|
+[2940]&lt;TUT6&gt; сейчас?</seg>
       </tuv>
     </tu>
     <tu>
