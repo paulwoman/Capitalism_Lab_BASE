@@ -2674,6 +2674,142 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2907]&lt;BMAT&gt;Maturity|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235434Z" creationid="Olivier" creationdate="20201225T235434Z">
+        <seg>[2907]&lt;BMAT&gt;Срок годности|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2908]&lt;BPRI&gt;Price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235435Z" creationid="Olivier" creationdate="20201225T235435Z">
+        <seg>[2908]&lt;BPRI&gt;Цена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2909]&lt;BOWQ&gt;Owned Qty|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235437Z" creationid="Olivier" creationdate="20201225T235437Z">
+        <seg>[2909]&lt;BOWQ&gt;Количество собственности|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2910]&lt;BOWV&gt;Owned Value|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235438Z" creationid="Olivier" creationdate="20201225T235438Z">
+        <seg>[2910]&lt;BOWV&gt;Собственная стоимость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2911]&lt;BCRE&gt;Credit Rating|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235442Z" creationid="Olivier" creationdate="20201225T235442Z">
+        <seg>[2911]&lt;BCRE&gt;Кредитный рейтинг|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2912]&lt;BHOL&gt;Public Bondholders|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235443Z" creationid="Olivier" creationdate="20201225T235443Z">
+        <seg>[2912]&lt;BHOL&gt;Владельцы государственных облигаций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2913]&lt;ACP1&gt;Acquisition!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235444Z" creationid="Olivier" creationdate="20201225T235444Z">
+        <seg>[2913]&lt;ACP1&gt;Приобретение!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2914]&lt;ACP2&gt;acquires the private company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235446Z" creationid="Olivier" creationdate="20201225T235446Z">
+        <seg>[2914]&lt;ACP2&gt;приобретает частную компанию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2916]&lt;IPO2&gt;goes public raising|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235502Z" creationid="Olivier" creationdate="20201225T235502Z">
+        <seg>[2916]&lt;IPO2&gt;общественное повышение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2917]&lt;IPO3&gt;in IPO.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235506Z" creationid="Olivier" creationdate="20201225T235506Z">
+        <seg>[2917]&lt;IPO3&gt;в IPO.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2918]&lt;ELE1&gt;The mayoral election in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235509Z" creationid="Olivier" creationdate="20201225T235509Z">
+        <seg>[2918]&lt;ELE1&gt;Выборы мэра в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2919]&lt;ELE2&gt;and|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235510Z" creationid="Olivier" creationdate="20201225T235510Z">
+        <seg>[2919]&lt;ELE2&gt;и|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2920]&lt;ELE3&gt;will take place in one year.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235512Z" creationid="Olivier" creationdate="20201225T235512Z">
+        <seg>[2920]&lt;ELE3&gt;состоится через год.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2921]&lt;ELE4&gt;Those who wish to run for mayor should act now.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235514Z" creationid="Olivier" creationdate="20201225T235514Z">
+        <seg>[2921]&lt;ELE4&gt;Те, кто хочет баллотироваться на пост мэра, должны действовать сейчас..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2922]&lt;ELE5&gt;(Press the '!' shortcut key to open the Political Party screen.)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235515Z" creationid="Olivier" creationdate="20201225T235515Z">
+        <seg>[2922]&lt;ELE5&gt;(Нажмите клавишу '!', чтобы открыть экран Политической партии.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2923]&lt;TGD1&gt;Grow the city of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235517Z" creationid="Olivier" creationdate="20201225T235517Z">
+        <seg>[2923]&lt;TGD1&gt;Развивайте город|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2924]&lt;TGD2&gt;and improve the quality of life of its citizens.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235519Z" creationid="Olivier" creationdate="20201225T235519Z">
+        <seg>[2924]&lt;TGD2&gt;и улучшайте качество жизни своих граждан.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215727Z" creationid="Olivier" creationdate="20201217T215727Z">
