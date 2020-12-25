@@ -1426,6 +1426,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cost of adding a new floor is|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235227Z" creationid="Olivier" creationdate="20201225T235227Z">
+        <seg>Стоимость добавления нового этажа|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cost of adding a new floor is|
 [2861]&lt;FLR1&gt;The cost of adding a new floor is|
 [2862]&lt;FLR2&gt;Do you want to proceed?|
@@ -2190,6 +2198,478 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235111Z" creationid="Olivier" creationdate="20201225T235111Z">
         <seg>[2845]&lt;TECH&gt;Технологии|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2848]&lt;LTEX&gt;Lifetime Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235202Z" creationid="Olivier" creationdate="20201225T235202Z">
+        <seg>[2848]&lt;LTEX&gt;Расходы в течение жизни|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2849]&lt;CIT1&gt;For all|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235203Z" creationid="Olivier" creationdate="20201225T235203Z">
+        <seg>[2849]&lt;CIT1&gt;Для всех|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2850]&lt;CIT2&gt;s|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235205Z" creationid="Olivier" creationdate="20201225T235205Z">
+        <seg>[2850]&lt;CIT2&gt;с|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2851]&lt;CIT3&gt;in this city (Total:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235207Z" creationid="Olivier" creationdate="20201225T235207Z">
+        <seg>[2851]&lt;CIT3&gt;в этом городе (Итого:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2852]&lt;AIG9&gt;Telecom Focused|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235209Z" creationid="Olivier" creationdate="20201225T235209Z">
+        <seg>[2852]&lt;AIG9&gt;Ориентированный на телекоммуникации|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2853]&lt;AIS9&gt;Telecom|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235212Z" creationid="Olivier" creationdate="20201225T235212Z">
+        <seg>[2853]&lt;AIS9&gt;Телекоммуникации|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2854]&lt;AK10&gt;Received Dividends|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235214Z" creationid="Olivier" creationdate="20201225T235214Z">
+        <seg>[2854]&lt;AK10&gt;Полученные дивиденды|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2855]&lt;AK11&gt;Increase in Asset Value|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235215Z" creationid="Olivier" creationdate="20201225T235215Z">
+        <seg>[2855]&lt;AK11&gt;Увеличение стоимости активов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2856]&lt;AK12&gt;Loan Interest|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235217Z" creationid="Olivier" creationdate="20201225T235217Z">
+        <seg>[2856]&lt;AK12&gt;Проценты по кредиту|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2857]&lt;AK20&gt;Data Server Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235218Z" creationid="Olivier" creationdate="20201225T235218Z">
+        <seg>[2857]&lt;AK20&gt;Стоимость сервера данных|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2858]&lt;DIFF&gt;DIFFICULTY RATING|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235220Z" creationid="Olivier" creationdate="20201225T235220Z">
+        <seg>[2858]&lt;DIFF&gt;РЕЙТИНГ СЛОЖНОСТИ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2859]&lt;CORP&gt;CORPORATIONS (Total|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235221Z" creationid="Olivier" creationdate="20201225T235221Z">
+        <seg>[2859]&lt;CORP&gt;КОРПОРАЦИИ (Итого|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2860]&lt;FLR0&gt;Sorry, you do not have sufficient cash.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235235Z" creationid="Olivier" creationdate="20201225T235222Z">
+        <seg>[2860]&lt;FLR0&gt;Извините, у вас недостаточно денег.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2861]&lt;FLR1&gt;The cost of adding a new floor is|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235239Z" creationid="Olivier" creationdate="20201225T235239Z">
+        <seg>[2861]&lt;FLR1&gt;Стоимость добавления нового этажа|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2862]&lt;FLR2&gt;Do you want to proceed?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235240Z" creationid="Olivier" creationdate="20201225T235240Z">
+        <seg>[2862]&lt;FLR2&gt;Хотите ли вы продолжить?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2863]&lt;NSUB&gt;Set Up a New Subsidiary Company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235241Z" creationid="Olivier" creationdate="20201225T235241Z">
+        <seg>[2863]&lt;NSUB&gt;Создать новый филиал|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2864]&lt;NSN1&gt;Sorry, the requirement is not met.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235243Z" creationid="Olivier" creationdate="20201225T235243Z">
+        <seg>[2864]&lt;NSN1&gt;Извините, требования не выполнены.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2865]&lt;NSN2&gt;The initial capital of your new subsidiary company must be at least|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235244Z" creationid="Olivier" creationdate="20201225T235244Z">
+        <seg>[2865]&lt;NSN2&gt;Первоначальный капитал вашего нового филиала должен быть как минимум|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2866]&lt;NSN3&gt;million|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235247Z" creationid="Olivier" creationdate="20201225T235247Z">
+        <seg>[2866]&lt;NSN3&gt;миллион|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2867]&lt;NSC1&gt;You must now hire a CEO for your new subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235248Z" creationid="Olivier" creationdate="20201225T235248Z">
+        <seg>[2867]&lt;NSC1&gt;Теперь вы должны нанять генерального директора для вашего нового филиала.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2868]&lt;NSC2&gt;To do so, in the next screen, select a CEO candidate and click the [Hire Chief Executive] button.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235250Z" creationid="Olivier" creationdate="20201225T235250Z">
+        <seg>[2868]&lt;NSC2&gt;Для этого на следующем экране выберите кандидата на пост генерального директора и нажмите [Нанять исполнительного директора].|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2869]&lt;NSH1&gt;the job as the|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235252Z" creationid="Olivier" creationdate="20201225T235252Z">
+        <seg>[2869]&lt;NSH1&gt;работа в качестве|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2870]&lt;NSH2&gt;of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235254Z" creationid="Olivier" creationdate="20201225T235254Z">
+        <seg>[2870]&lt;NSH2&gt;от|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2871]&lt;NSH3&gt;the new subsidiary company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235255Z" creationid="Olivier" creationdate="20201225T235255Z">
+        <seg>[2871]&lt;NSH3&gt;новый филиал|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2872]&lt;SUB1&gt;Your corporation owns|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235256Z" creationid="Olivier" creationdate="20201225T235256Z">
+        <seg>[2872]&lt;SUB1&gt;Ваша корпорация владеет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2873]&lt;SUB2&gt;shares of this company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235258Z" creationid="Olivier" creationdate="20201225T235258Z">
+        <seg>[2873]&lt;SUB2&gt;акции этой компании.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2874]&lt;LAN1&gt;Decrease All Civic Building Setup Costs by|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235300Z" creationid="Olivier" creationdate="20201225T235300Z">
+        <seg>[2874]&lt;LAN1&gt;Уменьшить все расходы по установке гражданских зданий путем|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2875]&lt;LAN2&gt;Decrease All Civic Building Operating Costs by|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235301Z" creationid="Olivier" creationdate="20201225T235301Z">
+        <seg>[2875]&lt;LAN2&gt;Уменьшить все эксплуатационные расходы на строительство гражданских зданий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235303Z" creationid="Olivier" creationdate="20201225T235303Z">
+        <seg>[2876]&lt;LAN3&gt;Уменьшить все расходы по установке коммерческой фирмы на|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2877]&lt;LAN4&gt;Decrease All Commercial Firm Fixed Operating Costs by|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235304Z" creationid="Olivier" creationdate="20201225T235304Z">
+        <seg>[2877]&lt;LAN4&gt;Уменьшить все фиксированные операционные расходы коммерческой фирмы путем|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2878]&lt;LAN5&gt;Increase Industry Competitiveness by|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235305Z" creationid="Olivier" creationdate="20201225T235305Z">
+        <seg>[2878]&lt;LAN5&gt;Повышение конкурентоспособности промышленности путем|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2879]&lt;LAN6&gt;Increase a Selected Firm Unit Type's Level by|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235306Z" creationid="Olivier" creationdate="20201225T235306Z">
+        <seg>[2879]&lt;LAN6&gt;Увеличьте уровень выбранного типа твердого блока на|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2880]&lt;EVRY&gt;Every|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235307Z" creationid="Olivier" creationdate="20201225T235307Z">
+        <seg>[2880]&lt;EVRY&gt;Каждый|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2881]&lt;ATS1&gt;This cannot be done because [|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235309Z" creationid="Olivier" creationdate="20201225T235309Z">
+        <seg>[2881]&lt;ATS1&gt;Это невозможно сделать, потому что [|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2882]&lt;ATS2&gt;] which is outside the subsidiary company's Scope of Production.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235311Z" creationid="Olivier" creationdate="20201225T235311Z">
+        <seg>[2882]&lt;ATS2&gt;] которая не входит в сферу деятельности филиала.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2883]&lt;LAN7&gt;Increase this city's competitiveness in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235312Z" creationid="Olivier" creationdate="20201225T235312Z">
+        <seg>[2883]&lt;LAN7&gt;Увеличить конкурентоспособность города в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2884]&lt;LAN8&gt;Increase the levels of all|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235314Z" creationid="Olivier" creationdate="20201225T235314Z">
+        <seg>[2884]&lt;LAN8&gt;Повышение уровня всех|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2885]&lt;LAN9&gt;in this city by|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235315Z" creationid="Olivier" creationdate="20201225T235315Z">
+        <seg>[2885]&lt;LAN9&gt;в этом городе по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2886]&lt;NCG1&gt;You have enabled Survival Mode in City Economic Simulation DLC.\n\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235316Z" creationid="Olivier" creationdate="20201225T235316Z">
+        <seg>[2886]&lt;NCG1&gt;Вы включили режим выживания в доподнении "Городское экономическое моделирование" \n\n.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2887]&lt;NCG2&gt;All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235319Z" creationid="Olivier" creationdate="20201225T235319Z">
+        <seg>[2887]&lt;NCG2&gt;Вся продукция заблокирована, требуюется повторное исследование, за исключением продуктов питания и напитков мега-класса и продуктов, в которых вы имеете опыт..\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2888]&lt;NCG3&gt;You have been assigned with new goals.\n\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235320Z" creationid="Olivier" creationdate="20201225T235320Z">
+        <seg>[2888]&lt;NCG3&gt;Вам были поставлены новые цели.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2889]&lt;NCG4&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235321Z" creationid="Olivier" creationdate="20201225T235321Z">
+        <seg>[2889]&lt;NCG4&gt;Нажмите клавишу 'G' в любое время для просмотра экрана "Целей".|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2890]&lt;NCG5&gt;You have been assigned with a new goal.\n\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235322Z" creationid="Olivier" creationdate="20201225T235322Z">
+        <seg>[2890]&lt;NCG5&gt;Вам была поставлена новая цель.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2891]&lt;NCG6&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235324Z" creationid="Olivier" creationdate="20201225T235324Z">
+        <seg>[2891]&lt;NCG6&gt;Нажмите клавишу 'G' в любое время для просмотра экрана "Целей".|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2892]&lt;NCG7&gt;Are you sure that you want to remove all the goals in this game?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235325Z" creationid="Olivier" creationdate="20201225T235325Z">
+        <seg>[2892]&lt;NCG7&gt;Вы уверены, что хотите удалить все цели в игре?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2893]&lt;PLG1&gt;Set up a factory to produce|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235326Z" creationid="Olivier" creationdate="20201225T235326Z">
+        <seg>[2893]&lt;PLG1&gt;Создать фабрику по производству|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2894]&lt;PLG2&gt;and launch it onto the market.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235327Z" creationid="Olivier" creationdate="20201225T235327Z">
+        <seg>[2894]&lt;PLG2&gt;и запустить его на рынок.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2895]&lt;OWNT&gt;Owned Tech|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235328Z" creationid="Olivier" creationdate="20201225T235328Z">
+        <seg>[2895]&lt;OWNT&gt;Собственная технология|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2896]&lt;TOPT&gt;Top Tech|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235329Z" creationid="Olivier" creationdate="20201225T235329Z">
+        <seg>[2896]&lt;TOPT&gt;Высшая технология|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2897]&lt;QUAR&gt;Quality Rating|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235333Z" creationid="Olivier" creationdate="20201225T235333Z">
+        <seg>[2897]&lt;QUAR&gt;Оценка качества|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2898]&lt;FLVL&gt;Factory Level|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235337Z" creationid="Olivier" creationdate="20201225T235337Z">
+        <seg>[2898]&lt;FLVL&gt;Уровень фабрики|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2899]&lt;ECOM&gt;E-commerce Sale %:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235345Z" creationid="Olivier" creationdate="20201225T235345Z">
+        <seg>[2899]&lt;ECOM&gt;Продажа электронной комерции %:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2900]&lt;GDIF&gt;Current Game's Difficulty Level|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235356Z" creationid="Olivier" creationdate="20201225T235356Z">
+        <seg>[2900]&lt;GDIF&gt;Уровень сложности текущей игры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2901]&lt;BSOF&gt;sets up a Software Company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235358Z" creationid="Olivier" creationdate="20201225T235358Z">
+        <seg>[2901]&lt;BSOF&gt;создать компанию по разработке ПО|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2902]&lt;BINT&gt;sets up an Internet Company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235400Z" creationid="Olivier" creationdate="20201225T235400Z">
+        <seg>[2902]&lt;BINT&gt;создать интернет-компанию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2903]&lt;BTEL&gt;sets up a Telecom|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235404Z" creationid="Olivier" creationdate="20201225T235404Z">
+        <seg>[2903]&lt;BTEL&gt;создать телекоммуникации|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2904]&lt;BOND&gt;Bond|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235405Z" creationid="Olivier" creationdate="20201225T235405Z">
+        <seg>[2904]&lt;BOND&gt;Облигация|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2905]&lt;BCOU&gt;Coupon|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235412Z" creationid="Olivier" creationdate="20201225T235412Z">
+        <seg>[2905]&lt;BCOU&gt;Купон|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2906]&lt;BYIE&gt;Yield|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235432Z" creationid="Olivier" creationdate="20201225T235432Z">
+        <seg>[2906]&lt;BYIE&gt;Доход|</seg>
       </tuv>
     </tu>
     <tu>
