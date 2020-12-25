@@ -808,6 +808,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_DIFF</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T234430Z" creationid="Olivier" creationdate="20201225T234430Z">
+        <seg>GM_DIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_DIFF
 Game difficulty level
 Choose one of eight pre-set difficulty levels.</seg>
@@ -824,6 +832,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
         <seg>Game Starting Year=1990</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game difficulty level</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T234454Z" creationid="Olivier" creationdate="20201225T234454Z">
+        <seg>Уровень сложности игры</seg>
       </tuv>
     </tu>
     <tu>
