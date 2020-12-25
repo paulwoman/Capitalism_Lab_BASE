@@ -440,6 +440,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose one of eight pre-set difficulty levels.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T234952Z" creationid="Olivier" creationdate="20201225T234952Z">
+        <seg>Выберите один из восьми предварительно установленных уровней сложности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~ now.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215905Z" creationid="Olivier" creationdate="20201217T215855Z">
@@ -828,6 +836,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_NOC</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235009Z" creationid="Olivier" creationdate="20201225T235009Z">
+        <seg>GM_NOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game Starting Year=1990</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
@@ -1138,6 +1154,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Cities</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235014Z" creationid="Olivier" creationdate="20201225T235014Z">
+        <seg>Количество городов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Cities=5</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215049Z" creationid="Olivier" creationdate="20201213T215049Z">
@@ -1174,6 +1198,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215234Z" creationid="Olivier" creationdate="20201213T215234Z">
         <seg>Operating Profit Margin=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play with single or multiple cities.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235016Z" creationid="Olivier" creationdate="20201225T235016Z">
+        <seg>Играть с одним или несколькими городами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1900,6 +1932,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may also #Customize# or #Randomize# the game settings</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235000Z" creationid="Olivier" creationdate="20201225T235000Z">
+        <seg>Вы также можете #Вручную# или #Слуачйно# настроить игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may also #Customize# or #Randomize# the game settings
 ~
 GM_NOC
@@ -2038,6 +2078,118 @@ GM_NOC
 [0159]&lt;FDAT&gt;Данные файла:|
 [0160]&lt;FNAM&gt;Имя файла:|
 [0161]&lt;AOVW&gt;Перезаписать сохранённую игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
+        <seg>[2832]&lt;AGS4&gt;промышленный (экспертный рейтинг):|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2833]&lt;FEGN&gt;The city government does not have enough cash.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235045Z" creationid="Olivier" creationdate="20201225T235045Z">
+        <seg>[2833]&lt;FEGN&gt;У правительства не хватает денег.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2834]&lt;NCT1&gt;To acquire the exclusive rights to develop and run the new city for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235047Z" creationid="Olivier" creationdate="20201225T235047Z">
+        <seg>[2834]&lt;NCT1&gt;Приобрести эксклюзивные права на развитие и управление новым городом для|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2835]&lt;NCT2&gt;years, you must donate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235048Z" creationid="Olivier" creationdate="20201225T235048Z">
+        <seg>[2835]&lt;NCT2&gt;годы, вы должны пожертвовать|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2836]&lt;NCT3&gt;to the city's treasury.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235049Z" creationid="Olivier" creationdate="20201225T235049Z">
+        <seg>[2836]&lt;NCT3&gt;в городскую казну.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2837]&lt;AIG6&gt;OS Focused|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235051Z" creationid="Olivier" creationdate="20201225T235051Z">
+        <seg>[2837]&lt;AIG6&gt;ориентированный на ОС|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2838]&lt;AIS6&gt;OS|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235053Z" creationid="Olivier" creationdate="20201225T235053Z">
+        <seg>[2838]&lt;AIS6&gt;ОС|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2839]&lt;AIG7&gt;Software Focused|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235054Z" creationid="Olivier" creationdate="20201225T235054Z">
+        <seg>[2839]&lt;AIG7&gt;Ориентированный на ПО|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2840]&lt;AIS7&gt;Software|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235056Z" creationid="Olivier" creationdate="20201225T235056Z">
+        <seg>[2840]&lt;AIS7&gt;Программное обеспечение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2841]&lt;AIG8&gt;Internet Focused|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235057Z" creationid="Olivier" creationdate="20201225T235057Z">
+        <seg>[2841]&lt;AIG8&gt;Ориентированный	 на интернет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2842]&lt;AIS8&gt;Internet|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235059Z" creationid="Olivier" creationdate="20201225T235059Z">
+        <seg>[2842]&lt;AIS8&gt;Интернет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2843]&lt;FEQU&gt;Features Quality|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235108Z" creationid="Olivier" creationdate="20201225T235108Z">
+        <seg>[2843]&lt;FEQU&gt;Характеристики Качества|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2844]&lt;FEBU&gt;Monthly budget for new features development|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235110Z" creationid="Olivier" creationdate="20201225T235110Z">
+        <seg>[2844]&lt;FEBU&gt;Ежемесячный бюджет на разработку новых функций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2845]&lt;TECH&gt;Tech|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235111Z" creationid="Olivier" creationdate="20201225T235111Z">
+        <seg>[2845]&lt;TECH&gt;Технологии|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2802,6 +2954,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T101549Z" creationid="Александр" creationdate="20201218T101549Z">
         <seg>http://www.apache.org/licenses/LICENSE-2.0.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T235005Z" creationid="Olivier" creationdate="20201225T235005Z">
+        <seg>~</seg>
       </tuv>
     </tu>
     <tu>
