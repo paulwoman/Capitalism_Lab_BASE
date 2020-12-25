@@ -1852,6 +1852,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are now back in your department store.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201225T223138Z" creationid="Olivier" creationdate="20201225T223138Z">
+        <seg>Ceci est un test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have been assigned to run this department store.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215833Z" creationid="Olivier" creationdate="20201217T215833Z">
