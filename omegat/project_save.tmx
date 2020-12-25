@@ -274,14 +274,6 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Are you using any anti-virus software that runs in background?</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T220546Z" creationid="Olivier" creationdate="20201213T220546Z">
-        <seg>Are you using any anti-virus software that runs in background?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>As such, it will have the inflation artificially suppressed.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T182418Z" creationid="Александр" creationdate="20201218T182338Z">
@@ -912,14 +904,6 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T182330Z" creationid="Александр" creationdate="20201218T181917Z">
         <seg>Если установлено значение обратной инфляции,  то денежные суммы корректируются в зависимости от их чистой покупательной способности..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>If so, add MOD tool EXE files "LibResDir.EXE" and "LibResXL.EXE" into your anti-virus software exception list to prevent it from blocking the tools or slow down their executions</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T220543Z" creationid="Olivier" creationdate="20201213T220543Z">
-        <seg>If so, add MOD tool EXE files "LibResDir.EXE" and "LibResXL.EXE" into your anti-virus software exception list to prevent it from blocking the tools or slow down their executions</seg>
       </tuv>
     </tu>
     <tu>
