@@ -3418,6 +3418,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2967]&lt;BDR2&gt;A Corporate Bond issued by your company has matured, you must redeem it now.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124743Z" creationid="Александр" creationdate="20201228T124743Z">
+        <seg>[2967]&lt;BDR2&gt;Корпоративная облигация, выпущенная вашей компанией, созрела, вы должны выкупить ее сейчас.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T094758Z" creationid="Александр" creationdate="20201228T094758Z">
@@ -4441,5 +4449,16 @@ GM_TEC
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Release/translate/t_game.txt</prop>
+      <prop type="prev">[2967]&lt;BDR2&gt;A Corporate Bond issued by your company has matured, you must redeem it now.|</prop>
+      <prop type="next">[2969]&lt;BDR4&gt; has matured, you must redeem it now.|</prop>
+      <tuv lang="en-US">
+        <seg>[2968]&lt;BDR3&gt;A Corporate Bond issued by your subsidiary |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124959Z" creationid="Александр" creationdate="20201228T124959Z">
+        <seg>[2968]&lt;BDR3&gt;Корпоративная облигация, выпущенная вашей компанией |</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
