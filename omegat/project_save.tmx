@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2110,8 +2110,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T120943Z" creationid="Александр" creationdate="20201218T120943Z">
-        <seg>Ваш магазин автоматически покупает выбранный вами товар в морском порту и делает его доступным для продажи вашим клиентам. ^^ Посмотрите на изображение товара слева.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T090456Z" creationid="Александр" creationdate="20201218T120943Z">
+        <seg>Keep up the good work and try to achieve even higher goalsВаш магазин автоматически покупает выбранный вами товар в морском порту и делает его доступным для продажи вашим клиентам. ^^ Посмотрите на изображение товара слева.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2198,6 +2198,14 @@ GM_NOC
 [0159]&lt;FDAT&gt;Данные файла:|
 [0160]&lt;FNAM&gt;Имя файла:|
 [0161]&lt;AOVW&gt;Перезаписать сохранённую игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0011]&lt;QUIT&gt;Quit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T090640Z" creationid="Olivier" creationdate="20201228T090640Z">
+        <seg>[0011]&lt;QUIT&gt;Выход</seg>
       </tuv>
     </tu>
     <tu>
