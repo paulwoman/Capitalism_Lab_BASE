@@ -3092,9 +3092,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2936]&lt;TUT2&gt;The last tutorial you have finished is tutorial #|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201228T101954Z" creationid="Olivier" creationdate="20201228T101954Z">
-        <seg>[2936]&lt;TUT2&gt; Последнее учебное пособие, которое вы закончили -  #|
-</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T102112Z" creationid="Olivier" creationdate="20201228T101954Z">
+        <seg>[2936]&lt;TUT2&gt; Последнее учебное пособие, которое вы закончили -  #|</seg>
       </tuv>
     </tu>
     <tu>
