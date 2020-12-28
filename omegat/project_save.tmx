@@ -3450,6 +3450,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2972]&lt;TERM&gt;Term Length|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T172827Z" creationid="Александр" creationdate="20201228T172827Z">
+        <seg>[2972]&lt;TERM&gt;Срок действия|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2973]&lt;BDD1&gt; defaults on the bond [maturity date: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T181220Z" creationid="Александр" creationdate="20201228T181220Z">
+        <seg>[2973]&lt;BDD1&gt; defaults on the bond [maturity date: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T094758Z" creationid="Александр" creationdate="20201228T094758Z">
