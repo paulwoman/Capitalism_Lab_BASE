@@ -3084,8 +3084,25 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2935]&lt;TUT1&gt;If this is your first time playing Capitalism Lab, you are advised to start with tutorial #1.\n\n|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T083753Z" creationid="Александр" creationdate="20201228T083753Z">
-        <seg>[2935]&lt;TUT1&gt;If this is your first time playing Capitalism Lab, you are advised to start with tutorial #1.\n\n|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T101934Z" creationid="Александр" creationdate="20201228T083753Z">
+        <seg>[2935]&lt;TUT1&gt;Если вы впервые играете в "Лабораторию капитализма", советуем вам начать с обучающего урока  #1.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2936]&lt;TUT2&gt;The last tutorial you have finished is tutorial #|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T101954Z" creationid="Olivier" creationdate="20201228T101954Z">
+        <seg>[2936]&lt;TUT2&gt; Последнее учебное пособие, которое вы закончили -  #|
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2937]&lt;TUT3&gt;.\n\nYou are advised to follow the tutorials in a sequential order.\n\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T102034Z" creationid="Olivier" creationdate="20201228T102034Z">
+        <seg>[2937]&lt;TUT3&gt;.\n\n Рекомендуется проходить обучене последовательно.\n\n|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,6 +3111,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201228T101731Z" creationid="Olivier" creationdate="20201228T101731Z">
         <seg>[2938]&lt;TUT4&gt;Вы уверены, что хотите начать обучающий урок #|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2939]&lt;TUT5&gt; now?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T101841Z" creationid="Olivier" creationdate="20201228T101841Z">
+        <seg>[2939]&lt;TUT5&gt; сейчас ?</seg>
       </tuv>
     </tu>
     <tu>
