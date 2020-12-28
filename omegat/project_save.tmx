@@ -2930,6 +2930,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2915]&lt;IPO1&gt;IPO!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T121501Z" creationid="Александр" creationdate="20201228T121501Z">
+        <seg>[2915]&lt;IPO1&gt;IPO!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2916]&lt;IPO2&gt;goes public raising|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235502Z" creationid="Olivier" creationdate="20201225T235502Z">
