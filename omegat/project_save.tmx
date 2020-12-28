@@ -1916,44 +1916,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>This will skip the tutorial|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122444Z" creationid="Александр" creationdate="20201228T122444Z">
-        <seg>Это пропустит |&lt;сегмент 9146&gt;.
-
-[2940] &lt;TUT6&gt; сейчас?
-
-Это пропустит tutorials|.
-
-[2941]&lt;TUT7&gt; до этого, и вам будет не хватать важной информации.\n\n|.
-
-[2942]&lt;TUT8&gt; в промежутке между этим и вы пропустите важную информацию.\n\n|.
-
-[2943] &lt;AK30&gt; Акции и облигации Return|.
-
-[2944]&lt;AK31&gt;Loan and Bond Interests|
-
-[2945] &lt;BF01&gt;Net Interest Income|.
-
-[2946]&lt;BF02&gt;Loan Defaults (Losses) |.
-
-[2947] &lt;SLD1&gt;Хотите продать этот участок for|?
-
-[2948]&lt;SLD2&gt;Это земельный участок принадлежит Вашей дочерней компании.\nDo Вы хотите его продать for|.
-
-[2949] &lt;SLD3&gt;Владелец продаст этот земельный участок for|.
-
-[2950]&lt;SLD4&gt;Прибавка к цене:|.
-
-[2951]&lt;SLD5&gt;Хотите купить?|.
-
-[2952]&lt;SLD6&gt;Но вам не хватает наличных.|
-
-[2953]&lt;AK13&gt;Депозитный процент Income|.
-
-[2954] &lt;BI01&gt;Premium Income|
-
-[2955] &lt;BI02&gt;Инвестиции Income|.
-
-[2956] &lt;BI03&gt;Claims|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123106Z" creationid="Александр" creationdate="20201228T123106Z">
+        <seg>Пропустить обучение?|</seg>
       </tuv>
     </tu>
     <tu>
