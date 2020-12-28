@@ -2954,6 +2954,64 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2929]&lt;TGT3&gt;Village Goal:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T082957Z" creationid="Александр" creationdate="20201228T082957Z">
+        <seg>[2929]&lt;TGT3&gt;Деревенские цели:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2930]&lt;PEDU&gt;% of population with education from:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T083127Z" creationid="Александр" creationdate="20201228T083127Z">
+        <seg>[2930]&lt;PEDU&gt;% населения с образованием от:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2931]&lt;PUB1&gt;For this|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T083136Z" creationid="Александр" creationdate="20201228T083136Z">
+        <seg>[2931]&lt;PUB1&gt;Для этого|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2932]&lt;APR1&gt;can be acquired for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T083158Z" creationid="Александр" creationdate="20201228T083158Z">
+        <seg>[2932]&lt;APR1&gt;Можно приобрести за|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2933]&lt;APR2&gt;But you do not have enough cash at the moment.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T083226Z" creationid="Александр" creationdate="20201228T083226Z">
+        <seg>[2933]&lt;APR2&gt;Но в данный момент у вас недостаточно наличных.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2934]&lt;APR3&gt;Do you want to acquire it now?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T083517Z" creationid="Александр" creationdate="20201228T083517Z">
+        <seg>[2934]&lt;APR3&gt;Хотите приобрести сейчас?|&lt;сегмент 21784 ¶&gt;
+
+[2935]&lt;TUT1&gt;Если вы впервые играете в "Лабораторию капитализма", советуем вам начать с обучающего урока  #1.\n\n|.
+
+[2936] &lt;TUT2&gt; Последнее учебное пособие, которое вы закончили -  #|.
+
+[2937]&lt;TUT3&gt;.\n\n Рекомендуется проходить обучене последовательно.\n\n|.
+
+[2938] &lt;TUT4] Вы уверены, что хотите начать обучающий урок #|?
+
+[2939] &lt;TUT5&gt; сейчас? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215727Z" creationid="Olivier" creationdate="20201217T215727Z">
