@@ -3348,16 +3348,40 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2958]&lt;FREI&gt;Freight|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2958]&lt;FREI&gt;Freight|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124129Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2958]&lt;FREI&gt;Грузоперевозка|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2959]&lt;BAO1&gt;Bank owned by |</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122503Z" creationid="Александр" creationdate="20201228T122503Z">
-        <seg>[2959]&lt;BAO1&gt;Bank owned by |</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124156Z" creationid="Александр" creationdate="20201228T122503Z">
+        <seg>[2959]&lt;BAO1&gt;Владелец банка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2960]&lt;BAO2&gt;went out of business!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124224Z" creationid="Александр" creationdate="20201228T124224Z">
+        <seg>[2960]&lt;BAO2&gt;вышел из строя!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2961]&lt;BAO3&gt;Depositors received 100% of their money back.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124338Z" creationid="Александр" creationdate="20201228T124338Z">
+        <seg>[2961]&lt;BAO3&gt;Депозиторы получили 100% своих денег обратно.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2962]&lt;BAO4&gt;Depositors only received|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124401Z" creationid="Александр" creationdate="20201228T124401Z">
+        <seg>[2962]&lt;BAO4&gt;Депозиторы получили только|</seg>
       </tuv>
     </tu>
     <tu>
