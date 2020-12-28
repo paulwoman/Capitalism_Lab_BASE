@@ -3212,16 +3212,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2941]&lt;TUT7&gt; prior to it and you will be missing important information.\n\n|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T123321Z" creationid="Александр" creationdate="20201228T122449Z">
-        <seg>[2941]&lt;TUT7&gt; до этого, и вам будет не хватать важной информации.\n\n|.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T154658Z" creationid="Александр" creationdate="20201228T122449Z">
+        <seg>[2941]&lt;TUT7&gt; до этого, и вам будет не хватать важной информации.\n\n|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2942]&lt;TUT8&gt; in between and you will be missing important information.\n\n|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T123529Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2942]&lt;TUT8&gt; в промежутке между ними вам не будет хватать важной информации \n\n|.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T154538Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2942]&lt;TUT8&gt; в промежутке между ними вам не будет хватать важной информации. \n\n|</seg>
       </tuv>
     </tu>
     <tu>
