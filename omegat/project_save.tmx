@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1122,6 +1122,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keep up the good work and try to achieve even higher goals.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T082900Z" creationid="Александр" creationdate="20201228T082900Z">
+        <seg>Продолжайте в том же духе и постарайтесь достичь еще более высоких целей.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000532Z" creationid="Olivier" creationdate="20201226T000532Z">
@@ -2004,6 +2012,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have done an excellent job as the mayor of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T082824Z" creationid="Александр" creationdate="20201228T082824Z">
+        <seg>Вы отлично потрудились в качестве мэра|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have graduated with an MBA from a renowned business school.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215746Z" creationid="Olivier" creationdate="20201217T215746Z">
@@ -2096,6 +2112,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120943Z" creationid="Александр" creationdate="20201218T120943Z">
         <seg>Ваш магазин автоматически покупает выбранный вами товар в морском порту и делает его доступным для продажи вашим клиентам. ^^ Посмотрите на изображение товара слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0001]&lt;VERS&gt;Version %1s|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T082738Z" creationid="Александр" creationdate="20201228T082738Z">
+        <seg>[0001]&lt;VERS&gt;Version %1s|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,6 +2918,38 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235519Z" creationid="Olivier" creationdate="20201225T235519Z">
         <seg>[2924]&lt;TGD2&gt;и улучшайте качество жизни своих граждан.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2925]&lt;TGW1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T082751Z" creationid="Александр" creationdate="20201228T082751Z">
+        <seg>[2925]&lt;TGW1&gt;Превосходно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2926]&lt;TGW2&gt;and achieved the goals.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T082839Z" creationid="Александр" creationdate="20201228T082839Z">
+        <seg>[2926]&lt;TGW2&gt;и достигли целей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2927]&lt;TGT1&gt;City Goal:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T082923Z" creationid="Александр" creationdate="20201228T082923Z">
+        <seg>[2927]&lt;TGT1&gt;Городские цели:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2928]&lt;TGT2&gt;Town Goal:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T082934Z" creationid="Александр" creationdate="20201228T082934Z">
+        <seg>[2928]&lt;TGT2&gt;Городские цели:|</seg>
       </tuv>
     </tu>
     <tu>
