@@ -3276,72 +3276,72 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2949]&lt;SLD3&gt;The owner will sell this land plot for|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2949]&lt;SLD3&gt;The owner will sell this land plot for|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123836Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2949]&lt;SLD3&gt;Собственник продаст этот земельный участок за|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2950]&lt;SLD4&gt;Price premium:|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2950]&lt;SLD4&gt;Price premium:|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123902Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2950]&lt;SLD4&gt;Премиум цены:|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2951]&lt;SLD5&gt;Do you want to buy it?|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2951]&lt;SLD5&gt;Do you want to buy it?|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123921Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2951]&lt;SLD5&gt;Хотите купить?|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2952]&lt;SLD6&gt;But you don't have enough cash.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2952]&lt;SLD6&gt;But you don't have enough cash.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123934Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2952]&lt;SLD6&gt;Но у Вас недостаточно денег.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2953]&lt;AK13&gt;Deposit Interest Income|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2953]&lt;AK13&gt;Deposit Interest Income|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123958Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2953]&lt;AK13&gt;Процентный доход по вкладу|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2954]&lt;BI01&gt;Premium Income|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2954]&lt;BI01&gt;Premium Income|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124011Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2954]&lt;BI01&gt;Премиум-доход|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2955]&lt;BI02&gt;Investment Income|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2955]&lt;BI02&gt;Investment Income|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124037Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2955]&lt;BI02&gt;Доход от инвестиций|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2956]&lt;BI03&gt;Claims|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2956]&lt;BI03&gt;Claims|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124045Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2956]&lt;BI03&gt;Требования|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2957]&lt;BDOF&gt; Bonds of |</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2957]&lt;BDOF&gt; Bonds of |</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124114Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2957]&lt;BDOF&gt; Облигации |</seg>
       </tuv>
     </tu>
     <tu>
