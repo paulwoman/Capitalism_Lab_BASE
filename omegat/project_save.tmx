@@ -3386,6 +3386,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2963]&lt;BAO5&gt;of their money back.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124437Z" creationid="Александр" creationdate="20201228T124437Z">
+        <seg>[2963]&lt;BAO5&gt;их деньги обратно.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2964]&lt;LDE1&gt;defaults on a loan from Bank|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124456Z" creationid="Александр" creationdate="20201228T124456Z">
+        <seg>[2964]&lt;LDE1&gt;невыполнение обязательств по кредиту, выданному банком|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2965]&lt;LDE2&gt;Default amount:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124519Z" creationid="Александр" creationdate="20201228T124519Z">
+        <seg>[2965]&lt;LDE2&gt;Размер по умолчанию:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2966]&lt;BDR1&gt;INSUFFICIENT CASH FOR BOND REDEMPTION|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T124710Z" creationid="Александр" creationdate="20201228T124710Z">
+        <seg>[2966]&lt;BDR1&gt;НЕДОСТАТОК ДЕНЕЖНЫХ СРЕДСТВ ДЛЯ ПОГАШЕНИЯ ОБЛИГАЦИЙ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T094758Z" creationid="Александр" creationdate="20201228T094758Z">
