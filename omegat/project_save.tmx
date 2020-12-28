@@ -2118,8 +2118,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0001]&lt;VERS&gt;Version %1s|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T091338Z" creationid="Александр" creationdate="20201228T082738Z">
-        <seg>[0001]&lt;VERS&gt;ВЕРСИЯЯЯЯЯЯЯ %1s|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094349Z" creationid="Александр" creationdate="20201228T082738Z">
+        <seg>[0001]&lt;VERS&gt;Версия %1s|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,6 +2206,62 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201228T090640Z" creationid="Olivier" creationdate="20201228T090640Z">
         <seg>[0011]&lt;QUIT&gt;Выход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0012]&lt;TRAN&gt;Training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094409Z" creationid="Александр" creationdate="20201228T094409Z">
+        <seg>[0012]&lt;TRAN&gt;Обучение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0017]&lt;CANC&gt;Cancel|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094418Z" creationid="Александр" creationdate="20201228T094418Z">
+        <seg>[0017]&lt;CANC&gt;Отмена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0019]&lt;NEWP&gt;New Player|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094430Z" creationid="Александр" creationdate="20201228T094430Z">
+        <seg>[0019]&lt;NEWP&gt;Новый игрок|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0020]&lt;DELP&gt;Delete|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094435Z" creationid="Александр" creationdate="20201228T094435Z">
+        <seg>[0020]&lt;DELP&gt;Удалить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0021]&lt;SELP&gt;Continue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094446Z" creationid="Александр" creationdate="20201228T094446Z">
+        <seg>[0021]&lt;SELP&gt;Продолжить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0022]&lt;PRF1&gt;Please select your name from this list|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094509Z" creationid="Александр" creationdate="20201228T094509Z">
+        <seg>[0022]&lt;PRF1&gt;Выберите, пожалуйста, своё имя из этого списка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0023]&lt;PRF2&gt;If your name is not here, click on "New Player" below|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094531Z" creationid="Александр" creationdate="20201228T094531Z">
+        <seg>[0023]&lt;PRF2&gt;If your name is not here, click on "New Player" below|</seg>
       </tuv>
     </tu>
     <tu>
