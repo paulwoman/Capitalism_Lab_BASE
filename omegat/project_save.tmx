@@ -3076,18 +3076,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2934]&lt;APR3&gt;Do you want to acquire it now?|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T083517Z" creationid="Александр" creationdate="20201228T083517Z">
-        <seg>[2934]&lt;APR3&gt;Хотите приобрести сейчас?|&lt;сегмент 21784 ¶&gt;
-
-[2935]&lt;TUT1&gt;Если вы впервые играете в "Лабораторию капитализма", советуем вам начать с обучающего урока  #1.\n\n|.
-
-[2936] &lt;TUT2&gt; Последнее учебное пособие, которое вы закончили -  #|.
-
-[2937]&lt;TUT3&gt;.\n\n Рекомендуется проходить обучене последовательно.\n\n|.
-
-[2938] &lt;TUT4] Вы уверены, что хотите начать обучающий урок #|?
-
-[2939] &lt;TUT5&gt; сейчас? </seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T101620Z" creationid="Olivier" creationdate="20201228T101620Z">
+        <seg>[2934]&lt;APR3&gt;Хотите приобрести сейчас?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3096,6 +3086,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T083753Z" creationid="Александр" creationdate="20201228T083753Z">
         <seg>[2935]&lt;TUT1&gt;If this is your first time playing Capitalism Lab, you are advised to start with tutorial #1.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2938]&lt;TUT4&gt;Are you sure that you want to start tutorial #|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201228T101731Z" creationid="Olivier" creationdate="20201228T101731Z">
+        <seg>[2938]&lt;TUT4&gt;Вы уверены, что хотите начать обучающий урок #|</seg>
       </tuv>
     </tu>
     <tu>
