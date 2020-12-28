@@ -3092,6 +3092,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3294]&lt;BCH2&gt;Training levels have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T100748Z" creationid="Александр" creationdate="20201228T100748Z">
+        <seg>[3294]&lt;BCH2&gt;Training levels have been changed as per your request.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3336]&lt;ABC3&gt;Would you be interested in acquiring it?|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T094748Z" creationid="Александр" creationdate="20201228T094748Z">
