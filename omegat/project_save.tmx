@@ -1682,6 +1682,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The goal has been achieved.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T121945Z" creationid="Александр" creationdate="20201228T121945Z">
+        <seg>The goal has been achieved.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The goal has been achieved.|
 [2926]&lt;TGW2&gt;Congratulations!|
 [2927]&lt;TGT1&gt;City Goal:|
