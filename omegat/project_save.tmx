@@ -3026,6 +3026,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2926]&lt;TGW2&gt;Congratulations!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T121958Z" creationid="Александр" creationdate="20201228T121958Z">
+        <seg>[2926]&lt;TGW2&gt;Превосходно!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2926]&lt;TGW2&gt;and achieved the goals.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T082839Z" creationid="Александр" creationdate="20201228T082839Z">
