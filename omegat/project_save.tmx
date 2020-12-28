@@ -3236,40 +3236,40 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2944]&lt;AK31&gt;Loan and Bond Interests|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2944]&lt;AK31&gt;Loan and Bond Interests|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123545Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2944]&lt;AK31&gt;Проценты по кредитам и облигациям|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2945]&lt;BF01&gt;Net Interest Income|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2945]&lt;BF01&gt;Net Interest Income|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123608Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2945]&lt;BF01&gt;Чистая процентная прибыль|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2946]&lt;BF02&gt;Loan Defaults (Losses)|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2946]&lt;BF02&gt;Loan Defaults (Losses)|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123635Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2946]&lt;BF02&gt;Кредиты По умолчанию (Убытки)|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2947]&lt;SLD1&gt;Do you want to sell this land plot for|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2947]&lt;SLD1&gt;Do you want to sell this land plot for|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123720Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2947]&lt;SLD1&gt;Хотите продать этот участок за|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2948]&lt;SLD2&gt;This land plot is owned by your subsidiary company.\nDo you want to sell it for|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
-        <seg>[2948]&lt;SLD2&gt;This land plot is owned by your subsidiary company.\nDo you want to sell it for|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T123820Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2948]&lt;SLD2&gt;Этот земельный участок принадлежит Вашей компании.\nХотите ли вы продать его за|</seg>
       </tuv>
     </tu>
     <tu>
