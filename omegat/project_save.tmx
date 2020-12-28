@@ -3426,6 +3426,30 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2969]&lt;BDR4&gt; has matured, you must redeem it now.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T125039Z" creationid="Александр" creationdate="20201228T125039Z">
+        <seg>[2969]&lt;BDR4&gt; вырос, вы должны купить его сейчас.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2970]&lt;BDR5&gt;Bond Issue Date|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T171034Z" creationid="Александр" creationdate="20201228T171034Z">
+        <seg>[2970]&lt;BDR5&gt;Bond Issue Date|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2971]&lt;COUP&gt;Coupon Rate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T171155Z" creationid="Александр" creationdate="20201228T171155Z">
+        <seg>[2971]&lt;COUP&gt;Coupon Rate|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T094758Z" creationid="Александр" creationdate="20201228T094758Z">
