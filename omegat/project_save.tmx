@@ -2126,8 +2126,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201228T090456Z" creationid="Александр" creationdate="20201218T120943Z">
-        <seg>Keep up the good work and try to achieve even higher goalsВаш магазин автоматически покупает выбранный вами товар в морском порту и делает его доступным для продажи вашим клиентам. ^^ Посмотрите на изображение товара слева.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T120545Z" creationid="Александр" creationdate="20201218T120943Z">
+        <seg>Keep up the good work and try to achieve even higher goals. Ваш магазин автоматически покупает выбранный вами товар в морском порту и делает его доступным для продажи вашим клиентам. ^^ Посмотрите на изображение товара слева.</seg>
       </tuv>
     </tu>
     <tu>
