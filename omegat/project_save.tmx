@@ -3436,8 +3436,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2970]&lt;BDR5&gt;Bond Issue Date|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T171034Z" creationid="Александр" creationdate="20201228T171034Z">
-        <seg>[2970]&lt;BDR5&gt;Bond Issue Date|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T172808Z" creationid="Александр" creationdate="20201228T171034Z">
+        <seg>[2970]&lt;BDR5&gt;Дата выпуска облигаций|</seg>
       </tuv>
     </tu>
     <tu>
