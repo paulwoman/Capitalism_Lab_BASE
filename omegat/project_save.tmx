@@ -3084,6 +3084,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094758Z" creationid="Александр" creationdate="20201228T094758Z">
+        <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3336]&lt;ABC3&gt;Would you be interested in acquiring it?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094748Z" creationid="Александр" creationdate="20201228T094748Z">
+        <seg>[3336]&lt;ABC3&gt;Would you be interested in acquiring it?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3338]&lt;ABC5&gt;Near Bankruptcy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094740Z" creationid="Александр" creationdate="20201228T094740Z">
+        <seg>[3338]&lt;ABC5&gt;Near Bankruptcy|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3340]&lt;ABC7&gt;rescuing it from bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094727Z" creationid="Александр" creationdate="20201228T094727Z">
+        <seg>[3340]&lt;ABC7&gt;rescuing it from bankruptcy.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3341]&lt;SNAM&gt;To locate a specific item, type the first letter of its name.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T094739Z" creationid="Александр" creationdate="20201228T094739Z">
+        <seg>[3341]&lt;SNAM&gt;To locate a specific item, type the first letter of its name.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215727Z" creationid="Olivier" creationdate="20201217T215727Z">
