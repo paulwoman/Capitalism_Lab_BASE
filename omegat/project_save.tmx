@@ -1750,6 +1750,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will skip the tutorials|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122448Z" creationid="Александр" creationdate="20201228T122448Z">
+        <seg>This will skip the tutorials|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will skip the tutorials|
 [2941]&lt;TUT7&gt; prior to it and you will be missing important information.\n\n|
 [2942]&lt;TUT8&gt; in between and you will be missing important information.\n\n|
@@ -1902,6 +1910,50 @@ Choose one of eight pre-set difficulty levels.</seg>
 [3012]&lt;BIP3&gt;Claims Reserves|
 [3013]&lt;CBK1&gt;You must first close down all the Bank Branches before you can close down the Bank Headquarters.|
 [3014]&lt;CBK2&gt;Sorry, you cannot close down the bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will skip the tutorial|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122444Z" creationid="Александр" creationdate="20201228T122444Z">
+        <seg>Это пропустит |&lt;сегмент 9146&gt;.
+
+[2940] &lt;TUT6&gt; сейчас?
+
+Это пропустит tutorials|.
+
+[2941]&lt;TUT7&gt; до этого, и вам будет не хватать важной информации.\n\n|.
+
+[2942]&lt;TUT8&gt; в промежутке между этим и вы пропустите важную информацию.\n\n|.
+
+[2943] &lt;AK30&gt; Акции и облигации Return|.
+
+[2944]&lt;AK31&gt;Loan and Bond Interests|
+
+[2945] &lt;BF01&gt;Net Interest Income|.
+
+[2946]&lt;BF02&gt;Loan Defaults (Losses) |.
+
+[2947] &lt;SLD1&gt;Хотите продать этот участок for|?
+
+[2948]&lt;SLD2&gt;Это земельный участок принадлежит Вашей дочерней компании.\nDo Вы хотите его продать for|.
+
+[2949] &lt;SLD3&gt;Владелец продаст этот земельный участок for|.
+
+[2950]&lt;SLD4&gt;Прибавка к цене:|.
+
+[2951]&lt;SLD5&gt;Хотите купить?|.
+
+[2952]&lt;SLD6&gt;Но вам не хватает наличных.|
+
+[2953]&lt;AK13&gt;Депозитный процент Income|.
+
+[2954] &lt;BI01&gt;Premium Income|
+
+[2955] &lt;BI02&gt;Инвестиции Income|.
+
+[2956] &lt;BI03&gt;Claims|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,6 +3194,166 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201228T101841Z" creationid="Olivier" creationdate="20201228T101841Z">
         <seg>[2939]&lt;TUT5&gt; сейчас ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2940]&lt;TUT6&gt; now?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122446Z" creationid="Александр" creationdate="20201228T122446Z">
+        <seg>[2940]&lt;TUT6&gt; now?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2941]&lt;TUT7&gt; prior to it and you will be missing important information.\n\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122449Z" creationid="Александр" creationdate="20201228T122449Z">
+        <seg>[2941]&lt;TUT7&gt; prior to it and you will be missing important information.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2942]&lt;TUT8&gt; in between and you will be missing important information.\n\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2942]&lt;TUT8&gt; in between and you will be missing important information.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2943]&lt;AK30&gt;Stock and Bond Return|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2943]&lt;AK30&gt;Stock and Bond Return|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2944]&lt;AK31&gt;Loan and Bond Interests|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2944]&lt;AK31&gt;Loan and Bond Interests|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2945]&lt;BF01&gt;Net Interest Income|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2945]&lt;BF01&gt;Net Interest Income|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2946]&lt;BF02&gt;Loan Defaults (Losses)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2946]&lt;BF02&gt;Loan Defaults (Losses)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2947]&lt;SLD1&gt;Do you want to sell this land plot for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2947]&lt;SLD1&gt;Do you want to sell this land plot for|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2948]&lt;SLD2&gt;This land plot is owned by your subsidiary company.\nDo you want to sell it for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2948]&lt;SLD2&gt;This land plot is owned by your subsidiary company.\nDo you want to sell it for|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2949]&lt;SLD3&gt;The owner will sell this land plot for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2949]&lt;SLD3&gt;The owner will sell this land plot for|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2950]&lt;SLD4&gt;Price premium:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2950]&lt;SLD4&gt;Price premium:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2951]&lt;SLD5&gt;Do you want to buy it?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2951]&lt;SLD5&gt;Do you want to buy it?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2952]&lt;SLD6&gt;But you don't have enough cash.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2952]&lt;SLD6&gt;But you don't have enough cash.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2953]&lt;AK13&gt;Deposit Interest Income|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2953]&lt;AK13&gt;Deposit Interest Income|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2954]&lt;BI01&gt;Premium Income|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2954]&lt;BI01&gt;Premium Income|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2955]&lt;BI02&gt;Investment Income|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2955]&lt;BI02&gt;Investment Income|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2956]&lt;BI03&gt;Claims|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2956]&lt;BI03&gt;Claims|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2957]&lt;BDOF&gt; Bonds of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2957]&lt;BDOF&gt; Bonds of |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2958]&lt;FREI&gt;Freight|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122450Z" creationid="Александр" creationdate="20201228T122450Z">
+        <seg>[2958]&lt;FREI&gt;Freight|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2959]&lt;BAO1&gt;Bank owned by |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122503Z" creationid="Александр" creationdate="20201228T122503Z">
+        <seg>[2959]&lt;BAO1&gt;Bank owned by |</seg>
       </tuv>
     </tu>
     <tu>
