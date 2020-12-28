@@ -2342,6 +2342,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0024]&lt;PRFN&gt;Please enter your name|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122626Z" creationid="Александр" creationdate="20201228T122626Z">
+        <seg>[0024]&lt;PRFN&gt;Please enter your name|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122626Z" creationid="Александр" creationdate="20201228T122626Z">
+        <seg>[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0026]&lt;PRDY&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122626Z" creationid="Александр" creationdate="20201228T122626Z">
+        <seg>[0026]&lt;PRDY&gt;Yes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0027]&lt;PRDN&gt;No|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122626Z" creationid="Александр" creationdate="20201228T122626Z">
+        <seg>[0027]&lt;PRDN&gt;No|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0028]&lt;PRED&gt;Same profile has already been created|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122636Z" creationid="Александр" creationdate="20201228T122636Z">
+        <seg>[0028]&lt;PRED&gt;Same profile has already been created|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
@@ -3200,8 +3240,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2940]&lt;TUT6&gt; now?</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122446Z" creationid="Александр" creationdate="20201228T122446Z">
-        <seg>[2940]&lt;TUT6&gt; now?</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201228T122849Z" creationid="Александр" creationdate="20201228T122446Z">
+        <seg>[2940]&lt;TUT6&gt; сейчас?</seg>
       </tuv>
     </tu>
     <tu>
