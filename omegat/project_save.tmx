@@ -1052,6 +1052,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It was saved with a different version of Capitalism.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224640Z" creationid="Olivier" creationdate="20201229T224640Z">
+        <seg>Эта игра была сохранениа на другой версии Капитализма.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was saved with a different version of Capitalism.|
 [0169]&lt;LE_G&gt;Load game error|
 [0170]&lt;SE_C&gt;Error creating save game file.|
@@ -1350,6 +1358,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215910Z" creationid="Olivier" creationdate="20201217T215910Z">
         <seg>Pointer=70,120,185,230</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proceed ?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224613Z" creationid="Olivier" creationdate="20201229T224613Z">
+        <seg>Продолжить?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1664,6 +1680,14 @@ Choose one of eight pre-set difficulty levels.</seg>
 [2923]&lt;TGD1&gt;Развивайте город|
 [2924]&lt;TGD2&gt;и улучшайте качество жизни своих граждан.|
 [2925]&lt;TGW1&gt;Превосходно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The game is not saved.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224627Z" creationid="Olivier" creationdate="20201229T224627Z">
+        <seg>Игра не сохранена.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,6 +2438,286 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201229T224244Z" creationid="Olivier" creationdate="20201229T224244Z">
         <seg>[0121]&lt;RFU3&gt;Невозможно присоединиться к игре, потому что сохраненная игра отличается от хоста|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0122]&lt;RFU4&gt;You cannot join the game because the host does not accept your game version|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224540Z" creationid="Olivier" creationdate="20201229T224540Z">
+        <seg>[0122]&lt;RFU4&gt;Невозможно присоединиться к игре, потому что хост не распознаёт вашу версию игры.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0123]&lt;RFU5&gt;You cannot join the game because the session is full|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224542Z" creationid="Olivier" creationdate="20201229T224542Z">
+        <seg>[0123]&lt;RFU5&gt;Вы не можете присоединиться к игре, потому что сеанс уже полон|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0148]&lt;SV_G&gt;Save Game|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224545Z" creationid="Olivier" creationdate="20201229T224545Z">
+        <seg>[0148]&lt;SV_G&gt;Сохранить игру|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0149]&lt;0SAV&gt;You haven't saved any games yet.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224547Z" creationid="Olivier" creationdate="20201229T224547Z">
+        <seg>[0149]&lt;0SAV&gt;Вы еще не сохраняли игру.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0150]&lt;SAVE&gt;Save|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224549Z" creationid="Olivier" creationdate="20201229T224549Z">
+        <seg>[0150]&lt;SAVE&gt;Сохранить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0152]&lt;LOAD&gt;Load|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224550Z" creationid="Olivier" creationdate="20201229T224550Z">
+        <seg>[0152]&lt;LOAD&gt;Загрузить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0154]&lt;EMGS&gt;Empty Game Slot|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224551Z" creationid="Olivier" creationdate="20201229T224551Z">
+        <seg>[0154]&lt;EMGS&gt;Пустой игровой слот|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0155]&lt;PAGE&gt;page %1d/%2d|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224553Z" creationid="Olivier" creationdate="20201229T224553Z">
+        <seg>[0155]&lt;PAGE&gt;Страница %1d/%2d|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0156]&lt;-DSL&gt;Cannot delete this slot|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224556Z" creationid="Olivier" creationdate="20201229T224556Z">
+        <seg>[0156]&lt;-DSL&gt;Невозможно удалить этот слот|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0158]&lt;GDAT&gt;Game date: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224559Z" creationid="Olivier" creationdate="20201229T224559Z">
+        <seg>[0158]&lt;GDAT&gt;Данные игры:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0159]&lt;FDAT&gt;File date: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224600Z" creationid="Olivier" creationdate="20201229T224600Z">
+        <seg>[0159]&lt;FDAT&gt;Данные файла:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0160]&lt;FNAM&gt;File name: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224601Z" creationid="Olivier" creationdate="20201229T224601Z">
+        <seg>[0160]&lt;FNAM&gt;Имя файла:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0161]&lt;AOVW&gt;It will overwrite the existing save game.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224605Z" creationid="Olivier" creationdate="20201229T224605Z">
+        <seg>[0161]&lt;AOVW&gt;Перезаписать сохранённую игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0162]&lt;SE-L&gt;Cannot load in scenario editor|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224616Z" creationid="Olivier" creationdate="20201229T224616Z">
+        <seg>[0162]&lt;SE-L&gt;Невозможно загрузить в редакторе сценариев|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0163]&lt;ADLS&gt;This save game will be deleted.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224618Z" creationid="Olivier" creationdate="20201229T224618Z">
+        <seg>[0163]&lt;ADLS&gt;Загружаемая игра была удалена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0164]&lt;DESV&gt;Description of the save game:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224623Z" creationid="Olivier" creationdate="20201229T224623Z">
+        <seg>[0164]&lt;DESV&gt;Описание сохранённой игры:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0165]&lt;OUTD&gt;Insufficient disk space !</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224624Z" creationid="Olivier" creationdate="20201229T224624Z">
+        <seg>[0165]&lt;OUTD&gt;Недостаточно места на диске !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0166]&lt;LE_O&gt;Cannot open the save game file|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224630Z" creationid="Olivier" creationdate="20201229T224630Z">
+        <seg>[0166]&lt;LE_O&gt;Не могу открыть сохраненный файл игры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0167]&lt;LE_H&gt;Cannot read file header|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224631Z" creationid="Olivier" creationdate="20201229T224631Z">
+        <seg>[0167]&lt;LE_H&gt;Невозможно прочитать файл|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0168]&lt;LE_P&gt;Cannot load the save game.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224633Z" creationid="Olivier" creationdate="20201229T224633Z">
+        <seg>[0168]&lt;LE_P&gt;Невозможно загрузить сохранённую игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0169]&lt;LE_G&gt;Load game error|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224708Z" creationid="Olivier" creationdate="20201229T224708Z">
+        <seg>[0169]&lt;LE_G&gt;Ошибка загрузки игры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0170]&lt;SE_C&gt;Error creating save game file.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224713Z" creationid="Olivier" creationdate="20201229T224713Z">
+        <seg>[0170]&lt;SE_C&gt;Ошибка создания сохранения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0171]&lt;SE_H&gt;Error creating save game header.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224714Z" creationid="Olivier" creationdate="20201229T224714Z">
+        <seg>[0171]&lt;SE_H&gt;Ошибка названия сохранения игры.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0172]&lt;SE_G&gt;Error writing save game data.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224716Z" creationid="Olivier" creationdate="20201229T224716Z">
+        <seg>[0172]&lt;SE_G&gt;Ошибка при записи сохранения.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0174]&lt;LOB?&gt;Cannot connect to lobby|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224719Z" creationid="Olivier" creationdate="20201229T224719Z">
+        <seg>[0174]&lt;LOB?&gt;Невозможно подключиться к лобби.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0175]&lt;LOBC&gt;Cannot get connection string from lobby|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224721Z" creationid="Olivier" creationdate="20201229T224721Z">
+        <seg>[0175]&lt;LOBC&gt;Ошибка соединения.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0186]&lt;STAY&gt;Do you want to continue to stay in the game?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224724Z" creationid="Olivier" creationdate="20201229T224724Z">
+        <seg>[0186]&lt;STAY&gt;Хотите продолжить игру?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0188]&lt;RSTT&gt;Restart Game|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224726Z" creationid="Olivier" creationdate="20201229T224726Z">
+        <seg>[0188]&lt;RSTT&gt;Перезапуск игры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0189]&lt;RETI&gt;Retire|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224728Z" creationid="Olivier" creationdate="20201229T224728Z">
+        <seg>[0189]&lt;RETI&gt;Уйти в отставку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0190]&lt;RETR&gt;Retreat|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224729Z" creationid="Olivier" creationdate="20201229T224729Z">
+        <seg>[0190]&lt;RETR&gt;Ретрит|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0196]&lt;ASRS&gt;Do you really want to restart?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224731Z" creationid="Olivier" creationdate="20201229T224731Z">
+        <seg>[0196]&lt;ASRS&gt;Вы действительно хотите начать заново?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0241]&lt;CHEA&gt;Cheat Mode Enabled.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224733Z" creationid="Olivier" creationdate="20201229T224733Z">
+        <seg>[0241]&lt;CHEA&gt;Чит-режим включён.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0257]&lt;SVSU&gt;Game Saved Successfully|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224734Z" creationid="Olivier" creationdate="20201229T224734Z">
+        <seg>[0257]&lt;SVSU&gt;Игра успешно сохранена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0258]&lt;WAIT&gt;Waiting for %1s %2s|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224736Z" creationid="Olivier" creationdate="20201229T224736Z">
+        <seg>[0258]&lt;WAIT&gt;Ожидание %1s %2s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0274]&lt;GOAW&gt;You will be victorious when you have:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224738Z" creationid="Olivier" creationdate="20201229T224738Z">
+        <seg>[0274]&lt;GOAW&gt;Ты одержишь победу после то как:|</seg>
       </tuv>
     </tu>
     <tu>
