@@ -2346,6 +2346,78 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0029]&lt;PREI&gt;Error creating %1s directory|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224150Z" creationid="Olivier" creationdate="20201229T224150Z">
+        <seg>[0029]&lt;PREI&gt;Ошибка создания %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0030]&lt;PREC&gt;Error creating profile|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224153Z" creationid="Olivier" creationdate="20201229T224153Z">
+        <seg>[0030]&lt;PREC&gt;Ошибка создания профиля|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0038]&lt;NAH_&gt;Human|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224155Z" creationid="Olivier" creationdate="20201229T224155Z">
+        <seg>[0038]&lt;NAH_&gt;Человек|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0040]&lt;DIFF&gt;Difficulty Level|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224158Z" creationid="Olivier" creationdate="20201229T224158Z">
+        <seg>[0040]&lt;DIFF&gt;Уровень сложности|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0092]&lt;RNDE&gt;Random Events|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224200Z" creationid="Olivier" creationdate="20201229T224200Z">
+        <seg>[0092]&lt;RNDE&gt;Случайные события|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0118]&lt;RFU0&gt;The host refuses you|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224201Z" creationid="Olivier" creationdate="20201229T224201Z">
+        <seg>[0118]&lt;RFU0&gt;Отказано|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0119]&lt;RFU1&gt;Cannot join a new game session|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224203Z" creationid="Olivier" creationdate="20201229T224203Z">
+        <seg>[0119]&lt;RFU1&gt;Невозможно присоединиться к новой игре|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0120]&lt;RFU2&gt;Cannot join a load game session|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224206Z" creationid="Olivier" creationdate="20201229T224206Z">
+        <seg>[0120]&lt;RFU2&gt;Невозможно присоединитсья к этой игре|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0121]&lt;RFU3&gt;You cannot join the game because the save game is different from the host|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224244Z" creationid="Olivier" creationdate="20201229T224244Z">
+        <seg>[0121]&lt;RFU3&gt;Невозможно присоединиться к игре, потому что сохраненная игра отличается от хоста|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
