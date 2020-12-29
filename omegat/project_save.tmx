@@ -2300,48 +2300,48 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0023]&lt;PRF2&gt;If your name is not here, click on "New Player" below|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T094531Z" creationid="Александр" creationdate="20201228T094531Z">
-        <seg>[0023]&lt;PRF2&gt;If your name is not here, click on "New Player" below|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224121Z" creationid="Olivier" creationdate="20201229T224121Z">
+        <seg>[0023]&lt;PRF2&gt;Если Вашего имени здесь нет, выберите "Новый игрок ниже.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0024]&lt;PRFN&gt;Please enter your name|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122626Z" creationid="Александр" creationdate="20201228T122626Z">
-        <seg>[0024]&lt;PRFN&gt;Please enter your name|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224123Z" creationid="Olivier" creationdate="20201229T224123Z">
+        <seg>[0024]&lt;PRFN&gt;Пожалуйста введите своё имя|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122626Z" creationid="Александр" creationdate="20201228T122626Z">
-        <seg>[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224125Z" creationid="Olivier" creationdate="20201229T224125Z">
+        <seg>[0025]&lt;PRFD&gt;Вы уверены, что хотите удалить этого человека из списка?|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0026]&lt;PRDY&gt;Yes|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122626Z" creationid="Александр" creationdate="20201228T122626Z">
-        <seg>[0026]&lt;PRDY&gt;Yes|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224129Z" creationid="Александр" creationdate="20201228T122626Z">
+        <seg>[0026]&lt;PRDY&gt;Да|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0027]&lt;PRDN&gt;No|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122626Z" creationid="Александр" creationdate="20201228T122626Z">
-        <seg>[0027]&lt;PRDN&gt;No|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224131Z" creationid="Александр" creationdate="20201228T122626Z">
+        <seg>[0027]&lt;PRDN&gt;Нет|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0028]&lt;PRED&gt;Same profile has already been created|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T122636Z" creationid="Александр" creationdate="20201228T122636Z">
-        <seg>[0028]&lt;PRED&gt;Same profile has already been created|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20201229T224134Z" creationid="Александр" creationdate="20201228T122636Z">
+        <seg>[0028]&lt;PRED&gt;Такой профиль уже создан|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3442,42 +3442,10 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2971]&lt;COUP&gt;Coupon Rate|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T171155Z" creationid="Александр" creationdate="20201228T171155Z">
-        <seg>[2971]&lt;COUP&gt;Coupon Rate|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2972]&lt;TERM&gt;Term Length|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T172827Z" creationid="Александр" creationdate="20201228T172827Z">
         <seg>[2972]&lt;TERM&gt;Срок действия|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2973]&lt;BDD1&gt; defaults on the bond [maturity date: |</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T181220Z" creationid="Александр" creationdate="20201228T181220Z">
-        <seg>[2973]&lt;BDD1&gt; defaults on the bond [maturity date: |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T094758Z" creationid="Александр" creationdate="20201228T094758Z">
-        <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[3294]&lt;BCH2&gt;Training levels have been changed as per your request.|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T100748Z" creationid="Александр" creationdate="20201228T100748Z">
-        <seg>[3294]&lt;BCH2&gt;Training levels have been changed as per your request.|</seg>
       </tuv>
     </tu>
     <tu>
