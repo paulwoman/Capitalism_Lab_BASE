@@ -4386,10 +4386,50 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2971]&lt;COUP&gt;Coupon Rate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T185219Z" creationid="Александр" creationdate="20201230T185219Z">
+        <seg>[2971]&lt;COUP&gt;Ставка купона|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2972]&lt;TERM&gt;Term Length|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T172827Z" creationid="Александр" creationdate="20201228T172827Z">
         <seg>[2972]&lt;TERM&gt;Срок действия|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3314]&lt;AGD5&gt;Previous record:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T185158Z" creationid="Александр" creationdate="20201230T185158Z">
+        <seg>[3314]&lt;AGD5&gt;Предыдущая запись:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3315]&lt;AGD6&gt;Highest rating achieved before:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T185110Z" creationid="Александр" creationdate="20201230T185110Z">
+        <seg>[3315]&lt;AGD6&gt;Самый высокий рейтинг:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3316]&lt;AGD7&gt;You have set a new record for the Accomplishment Game|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T185052Z" creationid="Александр" creationdate="20201230T185024Z">
+        <seg>[3316]&lt;AGD7&gt;Вы установили новый рекорд|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3317]&lt;AGD8&gt;You have won the Accomplishment Game.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T185034Z" creationid="Александр" creationdate="20201230T185018Z">
+        <seg>[3317]&lt;AGD8&gt;Вы выиграли Игру Дополнений.|</seg>
       </tuv>
     </tu>
     <tu>
