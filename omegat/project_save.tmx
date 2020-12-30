@@ -3274,6 +3274,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0557]&lt;FIN5&gt;Employment|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184329Z" creationid="Александр" creationdate="20201230T184329Z">
+        <seg>[0557]&lt;FIN5&gt;Занятость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0558]&lt;FIN6&gt;Employment Policy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184337Z" creationid="Александр" creationdate="20201230T184337Z">
+        <seg>[0558]&lt;FIN6&gt;Employment Policy|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
@@ -4374,6 +4390,78 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T172827Z" creationid="Александр" creationdate="20201228T172827Z">
         <seg>[2972]&lt;TERM&gt;Срок действия|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3325]&lt;SNV2&gt;The current version's overall tech:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184625Z" creationid="Александр" creationdate="20201230T184625Z">
+        <seg>[3325]&lt;SNV2&gt;Технология текущей версии:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3326]&lt;SNV3&gt;The new version's overall tech:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184604Z" creationid="Александр" creationdate="20201230T184604Z">
+        <seg>[3326]&lt;SNV3&gt;Технология новой версии:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3327]&lt;SNV4&gt;The difference between the two is too small to make an impact in the product's quality rating.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184545Z" creationid="Александр" creationdate="20201230T184545Z">
+        <seg>[3327]&lt;SNV4&gt;Разница между ними слишком мала, чтобы повлиять на рейтинг качества продукта.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3328]&lt;SNV5&gt;You may conduct additional research on the tech and try again later.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184525Z" creationid="Александр" creationdate="20201230T184525Z">
+        <seg>[3328]&lt;SNV5&gt;Вы можете провести дополнительные исследования и попробовать еще раз позже..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3329]&lt;OSAS&gt;Offer %1s Salary + Signup Bonus (1 year salary)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184510Z" creationid="Александр" creationdate="20201230T184510Z">
+        <seg>[3329]&lt;OSAS&gt;Предложение %1 Зарплата + регистрационный бонус (1 год зарплаты)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3330]&lt;LPLS&gt;The layout plans in this folder have been sorted by their descriptions.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184447Z" creationid="Александр" creationdate="20201230T184447Z">
+        <seg>[3330]&lt;LPLS&gt;Планы расположения в этой папке отсортированы по их описаниям..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3331]&lt;DEXP&gt;The game data has been exported to|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184435Z" creationid="Александр" creationdate="20201230T184435Z">
+        <seg>[3331]&lt;DEXP&gt;Данные игры экспортированы в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3332]&lt;CBR1&gt;The city government of %1s declares bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184420Z" creationid="Александр" creationdate="20201230T184420Z">
+        <seg>[3332]&lt;CBR1&gt;Городское правительство %1 объявляет о банкротстве.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3333]&lt;CBR2&gt;Under pressure, mayor %1s resigns from the office.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184358Z" creationid="Александр" creationdate="20201230T184358Z">
+        <seg>[3333]&lt;CBR2&gt;Под давлением мэр %1 уходит в отставку.|</seg>
       </tuv>
     </tu>
     <tu>
