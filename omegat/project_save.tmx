@@ -3242,6 +3242,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0553]&lt;FIN1&gt;Switch Brand Strategy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184057Z" creationid="Александр" creationdate="20201230T184057Z">
+        <seg>[0553]&lt;FIN1&gt;Переключить стратегию бренда|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0554]&lt;FIN2&gt;When you switch your brand strategy, all products will be labeled with the new brand and their brand ratings will be reset to zero as a result.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184214Z" creationid="Александр" creationdate="20201230T184214Z">
+        <seg>[0554]&lt;FIN2&gt;Когда вы переключаете вашу стратегию бренда, все продукты будут помечены с новым брендом, и их рейтинг бренда будет сброшен на ноль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0555]&lt;FIN3&gt;Employment Termination|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184251Z" creationid="Александр" creationdate="20201230T184251Z">
+        <seg>[0555]&lt;FIN3&gt;Окончание работы по найму|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0556]&lt;FIN4&gt;Employment rejected|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184311Z" creationid="Александр" creationdate="20201230T184311Z">
+        <seg>[0556]&lt;FIN4&gt;Отказ в приеме на работу|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
