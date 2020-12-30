@@ -2722,6 +2722,54 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0286]&lt;IPXL&gt;Join a local area network game|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182007Z" creationid="Александр" creationdate="20201230T182007Z">
+        <seg>[0286]&lt;IPXL&gt;Присоединиться к игре по локальной сети|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0287]&lt;TCPL&gt;Join a local area network or Internet game|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182039Z" creationid="Александр" creationdate="20201230T182021Z">
+        <seg>[0287]&lt;TCPL&gt;Присоединиться к игре по локальной сети или интернету|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0288]&lt;MODL&gt;Join with another player by Modem|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182052Z" creationid="Александр" creationdate="20201230T182052Z">
+        <seg>[0288]&lt;MODL&gt;Присоединиться к другому игроку через модем|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0289]&lt;COML&gt;Join with another player linked by serial cable|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182113Z" creationid="Александр" creationdate="20201230T182113Z">
+        <seg>[0289]&lt;COML&gt;Присоединитесь к другому игроку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0298]&lt;PRFL&gt;Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182129Z" creationid="Александр" creationdate="20201230T182129Z">
+        <seg>\[0298]&lt;PRFL&gt;Внимание: Это удалит всю информацию в вашем многопользовательском лобби учетной записи, которая связана с этим профилем игрока.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182229Z" creationid="Александр" creationdate="20201230T182229Z">
+        <seg>[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
