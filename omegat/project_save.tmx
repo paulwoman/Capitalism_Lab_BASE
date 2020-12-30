@@ -2868,8 +2868,72 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0343]&lt;CAGG&gt;AI Expansion Aggressiveness|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201230T182514Z" creationid="Александр" creationdate="20201230T182514Z">
-        <seg>[0343]&lt;CAGG&gt;Агрессивность расширения ИИ|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182610Z" creationid="Александр" creationdate="20201230T182514Z">
+        <seg>[0343]&lt;CAGG&gt;Агрессивность распространения ИИ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0344]&lt;COML&gt;AI Expertise Level|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182558Z" creationid="Александр" creationdate="20201230T182558Z">
+        <seg>[0344]&lt;COML&gt;Уровень знаний ИИ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0346]&lt;CSEC&gt;Show Competitor Trade Secrets|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182637Z" creationid="Александр" creationdate="20201230T182637Z">
+        <seg>[0346]&lt;CSEC&gt;Показать секреты конкурентов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0347]&lt;CCOM&gt;Competence of Local Competitors|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182653Z" creationid="Александр" creationdate="20201230T182653Z">
+        <seg>[0347]&lt;CCOM&gt;Компетентность местных участников|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0348]&lt;CSEA&gt;Seaports Importing Consumer Goods per City|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182711Z" creationid="Александр" creationdate="20201230T182711Z">
+        <seg>[0348]&lt;CSEA&gt;Морские порты Импорт потребительских товаров по городу|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0349]&lt;ISEA&gt;Seaports Importing Industrial Goods per City|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182723Z" creationid="Александр" creationdate="20201230T182723Z">
+        <seg>[0349]&lt;ISEA&gt;Морские порты Импорт промышленных товаров по городу|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0351]&lt;ISUP&gt;Constant Import Supply|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182739Z" creationid="Александр" creationdate="20201230T182739Z">
+        <seg>[0351]&lt;ISUP&gt;Постоянные поставки на импорт|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0352]&lt;IQUA&gt;Import Quality|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182751Z" creationid="Александр" creationdate="20201230T182751Z">
+        <seg>[0352]&lt;IQUA&gt;Качество импорта|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0460]&lt;CCTI&gt;Macro Economy Realism|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182805Z" creationid="Александр" creationdate="20201230T182805Z">
+        <seg>[0460]&lt;CCTI&gt;Макроэкономический реализм|</seg>
       </tuv>
     </tu>
     <tu>
