@@ -86,6 +86,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>- help|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182251Z" creationid="Александр" creationdate="20201230T182251Z">
+        <seg>- помощь|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- help|
 [0322]&lt;ENVI&gt;ENVIRONMENT|
 [0323]&lt;CMPT&gt;COMPETITORS|
@@ -2766,6 +2774,102 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T182229Z" creationid="Александр" creationdate="20201230T182229Z">
         <seg>[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182242Z" creationid="Александр" creationdate="20201230T182242Z">
+        <seg>[0300]&lt;#?L0&gt;#r - рейтинг игроков|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0301]&lt;#?L1&gt;#?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182245Z" creationid="Александр" creationdate="20201230T182245Z">
+        <seg>[0301]&lt;#?L1&gt;#?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0322]&lt;ENVI&gt;ENVIRONMENT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182307Z" creationid="Александр" creationdate="20201230T182307Z">
+        <seg>[0322]&lt;ENVI&gt;УСЛОВИЯ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0323]&lt;CMPT&gt;COMPETITORS|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182323Z" creationid="Александр" creationdate="20201230T182323Z">
+        <seg>[0323]&lt;CMPT&gt;СОПЕРНИКИ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0324]&lt;IMPT&gt;PRODUCTS|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182337Z" creationid="Александр" creationdate="20201230T182337Z">
+        <seg>[0324]&lt;IMPT&gt;ПРОДУКЦИЯ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0325]&lt;GOAL&gt;GOALS|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182343Z" creationid="Александр" creationdate="20201230T182343Z">
+        <seg>[0325]&lt;GOAL&gt;ЦЕЛИ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0326]&lt;CITY&gt;Number of Cities|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182351Z" creationid="Александр" creationdate="20201230T182351Z">
+        <seg>[0326]&lt;CITY&gt;Количество городов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0327]&lt;SCAP&gt;Your Start-up Capital|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182401Z" creationid="Александр" creationdate="20201230T182401Z">
+        <seg>[0327]&lt;SCAP&gt;Ваш начальный капитал|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0329]&lt;ALLS&gt;Stock Market|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182419Z" creationid="Александр" creationdate="20201230T182419Z">
+        <seg>[0329]&lt;ALLS&gt;Фондовый рынок|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0341]&lt;NCOM&gt;Number of Competitors|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182433Z" creationid="Александр" creationdate="20201230T182433Z">
+        <seg>[0341]&lt;NCOM&gt;Количество соперников|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0342]&lt;CCAP&gt;Competitor Start-up Capital|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182454Z" creationid="Александр" creationdate="20201230T182454Z">
+        <seg>[0342]&lt;CCAP&gt;Стартовый капитал соперников|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0343]&lt;CAGG&gt;AI Expansion Aggressiveness|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182514Z" creationid="Александр" creationdate="20201230T182514Z">
+        <seg>[0343]&lt;CAGG&gt;Агрессивность расширения ИИ|</seg>
       </tuv>
     </tu>
     <tu>
