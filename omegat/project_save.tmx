@@ -3154,6 +3154,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0539]&lt;FAP2&gt;Null|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183456Z" creationid="Александр" creationdate="20201230T183448Z">
+        <seg>[0539]&lt;FAP2&gt;Нулевой|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0540]&lt;FAP3&gt;Confirm|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183532Z" creationid="Александр" creationdate="20201230T183452Z">
+        <seg>[0540]&lt;FAP3&gt;Подтвердить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0541]&lt;FAP4&gt;Cancel|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183539Z" creationid="Александр" creationdate="20201230T183539Z">
+        <seg>[0541]&lt;FAP4&gt;Отмена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0543]&lt;FAP6&gt;Sorry, you don't have enough cash.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183554Z" creationid="Александр" creationdate="20201230T183554Z">
+        <seg>[0543]&lt;FAP6&gt;Извините, у вас недостаточно средств.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0546]&lt;AII1&gt;Game Design Mode Warning|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183644Z" creationid="Александр" creationdate="20201230T183644Z">
+        <seg>[0546]&lt;AII1&gt;Внимание! Режим разработчика|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0547]&lt;AII2&gt;Grand strategy plan|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183659Z" creationid="Александр" creationdate="20201230T183659Z">
+        <seg>[0547]&lt;AII2&gt;Большой стратегический план|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0548]&lt;AII3&gt; building farm input failed.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183728Z" creationid="Александр" creationdate="20201230T183728Z">
+        <seg>[0548]&lt;AII3&gt; ошибка при вводе данных в здание.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
