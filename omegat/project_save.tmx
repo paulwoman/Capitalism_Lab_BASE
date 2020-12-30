@@ -2938,6 +2938,158 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0462]&lt;DSMI&gt;Retail Store Type|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182816Z" creationid="Александр" creationdate="20201230T182816Z">
+        <seg>[0462]&lt;DSMI&gt;Тип розничного магазина|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0463]&lt;DSM1&gt;Many|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182822Z" creationid="Александр" creationdate="20201230T182822Z">
+        <seg>[0463]&lt;DSM1&gt;Много|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0464]&lt;DSM2&gt;One|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182829Z" creationid="Александр" creationdate="20201230T182829Z">
+        <seg>[0464]&lt;DSM2&gt;Один|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0467]&lt;GSYI&gt;Game Starting Year|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182836Z" creationid="Александр" creationdate="20201230T182836Z">
+        <seg>[0467]&lt;GSYI&gt;Год навчала игры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0504]&lt;AIG1&gt;Grand strategy failed, cannot find location to build.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182857Z" creationid="Александр" creationdate="20201230T182857Z">
+        <seg>[0504]&lt;AIG1&gt;Гранд-стратегия провалилась, невозможно найти место для строительства.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0505]&lt;GP41&gt;Declare Bankruptcy, ARE YOU SURE ?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182934Z" creationid="Александр" creationdate="20201230T182934Z">
+        <seg>[0505]&lt;GP41&gt;Объявить о банкротстве, Вы уверены?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0506]&lt;GP42&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182938Z" creationid="Александр" creationdate="20201230T182938Z">
+        <seg>[0506]&lt;GP42&gt;Да|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0507]&lt;GP43&gt;No|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182941Z" creationid="Александр" creationdate="20201230T182941Z">
+        <seg>[0507]&lt;GP43&gt;Нет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0508]&lt;IGM1&gt;Do you really want to retire?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T182959Z" creationid="Александр" creationdate="20201230T182959Z">
+        <seg>[0508]&lt;IGM1&gt;Вы действительно хотите уйти на пенсию?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0509]&lt;IGM2&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183005Z" creationid="Александр" creationdate="20201230T183005Z">
+        <seg>[0509]&lt;IGM2&gt;Да|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0510]&lt;IGM3&gt;No|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183008Z" creationid="Александр" creationdate="20201230T183008Z">
+        <seg>[0510]&lt;IGM3&gt;Нет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0511]&lt;IGM4&gt;Do you really want to quit to the Main Menu?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183023Z" creationid="Александр" creationdate="20201230T183023Z">
+        <seg>[0511]&lt;IGM4&gt;Вы действительно хотите выйти в главное меню?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0512]&lt;IGM5&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183026Z" creationid="Александр" creationdate="20201230T183026Z">
+        <seg>[0512]&lt;IGM5&gt;Да|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0513]&lt;IGM6&gt;No|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183030Z" creationid="Александр" creationdate="20201230T183030Z">
+        <seg>[0513]&lt;IGM6&gt;Нет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0514]&lt;IGM7&gt;Do you really want to quit to Windows?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183046Z" creationid="Александр" creationdate="20201230T183046Z">
+        <seg>[0514]&lt;IGM7&gt;Вы точно хотите выйти в Windows?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0515]&lt;IGM8&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183050Z" creationid="Александр" creationdate="20201230T183050Z">
+        <seg>[0515]&lt;IGM8&gt;Да|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0516]&lt;IGM9&gt;No|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183054Z" creationid="Александр" creationdate="20201230T183054Z">
+        <seg>[0516]&lt;IGM9&gt;Нет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0517]&lt;PR31&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183057Z" creationid="Александр" creationdate="20201230T183057Z">
+        <seg>[0517]&lt;PR31&gt;Да|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0518]&lt;PR32&gt;No|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183103Z" creationid="Александр" creationdate="20201230T183103Z">
+        <seg>[0518]&lt;PR32&gt;Нет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
