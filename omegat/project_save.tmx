@@ -1194,6 +1194,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>None of the other companies have a technology more advanced than yours.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184042Z" creationid="Александр" creationdate="20201230T184042Z">
+        <seg>Ни одна компания не имеет более продвинутой технологии, чем ваша.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Noto fonts are under &lt;a0&gt;Apache License 2.0&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T102426Z" creationid="Александр" creationdate="20201218T102426Z">
@@ -3204,8 +3212,32 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0548]&lt;AII3&gt; building farm input failed.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201230T183728Z" creationid="Александр" creationdate="20201230T183728Z">
-        <seg>[0548]&lt;AII3&gt; ошибка при вводе данных в здание.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183812Z" creationid="Александр" creationdate="20201230T183728Z">
+        <seg>[0548]&lt;AII3&gt; вход в здание фермы не удался.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0549]&lt;AII4&gt; building factory input failed.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183756Z" creationid="Александр" creationdate="20201230T183756Z">
+        <seg>[0549]&lt;AII4&gt; вход в здание завода не удался.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0551]&lt;FHQ1&gt;Acquire Technology From Other Companies|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183912Z" creationid="Александр" creationdate="20201230T183912Z">
+        <seg>[0551] &lt;FHQ1&gt;Приобрести технологию у других компаний|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0552]&lt;FHQ2&gt;You cannot acquire new technology now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T183949Z" creationid="Александр" creationdate="20201230T183949Z">
+        <seg>[0552]&lt;FHQ2&gt;Вы не можете приобрести новую технологию сейчас.</seg>
       </tuv>
     </tu>
     <tu>
