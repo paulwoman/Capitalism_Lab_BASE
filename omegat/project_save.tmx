@@ -4402,6 +4402,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2973]&lt;BDD1&gt; defaults on the bond [maturity date: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T185244Z" creationid="Александр" creationdate="20201230T185244Z">
+        <seg>[2973]&lt;BDD1&gt; невыполнение обязательств по облигации [дата погашения: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2974]&lt;BDD2&gt; coupon: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T185332Z" creationid="Александр" creationdate="20201230T185332Z">
+        <seg>[2974]&lt;BDD2&gt; купон:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2975]&lt;BDD3&gt;Default amount: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T185348Z" creationid="Александр" creationdate="20201230T185348Z">
+        <seg>[2975]&lt;BDD3&gt;Сумма по умолчанию: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2976]&lt;LNR1&gt;INSUFFICIENT CASH FOR LOAN REPAYMENT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T185514Z" creationid="Александр" creationdate="20201230T185514Z">
+        <seg>[2976]&lt;LNR1&gt;IНЕДОСТАТОК ДЕНЕЖНЫХ СРЕДСТВ ДЛЯ ПОГАШЕНИЯ КРЕДИТА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3314]&lt;AGD5&gt;Previous record:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T185158Z" creationid="Александр" creationdate="20201230T185158Z">
