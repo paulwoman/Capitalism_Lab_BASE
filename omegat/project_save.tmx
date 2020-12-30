@@ -4394,6 +4394,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3318]&lt;MDSE&gt;Market Dominance of the %1s Sector|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T185001Z" creationid="Александр" creationdate="20201230T185001Z">
+        <seg>[3318]&lt;MDSE&gt;Доминирующее положение на рынке в секторе %1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3319]&lt;UTNL&gt;US Treasury Notes|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184906Z" creationid="Александр" creationdate="20201230T184906Z">
+        <seg>[3319]&lt;UTNL&gt;казначейские облигации США|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3320]&lt;UTNS&gt;US Treasury Notes|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184852Z" creationid="Александр" creationdate="20201230T184852Z">
+        <seg>[3320]&lt;UTNS&gt;казначейские облигации США|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3321]&lt;YRAN&gt;Your Ranking|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184829Z" creationid="Александр" creationdate="20201230T184829Z">
+        <seg>[3321]&lt;YRAN&gt;Ваш Рейтинг|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3322]&lt;CEOE&gt;CEO expertise|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184808Z" creationid="Александр" creationdate="20201230T184808Z">
+        <seg>[3322]&lt;CEOE&gt;Опыт генерального директора|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3323]&lt;NDPC&gt;Sorry, you cannot disable this product class.\n\nThe CEO possesses expertise in this product class and is keen on producing it.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184719Z" creationid="Александр" creationdate="20201230T184719Z">
+        <seg>[3323]&lt;NDPC&gt;К сожалению, вы не можете отключить этот класс продуктов.\n\nГенеральный директор обладает опытом в этом классе продуктов и стремится к его производству..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3324]&lt;SNV1&gt;Sorry, you cannot make a new version at the moment.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20201230T184641Z" creationid="Александр" creationdate="20201230T184641Z">
+        <seg>[3324]&lt;SNV1&gt;Извините, вы не можете сделать новую версию на данный момент.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3325]&lt;SNV2&gt;The current version's overall tech:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T184625Z" creationid="Александр" creationdate="20201230T184625Z">
