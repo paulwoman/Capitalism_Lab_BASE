@@ -4436,24 +4436,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2977]&lt;LNR2&gt;A Bank Loan taken by your company has matured, you must repay it now.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T204220Z" creationid="Александр" creationdate="20210102T203608Z">
-        <seg>[2977]&lt;LNR2&gt;&gt; Срок платежа по кредиту, взятого вашей компанией, вышел, вы должны заплатить.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204339Z" creationid="Александр" creationdate="20210102T203608Z">
+        <seg>[2977]&lt;LNR2&gt;&gt; Срок платежа по кредиту, вышел, вы должны заплатить сейчас.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2978]&lt;LNR3&gt;A Bank Loan taken your subsidiary |</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T203950Z" creationid="Александр" creationdate="20210102T203648Z">
-        <seg>[2978]&lt;LNR3&gt;Банковский кредит взятый вашей компанией|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204359Z" creationid="Александр" creationdate="20210102T203648Z">
+        <seg>[2978]&lt;LNR3&gt;Срок платежа по кредиту вышел|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2979]&lt;LNR4&gt; has matured, you must repay it now.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T203652Z" creationid="Александр" creationdate="20210102T203652Z">
-        <seg>[2979]&lt;LNR4&gt; has matured, you must repay it now.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204424Z" creationid="Александр" creationdate="20210102T203652Z">
+        <seg>[2979]&lt;LNR4&gt;  вы должны отплатить его сейчас..|</seg>
       </tuv>
     </tu>
     <tu>
