@@ -4594,6 +4594,70 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3306]&lt;RSP3&gt;A %1s reverse stock split will group every %2s shares into one share.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205629Z" creationid="Александр" creationdate="20210102T205629Z">
+        <seg>[3306]&lt;RSP3&gt;%1 обратное разделение акций сгруппирует каждую %2 акций в одну акцию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3307]&lt;RSP4&gt;The resulting stock price will be|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205532Z" creationid="Александр" creationdate="20210102T205532Z">
+        <seg>[3307]&lt;RSP4&gt;В результате цена акции будет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3308]&lt;HIR1&gt;Hire persons with %1s skills|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205521Z" creationid="Александр" creationdate="20210102T205521Z">
+        <seg>[3308]&lt;HIR1&gt;Нанимать людей с навыками %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3309]&lt;HIR2&gt;Hire Research Team Lead|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205502Z" creationid="Александр" creationdate="20210102T205502Z">
+        <seg>[3309]&lt;HIR2&gt;Наемный руководитель группы исследования|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3310]&lt;AGD1&gt;Market Dominance of the %1s Industry|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205446Z" creationid="Александр" creationdate="20210102T205446Z">
+        <seg>[3310]&lt;AGD1&gt;Доминирование на рынке %1 Отрасль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3311]&lt;AGD2&gt;Total Market Dominance of All Industries|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205433Z" creationid="Александр" creationdate="20210102T205433Z">
+        <seg>[3311]&lt;AGD2&gt;Общее преобладание на рынке всех отраслей|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3312]&lt;AGD3&gt;You have dominated the %1s Industry with a game difficulty rating of %2s|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205416Z" creationid="Александр" creationdate="20210102T205416Z">
+        <seg>[3312]&lt;AGD3&gt;Вы доминировали в %1 Индустрии с рейтингом сложности игры %2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3313]&lt;AGD4&gt;You have dominated All Industries with a game difficulty rating of %1s|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205352Z" creationid="Александр" creationdate="20210102T205352Z">
+        <seg>[3313]&lt;AGD4&gt;Вы доминировали во всех отраслях промышленности с рейтингом сложности игры %1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3314]&lt;AGD5&gt;Previous record:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T185158Z" creationid="Александр" creationdate="20201230T185158Z">
