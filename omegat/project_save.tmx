@@ -4428,16 +4428,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2976]&lt;LNR1&gt;INSUFFICIENT CASH FOR LOAN REPAYMENT|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T203417Z" creationid="Александр" creationdate="20201230T185514Z">
-        <seg>[2976]&lt;LNR1&gt;IНЕДОСТАТОЧНО ДЕНЕЖНЫХ СРЕДСТВ ДЛЯ ПОГАШЕНИЯ КРЕДИТА</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204441Z" creationid="Александр" creationdate="20201230T185514Z">
+        <seg>[2976]&lt;LNR1&gt;НЕДОСТАТОЧНО ДЕНЕЖНЫХ СРЕДСТВ ДЛЯ ПОГАШЕНИЯ КРЕДИТА|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2977]&lt;LNR2&gt;A Bank Loan taken by your company has matured, you must repay it now.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T204339Z" creationid="Александр" creationdate="20210102T203608Z">
-        <seg>[2977]&lt;LNR2&gt;&gt; Срок платежа по кредиту, вышел, вы должны заплатить сейчас.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204748Z" creationid="Александр" creationdate="20210102T203608Z">
+        <seg>[2977]&lt;LNR2&gt;&gt; Время для погашения кредита вышло, вы должны заплатить сейчас же.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4452,8 +4452,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2979]&lt;LNR4&gt; has matured, you must repay it now.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T204424Z" creationid="Александр" creationdate="20210102T203652Z">
-        <seg>[2979]&lt;LNR4&gt;  вы должны отплатить его сейчас..|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204503Z" creationid="Александр" creationdate="20210102T203652Z">
+        <seg>[2979]&lt;LNR4&gt;  вы должны отплатить его сейчас.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2980]&lt;CASN&gt;CASH NEEDED|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204530Z" creationid="Александр" creationdate="20210102T204530Z">
+        <seg>э[2980]&lt;CASN&gt;ТРЕБУЮТСЯ ДЕНЬГИ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2981]&lt;MCOS&gt;Monthly Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204715Z" creationid="Александр" creationdate="20210102T204715Z">
+        <seg>[2981]&lt;MCOS&gt;Monthly Cost|</seg>
       </tuv>
     </tu>
     <tu>
