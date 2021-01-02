@@ -4594,6 +4594,54 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3300]&lt;SEC3&gt;The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205930Z" creationid="Александр" creationdate="20210102T205930Z">
+        <seg>[3300]&lt;SEC3&gt;Комиссия по ценным бумагам и биржам не одобряет вашу покупку.\nВаша корпорация не может купить акции, которыми вы владеете.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3301]&lt;SCE1&gt;Warning: there is an error in your script file.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205859Z" creationid="Александр" creationdate="20210102T205859Z">
+        <seg>[3301]&lt;SCE1&gt;Предупреждение: в файле вашего скрипта есть ошибка.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3302]&lt;SCE2&gt;Warning: there are errors in your script file.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205843Z" creationid="Александр" creationdate="20210102T205843Z">
+        <seg>[3302]&lt;SCE2&gt;Предупреждение: в файле скрипта есть ошибки.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3303]&lt;SCE3&gt;For details, please view the error log in the subfolder %1s under your Capitalism Lab game folder.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205834Z" creationid="Александр" creationdate="20210102T205834Z">
+        <seg>[3303]&lt;SCE3&gt;Для просмотра деталей , пожалуйста, зайдите в журнал ошибок в подпапке %1s в Вашей игровой папке Capitalism Lab.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3304]&lt;RSP1&gt;All publicly-traded stocks are required to maintain a minimum bid price of at least $1.00 per share.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205724Z" creationid="Александр" creationdate="20210102T205724Z">
+        <seg>[3304]&lt;RSP1&gt;Все акции, котирующиеся на бирже, должны поддерживать минимальную цену предложения не менее 1,00 доллара США за акцию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3305]&lt;RSP2&gt;Your company's stock currently trades at %1s and therefore a reverse stock split is required.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205656Z" creationid="Александр" creationdate="20210102T205656Z">
+        <seg>[3305]&lt;RSP2&gt;Акции Вашей компании в настоящее время торгуются по ставке %1, поэтому требуется обратное разделение акций.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3306]&lt;RSP3&gt;A %1s reverse stock split will group every %2s shares into one share.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205629Z" creationid="Александр" creationdate="20210102T205629Z">
