@@ -4428,8 +4428,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2976]&lt;LNR1&gt;INSUFFICIENT CASH FOR LOAN REPAYMENT|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201230T185514Z" creationid="Александр" creationdate="20201230T185514Z">
-        <seg>[2976]&lt;LNR1&gt;IНЕДОСТАТОК ДЕНЕЖНЫХ СРЕДСТВ ДЛЯ ПОГАШЕНИЯ КРЕДИТА</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T203417Z" creationid="Александр" creationdate="20201230T185514Z">
+        <seg>[2976]&lt;LNR1&gt;IНЕДОСТАТОЧНО ДЕНЕЖНЫХ СРЕДСТВ ДЛЯ ПОГАШЕНИЯ КРЕДИТА</seg>
       </tuv>
     </tu>
     <tu>
