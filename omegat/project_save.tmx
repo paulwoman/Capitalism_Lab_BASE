@@ -4444,16 +4444,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2978]&lt;LNR3&gt;A Bank Loan taken your subsidiary |</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T204359Z" creationid="Александр" creationdate="20210102T203648Z">
-        <seg>[2978]&lt;LNR3&gt;Срок платежа по кредиту вышел|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204806Z" creationid="Александр" creationdate="20210102T203648Z">
+        <seg>[2978]&lt;LNR3&gt;Время для погашения кредита вышло|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2979]&lt;LNR4&gt; has matured, you must repay it now.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T204503Z" creationid="Александр" creationdate="20210102T203652Z">
-        <seg>[2979]&lt;LNR4&gt;  вы должны отплатить его сейчас.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204822Z" creationid="Александр" creationdate="20210102T203652Z">
+        <seg>[2979]&lt;LNR4&gt;  вы должны заплатить сейчас же.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4468,8 +4468,56 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2981]&lt;MCOS&gt;Monthly Cost|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T204715Z" creationid="Александр" creationdate="20210102T204715Z">
-        <seg>[2981]&lt;MCOS&gt;Monthly Cost|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204900Z" creationid="Александр" creationdate="20210102T204715Z">
+        <seg>[2981]&lt;MCOS&gt;Ежемесячная плата|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2982]&lt;SCO3&gt;billion x 10 x inflation adjustment|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204936Z" creationid="Александр" creationdate="20210102T204936Z">
+        <seg>[2982]&lt;SCO3&gt;миллиард х 10 корректировка на инфляцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2983]&lt;SDIV&gt;Pays a Special Dividend of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204950Z" creationid="Александр" creationdate="20210102T204950Z">
+        <seg>[2983]&lt;SDIV&gt;Платит специальный дивиденд|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2984]&lt;AIB1&gt;Bank Focused|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205004Z" creationid="Александр" creationdate="20210102T205004Z">
+        <seg>[2984]&lt;AIB1&gt;Ориентация на банк|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2985]&lt;AIC1&gt;Bank|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205008Z" creationid="Александр" creationdate="20210102T205008Z">
+        <seg>[2985]&lt;AIC1&gt;Банк|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2986]&lt;AIB2&gt;Insurance Focused|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205024Z" creationid="Александр" creationdate="20210102T205024Z">
+        <seg>[2986]&lt;AIB2&gt;Ориентация на страхование|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2987]&lt;AIC2&gt;Insurance|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205046Z" creationid="Александр" creationdate="20210102T205046Z">
+        <seg>[2987]&lt;AIC2&gt;Страхование|</seg>
       </tuv>
     </tu>
     <tu>
