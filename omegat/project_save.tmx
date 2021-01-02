@@ -4594,6 +4594,78 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3120]&lt;SRA1&gt;Your|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205941Z" creationid="Александр" creationdate="20210102T205941Z">
+        <seg>[3120]&lt;SRA1&gt;Ваша|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3121]&lt;SRA2&gt;asked for a salary raise from|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205956Z" creationid="Александр" creationdate="20210102T205956Z">
+        <seg>[3121]&lt;SRA2&gt;потребовал повышения зарплаты от|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3122]&lt;GNPL&gt;New Product Launch|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210012Z" creationid="Александр" creationdate="20210102T210012Z">
+        <seg>[3122]&lt;GNPL&gt;Выход нового продукта|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3123]&lt;BNC1&gt;Build a New City|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210023Z" creationid="Александр" creationdate="20210102T210023Z">
+        <seg>[3123]&lt;BNC1&gt;Построить новый город|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3124]&lt;BNC2&gt;Use your corporation to acquire the rights and build a new city, and assign a member from your political party as the city's mayor.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210124Z" creationid="Александр" creationdate="20210102T210124Z">
+        <seg>[3124]&lt;BNC2&gt;Используйте вашу компанию, чтобы получить права и построить новый город, а также назначить члена от вашей политической партии мэром города.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3126]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must build a sprawling business empire with an impressive list of subsidiary companies by achieving all the subgoals|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210210Z" creationid="Александр" creationdate="20210102T210210Z">
+        <seg>[3126]&lt;KOC2&gt;Чтобы стать бесспорным Королем Капитализма, вы должны построить разрастающуюся бизнес-империю с впечатляющим списком компаний за счет достижения всех подцелей.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3127]&lt;DAD1&gt;Digital Age Dominance|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210227Z" creationid="Александр" creationdate="20210102T210227Z">
+        <seg>[3127]&lt;DAD1&gt;Доминирование цифрового века|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3128]&lt;DAD2&gt;Achieve market dominance in Mobile Operating System and gain a significant market share in the Internet sector.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210249Z" creationid="Александр" creationdate="20210102T210249Z">
+        <seg>[3128]&lt;DAD2&gt;Достичь доминирования на рынке мобильной операционной системы и завоевать значительную долю рынка в интернет-секторе.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205935Z" creationid="Александр" creationdate="20210102T205935Z">
+        <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3300]&lt;SEC3&gt;The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205930Z" creationid="Александр" creationdate="20210102T205930Z">
