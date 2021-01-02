@@ -4594,6 +4594,70 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2999]&lt;OOBR&gt;Operating Overhead (Branches)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210535Z" creationid="Александр" creationdate="20210102T210535Z">
+        <seg>[2999]&lt;OOBR&gt;Операционная надбавка (Филиалы)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3000]&lt;AM09&gt;Real Estate Department|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210509Z" creationid="Александр" creationdate="20210102T210509Z">
+        <seg>[3000]&lt;AM09&gt;Отдел недвижимости|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3001]&lt;KNO1&gt;You must first possess the knowhow for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210454Z" creationid="Александр" creationdate="20210102T210454Z">
+        <seg>[3001]&lt;KNO1&gt;Сначала вы должны владеть ноу-хау для|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3002]&lt;KNO2&gt;(click to view it now)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210438Z" creationid="Александр" creationdate="20210102T210438Z">
+        <seg>[3002]&lt;KNO2&gt;(нажмите, чтобы просмотреть)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3003]&lt;KNO3&gt;and|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210421Z" creationid="Александр" creationdate="20210102T210421Z">
+        <seg>[3003]&lt;KNO3&gt;и|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3018]&lt;SOC2&gt; has run out of cash!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210416Z" creationid="Александр" creationdate="20210102T210416Z">
+        <seg>[3018]&lt;SOC2&gt; закончились наличные!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3028]&lt;IOC3&gt; has run out of cash!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210349Z" creationid="Александр" creationdate="20210102T210349Z">
+        <seg>[3028]&lt;IOC3&gt; закончились наличные!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3029]&lt;IOC4&gt;Transfer funds from your corporation to your insurance company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210403Z" creationid="Александр" creationdate="20210102T210403Z">
+        <seg>[3029]&lt;IOC4&gt;Переведите средства из вашей корпорации в вашу страховую компанию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3120]&lt;SRA1&gt;Your|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205941Z" creationid="Александр" creationdate="20210102T205941Z">
@@ -4634,6 +4698,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3125]&lt;KOC1&gt;King of Capitalism|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210324Z" creationid="Александр" creationdate="20210102T210324Z">
+        <seg>[3125]&lt;KOC1&gt;Король капитализма|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3126]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must build a sprawling business empire with an impressive list of subsidiary companies by achieving all the subgoals|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T210210Z" creationid="Александр" creationdate="20210102T210210Z">
@@ -4654,6 +4726,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T210249Z" creationid="Александр" creationdate="20210102T210249Z">
         <seg>[3128]&lt;DAD2&gt;Достичь доминирования на рынке мобильной операционной системы и завоевать значительную долю рынка в интернет-секторе.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3129]&lt;DAD3&gt;Achieve market dominance in Computer Operating System and gain a significant market share in the Internet sector.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210313Z" creationid="Александр" creationdate="20210102T210313Z">
+        <seg>[3129]&lt;DAD3&gt;Достичь доминирования на рынке компьютерных операционных систем и завоевать значительную долю рынка в Интернет-секторе.|</seg>
       </tuv>
     </tu>
     <tu>
