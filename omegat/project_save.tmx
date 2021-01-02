@@ -4436,8 +4436,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2977]&lt;LNR2&gt;A Bank Loan taken by your company has matured, you must repay it now.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T203715Z" creationid="Александр" creationdate="20210102T203608Z">
-        <seg>[2977]&lt;LNR2&gt;&gt;Банковский кредит, взятый вашей компанией, созрел, вы должны вернуть его сейчас.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T204220Z" creationid="Александр" creationdate="20210102T203608Z">
+        <seg>[2977]&lt;LNR2&gt;&gt; Срок платежа по кредиту, взятого вашей компанией, вышел, вы должны заплатить.|</seg>
       </tuv>
     </tu>
     <tu>
