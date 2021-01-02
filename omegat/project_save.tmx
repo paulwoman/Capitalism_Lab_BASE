@@ -4522,6 +4522,78 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2988]&lt;AIB3&gt;Global Stock Focused|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205100Z" creationid="Александр" creationdate="20210102T205100Z">
+        <seg>[2988]&lt;AIB3&gt;Глобальная ориентация на акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2989]&lt;AIC3&gt;Global Stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205113Z" creationid="Александр" creationdate="20210102T205113Z">
+        <seg>[2989]&lt;AIC3&gt;Глобальные акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2990]&lt;BIPR&gt;Claims Reserves|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205128Z" creationid="Александр" creationdate="20210102T205128Z">
+        <seg>[2990]&lt;BIPR&gt;Резервы Претензий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2991]&lt;ISBP&gt;Bank Net Profit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205141Z" creationid="Александр" creationdate="20210102T205141Z">
+        <seg>[2991]&lt;ISBP&gt;Чистая прибыль банка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2992]&lt;ISLP&gt;Insurance Net Profit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205154Z" creationid="Александр" creationdate="20210102T205154Z">
+        <seg>[2992]&lt;ISLP&gt;Чистая прибыль по страхованию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2993]&lt;BLBA&gt;Bank Net Asset|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205211Z" creationid="Александр" creationdate="20210102T205211Z">
+        <seg>[2993]&lt;BLBA&gt;Чистые активы банков|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2994]&lt;BLIA&gt;Insurance Net Asset|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205230Z" creationid="Александр" creationdate="20210102T205230Z">
+        <seg>[2994]&lt;BLIA&gt;Страховые Чистые активы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2995]&lt;EXPE&gt;Expenses|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205314Z" creationid="Александр" creationdate="20210102T205233Z">
+        <seg>[2995]&lt;EXPE&gt;Расходы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2996]&lt;SEHQ&gt;Salaries Expense (HQ)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T205335Z" creationid="Александр" creationdate="20210102T205335Z">
+        <seg>[2996]&lt;SEHQ&gt;Salaries Expense (HQ)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3314]&lt;AGD5&gt;Previous record:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T185158Z" creationid="Александр" creationdate="20201230T185158Z">
