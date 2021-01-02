@@ -4588,8 +4588,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2996]&lt;SEHQ&gt;Salaries Expense (HQ)|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T205335Z" creationid="Александр" creationdate="20210102T205335Z">
-        <seg>[2996]&lt;SEHQ&gt;Salaries Expense (HQ)|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210650Z" creationid="Александр" creationdate="20210102T205335Z">
+        <seg>[2996]&lt;SEHQ&gt;Затраты на заработную плату (HQ)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2997]&lt;SEBR&gt;Salaries Expense (Branches)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210612Z" creationid="Александр" creationdate="20210102T210612Z">
+        <seg>[2997]&lt;SEBR&gt;Затраты на заработную плату (филиалы)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2998]&lt;OOHQ&gt;Operating Overhead (HQ)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210548Z" creationid="Александр" creationdate="20210102T210548Z">
+        <seg>[2998]&lt;OOHQ&gt;Надбавка за работу (HQ)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4638,6 +4654,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T210416Z" creationid="Александр" creationdate="20210102T210416Z">
         <seg>[3018]&lt;SOC2&gt; закончились наличные!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3023]&lt;BOC5&gt;Raise funds from your corporation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210800Z" creationid="Александр" creationdate="20210102T210800Z">
+        <seg>[3023]&lt;BOC5&gt;Соберите средства из Вашей компании.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,6 +4758,22 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T210313Z" creationid="Александр" creationdate="20210102T210313Z">
         <seg>[3129]&lt;DAD3&gt;Достичь доминирования на рынке компьютерных операционных систем и завоевать значительную долю рынка в Интернет-секторе.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3154]&lt;NSCO&gt;National Score|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210813Z" creationid="Александр" creationdate="20210102T210813Z">
+        <seg>[3154]&lt;NSCO&gt;Национальная оценка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3155]&lt;POIS&gt;Political Influence Score|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T210819Z" creationid="Александр" creationdate="20210102T210819Z">
+        <seg>[3155]&lt;POIS&gt;Political Influence Score|</seg>
       </tuv>
     </tu>
     <tu>
