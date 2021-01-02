@@ -4436,8 +4436,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2977]&lt;LNR2&gt;A Bank Loan taken by your company has matured, you must repay it now.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T203608Z" creationid="Александр" creationdate="20210102T203608Z">
-        <seg>[2892]&lt;NCG7&gt;Банковский кредит, взятый вашей компанией, созрел, вы должны вернуть его сейчас.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T203715Z" creationid="Александр" creationdate="20210102T203608Z">
+        <seg>[2977]&lt;LNR2&gt;&gt;Банковский кредит, взятый вашей компанией, созрел, вы должны вернуть его сейчас.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2978]&lt;LNR3&gt;A Bank Loan taken your subsidiary |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T203950Z" creationid="Александр" creationdate="20210102T203648Z">
+        <seg>[2978]&lt;LNR3&gt;Банковский кредит взятый вашей компанией|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2979]&lt;LNR4&gt; has matured, you must repay it now.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210102T203652Z" creationid="Александр" creationdate="20210102T203652Z">
+        <seg>[2979]&lt;LNR4&gt; has matured, you must repay it now.|</seg>
       </tuv>
     </tu>
     <tu>
