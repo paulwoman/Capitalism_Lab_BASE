@@ -4650,10 +4650,26 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3011]&lt;BIP2&gt;Claims Reserves|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T055521Z" creationid="Александр" creationdate="20210103T055521Z">
+        <seg>[3011]&lt;BIP2&gt;Claims Reserves|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3018]&lt;SOC2&gt; has run out of cash!|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T210416Z" creationid="Александр" creationdate="20210102T210416Z">
         <seg>[3018]&lt;SOC2&gt; закончились наличные!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3019]&lt;BOC1&gt;Your Bank Has Run Out of Cash!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T055732Z" creationid="Александр" creationdate="20210103T055732Z">
+        <seg>[3019]&lt;BOC1&gt; В вашем банке закончились деньги..</seg>
       </tuv>
     </tu>
     <tu>
