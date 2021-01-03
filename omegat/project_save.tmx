@@ -5162,6 +5162,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3227]&lt;PCOD&gt;A Project Programming Unit utilizes technologies developed by Tech Programming Units to implement a software product.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065918Z" creationid="Александр" creationdate="20210103T065918Z">
+        <seg>[3227]&lt;PCOD&gt;Отдел проектного программирования использует технологии, разработанные подразделениями технического программирования, для реализации программного продукта.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3228]&lt;NPCA&gt;Not enough personal cash|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065936Z" creationid="Александр" creationdate="20210103T065936Z">
+        <seg>[3228]&lt;NPCA&gt;Недостаточно денег|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3229]&lt;NPCM&gt;You do not have enough PERSONAL money for building your mansion.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065946Z" creationid="Александр" creationdate="20210103T065946Z">
+        <seg>[3229]&lt;NPCM&gt;You do not have enough PERSONAL money for building your mansion.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3231]&lt;MAYO&gt;Mayor of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070000Z" creationid="Александр" creationdate="20210103T070000Z">
+        <seg>[3231]&lt;MAYO&gt;мэр города|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3232]&lt;MGOA&gt;Main Goal|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070016Z" creationid="Александр" creationdate="20210103T070016Z">
+        <seg>[3232]&lt;MGOA&gt;Главная цель|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3233]&lt;SGOA&gt;SubGoal|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070031Z" creationid="Александр" creationdate="20210103T070031Z">
+        <seg>[3233]&lt;SGOA&gt;Побочные цели|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3234]&lt;PFIT&gt;Attempting to find a supplier for this item...|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070051Z" creationid="Александр" creationdate="20210103T070051Z">
+        <seg>[3234]&lt;PFIT&gt;Попытка найти поставщика для этого товара...|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205935Z" creationid="Александр" creationdate="20210102T205935Z">
