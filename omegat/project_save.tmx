@@ -4890,10 +4890,34 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3107]&lt;ENBL&gt;Enabled|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T064901Z" creationid="Александр" creationdate="20210103T064901Z">
+        <seg>[3107]&lt;ENBL&gt;Включен|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3108]&lt;DISA&gt;Disabled|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210103T064847Z" creationid="Александр" creationdate="20210103T064847Z">
-        <seg>[3108]&lt;DISA&gt;Disabled|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T064911Z" creationid="Александр" creationdate="20210103T064847Z">
+        <seg>[3108]&lt;DISA&gt;Выключен|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3109]&lt;RETA&gt;Retail Only|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T064938Z" creationid="Александр" creationdate="20210103T064938Z">
+        <seg>[3109]&lt;RETA&gt;Только в розницу|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3110]&lt;TFNO&gt;Sorry, you cannot transfer this factory as it is making #packaged software products#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T064943Z" creationid="Александр" creationdate="20210103T064943Z">
+        <seg>[3110]&lt;TFNO&gt;Sorry, you cannot transfer this factory as it is making #packaged software products#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4990,6 +5014,30 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T210819Z" creationid="Александр" creationdate="20210102T210819Z">
         <seg>[3155]&lt;POIS&gt;Political Influence Score|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3171]&lt;CE02&gt;The CEO previously considered setting up|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T064956Z" creationid="Александр" creationdate="20210103T064956Z">
+        <seg>[3171]&lt;CE02&gt;Генеральный директор ранее рассматривал вопрос о создании|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3172]&lt;CE03&gt;but decided not to do so because the company's cash and profit situation was not good enough to support business expansion.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065027Z" creationid="Александр" creationdate="20210103T065027Z">
+        <seg>[3172]&lt;CE03&gt;но решил этого не делать, потому что ситуация с денежными средствами и прибылью компании была недостаточно хороша для расширения бизнеса.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3173]&lt;CE04&gt;but decided not to do so because the company's cash level was too low to support business expansion.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065144Z" creationid="Александр" creationdate="20210103T065144Z">
+        <seg>[3173]&lt;CE04&gt;но решил не делать этого, потому что денежных средств компании не хватило для расширения бизнеса.|</seg>
       </tuv>
     </tu>
     <tu>
