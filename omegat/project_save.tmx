@@ -1782,6 +1782,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The insurance company does not have sufficient cash to repay all its insurance contract liabilities in claims reserves.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T061106Z" creationid="Александр" creationdate="20210103T061106Z">
+        <seg>Страховая компания не располагает достаточными денежными средствами для погашения всех своих обязательств по договорам страхования и страховым случаям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121100Z" creationid="Olivier" creationdate="20201217T220133Z">
@@ -2008,6 +2016,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T060942Z" creationid="Александр" creationdate="20210103T060942Z">
         <seg>Чтобы это исправить, вы можете перевести средства из Вашей корпорации в банк.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remedy this, you may transfer funds from the parent corporation to the insurance company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T061131Z" creationid="Александр" creationdate="20210103T061131Z">
+        <seg>Чтобы это исправить, вы можете перевести средства своей корпорации в страховую компанию.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4750,6 +4766,30 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T060839Z" creationid="Александр" creationdate="20210103T060839Z">
         <seg>[3014]&lt;CBK2&gt;Простите, вы не можете закрыть банк..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3015]&lt;CIN1&gt;You must first close down all the Insurance Front Offices before you can close down the Insurance Headquarters.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060956Z" creationid="Александр" creationdate="20210103T060956Z">
+        <seg>[3015]&lt;CIN1&gt;Вы должны сначала закрыть все кассы страхования, прежде чем Вы сможете закрыть Главное управление страхования.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3016]&lt;CIN2&gt;Sorry, you cannot close down the insurance company.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T061007Z" creationid="Александр" creationdate="20210103T061007Z">
+        <seg>[3016]&lt;CIN2&gt;Извините, вы не можете закрыть страховую компанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3017]&lt;SOC1&gt;Your subsidiary |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T061233Z" creationid="Александр" creationdate="20210103T061233Z">
+        <seg>[3017]&lt;SOC1&gt;Ваш филиал</seg>
       </tuv>
     </tu>
     <tu>
