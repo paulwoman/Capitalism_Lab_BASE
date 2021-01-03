@@ -1562,6 +1562,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank does not have sufficient cash to let all depositors withdraw their money.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060914Z" creationid="Александр" creationdate="20210103T060914Z">
+        <seg>Банк не располагает достаточным количеством наличных денег, чтобы позволить всем вкладчикам снять свои деньги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cost of adding a new floor is|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235227Z" creationid="Olivier" creationdate="20201225T235227Z">
@@ -1992,6 +2000,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215020Z" creationid="Olivier" creationdate="20201213T214956Z">
         <seg>Title=Title=Avanço no treinamento in Training</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remedy this, you may transfer funds from the parent corporation to the bank.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060942Z" creationid="Александр" creationdate="20210103T060942Z">
+        <seg>Чтобы это исправить, вы можете перевести средства из Вашей корпорации в банк.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4682,10 +4698,58 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3008]&lt;KNO8&gt;Nil|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060707Z" creationid="Александр" creationdate="20210103T060707Z">
+        <seg>[3008]&lt;KNO8&gt;Ноль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3009]&lt;KNO9&gt;Invention Pre-requisites:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060722Z" creationid="Александр" creationdate="20210103T060722Z">
+        <seg>[3009]&lt;KNO9&gt;Условия для изобретения:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3010]&lt;KN10&gt;Invention Pre-requisite:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060736Z" creationid="Александр" creationdate="20210103T060736Z">
+        <seg>[3010]&lt;KN10&gt;Преимущество изобретения:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3011]&lt;BIP2&gt;Claims Reserves|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210103T055521Z" creationid="Александр" creationdate="20210103T055521Z">
-        <seg>[3011]&lt;BIP2&gt;Claims Reserves|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060745Z" creationid="Александр" creationdate="20210103T055521Z">
+        <seg>[3011]&lt;BIP2&gt;Резервы Претензий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3012]&lt;BIP3&gt;Claims Reserves|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060756Z" creationid="Александр" creationdate="20210103T060756Z">
+        <seg>[3012]&lt;BIP3&gt;Резервы Претензий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3013]&lt;CBK1&gt;You must first close down all the Bank Branches before you can close down the Bank Headquarters.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060807Z" creationid="Александр" creationdate="20210103T060807Z">
+        <seg>[3013]&lt;CBK1&gt;Вы должны сначала закрыть все Отделения Банка, прежде чем Вы сможете закрыть Центральный офис Банка..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3014]&lt;CBK2&gt;Sorry, you cannot close down the bank.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060839Z" creationid="Александр" creationdate="20210103T060839Z">
+        <seg>[3014]&lt;CBK2&gt;Простите, вы не можете закрыть банк..</seg>
       </tuv>
     </tu>
     <tu>
