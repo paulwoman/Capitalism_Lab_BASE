@@ -4874,6 +4874,30 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3086]&lt;FTM1&gt;Sell this firm to another company under your control.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T064822Z" creationid="Александр" creationdate="20210103T064822Z">
+        <seg>[3086]&lt;FTM1&gt;Продайте эту фирму другой компании под вашим контролем.l|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3087]&lt;FTM2&gt;Sell these firms to another company under your control.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T064826Z" creationid="Александр" creationdate="20210103T064826Z">
+        <seg>[3087]&lt;FTM2&gt;Sell these firms to another company under your control.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3108]&lt;DISA&gt;Disabled|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T064847Z" creationid="Александр" creationdate="20210103T064847Z">
+        <seg>[3108]&lt;DISA&gt;Disabled|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3120]&lt;SRA1&gt;Your|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205941Z" creationid="Александр" creationdate="20210102T205941Z">
