@@ -1746,6 +1746,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The game now no longer uses any MOD.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070238Z" creationid="Александр" creationdate="20210103T070238Z">
+        <seg>Игра больше не использует MОДЫ.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The goal has been achieved.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T121945Z" creationid="Александр" creationdate="20201228T121945Z">
@@ -5214,6 +5222,38 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T070051Z" creationid="Александр" creationdate="20210103T070051Z">
         <seg>[3234]&lt;PFIT&gt;Попытка найти поставщика для этого товара...|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3235]&lt;MWIT&gt;Waiting for required inputs to manufacture this product...|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070205Z" creationid="Александр" creationdate="20210103T070205Z">
+        <seg>[3235]&lt;MWIT&gt;Ожидание необходимых ресурсов для производства этого продукта....|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3236]&lt;MOD1&gt;Reset successfully.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070222Z" creationid="Александр" creationdate="20210103T070222Z">
+        <seg>[3236]&lt;MOD1&gt;Сброс успешно выполнен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3237]&lt;MOD2&gt;MOD %1s has been loaded successfully.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070258Z" creationid="Александр" creationdate="20210103T070258Z">
+        <seg>[3237]&lt;MOD2&gt;МОД %1s был загружен успешно.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3238]&lt;DTEL&gt;Market Dominance of Telecom|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070341Z" creationid="Александр" creationdate="20210103T070341Z">
+        <seg>[3238]&lt;DTEL&gt;Доминирование телекоммуникационного рынка|</seg>
       </tuv>
     </tu>
     <tu>
