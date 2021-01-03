@@ -1806,6 +1806,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The headhunt was a success.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T071057Z" creationid="Александр" creationdate="20210103T071057Z">
+        <seg>Рекрутинг прошёл успешно.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The insurance company does not have sufficient cash to repay all its insurance contract liabilities in claims reserves.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061106Z" creationid="Александр" creationdate="20210103T061106Z">
@@ -5318,6 +5326,30 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T071004Z" creationid="Александр" creationdate="20210103T071004Z">
         <seg>[3244]&lt;THH2&gt;Извините, у вас недостаточно денег, чтобы оплатить регистрационный взнос.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3245]&lt;THH3&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T071025Z" creationid="Александр" creationdate="20210103T071025Z">
+        <seg>[3245]&lt;THH3&gt;Поздравляем!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3246]&lt;ITRN&gt;(Not including research and development staff)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T071115Z" creationid="Александр" creationdate="20210103T071115Z">
+        <seg>[3246]&lt;ITRN&gt;(Не считая сотрудников, занимающихся исследованиями и разработками.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3247]&lt;ASBI&gt;Regularly adjust team lead salaries based on inflation|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T071240Z" creationid="Александр" creationdate="20210103T071240Z">
+        <seg>[3247]&lt;ASBI&gt;Регулярная корректировка заработной платы руководителей групп в зависимости от инфляции|</seg>
       </tuv>
     </tu>
     <tu>
