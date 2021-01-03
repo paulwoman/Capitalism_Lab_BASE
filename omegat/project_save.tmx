@@ -1202,6 +1202,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not enjoyable unless you have achieved mastery in this game.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065252Z" creationid="Александр" creationdate="20210103T065252Z">
+        <seg>Неприятно, если вы не достигли мастерства в этой игре.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Noto fonts are under &lt;a0&gt;Apache License 2.0&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T102426Z" creationid="Александр" creationdate="20201218T102426Z">
@@ -5038,6 +5046,46 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065144Z" creationid="Александр" creationdate="20210103T065144Z">
         <seg>[3173]&lt;CE04&gt;но решил не делать этого, потому что денежных средств компании не хватило для расширения бизнеса.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3174]&lt;CE05&gt;This cash level of this subsidiary company is too low.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065147Z" creationid="Александр" creationdate="20210103T065147Z">
+        <seg>[3174]&lt;CE05&gt;This cash level of this subsidiary company is too low.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3191]&lt;DIF7&gt;Insanely Difficult!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065218Z" creationid="Александр" creationdate="20210103T065218Z">
+        <seg>[3191]&lt;DIF7&gt;Очень трудно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3192]&lt;DIF8&gt;A Humanly Impossible Challenge!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065255Z" creationid="Александр" creationdate="20210103T065255Z">
+        <seg>[3192]&lt;DIF8&gt;A Humanly Impossible Challenge!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3217]&lt;NSU2&gt;Sorry, you cannot form a new subsidiary company as the maximum number of companies allowed in the game has been reached.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065347Z" creationid="Александр" creationdate="20210103T065347Z">
+        <seg>[3217]&lt;NSU2&gt;Простите, но сейчас вы не можете создать новую компанию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3218]&lt;NSU3&gt;Sorry, you cannot set up a new subsidiary company at the moment.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065510Z" creationid="Александр" creationdate="20210103T065510Z">
+        <seg>[3218]&lt;NSU3&gt;Извините, но вы не можете создать новую компанию в данный момент.|</seg>
       </tuv>
     </tu>
     <tu>
