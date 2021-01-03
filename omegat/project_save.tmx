@@ -4674,6 +4674,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3020]&lt;BOC2&gt;Your Subsidiary Bank |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T055751Z" creationid="Александр" creationdate="20210103T055751Z">
+        <seg>[3020]&lt;BOC2&gt;Ваш вспомогательный банк |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3021]&lt;BOC3&gt; Has Run Out of Cash!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060416Z" creationid="Александр" creationdate="20210103T060416Z">
+        <seg>[3021]&lt;BOC3&gt; Ваш вспомогательный банк|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3023]&lt;BOC5&gt;Raise funds from your corporation.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T210800Z" creationid="Александр" creationdate="20210102T210800Z">
