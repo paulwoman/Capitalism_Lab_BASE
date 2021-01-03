@@ -4858,6 +4858,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T061324Z" creationid="Александр" creationdate="20210103T061324Z">
+        <seg>[3084]&lt;FTC1&gt;К сожалению, у выбранной компании не хватает наличных денег для покупки фирмы.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3085]&lt;FTC2&gt;Sorry, the selected company does not have sufficient cash to buy the firms.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T061333Z" creationid="Александр" creationdate="20210103T061333Z">
+        <seg>[3085]&lt;FTC2&gt;Sorry, the selected company does not have sufficient cash to buy the firms.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3120]&lt;SRA1&gt;Your|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205941Z" creationid="Александр" creationdate="20210102T205941Z">
