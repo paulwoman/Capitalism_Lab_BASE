@@ -2236,6 +2236,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your new subsidiary company has been set up.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065535Z" creationid="Александр" creationdate="20210103T065535Z">
+        <seg>Ваша новая компания была создана.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T120545Z" creationid="Александр" creationdate="20201218T120943Z">
@@ -5086,6 +5094,70 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065510Z" creationid="Александр" creationdate="20210103T065510Z">
         <seg>[3218]&lt;NSU3&gt;Извините, но вы не можете создать новую компанию в данный момент.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3219]&lt;NSU4&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065517Z" creationid="Александр" creationdate="20210103T065517Z">
+        <seg>[3219]&lt;NSU4&gt;Превосходно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3220]&lt;BHQF&gt;You must build Bank Headquarters first.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065551Z" creationid="Александр" creationdate="20210103T065551Z">
+        <seg>[3220]&lt;BHQF&gt;Сначала вы должны построить штаб-квартиру банка.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3221]&lt;IHQF&gt;You must build Bank Headquarters first.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065607Z" creationid="Александр" creationdate="20210103T065607Z">
+        <seg>[3221]&lt;IHQF&gt;Сначала вы должны построить штаб-квартиру банка.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3222]&lt;JPE1&gt;To start a new project, you must first 1) hire a project manager and 2) link the current Project Management Unit to a Project Programming Unit.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065631Z" creationid="Александр" creationdate="20210103T065631Z">
+        <seg>[3222]&lt;JPE1&gt;Для начала нового проекта необходимо 1) нанять менеджера проекта и связать действующий отдел управления проектами с отделом программирования.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3223]&lt;JPE2&gt;To start a new project, you must first hire a project manager.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065643Z" creationid="Александр" creationdate="20210103T065643Z">
+        <seg>[3223]&lt;JPE2&gt;Чтобы начать новый проект, вы должны сначала нанять менеджера проекта.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3224]&lt;JPE3&gt;To start a new project, you must first link the current Project Management Unit to a Project Programming Unit.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065708Z" creationid="Александр" creationdate="20210103T065708Z">
+        <seg>[3224]&lt;JPE3&gt;Чтобы начать новый проект, необходимо сначала связать текущий отдел управления проектом с блоком программирования проекта.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3225]&lt;HNT1&gt;Before hiring the new|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065722Z" creationid="Александр" creationdate="20210103T065722Z">
+        <seg>[3225]&lt;HNT1&gt;Перед тем, как нанять нового|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3226]&lt;HNT2&gt;you must terminate the employment of the current one.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T065749Z" creationid="Александр" creationdate="20210103T065749Z">
+        <seg>[3226]&lt;HNT2&gt;вы должны уволить текущего.|</seg>
       </tuv>
     </tu>
     <tu>
