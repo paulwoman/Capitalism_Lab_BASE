@@ -5306,6 +5306,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3243]&lt;THH1&gt;The transfer has been executed successfully.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070743Z" creationid="Александр" creationdate="20210103T070743Z">
+        <seg>[3243]&lt;THH1&gt;Передача выполнена успешно.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3244]&lt;THH2&gt;Sorry, you don't have sufficient cash to pay the sign up bonus.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T071004Z" creationid="Александр" creationdate="20210103T071004Z">
+        <seg>[3244]&lt;THH2&gt;Извините, у вас недостаточно денег, чтобы оплатить регистрационный взнос.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205935Z" creationid="Александр" creationdate="20210102T205935Z">
