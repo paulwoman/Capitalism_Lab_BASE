@@ -1322,6 +1322,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please wait until public investors have more money.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070458Z" creationid="Александр" creationdate="20210103T070458Z">
+        <seg>Пожалуйста, подождите, пока у государственных инвесторов будет больше денег.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Point at Firm=My Department Store</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215847Z" creationid="Olivier" creationdate="20201217T215847Z">
@@ -2128,6 +2136,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000424Z" creationid="Olivier" creationdate="20201225T223138Z">
         <seg>Вы вернулись в свой универмаг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can view the "Public Investors' Money Available to Your Company" displayed at the top of the city view screen.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070726Z" creationid="Александр" creationdate="20210103T070726Z">
+        <seg>Вы можете просмотреть "Деньги государственного инвестора, доступные для Вашей компании", в верхней части экрана просмотра города.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5254,6 +5270,38 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T070341Z" creationid="Александр" creationdate="20210103T070341Z">
         <seg>[3238]&lt;DTEL&gt;Доминирование телекоммуникационного рынка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3239]&lt;PACQ&gt;Private Acquisitions|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070357Z" creationid="Александр" creationdate="20210103T070357Z">
+        <seg>[3239]&lt;PACQ&gt;Частные сделки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3240]&lt;ECRV&gt;Annual E-Commerce Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070411Z" creationid="Александр" creationdate="20210103T070411Z">
+        <seg>[3240]&lt;ECRV&gt;Ежегодный доход от электронной коммерции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3241]&lt;ECUB&gt;Annual E-Commerce User Base|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070423Z" creationid="Александр" creationdate="20210103T070423Z">
+        <seg>[3241]&lt;ECUB&gt;Ежегодная база пользователей электронной коммерции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3242]&lt;BNPI&gt;Sorry, you cannot issue new bonds at the moment.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T070446Z" creationid="Александр" creationdate="20210103T070446Z">
+        <seg>[3242]&lt;BNPI&gt;Извините, вы не можете сейчас выпустить новые акции.</seg>
       </tuv>
     </tu>
     <tu>
