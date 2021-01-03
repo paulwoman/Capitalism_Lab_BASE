@@ -4650,6 +4650,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3004]&lt;KNO4&gt;And talents required for the invention project is expected to be available in year|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060511Z" creationid="Александр" creationdate="20210103T060511Z">
+        <seg>[3004]&lt;KNO4&gt;И ожидается, что таланты, необходимые для проекта изобретения, будут доступны в течение года.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3005]&lt;KNO5&gt;Talents required for the invention project is expected to be available in year|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060550Z" creationid="Александр" creationdate="20210103T060550Z">
+        <seg>[3005]&lt;KNO5&gt;Ожидается, что таланты, необходимые для проекта изобретения, будут доступны в течение года.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3006]&lt;KNO6&gt;You must first own an IP or have access to open-source tech.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060606Z" creationid="Александр" creationdate="20210103T060606Z">
+        <seg>[3006]&lt;KNO6&gt;Сначала вы должны владеть IP-адресом или иметь доступ к технологиям с открытым исходным кодом.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3007]&lt;KNO7&gt;Missing knowhow for input(s):|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060638Z" creationid="Александр" creationdate="20210103T060638Z">
+        <seg>[3007]&lt;KNO7&gt;Отсутствие ноу-хау для ввода:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3011]&lt;BIP2&gt;Claims Reserves|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T055521Z" creationid="Александр" creationdate="20210103T055521Z">
@@ -4686,6 +4718,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T060416Z" creationid="Александр" creationdate="20210103T060416Z">
         <seg>[3021]&lt;BOC3&gt; Ваш вспомогательный банк|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3022]&lt;BOC4&gt;Transfer funds from your corporation to your bank.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210103T060440Z" creationid="Александр" creationdate="20210103T060440Z">
+        <seg>[3022]&lt;BOC4&gt;Переведите средства из вашей корпорации в ваш банк.|</seg>
       </tuv>
     </tu>
     <tu>
