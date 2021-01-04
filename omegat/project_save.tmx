@@ -5690,6 +5690,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3289]&lt;SWS2&gt;Suppliers at your Purchasing Units have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175808Z" creationid="Александр" creationdate="20210104T175808Z">
+        <seg>[3289]&lt;SWS2&gt;Поставщики в ваших покупательских подразделениях были изменены в соответствии с вашим запросом.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3290]&lt;SWS3&gt;Firms updated:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175823Z" creationid="Александр" creationdate="20210104T175823Z">
+        <seg>[3290]&lt;SWS3&gt;Фирмы обновлены:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3291]&lt;SWS4&gt;Purchasing Units updated:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175846Z" creationid="Александр" creationdate="20210104T175846Z">
+        <seg>[3291]&lt;SWS4&gt;Обновлены отделы закупок:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175927Z" creationid="Александр" creationdate="20210104T175927Z">
+        <seg>[3292]&lt;SWS5&gt;&gt;Извините, фирмы, которые вы выбрали в этом списке, не закупают продукцию у тех же поставщиков.\n\nПоэтому, никаких изменений не произошло..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3293]&lt;BCH1&gt;Advertising budgets have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175945Z" creationid="Александр" creationdate="20210104T175945Z">
+        <seg>[3293]&lt;BCH1&gt;Рекламные бюджеты были изменены в соответствии с вашим запросом.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3300]&lt;SEC3&gt;The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205930Z" creationid="Александр" creationdate="20210102T205930Z">
