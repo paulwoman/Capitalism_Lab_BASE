@@ -3362,14 +3362,6 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[0558]&lt;FIN6&gt;Employment Policy|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201230T184337Z" creationid="Александр" creationdate="20201230T184337Z">
-        <seg>[0558]&lt;FIN6&gt;Employment Policy|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
@@ -5210,14 +5202,6 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[3229]&lt;NPCM&gt;You do not have enough PERSONAL money for building your mansion.|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210103T065946Z" creationid="Александр" creationdate="20210103T065946Z">
-        <seg>[3229]&lt;NPCM&gt;You do not have enough PERSONAL money for building your mansion.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[3231]&lt;MAYO&gt;Mayor of|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T070000Z" creationid="Александр" creationdate="20210103T070000Z">
@@ -5530,14 +5514,6 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T205935Z" creationid="Александр" creationdate="20210102T205935Z">
-        <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[3300]&lt;SEC3&gt;The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205930Z" creationid="Александр" creationdate="20210102T205930Z">
@@ -5724,8 +5700,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3323]&lt;NDPC&gt;Sorry, you cannot disable this product class.\n\nThe CEO possesses expertise in this product class and is keen on producing it.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201230T184719Z" creationid="Александр" creationdate="20201230T184719Z">
-        <seg>[3323]&lt;NDPC&gt;К сожалению, вы не можете отключить этот класс продуктов.\n\nГенеральный директор обладает опытом в этом классе продуктов и стремится к его производству..|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210104T174505Z" creationid="Александр" creationdate="20201230T184719Z">
+        <seg>[3323]&lt;NDPC&gt;К сожалению, вы не можете отключить этот класс продуктов.\n\nГенеральный директор обладает опытом в этом классе продуктов и стремится к его производству.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5806,38 +5782,6 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T184358Z" creationid="Александр" creationdate="20201230T184358Z">
         <seg>[3333]&lt;CBR2&gt;Под давлением мэр %1 уходит в отставку.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[3336]&lt;ABC3&gt;Would you be interested in acquiring it?|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T094748Z" creationid="Александр" creationdate="20201228T094748Z">
-        <seg>[3336]&lt;ABC3&gt;Would you be interested in acquiring it?|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[3338]&lt;ABC5&gt;Near Bankruptcy|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T094740Z" creationid="Александр" creationdate="20201228T094740Z">
-        <seg>[3338]&lt;ABC5&gt;Near Bankruptcy|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[3340]&lt;ABC7&gt;rescuing it from bankruptcy.|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T094727Z" creationid="Александр" creationdate="20201228T094727Z">
-        <seg>[3340]&lt;ABC7&gt;rescuing it from bankruptcy.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[3341]&lt;SNAM&gt;To locate a specific item, type the first letter of its name.|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T094739Z" creationid="Александр" creationdate="20201228T094739Z">
-        <seg>[3341]&lt;SNAM&gt;To locate a specific item, type the first letter of its name.|</seg>
       </tuv>
     </tu>
     <tu>
