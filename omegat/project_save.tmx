@@ -5658,6 +5658,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3285]&lt;MSP1&gt;Double-click on a product class on the list to change its ink color, which can be:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175545Z" creationid="Александр" creationdate="20210104T175545Z">
+        <seg>[3285]&lt;MSP1&gt;Дважды щелкните по классу продукта в списке, чтобы изменить цвет, который может быть:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3286]&lt;MSP2&gt;RED - it means that the CEO should NOT produce any products in the product class.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175648Z" creationid="Александр" creationdate="20210104T175648Z">
+        <seg>[3286]&lt;MSP2&gt;КРАСНЫЙ означает, что Генеральному директору не следует производить продукцию в данном классе.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3287]&lt;MSP3&gt;BLACK - it means that the CEO may produce products in the product class.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175715Z" creationid="Александр" creationdate="20210104T175715Z">
+        <seg>[3287]&lt;MSP3&gt;ЧЕРНЫЙ означает, что генеральный директор может производить продукцию в классе продуктов.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3288]&lt;SWS1&gt;Sorry, suppliers information cannot be found the firms you chose on this list.\n\nTherefore, no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175751Z" creationid="Александр" creationdate="20210104T175751Z">
+        <seg>[3288]&lt;SWS1&gt;К сожалению, информация о поставщиках не может быть найдена компаниями, которые вы выбрали в этом списке.\n\nПоэтому, никаких изменений внесено не было.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3300]&lt;SEC3&gt;The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205930Z" creationid="Александр" creationdate="20210102T205930Z">
