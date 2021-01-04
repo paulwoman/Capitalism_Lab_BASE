@@ -5354,6 +5354,94 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3248]&lt;ATL1&gt;Adjust Training Levels for all your firms:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173706Z" creationid="Александр" creationdate="20210104T173706Z">
+        <seg>[3248]&lt;ATL1&gt;Настройте уровни обучения для всех ваших фирм:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3249]&lt;ATL2&gt;Adjust Training Levels for all its firms:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173716Z" creationid="Александр" creationdate="20210104T173716Z">
+        <seg>[3248]&lt;ATL1&gt;Настройте уровни обучения для всех ваших фирм:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3250]&lt;ATL3&gt;Sorry, you currently do not have any firms.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173739Z" creationid="Александр" creationdate="20210104T173739Z">
+        <seg>[3250]&lt;ATL3&gt;Извините, у вас в настоящее время нет никаких фирм.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3251]&lt;ATL4&gt;Sorry, this corporation currently does not have any firms.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173758Z" creationid="Александр" creationdate="20210104T173758Z">
+        <seg>[3251]&lt;ATL4&gt;Простите, но у этой корпорации в настоящее время нет никаких фирм.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3252]&lt;ATL5&gt;The new training setting has been applied to all your firms.\n(Total: %1d firms)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173815Z" creationid="Александр" creationdate="20210104T173815Z">
+        <seg>[3252]&lt;ATL5&gt;Новая система обучения была применена ко всем вашим фирмам.\n (Всего: %1d фирм).|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3253]&lt;ATL6&gt;The new training setting has been applied to all its firms.\n(Total: %1d firms)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173830Z" creationid="Александр" creationdate="20210104T173830Z">
+        <seg>[3252]&lt;ATL5&gt;Новая система обучения была применена ко всем вашим фирмам.\n (Всего: %1d фирм).|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3254]&lt;PRD1&gt;Current Brand Strategy:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173843Z" creationid="Александр" creationdate="20210104T173843Z">
+        <seg>[3254]&lt;PRD1&gt;Текущая стратегия бренда:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3255]&lt;PRD2&gt;Monthly Spending:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173855Z" creationid="Александр" creationdate="20210104T173855Z">
+        <seg>[3255]&lt;PRD2&gt;Ежемесячные расходы:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3256]&lt;PRD3&gt;If your corporation is using 'Corporate Brand' strategy,|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173911Z" creationid="Александр" creationdate="20210104T173911Z">
+        <seg>[3256]&lt;PRD3&gt;Если ваша корпорация использует стратегию "Корпоративного брэнда",|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3257]&lt;PRD4&gt;If this corporation is using 'Corporate Brand' strategy,|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173924Z" creationid="Александр" creationdate="20210104T173924Z">
+        <seg>[3256]&lt;PRD3&gt;Если ваша корпорация использует стратегию "Корпоративного брэнда",|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3258]&lt;IRD1&gt;Investor relations efforts will help improve your|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T173957Z" creationid="Александр" creationdate="20210104T173957Z">
+        <seg>[3258]&lt;IRD1&gt;усилия в области отношений с инвесторами помогут улучшить ваши|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205935Z" creationid="Александр" creationdate="20210102T205935Z">
