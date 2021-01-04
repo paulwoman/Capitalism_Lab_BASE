@@ -2228,6 +2228,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may interfere with its operation when you own 75% or more of its shares.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175120Z" creationid="Александр" creationdate="20210104T175120Z">
+        <seg>Вы можете вмешиваться в работу, если владеете 75% и более акций компании.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may use the three filters at the top of the window to help you find the products you want.^^You intend to purchase products from the local seaports, so click the ~Suppliers~ filter box, as indicated.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215933Z" creationid="Olivier" creationdate="20201217T215933Z">
@@ -2260,6 +2268,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your company has gone public successfully and raised %1s!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174902Z" creationid="Александр" creationdate="20210104T174902Z">
+        <seg>Ваша компания успешно получила огласку и выросла %1s!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your corporation has reached the milestone of having a staff size surpassing 1000 people.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215259Z" creationid="Olivier" creationdate="20201213T215259Z">
@@ -2280,6 +2296,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T120545Z" creationid="Александр" creationdate="20201218T120943Z">
         <seg>Keep up the good work and try to achieve even higher goals. Ваш магазин автоматически покупает выбранный вами товар в морском порту и делает его доступным для продажи вашим клиентам. ^^ Посмотрите на изображение товара слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your subsidiary company has gone public successfully and raised %1s!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175009Z" creationid="Александр" creationdate="20210104T174944Z">
+        <seg>Ваша корпорация успешно получила огласку и выросла %1s!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5500,16 +5524,96 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3268]&lt;SAD1&gt;Set a new advertising budget for all your advertising units:|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210104T174514Z" creationid="Александр" creationdate="20210104T174425Z">
-        <seg>[3268]&lt;SAD1&gt;Установите новый рекламный бюджет для всех ваших рекламных единиц:|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174625Z" creationid="Александр" creationdate="20210104T174425Z">
+        <seg>[3268]&lt;SAD1&gt;Установите новый рекламный бюджет для всех ваших рекламных отделов:|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3269]&lt;SAD2&gt;Set a new advertising budget for all its advertising units:|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210104T174540Z" creationid="Александр" creationdate="20210104T174428Z">
-        <seg>[3269]&lt;SAD2&gt;Установите новый рекламный бюджет для всех своих рекламных единиц:|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174619Z" creationid="Александр" creationdate="20210104T174428Z">
+        <seg>[3269]&lt;SAD2&gt;Установите новый рекламный бюджет для всех своих рекламных отделов:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3270]&lt;SAD3&gt;New advertising budget:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174552Z" creationid="Александр" creationdate="20210104T174552Z">
+        <seg>[3270]&lt;SAD3&gt;Новый рекламный бюджет:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3271]&lt;SAD4&gt;Sorry, you currently do not have any advertising units.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174611Z" creationid="Александр" creationdate="20210104T174611Z">
+        <seg>[3271]&lt;SAD4&gt;Извините, в настоящее время у вас нет рекламных отделов.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3272]&lt;SAD5&gt;Sorry, this corporation currently does not have any advertising units.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174647Z" creationid="Александр" creationdate="20210104T174647Z">
+        <seg>[3272]&lt;SAD5&gt;Извините, но у этой корпорации в настоящее время нет рекламных отделов.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3273]&lt;SAD6&gt;The new advertising budget has been applied to all your advertising units.\n(Total: %1d advertising units)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174723Z" creationid="Александр" creationdate="20210104T174723Z">
+        <seg>[3273]&lt;SAD6&gt;Новый рекламный бюджет был применен ко всем вашим рекламным отделам.\n(Всего: %1d рекламных отделов).|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3274]&lt;SAD7&gt;The new advertising budget has been applied to all its advertising units.\n(Total: %1d advertising units)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174749Z" creationid="Александр" creationdate="20210104T174749Z">
+        <seg>[3274]&lt;SAD7&gt;Новый рекламный бюджет был применен ко всем рекламным отделам.\n(Всего: %1d рекламных отделов).|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3275]&lt;MAYO&gt;Mayor of %1s|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174810Z" creationid="Александр" creationdate="20210104T174810Z">
+        <seg>[3275]&lt;MAYO&gt;Мэр города %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3276]&lt;IPO1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174929Z" creationid="Александр" creationdate="20210104T174819Z">
+        <seg>[3276]&lt;IPO1&gt;Поздравляем!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3277]&lt;IPO2&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174916Z" creationid="Александр" creationdate="20210104T174916Z">
+        <seg>[3277]&lt;IPO2&gt;Поздравляем!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3278]&lt;SUBC&gt;This company is your corporation's subsidiary.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175051Z" creationid="Александр" creationdate="20210104T175051Z">
+        <seg>[3278]&lt;SUBC&gt;Эта компания является филиалом вашей корпорации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3279]&lt;OEXP&gt;Operating Expenses|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175156Z" creationid="Александр" creationdate="20210104T175156Z">
+        <seg>[3279]&lt;OEXP&gt;Текущие расходы|</seg>
       </tuv>
     </tu>
     <tu>
