@@ -5618,6 +5618,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3280]&lt;NAT1&gt;Your Nation's Ranking:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175215Z" creationid="Александр" creationdate="20210104T175215Z">
+        <seg>[3280]&lt;NAT1&gt;Рейтинг вашей страны:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3281]&lt;CDAD&gt;Double-click on an advertising record to go to the relevant firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175336Z" creationid="Александр" creationdate="20210104T175300Z">
+        <seg>[3281]&lt;CDAD&gt;Дважды щёлкните на рекламную запись, чтобы перейти в соответствующую фирму.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3282]&lt;CDPD&gt;Double-click on a product record to open the Product Detail Report.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175341Z" creationid="Александр" creationdate="20210104T175326Z">
+        <seg>[3282]&lt;CDPD&gt;Дважды щёлкните на записи о продукте, чтобы открыть детальный отчет.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3283]&lt;CDR1&gt;indicates Radical R&amp;D projects|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175421Z" creationid="Александр" creationdate="20210104T175421Z">
+        <seg>[3283]&lt;CDR1&gt;Указывает на радикальные научно-исследовательские проекты|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3284]&lt;CDR2&gt;Products that are currently in production are shown with orange bars.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T175516Z" creationid="Александр" creationdate="20210104T175516Z">
+        <seg>[3284]&lt;CDR2&gt;Продукция, которая в настоящее время находится в производстве, показана оранжевой полоской.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3300]&lt;SEC3&gt;The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205930Z" creationid="Александр" creationdate="20210102T205930Z">
