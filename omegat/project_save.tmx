@@ -5482,6 +5482,54 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3264]&lt;ASIN&gt;Adjust advertising spending based on inflation|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174322Z" creationid="Александр" creationdate="20210104T174322Z">
+        <seg>[3264]&lt;ASIN&gt;Корректируйте расходы на рекламу в зависимости от инфляции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3265]&lt;AIN1&gt;Increase all product prices monthly at the same rate as inflation|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174339Z" creationid="Александр" creationdate="20210104T174339Z">
+        <seg>[3265]&lt;AIN1&gt;Ежемесячно повышайте цены на все товары с тем же темпом инфляции.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3266]&lt;AIN2&gt;Increase all advertising spending monthly based on inflation|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174402Z" creationid="Александр" creationdate="20210104T174402Z">
+        <seg>[3266]&lt;AIN2&gt;Увеличивайте ежемесячные расходы на рекламу в зависимости от инфляции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3267]&lt;ATEC&gt;Acquire Product Tech From Other Companies|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174459Z" creationid="Александр" creationdate="20210104T174416Z">
+        <seg>[3267]&lt;ATEC&gt;Приобрести технологию продукта у других компаний|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3268]&lt;SAD1&gt;Set a new advertising budget for all your advertising units:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174514Z" creationid="Александр" creationdate="20210104T174425Z">
+        <seg>[3268]&lt;SAD1&gt;Установите новый рекламный бюджет для всех ваших рекламных единиц:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3269]&lt;SAD2&gt;Set a new advertising budget for all its advertising units:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210104T174540Z" creationid="Александр" creationdate="20210104T174428Z">
+        <seg>[3269]&lt;SAD2&gt;Установите новый рекламный бюджет для всех своих рекламных единиц:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205935Z" creationid="Александр" creationdate="20210102T205935Z">
