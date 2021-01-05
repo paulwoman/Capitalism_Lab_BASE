@@ -2252,6 +2252,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You need to belong to a political party in order to do so.\n\nTo form a new political party, access the Information Center and select [Political Parties] and then select [Form Your Own Party].|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114218Z" creationid="Александр" creationdate="20210105T114218Z">
+        <seg>Для этого вы должны принадлежать к политической партии.\n\nСформируйте новую политическую партию, зайдите в информационный центр, выберите [Политические партии], а затем [Сформировать свою собственную партию].|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You now have to set up products in your new department store.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154636Z" creationid="Александр" creationdate="20201218T154636Z">
@@ -5222,6 +5230,22 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065936Z" creationid="Александр" creationdate="20210103T065936Z">
         <seg>[3228]&lt;NPCA&gt;Недостаточно денег|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3229]&lt;NPCM&gt;You do not have enough PERSONAL money for building your mansion.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114003Z" creationid="Александр" creationdate="20210105T114003Z">
+        <seg>[3229]&lt;NPCM&gt;У вас не хватает денег на постройку особняка..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3230]&lt;NCIP&gt;Sorry, you cannot found a new city.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114015Z" creationid="Александр" creationdate="20210105T114015Z">
+        <seg>[3230]&lt;NCIP&gt;Простите, вы не можете найти новый город.</seg>
       </tuv>
     </tu>
     <tu>
