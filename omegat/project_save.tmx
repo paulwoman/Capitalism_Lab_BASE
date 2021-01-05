@@ -4914,6 +4914,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3024]&lt;BOC6&gt;Transfer funds from your subsidiary company to the bank.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114246Z" creationid="Александр" creationdate="20210105T114246Z">
+        <seg>[3024]&lt;BOC6&gt;Переведите средства из Вашего филиала в банк.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3025]&lt;BOC7&gt;Raise funds from your subsidiary company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114318Z" creationid="Александр" creationdate="20210105T114318Z">
+        <seg>[3025]&lt;BOC7&gt;Используйте средства вашего филиала|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3026]&lt;IOC1&gt;Your Insurance Company Has Run Out of Cash!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114335Z" creationid="Александр" creationdate="20210105T114335Z">
+        <seg>\[3026]&lt;IOC1&gt;У вашей страховой компании закончились деньги!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3027]&lt;IOC2&gt;The insurance company of your subsidiary |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114357Z" creationid="Александр" creationdate="20210105T114357Z">
+        <seg>[3027]&lt;IOC2&gt;Страховая компания Вашего филиала |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3028]&lt;IOC3&gt; has run out of cash!|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T210349Z" creationid="Александр" creationdate="20210102T210349Z">
@@ -4926,6 +4958,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T210403Z" creationid="Александр" creationdate="20210102T210403Z">
         <seg>[3029]&lt;IOC4&gt;Переведите средства из вашей корпорации в вашу страховую компанию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3030]&lt;IOC5&gt;Raise funds from your corporation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114437Z" creationid="Александр" creationdate="20210105T114437Z">
+        <seg>[3030]&lt;IOC5&gt;Используйте средства вашей корпорации.|</seg>
       </tuv>
     </tu>
     <tu>
