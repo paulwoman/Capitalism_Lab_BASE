@@ -5082,14 +5082,6 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[3087]&lt;FTM2&gt;Sell these firms to another company under your control.|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210103T064826Z" creationid="Александр" creationdate="20210103T064826Z">
-        <seg>[3087]&lt;FTM2&gt;Sell these firms to another company under your control.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[3107]&lt;ENBL&gt;Enabled|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T064901Z" creationid="Александр" creationdate="20210103T064901Z">
@@ -5254,14 +5246,6 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065218Z" creationid="Александр" creationdate="20210103T065218Z">
         <seg>[3191]&lt;DIF7&gt;Очень трудно!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[3192]&lt;DIF8&gt;A Humanly Impossible Challenge!</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210103T065255Z" creationid="Александр" creationdate="20210103T065255Z">
-        <seg>[3192]&lt;DIF8&gt;A Humanly Impossible Challenge!</seg>
       </tuv>
     </tu>
     <tu>
