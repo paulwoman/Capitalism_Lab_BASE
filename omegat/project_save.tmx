@@ -4970,6 +4970,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3031]&lt;IOC6&gt;Transfer funds from your subsidiary company to the insurance company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114518Z" creationid="Александр" creationdate="20210105T114518Z">
+        <seg>[3031]&lt;IOC6&gt;Переведите средства из Вашего филиала в страховую компанию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3032]&lt;IOC7&gt;Raise funds from your subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114552Z" creationid="Александр" creationdate="20210105T114552Z">
+        <seg>[3032]&lt;IOC7&gt;Используйте средства вашего филиала.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3033]&lt;BD01&gt;Bond Value Return|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114731Z" creationid="Александр" creationdate="20210105T114610Z">
+        <seg>[3033]&lt;BD01&gt;Возврат стоимости облигаций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3034]&lt;BD02&gt;Received Bond Interests|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114628Z" creationid="Александр" creationdate="20210105T114628Z">
+        <seg>[3034]&lt;BD02&gt;Полученные проценты по облигациям|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061324Z" creationid="Александр" creationdate="20210103T061324Z">
