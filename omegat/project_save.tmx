@@ -5002,6 +5002,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3035]&lt;AP01&gt;Rental Income|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114745Z" creationid="Александр" creationdate="20210105T114745Z">
+        <seg>[3035]&lt;AP01&gt;Доход от аренды|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3036]&lt;AP02&gt;Property Maintenance Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114918Z" creationid="Александр" creationdate="20210105T114752Z">
+        <seg>[3036]&lt;AP02&gt;Стоимость содержания имущества|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3037]&lt;DEBT&gt;Total Debt|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114828Z" creationid="Александр" creationdate="20210105T114828Z">
+        <seg>[3037]&lt;DEBT&gt;Общая задолженность|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3038]&lt;DEAS&gt;Debt-to-Assets Ratio|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114934Z" creationid="Александр" creationdate="20210105T114851Z">
+        <seg>[3038]&lt;DEAS&gt;Соотношение долга и активов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3039]&lt;STOC&gt;Stocks|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T115003Z" creationid="Александр" creationdate="20210105T115003Z">
+        <seg>[3039]&lt;STOC&gt;Акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3040]&lt;BOND&gt;Bonds|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T114804Z" creationid="Александр" creationdate="20210105T114804Z">
+        <seg>[3040]&lt;BOND&gt;Облигации|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3041]&lt;DEPO&gt;Bank Deposits|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T115055Z" creationid="Александр" creationdate="20210105T115055Z">
+        <seg>[3041]&lt;DEPO&gt;Банковские депозиты|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061324Z" creationid="Александр" creationdate="20210103T061324Z">
