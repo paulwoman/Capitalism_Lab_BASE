@@ -6154,6 +6154,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3334]&lt;ABC1&gt;Acquire a Company Near Bankruptcy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114039Z" creationid="Александр" creationdate="20210106T114039Z">
+        <seg>[3334]&lt;ABC1&gt;Приобретение бизнеса на грани банкротства|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3335]&lt;ABC2&gt;is on the brink of bankruptcy.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114057Z" creationid="Александр" creationdate="20210106T114057Z">
+        <seg>[3335]&lt;ABC2&gt;на грани банкротства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215727Z" creationid="Olivier" creationdate="20201217T215727Z">
