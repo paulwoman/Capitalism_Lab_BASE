@@ -1036,6 +1036,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is now looking for a buyer.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114115Z" creationid="Александр" creationdate="20210106T114115Z">
+        <seg>Сейчас ищет покупателя.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It lists all the products currently available within the game.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215929Z" creationid="Olivier" creationdate="20201217T215929Z">
@@ -2120,6 +2128,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000513Z" creationid="Olivier" creationdate="20201226T000513Z">
         <seg>Превосходно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who should be in charge of setting the dividend?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114359Z" creationid="Александр" creationdate="20210106T114359Z">
+        <seg>Кто должен отвечать за установление дивидендов?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5266,6 +5282,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3209]&lt;ASAV&gt;Auto-Save Game|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114335Z" creationid="Александр" creationdate="20210106T114335Z">
+        <seg>[3209]&lt;ASAV&gt;Автосохранение игры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3210]&lt;DIV1&gt;This is your subsidiary company.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114348Z" creationid="Александр" creationdate="20210106T114348Z">
+        <seg>[3210]&lt;DIV1&gt;Это Ваш филиал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3217]&lt;NSU2&gt;Sorry, you cannot form a new subsidiary company as the maximum number of companies allowed in the game has been reached.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065347Z" creationid="Александр" creationdate="20210103T065347Z">
@@ -6166,6 +6198,54 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210106T114057Z" creationid="Александр" creationdate="20210106T114057Z">
         <seg>[3335]&lt;ABC2&gt;на грани банкротства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3336]&lt;ABC3&gt;Would you be interested in acquiring it?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114143Z" creationid="Александр" creationdate="20210106T114143Z">
+        <seg>[3336]&lt;ABC3&gt;Вы бы хотели это приобрести?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3337]&lt;ABC4&gt;If you are interested, the game will be paused, allowing you to take the time to evaluate the company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114201Z" creationid="Александр" creationdate="20210106T114201Z">
+        <seg>[3337]&lt;ABC4&gt;Если вы заинтересованы, игра будет приостановлена, что позволит вам уделить время для оценки компании.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3338]&lt;ABC5&gt;Near Bankruptcy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114237Z" creationid="Александр" creationdate="20210106T114237Z">
+        <seg>[3338]&lt;ABC5&gt;Близкое банкротство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3339]&lt;ABC6&gt;acquires the company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114249Z" creationid="Александр" creationdate="20210106T114249Z">
+        <seg>[3339]&lt;ABC6&gt;приобретает компанию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3340]&lt;ABC7&gt;rescuing it from bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114308Z" creationid="Александр" creationdate="20210106T114308Z">
+        <seg>[3340]&lt;ABC7&gt;спасение от банкротства.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3341]&lt;SNAM&gt;To locate a specific item, type the first letter of its name.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114325Z" creationid="Александр" creationdate="20210106T114325Z">
+        <seg>[3341]&lt;SNAM&gt;Чтобы найти конкретный объект, введите первую букву его названия.|</seg>
       </tuv>
     </tu>
     <tu>
