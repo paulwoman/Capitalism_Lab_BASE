@@ -2220,6 +2220,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have successfully privatized this company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114508Z" creationid="Александр" creationdate="20210106T114508Z">
+        <seg>Вы успешно приватизировали эту компанию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may also #Customize# or #Randomize# the game settings</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235000Z" creationid="Olivier" creationdate="20201225T235000Z">
@@ -2288,6 +2296,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215049Z" creationid="Olivier" creationdate="20201213T215049Z">
         <seg>Your Start-up Capital=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company has been successfully privatized.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114450Z" creationid="Александр" creationdate="20210106T114450Z">
+        <seg>Ваша компания была успешно приватизирована.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5298,6 +5314,54 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3211]&lt;DIV2&gt;I will set the dividend|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114418Z" creationid="Александр" creationdate="20210106T114418Z">
+        <seg>[3211]&lt;DIV2&gt;Я установлю размер дивиденда|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3212]&lt;DIV3&gt;Let the CEO set the dividend|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114431Z" creationid="Александр" creationdate="20210106T114431Z">
+        <seg>[3212]&lt;DIV3&gt;Пусть генеральный директор установит дивиденды|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3213]&lt;PRV1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114440Z" creationid="Александр" creationdate="20210106T114440Z">
+        <seg>[3213]&lt;PRV1&gt;Поздравляем!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3214]&lt;PRV2&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114459Z" creationid="Александр" creationdate="20210106T114459Z">
+        <seg>[3214]&lt;PRV2&gt;Поздавляем!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3215]&lt;SUB0&gt;Sorry, the maximum number of corporations allowed in the game has been reached.\n\nIt is not possible to set up a new subsidiary company at the moment.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114601Z" creationid="Александр" creationdate="20210106T114601Z">
+        <seg>[3215]&lt;SUB0&gt;К сожалению, максимальное количество корпораций, разрешенных в игре, достигнуто.\n\nНа данный момент не представляется возможным создать новый филиал.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3216]&lt;NSU1&gt;Please enter a name for your new subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114623Z" creationid="Александр" creationdate="20210106T114623Z">
+        <seg>[3216]&lt;NSU1&gt;Пожалуйста, введите название Вашего нового филиала.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3217]&lt;NSU2&gt;Sorry, you cannot form a new subsidiary company as the maximum number of companies allowed in the game has been reached.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065347Z" creationid="Александр" creationdate="20210103T065347Z">
@@ -5910,6 +5974,22 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210104T175945Z" creationid="Александр" creationdate="20210104T175945Z">
         <seg>[3293]&lt;BCH1&gt;Рекламные бюджеты были изменены в соответствии с вашим запросом.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3294]&lt;BCH2&gt;Training levels have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114644Z" creationid="Александр" creationdate="20210106T114644Z">
+        <seg>[3294]&lt;BCH2&gt;Уровни обучения были изменены по Вашему запросу.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3295]&lt;BCH3&gt;Units updated:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114704Z" creationid="Александр" creationdate="20210106T114704Z">
+        <seg>[3295]&lt;BCH3&gt;Отделы обновлены:|</seg>
       </tuv>
     </tu>
     <tu>
