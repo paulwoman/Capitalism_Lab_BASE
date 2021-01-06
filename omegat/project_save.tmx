@@ -5058,6 +5058,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3042]&lt;MANS&gt;Mansions Market Values|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210105T115106Z" creationid="Александр" creationdate="20210105T115106Z">
+        <seg>[3042]&lt;MANS&gt;Mansions Market Values|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061324Z" creationid="Александр" creationdate="20210103T061324Z">
@@ -5246,6 +5254,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065218Z" creationid="Александр" creationdate="20210103T065218Z">
         <seg>[3191]&lt;DIF7&gt;Очень трудно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3207]&lt;INCO&gt;(Incompatible)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T110046Z" creationid="Александр" creationdate="20210106T110046Z">
+        <seg>[3207]&lt;INCO&gt;(Несовместимо)|</seg>
       </tuv>
     </tu>
     <tu>
