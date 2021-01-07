@@ -3730,6 +3730,102 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1118]&lt;0273&gt;Sell Stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065621Z" creationid="Александр" creationdate="20210107T065621Z">
+        <seg>[1118]&lt;0273&gt;Продать акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1119]&lt;0274&gt;Offer Price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065641Z" creationid="Александр" creationdate="20210107T065641Z">
+        <seg>[1119]&lt;0274&gt;Стоимость предложения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1122]&lt;0277&gt;100 Billionaires|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065650Z" creationid="Александр" creationdate="20210107T065650Z">
+        <seg>[1122]&lt;0277&gt;100 миллиардеров|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1123]&lt;0278&gt;Local Billionaires|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065700Z" creationid="Александр" creationdate="20210107T065700Z">
+        <seg>[1123]&lt;0278&gt;Местные миллиардеры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1124]&lt;0279&gt;Issue New Shares|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065713Z" creationid="Александр" creationdate="20210107T065713Z">
+        <seg>[1124]&lt;0279&gt;Выпустить новые акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1125]&lt;0280&gt;Borrow/Repay Loan|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065739Z" creationid="Александр" creationdate="20210107T065739Z">
+        <seg>[1125]&lt;0280&gt;Заём/Погашение кредита|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1126]&lt;0281&gt;Public Shareholders|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065752Z" creationid="Александр" creationdate="20210107T065752Z">
+        <seg>[1126]&lt;0281&gt;Общественные акционеры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1127]&lt;0282&gt;Past 30 Days|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065807Z" creationid="Александр" creationdate="20210107T065807Z">
+        <seg>[1127]&lt;0282&gt;За последние 30 дней|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1128]&lt;0283&gt;of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065824Z" creationid="Александр" creationdate="20210107T065824Z">
+        <seg>[1128]&lt;0283&gt;от|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1129]&lt;0284&gt;ISSUE NOW|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065852Z" creationid="Александр" creationdate="20210107T065852Z">
+        <seg>[1129]&lt;0284&gt;ВЫПУСТИТЬ СЕЙЧАС|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1130]&lt;0285&gt;BORROW|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065905Z" creationid="Александр" creationdate="20210107T065905Z">
+        <seg>[1130]&lt;0285&gt;ЗАНЯТЬ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1131]&lt;0286&gt;REPAY|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065921Z" creationid="Александр" creationdate="20210107T065921Z">
+        <seg>[1131]&lt;0286&gt;ВЫПЛАТИТЬ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
