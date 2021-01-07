@@ -560,6 +560,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do not choose this if you want a winnable game.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061946Z" creationid="Александр" creationdate="20210107T061946Z">
+        <seg>Не выбирайте это, если вы хотите выиграть.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you have enough money to build a second department store yet?</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T155210Z" creationid="Александр" creationdate="20201218T155210Z">
@@ -1214,6 +1222,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065252Z" creationid="Александр" creationdate="20210103T065252Z">
         <seg>Неприятно, если вы не достигли мастерства в этой игре.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not recommended for most players.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062033Z" creationid="Александр" creationdate="20210107T062033Z">
+        <seg>Не рекомендуется для большинства игроков.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5282,10 +5298,74 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3190]&lt;DIF6&gt;Extremely Difficult!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062045Z" creationid="Александр" creationdate="20210107T062045Z">
+        <seg>[3190]&lt;DIF6&gt;Крайне трудно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3191]&lt;DIF7&gt;Insanely Difficult!</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065218Z" creationid="Александр" creationdate="20210103T065218Z">
         <seg>[3191]&lt;DIF7&gt;Очень трудно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3192]&lt;DIF8&gt;A Humanly Impossible Challenge!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062016Z" creationid="Александр" creationdate="20210107T062016Z">
+        <seg>[3192]&lt;DIF8&gt;Невозможная задача!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3193]&lt;ISBN&gt;%1s issues new bonds, raising %2s.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061926Z" creationid="Александр" creationdate="20210107T061926Z">
+        <seg>[3193]&lt;ISBN&gt;%1s выпускает новые облигации, привлекая %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3194]&lt;NORM&gt;Normal|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061903Z" creationid="Александр" creationdate="20210107T061903Z">
+        <seg>[3194]&lt;NORM&gt;нормально|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3195]&lt;MOR1&gt;50% more|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061855Z" creationid="Александр" creationdate="20210107T061855Z">
+        <seg>[3195]&lt;MOR1&gt;на 50% больше|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3196]&lt;MOR2&gt;100% more|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061843Z" creationid="Александр" creationdate="20210107T061843Z">
+        <seg>[3196]&lt;MOR2&gt;на 100% больше|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3197]&lt;MSOS&gt;Market Share of Operating System|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061833Z" creationid="Александр" creationdate="20210107T061833Z">
+        <seg>[3197]&lt;MSOS&gt;Доля рынка операционной системы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3198]&lt;MSHA&gt;Market Share of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061823Z" creationid="Александр" creationdate="20210107T061823Z">
+        <seg>[3198]&lt;MSHA&gt;Доля рынка|</seg>
       </tuv>
     </tu>
     <tu>
