@@ -4522,6 +4522,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2673]&lt;1553&gt;Spending on Public Relations|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163256Z" creationid="Александр" creationdate="20210107T163126Z">
+        <seg>[2673]&lt;1553&gt;Расходы на отношения с общественностью|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2674]&lt;1554&gt;Spending on Investor Relations|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163248Z" creationid="Александр" creationdate="20210107T163248Z">
+        <seg>[2674]&lt;1554&gt;Расходы на отношения с инвесторами|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2675]&lt;1555&gt;Media Firms|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163312Z" creationid="Александр" creationdate="20210107T163312Z">
+        <seg>[2675]&lt;1555&gt;Медиа Фирмы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2676]&lt;1556&gt;Current advertising pricing (CPM)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163420Z" creationid="Александр" creationdate="20210107T163420Z">
+        <seg>[2676]&lt;1556&gt;Текущая цена на рекламу (CPM)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162113Z" creationid="Александр" creationdate="20210107T162113Z">
