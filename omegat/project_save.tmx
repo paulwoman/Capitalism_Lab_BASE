@@ -4634,6 +4634,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2688]&lt;C010&gt;Marketing &amp;|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163852Z" creationid="Александр" creationdate="20210107T163852Z">
+        <seg>[2688]&lt;C010&gt;Маркетинг и|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2689]&lt;C011&gt;David Lee|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163901Z" creationid="Александр" creationdate="20210107T163901Z">
+        <seg>[2689]&lt;C011&gt;Дэвид Ли|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2690]&lt;C012&gt;User Community:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163915Z" creationid="Александр" creationdate="20210107T163915Z">
+        <seg>[2690]&lt;C012&gt;Сообщество пользователей:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2691]&lt;C013&gt;Testing:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163926Z" creationid="Александр" creationdate="20210107T163926Z">
+        <seg>[2691]&lt;C013&gt;Тестирование:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2692]&lt;C014&gt;Daniel Yip, Eva Cheung, Alan Ng|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T164020Z" creationid="Александр" creationdate="20210107T164020Z">
+        <seg>[2692]&lt;C014&gt;Дэниел Ип, Ева Чунг, Алан Нг|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162113Z" creationid="Александр" creationdate="20210107T162113Z">
