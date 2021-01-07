@@ -5290,10 +5290,82 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3199]&lt;BNOT&gt;Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity value.\n(You can view the equity value in the balance sheet.)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061813Z" creationid="Александр" creationdate="20210107T061813Z">
+        <seg>[3199]&lt;BNOT&gt;К сожалению, компания не выполняет требование по выпуску облигаций.\nПопробуйте увеличить стоимость акционерного капитала компании.\n (Вы можете просмотреть стоимость собственного капитала в бухгалтерском балансе).|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3200]&lt;DLE1&gt;Sorry, this MOD cannot be loaded because the following DLC that it requires is not enabled:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061702Z" creationid="Александр" creationdate="20210107T061702Z">
+        <seg>[3200]&lt;DLE1&gt;Извините, этот MOD не может быть загружен, так как не включены следующие DLC, которые ему требуются:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3201]&lt;DLE2&gt;Sorry, this MOD cannot be loaded because the following DLCs that it requires are not enabled:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061646Z" creationid="Александр" creationdate="20210107T061646Z">
+        <seg>[3201]&lt;DLE2&gt;Извините, этот МОДне может быть загружен, так как не включены следующие DLC, которые ему требуются:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3202]&lt;PLTI&gt;Total play time:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061620Z" creationid="Александр" creationdate="20210107T061620Z">
+        <seg>[3202]&lt;PLTI&gt;Общее время игры:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3203]&lt;NOCH&gt;Sorry, there are currently no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061605Z" creationid="Александр" creationdate="20210107T061605Z">
+        <seg>[3203]&lt;NOCH&gt;К сожалению, в настоящее время нет доступных игр.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3204]&lt;WVER&gt;(wrong version)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061545Z" creationid="Александр" creationdate="20210107T061545Z">
+        <seg>[3204]&lt;WVER&gt;(неверная версия)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3205]&lt;FIMI&gt;(file missing)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061535Z" creationid="Александр" creationdate="20210107T061535Z">
+        <seg>[3205]&lt;FIMI&gt;(Файл отсутствует)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3206]&lt;GVER&gt;Game version:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061517Z" creationid="Александр" creationdate="20210107T061517Z">
+        <seg>[3206]&lt;GVER&gt;Версия игры:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3207]&lt;INCO&gt;(Incompatible)|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210106T110046Z" creationid="Александр" creationdate="20210106T110046Z">
         <seg>[3207]&lt;INCO&gt;(Несовместимо)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3208]&lt;DECG&gt;This Challenge Game will be deleted.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061506Z" creationid="Александр" creationdate="20210107T061506Z">
+        <seg>[3208]&lt;DECG&gt;Эта игра вызов будет удалена.</seg>
       </tuv>
     </tu>
     <tu>
