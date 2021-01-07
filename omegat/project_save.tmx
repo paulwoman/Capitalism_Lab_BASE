@@ -3474,6 +3474,110 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0558]&lt;FIN6&gt;Employment Policy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063613Z" creationid="Александр" creationdate="20210107T063613Z">
+        <seg>[0558]&lt;FIN6&gt;политика занятости|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0559]&lt;FIN7&gt;Cannot purchase the stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063625Z" creationid="Александр" creationdate="20210107T063625Z">
+        <seg>[0559]&lt;FIN7&gt;Невозможно купить акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0560]&lt;FIN8&gt;Issue New Shares|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063634Z" creationid="Александр" creationdate="20210107T063634Z">
+        <seg>[0560]&lt;FIN8&gt;Выпустить новые акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0561]&lt;FIN9&gt;OK|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063636Z" creationid="Александр" creationdate="20210107T063636Z">
+        <seg>[0561]&lt;FIN9&gt;OK|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0562]&lt;FMN1&gt;Mansion Demolish|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063652Z" creationid="Александр" creationdate="20210107T063652Z">
+        <seg>[0562]&lt;FMN1&gt;Разрушение особняка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0564]&lt;FM21&gt;Change Group Manager|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063714Z" creationid="Александр" creationdate="20210107T063714Z">
+        <seg>[0564]&lt;FM21&gt;Менеджер группы смен|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0567]&lt;GAM1&gt;GOAL|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063719Z" creationid="Александр" creationdate="20210107T063719Z">
+        <seg>[0567]&lt;GAM1&gt;ЦЕЛЬ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0568]&lt;GME1&gt;Lost Ownership|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063732Z" creationid="Александр" creationdate="20210107T063732Z">
+        <seg>[0568]&lt;GME1&gt;Потерянное право собственности|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0569]&lt;GP21&gt;Stock Exchange News|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063743Z" creationid="Александр" creationdate="20210107T063743Z">
+        <seg>[0569]&lt;GP21&gt;Новости фондовой биржи|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0570]&lt;JMF1&gt;Upgrade Production Technology|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063753Z" creationid="Александр" creationdate="20210107T063753Z">
+        <seg>[0570]&lt;JMF1&gt;Модернизация технологии производства|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0571]&lt;JMF2&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063757Z" creationid="Александр" creationdate="20210107T063757Z">
+        <seg>[0571]&lt;JMF2&gt;Да|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0572]&lt;JMF3&gt;No|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063803Z" creationid="Александр" creationdate="20210107T063803Z">
+        <seg>[0572]&lt;JMF3&gt;Нет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0573]&lt;NGO1&gt;Cannot purchase the mansion|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063807Z" creationid="Александр" creationdate="20210107T063807Z">
+        <seg>[0573]&lt;NGO1&gt;Cannot purchase the mansion|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
