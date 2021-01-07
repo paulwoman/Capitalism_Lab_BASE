@@ -536,6 +536,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Started On=2021-01-02</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T064458Z" creationid="Александр" creationdate="20210107T064458Z">
+        <seg>Конкурс начался=2021-01-02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Cash Change=100</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215242Z" creationid="Olivier" creationdate="20201213T215242Z">
