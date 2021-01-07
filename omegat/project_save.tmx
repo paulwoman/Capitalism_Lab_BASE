@@ -560,6 +560,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=The advent of the Internet is changing every aspect of life.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T064350Z" creationid="Александр" creationdate="20210107T064350Z">
+        <seg>Описание=Появление Интернета меняет каждый аспект жизни.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=Years of research in training methodology by a consortium of leading business schools has finally produced astonishing results.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215041Z" creationid="Olivier" creationdate="20201213T214958Z">
@@ -1562,6 +1570,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Seeing a multi-billion dollar industry in the making, investors flocked to offer money to Internet startups and you have just received your fair share of it.^^With a war chest full of newly raised capital, you have fearlessly embarked on an ambitious quest for Internet dominance.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T064436Z" creationid="Александр" creationdate="20210107T064436Z">
+        <seg>Видя многомиллиардную отрасль, инвесторы начали предлагать деньги интернет-стартаперам, и вы только что получили свою справедливую долю.^^С боевым сундуком, полным вновь привлеченного капитала, вы бесстрашно принялись за амбициозное стремление к превосходству в интернете..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Competitor Trade Secrets=Yes</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215110Z" creationid="Olivier" creationdate="20201213T215110Z">
@@ -2136,6 +2152,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T063956Z" creationid="Александр" creationdate="20210107T063956Z">
         <seg>Название=Медиа империя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=The Battle For Internet Dominance</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T064331Z" creationid="Александр" creationdate="20210107T064331Z">
+        <seg>Название=Битва за превосходство в интернете.</seg>
       </tuv>
     </tu>
     <tu>
