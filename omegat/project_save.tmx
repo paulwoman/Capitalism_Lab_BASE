@@ -4106,6 +4106,78 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1797]&lt;0800&gt;Score:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083846Z" creationid="Александр" creationdate="20210107T083846Z">
+        <seg>[1797]&lt;0800&gt;Счёт:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1807]&lt;0811&gt;Values 1|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084022Z" creationid="Александр" creationdate="20210107T083918Z">
+        <seg>[1807]&lt;0811&gt;Цели 1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1808]&lt;0812&gt;Values 2|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083921Z" creationid="Александр" creationdate="20210107T083921Z">
+        <seg>[1808]&lt;0812&gt;Цели 2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1809]&lt;0813&gt;Industries|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083923Z" creationid="Александр" creationdate="20210107T083923Z">
+        <seg>[1809]&lt;0813&gt;Отрасли|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1810]&lt;0814&gt;Products|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083924Z" creationid="Александр" creationdate="20210107T083924Z">
+        <seg>[1810]&lt;0814&gt;Продукция|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1811]&lt;0815&gt;CORPORATE COLOR|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084013Z" creationid="Александр" creationdate="20210107T083926Z">
+        <seg>[0801]&lt;0021&gt;ЦВЕТ КОРПОРАЦИИ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1812]&lt;0816&gt;CORPORATE LOGO|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083956Z" creationid="Александр" creationdate="20210107T083956Z">
+        <seg>[0801]&lt;0021&gt;ЛОГОТИП КОРПОРАЦИИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1813]&lt;0817&gt;YOUR PORTRAIT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084104Z" creationid="Александр" creationdate="20210107T084104Z">
+        <seg>[1813]&lt;0817&gt;ТВОЙ ПОРТРЕТ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1817]&lt;0821&gt;NEW SINGLE-PLAYER GAME|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084131Z" creationid="Александр" creationdate="20210107T084131Z">
+        <seg>[1817]&lt;0821&gt;НОВАЯ ОДИНОЧНАЯ ИГРА|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
