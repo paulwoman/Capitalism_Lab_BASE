@@ -1610,6 +1610,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The CEO is not comfortable with setting up new businesses.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062736Z" creationid="Александр" creationdate="20210107T062736Z">
+        <seg>Генеральному директору неудобно открывать новый бизнес.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T220434Z" creationid="Olivier" creationdate="20201213T220434Z">
@@ -5274,6 +5282,30 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3139]&lt;GSU5&gt;Subsidiaries with Dominance in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062903Z" creationid="Александр" creationdate="20210107T062903Z">
+        <seg>[3139]&lt;GSU5&gt;Филиалы с доминирующим положением в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3140]&lt;IND1&gt;Industry|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062917Z" creationid="Александр" creationdate="20210107T062917Z">
+        <seg>[3140]&lt;IND1&gt;Промышленности|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3141]&lt;IND2&gt;Industries|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063002Z" creationid="Александр" creationdate="20210107T063002Z">
+        <seg>[3141]&lt;IND2&gt;Промышленности|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3154]&lt;NSCO&gt;National Score|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T210813Z" creationid="Александр" creationdate="20210102T210813Z">
@@ -5316,8 +5348,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3174]&lt;CE05&gt;This cash level of this subsidiary company is too low.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210103T065147Z" creationid="Александр" creationdate="20210103T065147Z">
-        <seg>[3174]&lt;CE05&gt;This cash level of this subsidiary company is too low.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062843Z" creationid="Александр" creationdate="20210103T065147Z">
+        <seg>[3174]&lt;CE05&gt;Уровень денежных средств этого филиала слишком низок..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3175]&lt;CE06&gt;Adequate cash level for expansion:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062718Z" creationid="Александр" creationdate="20210107T062718Z">
+        <seg>[3175]&lt;CE06&gt;Требуемый уровень денежных средств для расширения:|</seg>
       </tuv>
     </tu>
     <tu>
