@@ -5322,6 +5322,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3176]&lt;CE07&gt;Adequate annual profit for expansion:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062701Z" creationid="Александр" creationdate="20210107T062701Z">
+        <seg>[3176]&lt;CE07&gt;Требуемая годовая прибыль для расширения:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3177]&lt;RDB1&gt;Increase Retail Demand Bonus in the following ways:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062638Z" creationid="Александр" creationdate="20210107T062638Z">
+        <seg>[3177]&lt;RDB1&gt;Увеличить бонус розничного спроса следующими способами:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3178]&lt;RDB2&gt;-A specialty store focusing on a specific range of products is more attractive to customers interested in such products.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062601Z" creationid="Александр" creationdate="20210107T062601Z">
+        <seg>[3178]&lt;RDB2&gt;-Специализированный магазин, ориентированный на определенный ассортимент продукции, более привлекателен для покупателей, заинтересованных в такой продукции.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3179]&lt;RDB3&gt;-Build more stores of the same store type in the same city.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062539Z" creationid="Александр" creationdate="20210107T062539Z">
+        <seg>[3179]&lt;RDB3&gt;-Создайте больше магазинов одного типа в одном городе.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3180]&lt;RDB4&gt;-Stores in areas with high customer traffic will boost the chain popularity more.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062510Z" creationid="Александр" creationdate="20210107T062510Z">
+        <seg>[3180]&lt;RDB4&gt;-Магазины в районах с высоким трафиком клиентов повысят популярность сети.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3181]&lt;SCT1&gt;This service firm is capable of increasing the customer traffic in this area.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062442Z" creationid="Александр" creationdate="20210107T062442Z">
+        <seg>[3181]&lt;SCT1&gt;Эта сервисная фирма способна увеличить клиентский трафик в этой области.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3182]&lt;SCT2&gt;Customer Traffic Effect Index|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062417Z" creationid="Александр" creationdate="20210107T062417Z">
+        <seg>[3182]&lt;SCT2&gt;Индекс Эффекта Трафика Клиента|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3183]&lt;BDE1&gt;Sorry, you cannot make a deposit at the moment as no commercial banks have been set up yet.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T062401Z" creationid="Александр" creationdate="20210107T062401Z">
