@@ -4490,6 +4490,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2668]&lt;1548&gt;Annual rent per square foot|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163002Z" creationid="Александр" creationdate="20210107T163002Z">
+        <seg>[2668]&lt;1548&gt;Годовая арендная плата за квадратный фут|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2669]&lt;1549&gt;Occupancy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163019Z" creationid="Александр" creationdate="20210107T163019Z">
+        <seg>[2669]&lt;1549&gt;Занятость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2670]&lt;1550&gt;Annual return|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163047Z" creationid="Александр" creationdate="20210107T163047Z">
+        <seg>[2670]&lt;1550&gt;Годовая прибыль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2672]&lt;1552&gt;Market value|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163103Z" creationid="Александр" creationdate="20210107T163103Z">
+        <seg>[2672]&lt;1552&gt;Рыночная стоимость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162113Z" creationid="Александр" creationdate="20210107T162113Z">
