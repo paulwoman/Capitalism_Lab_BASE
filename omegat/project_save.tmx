@@ -552,6 +552,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You always dream of building a media empire and now it is your chance to realize this dream.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T064134Z" creationid="Александр" creationdate="20210107T064134Z">
+        <seg>Описание=Вы всегда мечтали построить медиа-империю, а теперь это ваш шанс осуществить свою мечту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difficulty Rating=90</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215047Z" creationid="Olivier" creationdate="20201213T215047Z">
@@ -2096,6 +2104,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215020Z" creationid="Olivier" creationdate="20201213T214956Z">
         <seg>Title=Title=Avanço no treinamento in Training</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Media Empire</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063956Z" creationid="Александр" creationdate="20210107T063956Z">
+        <seg>Название=Медиа империя</seg>
       </tuv>
     </tu>
     <tu>
@@ -6950,8 +6966,8 @@ Hide=Preview</seg>
       <tuv lang="en-US">
         <seg>[CHALLENGE GAME]</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215305Z" creationid="Olivier" creationdate="20201213T215305Z">
-        <seg>[CHALLENGE GAME]</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T064106Z" creationid="Olivier" creationdate="20201213T215305Z">
+        <seg>[СОРЕВНОВАНИЕ]</seg>
       </tuv>
     </tu>
     <tu>
@@ -7642,6 +7658,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215045Z" creationid="Olivier" creationdate="20201213T215045Z">
         <seg>^^Sua empresa também aderiu a esse movimento e você está planejando aproveitá-lo para melhorar significativamente a produtividade de sua força de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Your goal is to grow your media corporation's revenue to a substantial size and ultimately outperform all other media companies to become the largest one in the world.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T064157Z" creationid="Александр" creationdate="20210107T064157Z">
+        <seg>^^Ваша цель состоит в том, чтобы увеличить доходы вашей медиа-корпорации до существенного размера и в конечном итоге превзойти все другие медиа-компании, чтобы стать крупнейшей в мире.</seg>
       </tuv>
     </tu>
     <tu>
