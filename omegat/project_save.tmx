@@ -4674,6 +4674,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2693]&lt;C015&gt; |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T164021Z" creationid="Александр" creationdate="20210107T164021Z">
+        <seg>[2693]&lt;C015&gt; |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2694]&lt;C016&gt; |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T164022Z" creationid="Александр" creationdate="20210107T164022Z">
+        <seg>[2694]&lt;C016&gt; |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2696]&lt;NANA&gt;N/A|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T164114Z" creationid="Александр" creationdate="20210107T164114Z">
+        <seg>[2696]&lt;NANA&gt;Н/Д|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2697]&lt;YOUR&gt;Your |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T164120Z" creationid="Александр" creationdate="20210107T164120Z">
+        <seg>[2697]&lt;YOUR&gt;Ваш |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2698]&lt;RESI&gt; resigned from your corporation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T164150Z" creationid="Александр" creationdate="20210107T164150Z">
+        <seg>[2698]&lt;RESI&gt; вышедший из вашей корпорации.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2699]&lt;RES2&gt;Resignation|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T164212Z" creationid="Александр" creationdate="20210107T164212Z">
+        <seg>[2699]&lt;RES2&gt;Отставка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2700]&lt;LAYS&gt; layout plans found|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T170518Z" creationid="Александр" creationdate="20210107T170518Z">
+        <seg>[2700]&lt;LAYS&gt; найденные планы размещения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162113Z" creationid="Александр" creationdate="20210107T162113Z">
