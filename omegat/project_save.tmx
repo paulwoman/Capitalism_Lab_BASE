@@ -4450,6 +4450,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2663]&lt;1543&gt;Go to Goal Report|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162556Z" creationid="Александр" creationdate="20210107T162556Z">
+        <seg>[2663]&lt;1543&gt;Перейти к отчёту по целям|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2664]&lt;1544&gt;View Supplier|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162628Z" creationid="Александр" creationdate="20210107T162628Z">
+        <seg>[2664]&lt;1544&gt;Просмотр поставщика|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2665]&lt;1545&gt;View Clients|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162643Z" creationid="Александр" creationdate="20210107T162643Z">
+        <seg>[2665]&lt;1545&gt;Просмотр клиентов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2666]&lt;1546&gt;Show all layout plans|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162702Z" creationid="Александр" creationdate="20210107T162702Z">
+        <seg>[2666]&lt;1546&gt;Показать все планировки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2667]&lt;1547&gt;Only show plans with all inputs available|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162757Z" creationid="Александр" creationdate="20210107T162757Z">
+        <seg>[2667]&lt;1547&gt;Показывать только планы со всеми доступными входами|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162113Z" creationid="Александр" creationdate="20210107T162113Z">
