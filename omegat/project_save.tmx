@@ -4266,6 +4266,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1829]&lt;0833&gt;Goals of Companies Controlled by the Player ($million)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T113528Z" creationid="Александр" creationdate="20210107T113528Z">
+        <seg>[1829]&lt;0833&gt;Цели компаний, контролируемые игроком (миллионов)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
