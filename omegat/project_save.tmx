@@ -6004,8 +6004,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3297]&lt;BCH5&gt;Sorry, training is not applicable to the firms you chose on this list.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210106T114744Z" creationid="Александр" creationdate="20210106T114744Z">
-        <seg>3297]&lt;BCH5&gt;Sorry, training is not applicable to the firms you chose on this list.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061318Z" creationid="Александр" creationdate="20210106T114744Z">
+        <seg>3297]&lt;BCH5&gt;Извините, обучение не применимо к фирмам, которые вы выбрали в этом списке.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3298]&lt;SEC1&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which you have ownership.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061447Z" creationid="Александр" creationdate="20210107T061401Z">
+        <seg>[3298]&lt;SEC1&gt;Комиссия по ценным бумагам и биржам не одобряет вашу покупку.\nВы не можете использовать корпорацию, которую контролируете, для покупки акций, которыми вы владеете.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T061430Z" creationid="Александр" creationdate="20210107T061430Z">
+        <seg>[3299]&lt;SEC2&gt;Комиссия по ценным бумагам и биржам не одобряет вашу покупку.\nВы не можете использовать корпорацию, которую вы контролируете, для покупки акций, которыми владеет ваша корпорация..|</seg>
       </tuv>
     </tu>
     <tu>
