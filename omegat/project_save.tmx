@@ -290,6 +290,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you using any anti-virus software that runs in background?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065310Z" creationid="Александр" creationdate="20210107T065310Z">
+        <seg>Are you using any anti-virus software that runs in background?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As such, it will have the inflation artificially suppressed.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T182418Z" creationid="Александр" creationdate="20201218T182338Z">
@@ -302,6 +310,14 @@ Low - product customization applies to your company only; Medium - it applies to
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T120652Z" creationid="Александр" creationdate="20201218T120839Z">
         <seg>На этом этапе вам не нужно беспокоиться о деталях, предоставляемых с каждым продуктом. ^^ (Информация, такая как стоимость перевозки, рейтинги, бренд, будет объяснена в следующем руководстве.) ^^ А пока давайте просто купим первый продукт в списке, чтобы начать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_TOOL</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065351Z" creationid="Александр" creationdate="20210107T065351Z">
+        <seg>B_TOOL</seg>
       </tuv>
     </tu>
     <tu>
@@ -3244,8 +3260,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0467]&lt;GSYI&gt;Game Starting Year|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201230T182836Z" creationid="Александр" creationdate="20201230T182836Z">
-        <seg>[0467]&lt;GSYI&gt;Год навчала игры|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065415Z" creationid="Александр" creationdate="20201230T182836Z">
+        <seg>[0467]&lt;GSYI&gt;Год начала игры|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3646,6 +3662,70 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T063807Z" creationid="Александр" creationdate="20210107T063807Z">
         <seg>[0573]&lt;NGO1&gt;Cannot purchase the mansion|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1109]&lt;0264&gt;Total Shares|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
+        <seg>[1109]&lt;0264&gt;Всего Акций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1110]&lt;0265&gt;Equity Per Share|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065451Z" creationid="Александр" creationdate="20210107T065451Z">
+        <seg>[1110]&lt;0265&gt;Капитал на акцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1111]&lt;0266&gt;Earnings Per Share|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065509Z" creationid="Александр" creationdate="20210107T065509Z">
+        <seg>[1111]&lt;0266&gt;Прибыль на акцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1112]&lt;0267&gt;P/E Ratio|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065523Z" creationid="Александр" creationdate="20210107T065523Z">
+        <seg>[1112]&lt;0267&gt;соотношение P/E|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1113]&lt;0268&gt;Dividend Yield|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065533Z" creationid="Александр" creationdate="20210107T065533Z">
+        <seg>[1113]&lt;0268&gt;Дивидендная доходность|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1114]&lt;0269&gt;Annual Return|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065543Z" creationid="Александр" creationdate="20210107T065543Z">
+        <seg>[1114]&lt;0269&gt;Годовая прибыль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1116]&lt;0271&gt;Who             Cash|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065601Z" creationid="Александр" creationdate="20210107T065601Z">
+        <seg>[1116]&lt;0271&gt;Кто              Наличными|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1117]&lt;0272&gt;Buy Stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065610Z" creationid="Александр" creationdate="20210107T065610Z">
+        <seg>[1117]&lt;0272&gt;Купить акции|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7162,6 +7242,14 @@ Description=This is a sample script for Capitalism Lab, listing all variables un
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215112Z" creationid="Olivier" creationdate="20201213T215112Z">
         <seg>[IMPORTS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065356Z" creationid="Александр" creationdate="20210107T065356Z">
+        <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
       </tuv>
     </tu>
     <tu>
