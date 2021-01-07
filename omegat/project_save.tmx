@@ -4220,8 +4220,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1823]&lt;0827&gt;Player's Wealth ($million)|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T084354Z" creationid="Александр" creationdate="20210107T084354Z">
-        <seg>[1823]&lt;0827&gt;Богатство Игрока ($миллионов)|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084439Z" creationid="Александр" creationdate="20210107T084354Z">
+        <seg>[1823]&lt;0827&gt;Богатство Игрока (миллионов)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4230,6 +4230,38 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T084431Z" creationid="Александр" creationdate="20210107T084431Z">
         <seg>[1824]&lt;0828&gt;Цели корпорации игрока (миллионов)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1825]&lt;0829&gt;Annual Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084514Z" creationid="Александр" creationdate="20210107T084514Z">
+        <seg>[1825]&lt;0829&gt;Годовой доход|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1826]&lt;0830&gt;Net Worth|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084533Z" creationid="Александр" creationdate="20210107T084533Z">
+        <seg>[1826]&lt;0830&gt;Чистые активы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1827]&lt;0831&gt;Annual Operating Profit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084612Z" creationid="Александр" creationdate="20210107T084612Z">
+        <seg>[1827]&lt;0831&gt;Годовая операционная прибыль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1828]&lt;0832&gt;Market Cap|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T104145Z" creationid="Александр" creationdate="20210107T104145Z">
+        <seg>[1828]&lt;0832&gt;Рыночный потолок|</seg>
       </tuv>
     </tu>
     <tu>
