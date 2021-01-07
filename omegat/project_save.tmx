@@ -5994,6 +5994,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3296]&lt;BCH4&gt;Sorry, the firms you chose on this list do not have any advertising units.\n\nTherefore no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114737Z" creationid="Александр" creationdate="20210106T114737Z">
+        <seg>[3296]&lt;BCH4&gt;К сожалению, фирмы, которые вы выбрали в этом списке, не имеют рекламных отделов.\n\nПоэтому никаких изменений не произошло..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3297]&lt;BCH5&gt;Sorry, training is not applicable to the firms you chose on this list.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210106T114744Z" creationid="Александр" creationdate="20210106T114744Z">
+        <seg>3297]&lt;BCH5&gt;Sorry, training is not applicable to the firms you chose on this list.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3300]&lt;SEC3&gt;The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205930Z" creationid="Александр" creationdate="20210102T205930Z">
