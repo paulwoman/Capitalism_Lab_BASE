@@ -4274,6 +4274,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1830]&lt;0834&gt;Annual Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T113736Z" creationid="Александр" creationdate="20210107T113736Z">
+        <seg>[1830]&lt;0834&gt;Годовой доход|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1831]&lt;0835&gt;Net Worth|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T113842Z" creationid="Александр" creationdate="20210107T113842Z">
+        <seg>[1831]&lt;0835&gt;Чистые активы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
