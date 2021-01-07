@@ -3938,6 +3938,86 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1674]&lt;0678&gt; Sector|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082852Z" creationid="Александр" creationdate="20210107T082852Z">
+        <seg>[1674]&lt;0678&gt;Область|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1675]&lt;0679&gt;Market Dominance of the |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082903Z" creationid="Александр" creationdate="20210107T082903Z">
+        <seg>[1675]&lt;0679&gt;Доминирование на рынке |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1676]&lt;0680&gt; Industry|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082914Z" creationid="Александр" creationdate="20210107T082914Z">
+        <seg>[1676]&lt;0680&gt; Промышленность|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1678]&lt;0681&gt;Score: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082943Z" creationid="Александр" creationdate="20210107T082943Z">
+        <seg>[1678]&lt;0681&gt;Результат: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1679]&lt;0682&gt;Wealth: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083046Z" creationid="Александр" creationdate="20210107T083046Z">
+        <seg>[1679]&lt;0682&gt;Имущество: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1680]&lt;0683&gt; billion|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083054Z" creationid="Александр" creationdate="20210107T083054Z">
+        <seg>[1680]&lt;0683&gt; миллиард|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1681]&lt;0684&gt; million|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083059Z" creationid="Александр" creationdate="20210107T083059Z">
+        <seg>[1681]&lt;0684&gt; миллион|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1682]&lt;0685&gt;Period: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083116Z" creationid="Александр" creationdate="20210107T083116Z">
+        <seg>[1682]&lt;0685&gt;Срок: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1712]&lt;0715&gt;You have |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083122Z" creationid="Александр" creationdate="20210107T083122Z">
+        <seg>[1712]&lt;0715&gt;вы имеете |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1715]&lt;0718&gt; left to achieve the main goal.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083143Z" creationid="Александр" creationdate="20210107T083143Z">
+        <seg>[1715]&lt;0718&gt; осталось достигнуть главной цели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
