@@ -3826,6 +3826,70 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1132]&lt;0287&gt;Issues|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065943Z" creationid="Александр" creationdate="20210107T065943Z">
+        <seg>[1132]&lt;0287&gt;Выпуск|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1133]&lt;0288&gt;New Shares at|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T065956Z" creationid="Александр" creationdate="20210107T065956Z">
+        <seg>[1133]&lt;0288&gt;Новые аакции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1134]&lt;0289&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T070009Z" creationid="Александр" creationdate="20210107T070009Z">
+        <seg>[1134]&lt;0289&gt; За одну акцию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1135]&lt;0290&gt;Total Loan|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T070028Z" creationid="Александр" creationdate="20210107T070028Z">
+        <seg>[1135]&lt;0290&gt;Общий кредит|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1136]&lt;0291&gt;Monthly Interest|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T070040Z" creationid="Александр" creationdate="20210107T070040Z">
+        <seg>[1136]&lt;0291&gt;Ежемесячный процент|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1137]&lt;0292&gt;Credit Limit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T070052Z" creationid="Александр" creationdate="20210107T070052Z">
+        <seg>[1137]&lt;0292&gt;Кредитный лимит|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1138]&lt;0293&gt;Interest Rate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T070100Z" creationid="Александр" creationdate="20210107T070100Z">
+        <seg>[1138]&lt;0293&gt;Процентная ставка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1139]&lt;0294&gt;Borrow|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T070119Z" creationid="Александр" creationdate="20210107T070119Z">
+        <seg>[1139]&lt;0294&gt;Borrow|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
