@@ -816,6 +816,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enjoyable for Most Players.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062231Z" creationid="Александр" creationdate="20210107T062231Z">
+        <seg>Подходит для большинства игроков.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extend Text Box=32,420,300,0</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215844Z" creationid="Olivier" creationdate="20201217T215844Z">
@@ -1234,6 +1242,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not recommended for normal players.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062058Z" creationid="Александр" creationdate="20210107T062058Z">
+        <seg>Не рекомендуется для обычных игроков.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Noto fonts are under &lt;a0&gt;Apache License 2.0&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T102426Z" creationid="Александр" creationdate="20201218T102426Z">
@@ -1310,6 +1326,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215122Z" creationid="Olivier" creationdate="20201213T215122Z">
         <seg>Number of Game Years=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only choose this if you have won in easier games.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062133Z" creationid="Александр" creationdate="20210107T062133Z">
+        <seg>Выберайте этот вариант, только если вы выигрывали в более простых играх.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5294,6 +5318,62 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065147Z" creationid="Александр" creationdate="20210103T065147Z">
         <seg>[3174]&lt;CE05&gt;This cash level of this subsidiary company is too low.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3183]&lt;BDE1&gt;Sorry, you cannot make a deposit at the moment as no commercial banks have been set up yet.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062401Z" creationid="Александр" creationdate="20210107T062401Z">
+        <seg>[3183]&lt;BDE1&gt;Извините, вы не можете взять депозит на данный момент, так как ни один коммерческий банк еще не создан.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3184]&lt;BDE2&gt;Sorry, you cannot make a deposit at the moment as this bank is not accepting new deposits from corporate clients.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062339Z" creationid="Александр" creationdate="20210107T062339Z">
+        <seg>[3184]&lt;BDE2&gt;К сожалению, на данный момент вы не можете взять депозит, так как этот банк не выдаёт новые депозиты корпоративным клиентам.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3185]&lt;DIF1&gt;A Fun Gaming Experience for New Players.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062259Z" creationid="Александр" creationdate="20210107T062259Z">
+        <seg>[3185]&lt;DIF1&gt;Веселый игровой опыт для начинающих игроков.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3186]&lt;DIF2&gt;Normal Difficulty.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062249Z" creationid="Александр" creationdate="20210107T062249Z">
+        <seg>[3186]&lt;DIF2&gt;Нормальная сложность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3187]&lt;DIF3&gt;For Experienced Players looking for More Challenge.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062156Z" creationid="Александр" creationdate="20210107T062156Z">
+        <seg>[3187]&lt;DIF3&gt;Для опытных игроков, ищущих более сложных задач.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3188]&lt;DIF4&gt;Hard.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062146Z" creationid="Александр" creationdate="20210107T062146Z">
+        <seg>[3188]&lt;DIF4&gt;Трудно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3189]&lt;DIF5&gt;For Expert Players Only.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T062107Z" creationid="Александр" creationdate="20210107T062107Z">
+        <seg>[3189]&lt;DIF5&gt;Только для опытных игроков.</seg>
       </tuv>
     </tu>
     <tu>
