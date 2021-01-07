@@ -4554,6 +4554,86 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2677]&lt;1557&gt;New content development budget|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163453Z" creationid="Александр" creationdate="20210107T163453Z">
+        <seg>[2677]&lt;1557&gt;Бюджет на разработку нового контента|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2678]&lt;1558&gt;Products sold in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163508Z" creationid="Александр" creationdate="20210107T163508Z">
+        <seg>[2678]&lt;1558&gt;Продукция, продаваемая в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2679]&lt;C001&gt;Enlight Software|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163522Z" creationid="Александр" creationdate="20210107T163522Z">
+        <seg>[2679]&lt;C001&gt;Программное обеспечение Enlight Software|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2680]&lt;C002&gt;Game Design &amp;|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163543Z" creationid="Александр" creationdate="20210107T163543Z">
+        <seg>[2680]&lt;C002&gt;Дизайн игры и|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2681]&lt;C003&gt;Trevor Chan|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163551Z" creationid="Александр" creationdate="20210107T163551Z">
+        <seg>[2681]&lt;C003&gt;Тревор Чан|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2682]&lt;C004&gt;Project Management:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163609Z" creationid="Александр" creationdate="20210107T163609Z">
+        <seg>[2682]&lt;C004&gt;Управление проектами:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2683]&lt;C005&gt;Programming:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163621Z" creationid="Александр" creationdate="20210107T163621Z">
+        <seg>[2683]&lt;C005&gt;Программирование:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2684]&lt;C006&gt;Thomas Lam, Charles Wong, Stephen Ho|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163644Z" creationid="Александр" creationdate="20210107T163644Z">
+        <seg>[2684]&lt;C006&gt;Томас Лэм, Чарлес Вонг, Стефан Хо|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2685]&lt;C007&gt;Graphics:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163650Z" creationid="Александр" creationdate="20210107T163650Z">
+        <seg>[2685]&lt;C007&gt;Графика:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2686]&lt;C008&gt;Ada Chui, Yanwei|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T163805Z" creationid="Александр" creationdate="20210107T163805Z">
+        <seg>[2686]&lt;C008&gt;Ада Чуи, Янвэй|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162113Z" creationid="Александр" creationdate="20210107T162113Z">
