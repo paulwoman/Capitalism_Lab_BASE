@@ -4092,8 +4092,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1791]&lt;0794&gt;FINAL SCORE UPON RETIREMENT|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T083501Z" creationid="Александр" creationdate="20210107T083501Z">
-        <seg>[1791]&lt;0794&gt;ОКОНЧАТЕЛЬНАЯ ОЦЕНКА ПРИ ВЫХОДЕ НА ПЕНСИЮ|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083514Z" creationid="Александр" creationdate="20210107T083501Z">
+        <seg>[1791]&lt;0794&gt;ОКОНЧАТЕЛЬНЫЙ СЧЁТ ПРИ ВЫХОДЕ НА ПЕНСИЮ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1792]&lt;0795&gt;FINAL SCORE UPON TAKEOVER|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083840Z" creationid="Александр" creationdate="20210107T083840Z">
+        <seg>[1792]&lt;0795&gt;ОКОНЧАТЕЛЬНЫЙ СЧЕТ ПРИ ЗАХВАТЕ|</seg>
       </tuv>
     </tu>
     <tu>
