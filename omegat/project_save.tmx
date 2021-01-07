@@ -2980,8 +2980,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201230T182229Z" creationid="Александр" creationdate="20201230T182229Z">
-        <seg>[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063544Z" creationid="Александр" creationdate="20201230T182229Z">
+        <seg>[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Общий:%8d|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,18 +5386,42 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3152]&lt;NGDC&gt;National GDP per capita|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063343Z" creationid="Александр" creationdate="20210107T063343Z">
+        <seg>[3152]&lt;NGDC&gt;Национальный ВВП на человека|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3153]&lt;NWAG&gt;National Wage Rate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063400Z" creationid="Александр" creationdate="20210107T063400Z">
+        <seg>[3153]&lt;NWAG&gt;Cтавка заработной платы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3154]&lt;NSCO&gt;National Score|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T210813Z" creationid="Александр" creationdate="20210102T210813Z">
-        <seg>[3154]&lt;NSCO&gt;Национальная оценка|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063440Z" creationid="Александр" creationdate="20210102T210813Z">
+        <seg>[3154]&lt;NSCO&gt;Государственная оценка|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3155]&lt;POIS&gt;Political Influence Score|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T210819Z" creationid="Александр" creationdate="20210102T210819Z">
-        <seg>[3155]&lt;POIS&gt;Political Influence Score|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063454Z" creationid="Александр" creationdate="20210102T210819Z">
+        <seg>[3155]&lt;POIS&gt;Оценка политического влияния|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3156]&lt;DMOS&gt;Market Dominance of Mobile OS|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T063522Z" creationid="Александр" creationdate="20210107T063522Z">
+        <seg>[3156]&lt;DMOS&gt;Market Dominance of Mobile OS|</seg>
       </tuv>
     </tu>
     <tu>
