@@ -178,6 +178,22 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083407Z" creationid="Александр" creationdate="20210107T083407Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083409Z" creationid="Александр" creationdate="20210107T083409Z">
+        <seg>.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//-------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215114Z" creationid="Olivier" creationdate="20201213T215114Z">
@@ -1048,6 +1064,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215733Z" creationid="Olivier" creationdate="20201217T215733Z">
         <seg>Hide=Preview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hurry Up!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083207Z" creationid="Александр" creationdate="20210107T083207Z">
+        <seg>Поторопитесь!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4014,6 +4038,62 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T083143Z" creationid="Александр" creationdate="20210107T083143Z">
         <seg>[1715]&lt;0718&gt; осталось достигнуть главной цели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1721]&lt;0724&gt;Corporation Name|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083224Z" creationid="Александр" creationdate="20210107T083224Z">
+        <seg>[1721]&lt;0724&gt;Наименование корпорации|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1722]&lt;0725&gt;Your Name|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083231Z" creationid="Александр" creationdate="20210107T083231Z">
+        <seg>[1722]&lt;0725&gt;Ваше имя|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1787]&lt;0790&gt;You corporation has been taken over by |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083252Z" creationid="Александр" creationdate="20210107T083252Z">
+        <seg>[1787]&lt;0790&gt;Ваша корпорация была захвачена |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1788]&lt;0791&gt;You have lost the ownership of your corporation !|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083308Z" creationid="Александр" creationdate="20210107T083308Z">
+        <seg>[1788]&lt;0791&gt;Вы потеряли право собственности на вашу корпорацию!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1789]&lt;0792&gt;Government|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083320Z" creationid="Александр" creationdate="20210107T083320Z">
+        <seg>[1789]&lt;0792&gt;Правительство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1790]&lt;0793&gt;Creating a New Game .</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083406Z" creationid="Александр" creationdate="20210107T083406Z">
+        <seg>[1790]&lt;0793&gt;Создать новую игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1791]&lt;0794&gt;FINAL SCORE UPON RETIREMENT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T083501Z" creationid="Александр" creationdate="20210107T083501Z">
+        <seg>[1791]&lt;0794&gt;ОКОНЧАТЕЛЬНАЯ ОЦЕНКА ПРИ ВЫХОДЕ НА ПЕНСИЮ|</seg>
       </tuv>
     </tu>
     <tu>
