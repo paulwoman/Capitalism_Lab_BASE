@@ -4346,10 +4346,26 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1839]&lt;0843&gt;Stock Price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T161859Z" creationid="Александр" creationdate="20210107T161859Z">
+        <seg>[1839]&lt;0843&gt;Цена акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1840]&lt;0844&gt;Ownership|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T161915Z" creationid="Александр" creationdate="20210107T161915Z">
+        <seg>[1840]&lt;0844&gt;Собственность|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1841]&lt;0845&gt;No.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T161553Z" creationid="Александр" creationdate="20210107T161553Z">
-        <seg>[1841]&lt;0845&gt;No.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T161927Z" creationid="Александр" creationdate="20210107T161553Z">
+        <seg>[1841]&lt;0845&gt;Нет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4358,6 +4374,54 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T114044Z" creationid="Александр" creationdate="20210107T114044Z">
         <seg>[1842]&lt;0846&gt;Нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2651]&lt;1531&gt;RESTART TUTORIAL|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162134Z" creationid="Александр" creationdate="20210107T162134Z">
+        <seg>[2651]&lt;1531&gt;ПЕРЕЗАПУСК ОБУЧЕНИЯ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2652]&lt;1532&gt;Are you sure that you want to restart this tutorial?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162205Z" creationid="Александр" creationdate="20210107T162205Z">
+        <seg>[2652]&lt;1532&gt;Вы действительно хотите перезапустить обучение?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162113Z" creationid="Александр" creationdate="20210107T162113Z">
+        <seg>[2742]&lt;NDF1&gt;сносит особняк и продает землю.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2743]&lt;NDF2&gt;demolishes her Mansion and sells the land.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162047Z" creationid="Александр" creationdate="20210107T162047Z">
+        <seg>[2743]&lt;NDF2&gt;сносит особняк и продает землю.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2744]&lt;NAC1&gt;changes its corporate strategy from|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162024Z" creationid="Александр" creationdate="20210107T162024Z">
+        <seg>[2744]&lt;NAC1&gt;меняет свою корпоративную стратегию с|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2745]&lt;NAC2&gt;to|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162012Z" creationid="Александр" creationdate="20210107T162012Z">
+        <seg>[2745]&lt;NAC2&gt;на|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8474,6 +8538,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T114026Z" creationid="Александр" creationdate="20210107T114026Z">
         <seg>сотрудников|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Product Classes Being Produced|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T161944Z" creationid="Александр" creationdate="20210107T161944Z">
+        <seg>классов производимой продукции|</seg>
       </tuv>
     </tu>
     <tu>
