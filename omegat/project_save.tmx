@@ -4290,6 +4290,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1832]&lt;0836&gt;Annual Operating Profit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T113906Z" creationid="Александр" creationdate="20210107T113906Z">
+        <seg>[1832]&lt;0836&gt;Годовая операционная прибыль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1833]&lt;0837&gt;Market Cap|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T113909Z" creationid="Александр" creationdate="20210107T113909Z">
+        <seg>[1833]&lt;0837&gt;Market Cap|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1834]&lt;0838&gt;No.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T113914Z" creationid="Александр" creationdate="20210107T113914Z">
+        <seg>[1834]&lt;0838&gt;Нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1835]&lt;0839&gt;Goals of the Player's Own Corporation|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T113958Z" creationid="Александр" creationdate="20210107T113958Z">
+        <seg>[1835]&lt;0839&gt;Цели корпорации игрока|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1836]&lt;0840&gt;Total No.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T114005Z" creationid="Александр" creationdate="20210107T114005Z">
+        <seg>[1836]&lt;0840&gt;Total No.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1837]&lt;0841&gt;Operating Profit Margin|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T114031Z" creationid="Александр" creationdate="20210107T114031Z">
+        <seg>[1837]&lt;0841&gt;Operating Profit Margin|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1842]&lt;0846&gt;No.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T114044Z" creationid="Александр" creationdate="20210107T114044Z">
+        <seg>[1842]&lt;0846&gt;Нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
@@ -8386,6 +8442,30 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T101549Z" creationid="Александр" creationdate="20201218T101549Z">
         <seg>http://www.apache.org/licenses/LICENSE-2.0.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Controlled Companies|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T113939Z" creationid="Александр" creationdate="20210107T113939Z">
+        <seg>Подконтрольные Компании|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Employees|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T114026Z" creationid="Александр" creationdate="20210107T114026Z">
+        <seg>сотрудников|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Product Types Being Produced|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T130029Z" creationid="Александр" creationdate="20210107T130029Z">
+        <seg>видов производимой продукции|</seg>
       </tuv>
     </tu>
     <tu>
