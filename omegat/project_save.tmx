@@ -3884,8 +3884,56 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1139]&lt;0294&gt;Borrow|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T082547Z" creationid="Александр" creationdate="20210107T070119Z">
-        <seg>[1139]&lt;0294&gt;|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082605Z" creationid="Александр" creationdate="20210107T070119Z">
+        <seg>[1139]&lt;0294&gt;|Занять</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1140]&lt;0295&gt;Repay|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082619Z" creationid="Александр" creationdate="20210107T082619Z">
+        <seg>[1140]&lt;0295&gt;Выплатить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1141]&lt;0296&gt;Loan Interest Rate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082707Z" creationid="Александр" creationdate="20210107T082707Z">
+        <seg>[1141]&lt;0296&gt;Процентная ставка по кредиту|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1142]&lt;0296&gt;Loan Amount|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082735Z" creationid="Александр" creationdate="20210107T082735Z">
+        <seg>[1142]&lt;0296&gt;Сумма кредита|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1143]&lt;0297&gt;ISSUE NOW|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082819Z" creationid="Александр" creationdate="20210107T082819Z">
+        <seg>[1143]&lt;0297&gt;ВЫПУСТИТЬ СЕЙЧАС|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1144]&lt;0298&gt;Owner:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082831Z" creationid="Александр" creationdate="20210107T082831Z">
+        <seg>[1144]&lt;0298&gt;Владелец:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1145]&lt;0299&gt;Your purchase price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T082837Z" creationid="Александр" creationdate="20210107T082837Z">
+        <seg>[1145]&lt;0299&gt;Your purchase price|</seg>
       </tuv>
     </tu>
     <tu>
