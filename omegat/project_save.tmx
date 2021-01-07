@@ -4300,8 +4300,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1833]&lt;0837&gt;Market Cap|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T113909Z" creationid="Александр" creationdate="20210107T113909Z">
-        <seg>[1833]&lt;0837&gt;Market Cap|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T161741Z" creationid="Александр" creationdate="20210107T113909Z">
+        <seg>[1833]&lt;0837&gt;Рыночный потолок|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4324,16 +4324,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1836]&lt;0840&gt;Total No.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T114005Z" creationid="Александр" creationdate="20210107T114005Z">
-        <seg>[1836]&lt;0840&gt;Total No.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T161759Z" creationid="Александр" creationdate="20210107T114005Z">
+        <seg>[1836]&lt;0840&gt;Итого нет.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1837]&lt;0841&gt;Operating Profit Margin|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T114031Z" creationid="Александр" creationdate="20210107T114031Z">
-        <seg>[1837]&lt;0841&gt;Operating Profit Margin|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T161832Z" creationid="Александр" creationdate="20210107T114031Z">
+        <seg>[1837]&lt;0841&gt;Операционная рентабельность|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1838]&lt;0842&gt;Return on Equity|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T161850Z" creationid="Александр" creationdate="20210107T161850Z">
+        <seg>[1838]&lt;0842&gt;Рентабельность капитала|</seg>
       </tuv>
     </tu>
     <tu>
