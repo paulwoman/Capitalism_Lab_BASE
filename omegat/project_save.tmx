@@ -4394,6 +4394,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2653]&lt;1533&gt;SCENARIO DESCRIPTION|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162237Z" creationid="Александр" creationdate="20210107T162237Z">
+        <seg>[2653]&lt;1533&gt;ОПИСАНИЯ СЦЕНАРИЯ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2654]&lt;1534&gt;This Game is Over!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162253Z" creationid="Александр" creationdate="20210107T162253Z">
+        <seg>[2654]&lt;1534&gt;Игра окончена!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2655]&lt;1535&gt;%1s of %2s has achieved the goal and won the game.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162330Z" creationid="Александр" creationdate="20210107T162330Z">
+        <seg>[2655]&lt;1535&gt;%1s из %2s достигает цели и выигрывает игру.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2656]&lt;1536&gt;Paused|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162337Z" creationid="Александр" creationdate="20210107T162337Z">
+        <seg>[2656]&lt;1536&gt;Пауза|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2657]&lt;1537&gt;This dialog box will be automatically closed in %1d %1p{day|days}|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162429Z" creationid="Александр" creationdate="20210107T162429Z">
+        <seg>[2657]&lt;1537&gt;Это диалоговое окно будет автоматически закрыто в %1d %1p{день|дней}|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2658]&lt;1538&gt;Auto Set Up Purchase Links|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162447Z" creationid="Александр" creationdate="20210107T162447Z">
+        <seg>[2658]&lt;1538&gt;Автоматическая настройка ссылок на покупку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2659]&lt;1539&gt;Do you want the purchase links to be automatically set up for you?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T162524Z" creationid="Александр" creationdate="20210107T162524Z">
+        <seg>[2659]&lt;1539&gt;Хотите, чтобы ссылки на покупки настраивались для вас автоматически?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162113Z" creationid="Александр" creationdate="20210107T162113Z">
