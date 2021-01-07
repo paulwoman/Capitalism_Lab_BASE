@@ -4178,6 +4178,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1818]&lt;0822&gt;Start|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084135Z" creationid="Александр" creationdate="20210107T084135Z">
+        <seg>[1818]&lt;0822&gt;Старт|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1819]&lt;0823&gt;Back|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084204Z" creationid="Александр" creationdate="20210107T084204Z">
+        <seg>[1819]&lt;0823&gt;Назад|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1820]&lt;0824&gt;Goal Values|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084219Z" creationid="Александр" creationdate="20210107T084219Z">
+        <seg>[1820]&lt;0824&gt;Значение цели|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1821]&lt;0825&gt;No.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084224Z" creationid="Александр" creationdate="20210107T084224Z">
+        <seg>[1821]&lt;0825&gt;Нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1822]&lt;0826&gt;Goal Score Bonus|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084314Z" creationid="Александр" creationdate="20210107T084314Z">
+        <seg>[1822]&lt;0826&gt;Бонус за лучший результат|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1823]&lt;0827&gt;Player's Wealth ($million)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084354Z" creationid="Александр" creationdate="20210107T084354Z">
+        <seg>[1823]&lt;0827&gt;Богатство Игрока ($миллионов)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1824]&lt;0828&gt;Goals of the Player's Own Corporation ($million)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084431Z" creationid="Александр" creationdate="20210107T084431Z">
+        <seg>[1824]&lt;0828&gt;Цели корпорации игрока (миллионов)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
@@ -8274,6 +8330,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T101549Z" creationid="Александр" creationdate="20201218T101549Z">
         <seg>http://www.apache.org/licenses/LICENSE-2.0.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Years|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210107T084247Z" creationid="Александр" creationdate="20210107T084247Z">
+        <seg>годы|</seg>
       </tuv>
     </tu>
     <tu>
