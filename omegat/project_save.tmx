@@ -3986,6 +3986,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0625]&lt;DI20&gt;Go to Media|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121235Z" creationid="Александр" creationdate="20210108T121235Z">
+        <seg>[0625]&lt;DI20&gt;Перейти к СМИ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0626]&lt;DI21&gt;All products|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121246Z" creationid="Александр" creationdate="20210108T121246Z">
+        <seg>[0626]&lt;DI21&gt;Вся продукция</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0627]&lt;DI22&gt;All cities|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121248Z" creationid="Александр" creationdate="20210108T121248Z">
+        <seg>[0627]&lt;DI22&gt;Все города|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0628]&lt;DI23&gt;All suppliers|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121250Z" creationid="Александр" creationdate="20210108T121250Z">
+        <seg>[0628]&lt;DI23&gt;Все поставщики|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0629]&lt;DI24&gt;Client|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121307Z" creationid="Александр" creationdate="20210108T121254Z">
+        <seg>[0629]&lt;DI24&gt;Клиент|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0630]&lt;DI25&gt;Media|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121257Z" creationid="Александр" creationdate="20210108T121257Z">
+        <seg>[0630]&lt;DI25&gt;СМИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0631]&lt;DI26&gt;Rating Points|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121301Z" creationid="Александр" creationdate="20210108T121301Z">
+        <seg>[0631]&lt;DI26&gt;Rating Points|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
