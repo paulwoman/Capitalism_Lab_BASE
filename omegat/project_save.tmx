@@ -4778,6 +4778,342 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0749]&lt;FA10&gt;Price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122812Z" creationid="Александр" creationdate="20210108T122812Z">
+        <seg>[0749]&lt;FA10&gt;Цена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0750]&lt;FA11&gt;Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122814Z" creationid="Александр" creationdate="20210108T122814Z">
+        <seg>[0750]&lt;FA11&gt;Стоимость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0751]&lt;FA12&gt;Price Agreement|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122815Z" creationid="Александр" creationdate="20210108T122815Z">
+        <seg>[0751]&lt;FA12&gt;Соглашение о цене|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0752]&lt;FA13&gt;New Price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122816Z" creationid="Александр" creationdate="20210108T122816Z">
+        <seg>[0752]&lt;FA13&gt;Новая цена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0753]&lt;FA14&gt;Brand|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122817Z" creationid="Александр" creationdate="20210108T122817Z">
+        <seg>[0753]&lt;FA14&gt; Марка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0754]&lt;FA15&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122819Z" creationid="Александр" creationdate="20210108T122819Z">
+        <seg>[0754]&lt;FA15&gt; Качество|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0755]&lt;FA16&gt;Price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122820Z" creationid="Александр" creationdate="20210108T122820Z">
+        <seg>[0755]&lt;FA16&gt; Цена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0756]&lt;FA17&gt;Overall Rating|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122839Z" creationid="Александр" creationdate="20210108T122839Z">
+        <seg>[0756]&lt;FA17&gt;Общий рейтинг|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0758]&lt;FA19&gt;Firm Profit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122841Z" creationid="Александр" creationdate="20210108T122841Z">
+        <seg>[0758]&lt;FA19&gt;Прибыль фирмы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0759]&lt;FA20&gt;Firm Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122845Z" creationid="Александр" creationdate="20210108T122845Z">
+        <seg>[0759]&lt;FA20&gt;Доход фирмы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0761]&lt;FA22&gt;retail stores.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122848Z" creationid="Александр" creationdate="20210108T122848Z">
+        <seg>[0761]&lt;FA22&gt;розничных магазинах.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0763]&lt;FHQ1&gt;Finance Department|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122849Z" creationid="Александр" creationdate="20210108T122849Z">
+        <seg>[0763]&lt;FHQ1&gt;Отдел финансов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0764]&lt;FHQ2&gt;Human Resources Department|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122851Z" creationid="Александр" creationdate="20210108T122851Z">
+        <seg>[0764]&lt;FHQ2&gt;Отдел кадров|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0765]&lt;FHQ3&gt;Public Relations Department|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122853Z" creationid="Александр" creationdate="20210108T122853Z">
+        <seg>[0765]&lt;FHQ3&gt;Пресс-секретариат|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0766]&lt;FHQ4&gt;Investor Relations Department|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122855Z" creationid="Александр" creationdate="20210108T122855Z">
+        <seg>[0766]&lt;FHQ4&gt;Отдел связи с инвесторами|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0767]&lt;FHQ5&gt;Chief Executive Officer's Office|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122856Z" creationid="Александр" creationdate="20210108T122856Z">
+        <seg>[0767]&lt;FHQ5&gt;Главный исполнительный директор|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0768]&lt;FHQ6&gt;Chief Operating Officer's Office|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122858Z" creationid="Александр" creationdate="20210108T122858Z">
+        <seg>[0768]&lt;FHQ6&gt;Главный управляющий директор|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0769]&lt;FHQ7&gt;Chief Marketing Officer's Office|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122859Z" creationid="Александр" creationdate="20210108T122859Z">
+        <seg>[0769]&lt;FHQ7&gt;Начальник отдела маркетинга|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0770]&lt;FHQ8&gt;Chief Technical Officer's Office|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122900Z" creationid="Александр" creationdate="20210108T122900Z">
+        <seg>[0770]&lt;FHQ8&gt;Главный технический директор|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0771]&lt;FHQ9&gt;Acquire Technology From Other Companies|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122933Z" creationid="Александр" creationdate="20210108T122933Z">
+        <seg>[0771]&lt;FHQ9&gt;Предложение по приобретению технологий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0772]&lt;FH10&gt;Set New Dividend|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122936Z" creationid="Александр" creationdate="20210108T122936Z">
+        <seg>[0772]&lt;FH10&gt;Установить дивиденды|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0773]&lt;FH11&gt;FINANCE DEPARTMENT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122937Z" creationid="Александр" creationdate="20210108T122937Z">
+        <seg>[0773]&lt;FH11&gt;ОТДЕЛ ФИНАНСОВ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0774]&lt;FH12&gt;Current Dividend Payout Ratio:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122939Z" creationid="Александр" creationdate="20210108T122939Z">
+        <seg>[0774]&lt;FH12&gt;Текущая выплата дивидендов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0775]&lt;FH13&gt;New Dividend Payout Ratio:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122941Z" creationid="Александр" creationdate="20210108T122941Z">
+        <seg>[0775]&lt;FH13&gt;Новый уровень выплаты дивидендов: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0776]&lt;FH14&gt;Organize an Intensive Training Program|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122942Z" creationid="Александр" creationdate="20210108T122942Z">
+        <seg>[0776]&lt;FH14&gt;Начать программу интенсивного обучения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0777]&lt;FH15&gt;HUMAN RESOURCES DEPARTMENT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122943Z" creationid="Александр" creationdate="20210108T122943Z">
+        <seg>[0777]&lt;FH15&gt;ОТДЕЛ КАДРОВ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0778]&lt;FH16&gt;Total no.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122946Z" creationid="Александр" creationdate="20210108T122946Z">
+        <seg>[1836]&lt;0840&gt;Итого нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0779]&lt;FH17&gt;Total no.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123013Z" creationid="Александр" creationdate="20210108T123013Z">
+        <seg>[1836]&lt;0840&gt;Итого нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0780]&lt;0000&gt;Average employee experience level|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123019Z" creationid="Александр" creationdate="20210108T123019Z">
+        <seg>[0780]&lt;0000&gt;Средний уровень опыта рабочих|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0781]&lt;0001&gt;Average training level per firm|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123021Z" creationid="Александр" creationdate="20210108T123021Z">
+        <seg>[0781]&lt;0001&gt;Средний уровень обучения в фирме|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0782]&lt;0002&gt;Days since last intensive training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123022Z" creationid="Александр" creationdate="20210108T123022Z">
+        <seg>[0782]&lt;0002&gt;Дней с момента последнего обучения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0785]&lt;0005&gt;Total cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123025Z" creationid="Александр" creationdate="20210108T123025Z">
+        <seg>[0785]&lt;0005&gt;Общая стоимость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0786]&lt;0006&gt;The Training Program has been executed|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123026Z" creationid="Александр" creationdate="20210108T123026Z">
+        <seg>[0786]&lt;0006&gt;Программа обучения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0788]&lt;0008&gt; Employees|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123027Z" creationid="Александр" creationdate="20210108T123027Z">
+        <seg>[0788]&lt;0008&gt; Сотрудников|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0789]&lt;0009&gt; Employee|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123029Z" creationid="Александр" creationdate="20210108T123029Z">
+        <seg>[0789]&lt;0009&gt; Сотрудник|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0790]&lt;0010&gt;out of a total of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123031Z" creationid="Александр" creationdate="20210108T123031Z">
+        <seg>[0790]&lt;0010&gt;из общего количества |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0791]&lt;0011&gt;have gained improvements|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123052Z" creationid="Александр" creationdate="20210108T123052Z">
+        <seg>[0791]&lt;0011&gt;получили улучшения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0792]&lt;0012&gt;has gained improvements|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123101Z" creationid="Александр" creationdate="20210108T123101Z">
+        <seg>[0792]&lt;0012&gt;получил улучшения </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0793]&lt;0013&gt;in their skills and productivity.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123106Z" creationid="Александр" creationdate="20210108T123106Z">
+        <seg>[0793]&lt;0013&gt;квалификации и производительности.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0794]&lt;0014&gt;in his skills and productivity.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123108Z" creationid="Александр" creationdate="20210108T123108Z">
+        <seg>[0794]&lt;0014&gt;квалификации и производительности.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0795]&lt;0015&gt;PUBLIC RELATIONS DEPARTMENT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123109Z" creationid="Александр" creationdate="20210108T123109Z">
+        <seg>[0795]&lt;0015&gt;ПРЕСС-СЕКРЕТАРИАТ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0796]&lt;0016&gt;Monthly spending on public relations efforts per active city|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123112Z" creationid="Александр" creationdate="20210108T123112Z">
+        <seg>[0796]&lt;0016&gt;Ежемесячные издержки на социальные мероприятия в городе |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
@@ -9986,6 +10322,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T084247Z" creationid="Александр" creationdate="20210107T084247Z">
         <seg>годы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of frontline employees|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T123007Z" creationid="Александр" creationdate="20210108T123007Z">
+        <seg>ведущие специалисты</seg>
       </tuv>
     </tu>
     <tu>
