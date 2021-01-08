@@ -3690,6 +3690,86 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0574]&lt;NGO2&gt;Cannot purchase the firm|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064333Z" creationid="Александр" creationdate="20210108T064333Z">
+        <seg>[0574]&lt;NGO2&gt;Невозможно купить фирму|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0575]&lt;NGO3&gt;Cannot purchase the technology|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064345Z" creationid="Александр" creationdate="20210108T064345Z">
+        <seg>[0575]&lt;NGO3&gt;Невозможно купить технологию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0576]&lt;PR31&gt;Salary Raise Request|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064358Z" creationid="Александр" creationdate="20210108T064358Z">
+        <seg>[0576]&lt;PR31&gt;Запрос на повышение зарплаты|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0577]&lt;PLB1&gt;Layout Plan|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064415Z" creationid="Александр" creationdate="20210108T064415Z">
+        <seg>[0577]&lt;PLB1&gt;План расположения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0578]&lt;PLB2&gt;The highlighted firm doesn't have a layout.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064442Z" creationid="Александр" creationdate="20210108T064442Z">
+        <seg>[0578]&lt;PLB2&gt;У выбранной фирмы нет планировки.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0579]&lt;PLB3&gt;The firm type of the current plan is different from that of the highlighted firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064505Z" creationid="Александр" creationdate="20210108T064505Z">
+        <seg>[0579]&lt;PLB3&gt;Тип фирмы в текущем плане отличается от типа выбранной фирмы.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0580]&lt;SK21&gt;Stock Exchange News|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064523Z" creationid="Александр" creationdate="20210108T064523Z">
+        <seg>[0580]&lt;SK21&gt;Новости фондовой биржи|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0581]&lt;SK51&gt;Tender Offer|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064538Z" creationid="Александр" creationdate="20210108T064538Z">
+        <seg>[0581]&lt;SK51&gt;предложение о приобретении|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0582]&lt;SYD1&gt;CHEAT ENABLE|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064553Z" creationid="Александр" creationdate="20210108T064553Z">
+        <seg>[0582]&lt;SYD1&gt;ЧИТЫ ВКЛЮЧЕНЫ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0583]&lt;SYF1&gt;Save Game|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064559Z" creationid="Александр" creationdate="20210108T064559Z">
+        <seg>[0583]&lt;SYF1&gt;Сохранить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
