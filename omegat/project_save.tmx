@@ -2388,6 +2388,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may acquire them for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122557Z" creationid="Александр" creationdate="20210108T122557Z">
+        <seg>Вы можете приобрести их за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may also #Customize# or #Randomize# the game settings</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235000Z" creationid="Olivier" creationdate="20201225T235000Z">
@@ -4558,6 +4566,214 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210108T122510Z" creationid="Александр" creationdate="20210108T122510Z">
         <seg>[0718]&lt;FET4&gt;В месяц|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0719]&lt;FET5&gt;Please select a location|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122514Z" creationid="Александр" creationdate="20210108T122514Z">
+        <seg>[0719]&lt;FET5&gt;Выберите место|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0721]&lt;FET7&gt;Land cost: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122518Z" creationid="Александр" creationdate="20210108T122518Z">
+        <seg>[0721]&lt;FET7&gt;Цена земли: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0722]&lt;FET8&gt;The location is occupied by residential|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122524Z" creationid="Александр" creationdate="20210108T122524Z">
+        <seg>[0722]&lt;FET8&gt;Здесь расположены жилые строения.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0723]&lt;FET9&gt;buildings.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122532Z" creationid="Александр" creationdate="20210108T122532Z">
+        <seg>[0723]&lt;FET9&gt;здания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0724]&lt;FE10&gt;LEFT CLICK TO BUILD|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122604Z" creationid="Александр" creationdate="20210108T122604Z">
+        <seg>[0724]&lt;FE10&gt;Щелкните левой кнопкой мыши, чтобы построить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0725]&lt;FE11&gt;Natural Resource|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122625Z" creationid="Александр" creationdate="20210108T122625Z">
+        <seg>[0725]&lt;FE11&gt;Ископаемые|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0726]&lt;FE12&gt;Reserve|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122628Z" creationid="Александр" creationdate="20210108T122628Z">
+        <seg>[0726]&lt;FE12&gt;Залежи|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0727]&lt;FE13&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122636Z" creationid="Александр" creationdate="20210108T122636Z">
+        <seg>[0727]&lt;FE13&gt;Качество|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0728]&lt;FE14&gt;Land Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122642Z" creationid="Александр" creationdate="20210108T122642Z">
+        <seg>[0728]&lt;FE14&gt;Цена земли|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0729]&lt;FE15&gt;Cannot set up here:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122651Z" creationid="Александр" creationdate="20210108T122651Z">
+        <seg>[0729]&lt;FE15&gt;Здесь нельзя строить:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0730]&lt;FE16&gt;The area does not have enough trees.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122718Z" creationid="Александр" creationdate="20210108T122718Z">
+        <seg>[0730]&lt;FE16&gt;Здесь мало деревьев.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0731]&lt;FE17&gt;The area does not have any mineral deposit.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122721Z" creationid="Александр" creationdate="20210108T122721Z">
+        <seg>[0731]&lt;FE17&gt;Здесь нет месторождений.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0732]&lt;FE18&gt;The area does not have any oil deposit.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122727Z" creationid="Александр" creationdate="20210108T122727Z">
+        <seg>[0732]&lt;FE18&gt;Здесь нет нефти.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0733]&lt;FE19&gt;The land is not available.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122731Z" creationid="Александр" creationdate="20210108T122731Z">
+        <seg>[0733]&lt;FE19&gt;Нельзя строить здесь: область недоступна.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0734]&lt;FE20&gt;Location is not next to roads|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122733Z" creationid="Александр" creationdate="20210108T122733Z">
+        <seg>[0734]&lt;FE20&gt;Плохой доступ к дороге.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0736]&lt;FE22&gt;Cannot set up:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122735Z" creationid="Александр" creationdate="20210108T122735Z">
+        <seg>[0736]&lt;FE22&gt;Нельзя строить: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0737]&lt;FE23&gt;Your company does not have enough cash.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122737Z" creationid="Александр" creationdate="20210108T122737Z">
+        <seg>[0737]&lt;FE23&gt;У вашей компании недостаточно денег.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0740]&lt;FAT1&gt;Link This Item|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122752Z" creationid="Александр" creationdate="20210108T122752Z">
+        <seg>[0740]&lt;FAT1&gt;Присоединить этот предмет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0741]&lt;FAT2&gt;Can be sold in:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122755Z" creationid="Александр" creationdate="20210108T122755Z">
+        <seg>[0741]&lt;FAT2&gt;Можно продавать в: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0742]&lt;FAT3&gt;Cannot be sold in:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122757Z" creationid="Александр" creationdate="20210108T122757Z">
+        <seg>[0742]&lt;FAT3&gt;Нельзя продавать в: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0743]&lt;FAT4&gt;retail stores.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122800Z" creationid="Александр" creationdate="20210108T122800Z">
+        <seg>[0743]&lt;FAT4&gt;розничных магазинах.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0744]&lt;FAT5&gt;Double-click here to view the product detail report.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122802Z" creationid="Александр" creationdate="20210108T122802Z">
+        <seg>[0744]&lt;FAT5&gt;Двойной щелчок для просмотра отчета.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0745]&lt;FAT6&gt;Profit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122803Z" creationid="Александр" creationdate="20210108T122803Z">
+        <seg>[0745]&lt;FAT6&gt;Прибыль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0746]&lt;FAT7&gt;Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122807Z" creationid="Александр" creationdate="20210108T122807Z">
+        <seg>[0746]&lt;FAT7&gt;Доход|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0747]&lt;FAT8&gt;Quantity|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122809Z" creationid="Александр" creationdate="20210108T122809Z">
+        <seg>[0747]&lt;FAT8&gt;Объем|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0748]&lt;FAT9&gt;Market Share|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122812Z" creationid="Александр" creationdate="20210108T122812Z">
+        <seg>[0748]&lt;FAT9&gt;Число акций|</seg>
       </tuv>
     </tu>
     <tu>
