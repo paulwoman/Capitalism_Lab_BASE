@@ -3802,6 +3802,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0588]&lt;AIS0&gt;All|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064929Z" creationid="Александр" creationdate="20210108T064929Z">
+        <seg>[0588]&lt;AIS0&gt;Все|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0589]&lt;AIS1&gt;Retail|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064933Z" creationid="Александр" creationdate="20210108T064933Z">
+        <seg>[0589]&lt;AIS1&gt;Розница|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0590]&lt;AIS2&gt;Stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064936Z" creationid="Александр" creationdate="20210108T064936Z">
+        <seg>[0590]&lt;AIS2&gt;Акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0591]&lt;AIS3&gt;Real Estate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T064951Z" creationid="Александр" creationdate="20210108T064951Z">
+        <seg>[0591]&lt;AIS3&gt;Недвижимость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0592]&lt;CET1&gt;Sowing Month|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T065016Z" creationid="Александр" creationdate="20210108T065016Z">
+        <seg>[0592]&lt;CET1&gt;Месяц посева|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0593]&lt;CET2&gt;Harvesting Month|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T065055Z" creationid="Александр" creationdate="20210108T065055Z">
+        <seg>[0593]&lt;CET2&gt;Harvesting Month|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0606]&lt;DIJ1&gt;Supplier|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T075506Z" creationid="Александр" creationdate="20210108T075506Z">
+        <seg>[0606]&lt;DIJ1&gt;Поставщик|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
