@@ -4028,16 +4028,128 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0630]&lt;DI25&gt;Media|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210108T121257Z" creationid="Александр" creationdate="20210108T121257Z">
-        <seg>[0630]&lt;DI25&gt;СМИ</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121316Z" creationid="Александр" creationdate="20210108T121257Z">
+        <seg>[0630]&lt;DI25&gt;СМИ|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0631]&lt;DI26&gt;Rating Points|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210108T121301Z" creationid="Александр" creationdate="20210108T121301Z">
-        <seg>[0631]&lt;DI26&gt;Rating Points|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121332Z" creationid="Александр" creationdate="20210108T121301Z">
+        <seg>[0631]&lt;DI26&gt;Рейтинг|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0632]&lt;DI27&gt;Advertising Cost (CPM)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121410Z" creationid="Александр" creationdate="20210108T121410Z">
+        <seg>[0632]&lt;DI27&gt;Стоимость рекламы (в месяц)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0633]&lt;ECO0&gt;Retailing|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121414Z" creationid="Александр" creationdate="20210108T121414Z">
+        <seg>[0633]&lt;ECO0&gt;Розница|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0634]&lt;ECO1&gt;Manufacturing|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121418Z" creationid="Александр" creationdate="20210108T121418Z">
+        <seg>[0634]&lt;ECO1&gt;Производство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0635]&lt;ECO2&gt;Farming|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121419Z" creationid="Александр" creationdate="20210108T121419Z">
+        <seg>[0635]&lt;ECO2&gt;Фермерство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0637]&lt;FAT1&gt;Small|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121421Z" creationid="Александр" creationdate="20210108T121421Z">
+        <seg>[0637]&lt;FAT1&gt;Маленькая|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0638]&lt;FAT2&gt;Medium|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121422Z" creationid="Александр" creationdate="20210108T121422Z">
+        <seg>[0638]&lt;FAT2&gt;Средняя|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0639]&lt;FAT3&gt;Large|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121423Z" creationid="Александр" creationdate="20210108T121423Z">
+        <seg>[0639]&lt;FAT3&gt;Большая|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0640]&lt;FAT4&gt;Demolish the apartment and sell the land|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121440Z" creationid="Александр" creationdate="20210108T121440Z">
+        <seg>[0640]&lt;FAT4&gt;Снести жилье и продать землю|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0641]&lt;FAT5&gt;Put this apartment on sale for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121504Z" creationid="Александр" creationdate="20210108T121504Z">
+        <seg>[0641]&lt;FAT5&gt;Выставить это жилье на продажу за|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0642]&lt;FAT6&gt;Owner|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121511Z" creationid="Александр" creationdate="20210108T121511Z">
+        <seg>[0642]&lt;FAT6&gt;Владелец|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0643]&lt;FAT7&gt;Annual rent per square foot|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121521Z" creationid="Александр" creationdate="20210108T121521Z">
+        <seg>[0643]&lt;FAT7&gt;Годовая аренда за квадратный фут|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0644]&lt;FAT8&gt;Occupancy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121528Z" creationid="Александр" creationdate="20210108T121528Z">
+        <seg>[0644]&lt;FAT8&gt;Арендовано|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0645]&lt;FAT9&gt;You bought this Apartment at|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121552Z" creationid="Александр" creationdate="20210108T121552Z">
+        <seg>[0645]&lt;FAT9&gt;Вы купили это здание за|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0646]&lt;FA10&gt;Land and Building Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121750Z" creationid="Александр" creationdate="20210108T121750Z">
+        <seg>[0646]&lt;FA10&gt;Цена земли и здания|</seg>
       </tuv>
     </tu>
     <tu>
