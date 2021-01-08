@@ -4154,6 +4154,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0647]&lt;FA11&gt;Market Value|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121753Z" creationid="Александр" creationdate="20210108T121753Z">
+        <seg>[0647]&lt;FA11&gt;Рыночная стоимость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0648]&lt;FA12&gt;Profit Graph|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121755Z" creationid="Александр" creationdate="20210108T121755Z">
+        <seg>[0648]&lt;FA12&gt;График прибыли|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0649]&lt;FA13&gt;Past 12 months|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121757Z" creationid="Александр" creationdate="20210108T121757Z">
+        <seg>[0649]&lt;FA13&gt;За 12 месяцев|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0650]&lt;FA14&gt;Occupancy graph|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121848Z" creationid="Александр" creationdate="20210108T121848Z">
+        <seg>[0650]&lt;FA14&gt;График заполнения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0651]&lt;FA15&gt;Put this apartment on sale|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121906Z" creationid="Александр" creationdate="20210108T121906Z">
+        <seg>[0651]&lt;FA15&gt;Продать это здание|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
