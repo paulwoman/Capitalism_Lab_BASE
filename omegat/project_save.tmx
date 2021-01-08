@@ -4386,6 +4386,182 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0680]&lt;FR31&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122212Z" creationid="Александр" creationdate="20210108T122212Z">
+        <seg>[0680]&lt;FR31&gt;Издержки на зарплату|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0681]&lt;FR32&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122229Z" creationid="Александр" creationdate="20210108T122229Z">
+        <seg>[0681]&lt;FR32&gt;Превышение активов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0682]&lt;FR33&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122239Z" creationid="Александр" creationdate="20210108T122239Z">
+        <seg>[0682]&lt;FR33&gt;Затраты на рекламу и Пиар|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0683]&lt;FR34&gt;Training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122240Z" creationid="Александр" creationdate="20210108T122240Z">
+        <seg>[0683]&lt;FR34&gt;Обучение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0684]&lt;FR35&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122242Z" creationid="Александр" creationdate="20210108T122242Z">
+        <seg>[0684]&lt;FR35&gt;Брак|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0685]&lt;FR40&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122244Z" creationid="Александр" creationdate="20210108T122244Z">
+        <seg>[0685]&lt;FR40&gt;Доход от продаж|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0686]&lt;FR41&gt;Consumption of Reserve|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122338Z" creationid="Александр" creationdate="20210108T122338Z">
+        <seg>[0686]&lt;FR41&gt;Потребление запасов сырья|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0687]&lt;FR42&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122345Z" creationid="Александр" creationdate="20210108T122345Z">
+        <seg>[0687]&lt;FR42&gt;Издержки на зарплату|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0688]&lt;FR43&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122349Z" creationid="Александр" creationdate="20210108T122349Z">
+        <seg>[0688]&lt;FR43&gt;Превышение активов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0689]&lt;FR44&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122358Z" creationid="Александр" creationdate="20210108T122358Z">
+        <seg>[0689]&lt;FR44&gt;Затраты на рекламу Пиар| </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0690]&lt;FR45&gt;Training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122402Z" creationid="Александр" creationdate="20210108T122402Z">
+        <seg>[0690]&lt;FR45&gt;Обучение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0691]&lt;FR46&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122405Z" creationid="Александр" creationdate="20210108T122405Z">
+        <seg>[0691]&lt;FR46&gt;Брак|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0703]&lt;FBK2&gt;Total Loan|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122407Z" creationid="Александр" creationdate="20210108T122407Z">
+        <seg>[0703]&lt;FBK2&gt;Суммарная ссуда|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0704]&lt;FBK3&gt;Monthly Interest|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122418Z" creationid="Александр" creationdate="20210108T122418Z">
+        <seg>[0704]&lt;FBK3&gt;Ежемесячная выплата|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0705]&lt;FBK4&gt;Credit Limit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122430Z" creationid="Александр" creationdate="20210108T122430Z">
+        <seg>[0705]&lt;FBK4&gt;Лимит кредита|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0706]&lt;FBK5&gt;Interest Rate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122452Z" creationid="Александр" creationdate="20210108T122452Z">
+        <seg>[0706]&lt;FBK5&gt;Текущий процент|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0707]&lt;FBK6&gt;Borrow|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122455Z" creationid="Александр" creationdate="20210108T122455Z">
+        <seg>[0707]&lt;FBK6&gt;Займ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0708]&lt;FBK7&gt;Repay|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122457Z" creationid="Александр" creationdate="20210108T122457Z">
+        <seg>[0708]&lt;FBK7&gt;Возврат|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0715]&lt;FET1&gt;Building Types|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122459Z" creationid="Александр" creationdate="20210108T122459Z">
+        <seg>[0715]&lt;FET1&gt;Типы зданий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0716]&lt;FET2&gt;Select|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122500Z" creationid="Александр" creationdate="20210108T122500Z">
+        <seg>[0716]&lt;FET2&gt;Выбрать|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0717]&lt;FET3&gt;Setup:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122506Z" creationid="Александр" creationdate="20210108T122506Z">
+        <seg>[0717]&lt;FET3&gt;Цена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0718]&lt;FET4&gt;Monthly:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T122510Z" creationid="Александр" creationdate="20210108T122510Z">
+        <seg>[0718]&lt;FET4&gt;В месяц|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
