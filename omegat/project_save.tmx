@@ -3860,8 +3860,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0607]&lt;DIJ2&gt;City|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210108T075528Z" creationid="Александр" creationdate="20210108T075528Z">
-        <seg>[0607]&lt;DIJ2&gt;Город:</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120615Z" creationid="Александр" creationdate="20210108T075528Z">
+        <seg>[0607]&lt;DIJ2&gt;Город|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3884,8 +3884,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0610]&lt;DIJ5&gt;Freight Cost|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210108T120607Z" creationid="Александр" creationdate="20210108T120607Z">
-        <seg>[0610]&lt;DIJ5&gt;Freight Cost|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120721Z" creationid="Александр" creationdate="20210108T120607Z">
+        <seg>[0610]&lt;DIJ5&gt;Стоимость доставки|</seg>
       </tuv>
     </tu>
     <tu>
