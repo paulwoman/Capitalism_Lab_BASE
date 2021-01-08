@@ -3890,6 +3890,102 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0611]&lt;DIJ6&gt;Supply|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120732Z" creationid="Александр" creationdate="20210108T120725Z">
+        <seg>[0611]&lt;DIJ6&gt;Предложение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0612]&lt;DIJ7&gt;Demand|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120737Z" creationid="Александр" creationdate="20210108T120727Z">
+        <seg>[0612]&lt;DIJ7&gt;Спрос|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0613]&lt;DIJ8&gt;Seaports|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120758Z" creationid="Александр" creationdate="20210108T120758Z">
+        <seg>[0613]&lt;DIJ8&gt;Порт|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0614]&lt;DIJ9&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120810Z" creationid="Александр" creationdate="20210108T120810Z">
+        <seg>[0614]&lt;DIJ9&gt;Качество|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0615]&lt;DI10&gt;Brand|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120816Z" creationid="Александр" creationdate="20210108T120816Z">
+        <seg>[0615]&lt;DI10&gt;Бренд|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0616]&lt;DI11&gt;OVERALL|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120839Z" creationid="Александр" creationdate="20210108T120839Z">
+        <seg>[0616]&lt;DI11&gt;ОБЩИЙ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0617]&lt;DI12&gt;SELECT SUPPLIER|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120950Z" creationid="Александр" creationdate="20210108T120853Z">
+        <seg>[0617]&lt;DI12&gt;ВЫБЕРИТЕ ПОСТАВЩИКА|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0619]&lt;DI14&gt;Select Building Location|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120922Z" creationid="Александр" creationdate="20210108T120858Z">
+        <seg>[0619]&lt;DI14&gt;Выберите расположение здания|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0620]&lt;DI15&gt;Cancel|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120955Z" creationid="Александр" creationdate="20210108T120955Z">
+        <seg>[0620]&lt;DI15&gt;Отмена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0621]&lt;DI16&gt;Ok|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T120957Z" creationid="Александр" creationdate="20210108T120957Z">
+        <seg>[0621]&lt;DI16&gt;Ок|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0622]&lt;DI17&gt;CLIENT LIST|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121000Z" creationid="Александр" creationdate="20210108T121000Z">
+        <seg>[0622]&lt;DI17&gt;СПИСОК КЛИЕНТОВ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0624]&lt;DI19&gt;SELECT ADVERTISING MEDIA|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210108T121232Z" creationid="Александр" creationdate="20210108T121232Z">
+        <seg>[0624]&lt;DI19&gt;ВЫБЕРИТЕ РЕКЛАМНЫЕ СМИ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
