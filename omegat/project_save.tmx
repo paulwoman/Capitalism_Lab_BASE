@@ -5418,6 +5418,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0857]&lt;0072&gt;Farmer's Guide|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T142716Z" creationid="Александр" creationdate="20210109T142716Z">
+        <seg>[0857]&lt;0072&gt;Руководство для фермеров|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0858]&lt;0073&gt;Manager's Guide|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T142747Z" creationid="Александр" creationdate="20210109T142747Z">
+        <seg>[0858]&lt;0073&gt;Руководство для менеджеров|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0860]&lt;0075&gt;Stock Exchange|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T142809Z" creationid="Александр" creationdate="20210109T142809Z">
+        <seg>[0860]&lt;0075&gt;Фондовая биржа|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0861]&lt;0076&gt;Revenue Graph |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T142828Z" creationid="Александр" creationdate="20210109T142828Z">
+        <seg>[0861]&lt;0076&gt;График доходов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0862]&lt;0077&gt;Quantity Sold Graph |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T142901Z" creationid="Александр" creationdate="20210109T142901Z">
+        <seg>[0862]&lt;0077&gt;График продаж|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
