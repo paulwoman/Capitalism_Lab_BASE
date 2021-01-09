@@ -5458,6 +5458,30 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0863]&lt;0078&gt;Previous|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T142926Z" creationid="Александр" creationdate="20210109T142926Z">
+        <seg>[0861]&lt;0076&gt;Предыдущий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0864]&lt;0079&gt;Next|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T142940Z" creationid="Александр" creationdate="20210109T142940Z">
+        <seg>[0864]&lt;0079&gt;Следующий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0865]&lt;0080&gt;Go|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T143004Z" creationid="Александр" creationdate="20210109T143004Z">
+        <seg>[0865]&lt;0080&gt;Вперёд|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
