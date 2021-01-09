@@ -7202,6 +7202,62 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2756]&lt;NSS6&gt;shares into one share.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162840Z" creationid="Александр" creationdate="20210109T162840Z">
+        <seg>[2756]&lt;NSS6&gt;акции на одну акцию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2757]&lt;NBM1&gt;buys an|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162852Z" creationid="Александр" creationdate="20210109T162852Z">
+        <seg>[2757]&lt;NBM1&gt;покупает|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2758]&lt;NBM2&gt;buys a|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162903Z" creationid="Александр" creationdate="20210109T162903Z">
+        <seg>[2758]&lt;NBM2&gt;покупает|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2759]&lt;NBM3&gt;in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162906Z" creationid="Александр" creationdate="20210109T162906Z">
+        <seg>[2759]&lt;NBM3&gt;в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2760]&lt;NBM4&gt;from|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T171035Z" creationid="Александр" creationdate="20210109T162910Z">
+        <seg>[2760]&lt;NBM4&gt;от |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2761]&lt;NBM5&gt;for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162914Z" creationid="Александр" creationdate="20210109T162914Z">
+        <seg>[2761]&lt;NBM5&gt;за|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2762]&lt;NCI1&gt;The central bank increases the interest rate from|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162934Z" creationid="Александр" creationdate="20210109T162934Z">
+        <seg>[2762]&lt;NCI1&gt;Центральный банк повышает процентную ставку от|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210109T162500Z" creationid="Александр" creationdate="20210109T162500Z">
