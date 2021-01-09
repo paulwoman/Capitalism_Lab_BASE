@@ -5770,6 +5770,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1319]&lt;AE03&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T161848Z" creationid="Александр" creationdate="20210109T161848Z">
+        <seg>[1318]&lt;AE02&gt;Затраты на заработную плату|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1320]&lt;AE04&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T161914Z" creationid="Александр" creationdate="20210109T161914Z">
+        <seg>[1319]&lt;AE03&gt;Надбавка за эксплуатацию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1674]&lt;0678&gt; Sector|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T082852Z" creationid="Александр" creationdate="20210107T082852Z">
