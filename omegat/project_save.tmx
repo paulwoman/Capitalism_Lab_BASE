@@ -5482,6 +5482,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0866]&lt;0081&gt;Product Class: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T143242Z" creationid="Александр" creationdate="20210109T143242Z">
+        <seg>[0866]&lt;0081&gt;Класс продукта: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1108]&lt;0263&gt;Stock Price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T143252Z" creationid="Александр" creationdate="20210109T143252Z">
+        <seg>[1110]&lt;0265&gt;Стоимость акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
