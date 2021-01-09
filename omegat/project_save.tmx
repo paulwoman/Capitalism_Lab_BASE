@@ -7252,8 +7252,32 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2762]&lt;NCI1&gt;The central bank increases the interest rate from|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210109T162934Z" creationid="Александр" creationdate="20210109T162934Z">
-        <seg>[2762]&lt;NCI1&gt;Центральный банк повышает процентную ставку от|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T171127Z" creationid="Александр" creationdate="20210109T162934Z">
+        <seg>[2762]&lt;NCI1&gt;Центральный банк повышает процентную ставку с</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2763]&lt;NCI2&gt;The central bank decreases the interest rate from|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T171123Z" creationid="Александр" creationdate="20210109T171052Z">
+        <seg>[2763]&lt;NCI2&gt;Центральный банк снижает процентную ставку с|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2764]&lt;NCI3&gt;to|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T171116Z" creationid="Александр" creationdate="20210109T171116Z">
+        <seg>[2764]&lt;NCI3&gt;на|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2765]&lt;NCB1&gt;A new chairman with|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T173411Z" creationid="Александр" creationdate="20210109T173411Z">
+        <seg>[2765]&lt;NCB1&gt;Новый председатель с|</seg>
       </tuv>
     </tu>
     <tu>
