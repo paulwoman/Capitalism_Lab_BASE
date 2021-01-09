@@ -5786,6 +5786,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1321]&lt;AE05&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162003Z" creationid="Александр" creationdate="20210109T162003Z">
+        <seg>[1321]&lt;AE05&gt;Расходы на рекламу и Пиар|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1322]&lt;AE06&gt;Training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162036Z" creationid="Александр" creationdate="20210109T162036Z">
+        <seg>[1322]&lt;AE06&gt;Обучение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1323]&lt;AE07&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162115Z" creationid="Александр" creationdate="20210109T162040Z">
+        <seg>[132]&lt;AE07&gt;Списания|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1324]&lt;AF00&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162141Z" creationid="Александр" creationdate="20210109T162042Z">
+        <seg>[1324]&lt;AF00&gt;&gt;Выручка от продаж|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1325]&lt;AF01&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162229Z" creationid="Александр" creationdate="20210109T162047Z">
+        <seg>[1325]&lt;AF01&gt;Затраты на заработную плату|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1674]&lt;0678&gt; Sector|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T082852Z" creationid="Александр" creationdate="20210107T082852Z">
