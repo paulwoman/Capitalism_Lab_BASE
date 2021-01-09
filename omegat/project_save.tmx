@@ -5410,6 +5410,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0856]&lt;0071&gt;Guide|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T142653Z" creationid="Александр" creationdate="20210109T142653Z">
+        <seg>[0856]&lt;0071&gt;Руководство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
