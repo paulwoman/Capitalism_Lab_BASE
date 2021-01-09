@@ -5202,6 +5202,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0811]&lt;0031&gt;Chief Executive Officer's Office|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T141035Z" creationid="Александр" creationdate="20210109T141035Z">
+        <seg>[0811]&lt;0031&gt;Офис Генерального директора|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0812]&lt;0032&gt;Chief Executive Officer|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T141332Z" creationid="Александр" creationdate="20210109T141332Z">
+        <seg>[0812]&lt;0032&gt;Генеральный директор|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1109]&lt;0264&gt;Total Shares|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065441Z" creationid="Александр" creationdate="20210107T065441Z">
