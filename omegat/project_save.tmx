@@ -664,6 +664,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each shareholder now holds|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162628Z" creationid="Александр" creationdate="20210109T162628Z">
+        <seg>Каждый акционер теперь владеет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each shareholder now holds|
 [2753]&lt;NSS3&gt;times as many shares.|
 [2754]&lt;NSS4&gt;undergoes a 1-|
@@ -7110,6 +7118,94 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162012Z" creationid="Александр" creationdate="20210107T162012Z">
         <seg>[2745]&lt;NAC2&gt;на|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2746]&lt;NBF1&gt;acquires an|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162524Z" creationid="Александр" creationdate="20210109T162524Z">
+        <seg>[2746]&lt;NBF1&gt;приобретает|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2747]&lt;NBF2&gt;acquires a|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162533Z" creationid="Александр" creationdate="20210109T162533Z">
+        <seg>[2747]&lt;NBF2&gt;приобретает|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2748]&lt;NBF3&gt;in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162537Z" creationid="Александр" creationdate="20210109T162537Z">
+        <seg>[2748]&lt;NBF3&gt;в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2749]&lt;NBF4&gt;from|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162544Z" creationid="Александр" creationdate="20210109T162544Z">
+        <seg>[2749]&lt;NBF4&gt;из|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2750]&lt;NBF5&gt;for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162548Z" creationid="Александр" creationdate="20210109T162548Z">
+        <seg>[2750]&lt;NBF5&gt;за|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2751]&lt;NSS1&gt;splits its share|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162605Z" creationid="Александр" creationdate="20210109T162605Z">
+        <seg>[2751]&lt;NSS1&gt;распределяет свою долю|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2752]&lt;NSS2&gt;-for-1.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162614Z" creationid="Александр" creationdate="20210109T162614Z">
+        <seg>[2752]&lt;NSS2&gt;-за-1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2753]&lt;NSS3&gt;times as many shares.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162647Z" creationid="Александр" creationdate="20210109T162647Z">
+        <seg>[2753]&lt;NSS3&gt;количество акций.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2754]&lt;NSS4&gt;undergoes a 1-|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162733Z" creationid="Александр" creationdate="20210109T162733Z">
+        <seg>[2754]&lt;NSS4&gt;подвергается 1-|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2755]&lt;NSS5&gt;stock merge, which groups every|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162817Z" creationid="Александр" creationdate="20210109T162817Z">
+        <seg>[2755]&lt;NSS5&gt;слияние акций, которое группирует каждый|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162500Z" creationid="Александр" creationdate="20210109T162500Z">
+        <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
       </tuv>
     </tu>
     <tu>
