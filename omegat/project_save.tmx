@@ -5826,6 +5826,494 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1326]&lt;AF02&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162253Z" creationid="Александр" creationdate="20210109T162253Z">
+        <seg>[1326]&lt;AF02&gt;Рабочая надбавка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1327]&lt;AF03&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162309Z" creationid="Александр" creationdate="20210109T162309Z">
+        <seg>[1327]&lt;AF03&gt;Расходы на рекламу и Пиар|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1328]&lt;AF04&gt;Training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162324Z" creationid="Александр" creationdate="20210109T162324Z">
+        <seg>[1328]&lt;AF04&gt;Обучение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1329]&lt;AF05&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162347Z" creationid="Александр" creationdate="20210109T162347Z">
+        <seg>[1329]&lt;AF05&gt;Списания|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1330]&lt;AG00&gt;Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162349Z" creationid="Александр" creationdate="20210109T162349Z">
+        <seg>[1330]&lt;AG00&gt;Sales Revenue|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1331]&lt;AG01&gt;Consumption of Reserve|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162350Z" creationid="Александр" creationdate="20210109T162350Z">
+        <seg>[1331]&lt;AG01&gt;Consumption of Reserve|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1332]&lt;AG02&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162350Z" creationid="Александр" creationdate="20210109T162350Z">
+        <seg>[1332]&lt;AG02&gt;Salaries Expense|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1333]&lt;AG03&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162350Z" creationid="Александр" creationdate="20210109T162350Z">
+        <seg>[1333]&lt;AG03&gt;Operating Overhead|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1334]&lt;AG04&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162350Z" creationid="Александр" creationdate="20210109T162350Z">
+        <seg>[1334]&lt;AG04&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1335]&lt;AG05&gt;Training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162350Z" creationid="Александр" creationdate="20210109T162350Z">
+        <seg>[1335]&lt;AG05&gt;Training|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1336]&lt;AG06&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162350Z" creationid="Александр" creationdate="20210109T162350Z">
+        <seg>[1336]&lt;AG06&gt;Write-offs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1347]&lt;0412&gt;Summary|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1347]&lt;0412&gt;Summary|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1348]&lt;0413&gt;Wealth|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1348]&lt;0413&gt;Wealth|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1349]&lt;0414&gt;Career|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1349]&lt;0414&gt;Career|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1350]&lt;0415&gt;Personality|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1350]&lt;0415&gt;Personality|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1351]&lt;0416&gt;Expertise|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1351]&lt;0416&gt;Expertise|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1352]&lt;0417&gt;Score|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1352]&lt;0417&gt;Score|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1353]&lt;0418&gt;Corporate Balance Sheet|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1353]&lt;0418&gt;Corporate Balance Sheet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1354]&lt;0419&gt;Corporate Income Statement|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1354]&lt;0419&gt;Corporate Income Statement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1355]&lt;0420&gt;Firm Income Statement|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1355]&lt;0420&gt;Firm Income Statement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1358]&lt;0423&gt;No.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1358]&lt;0423&gt;No.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1360]&lt;0425&gt;TARGET|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1360]&lt;0425&gt;TARGET|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1361]&lt;0426&gt;CURRENT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>[1361]&lt;0426&gt;CURRENT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1362]&lt;0427&gt;ACHIEVED|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1362]&lt;0427&gt;ACHIEVED|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1363]&lt;0428&gt;SCORE|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1363]&lt;0428&gt;SCORE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1364]&lt;0429&gt;Personal Wealth|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1364]&lt;0429&gt;Personal Wealth|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1365]&lt;0430&gt;Value of Companies Controlled by You|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1365]&lt;0430&gt;Value of Companies Controlled by You|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1366]&lt;0431&gt;Dominated Industries|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1366]&lt;0431&gt;Dominated Industries|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1367]&lt;0432&gt;Dominated Products|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1367]&lt;0432&gt;Dominated Products|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1370]&lt;0435&gt; Points|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1370]&lt;0435&gt; Points|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1372]&lt;0437&gt; x 20|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1372]&lt;0437&gt; x 20|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1373]&lt;0438&gt; x 5|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1373]&lt;0438&gt; x 5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1374]&lt;0439&gt;Total Score: -1 (You have enabled the cheated mode.)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1374]&lt;0439&gt;Total Score: -1 (You have enabled the cheated mode.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1375]&lt;0440&gt;Total Score:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1375]&lt;0440&gt;Total Score:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1376]&lt;0441&gt; x |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1376]&lt;0441&gt; x |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1377]&lt;0442&gt; (Difficulty)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1377]&lt;0442&gt; (Difficulty)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1379]&lt;0444&gt; (Goal Bonus) =|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162352Z" creationid="Александр" creationdate="20210109T162352Z">
+        <seg>[1379]&lt;0444&gt; (Goal Bonus) =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1380]&lt;0445&gt; x 2 (Goal Bonus) =|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1380]&lt;0445&gt; x 2 (Goal Bonus) =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1381]&lt;0446&gt; =|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1381]&lt;0446&gt; =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1382]&lt;0447&gt; (Years)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1382]&lt;0447&gt; (Years)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1383]&lt;0448&gt; x 2 (Goal Bonus)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1383]&lt;0448&gt; x 2 (Goal Bonus)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1384]&lt;0449&gt;INPUT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1384]&lt;0449&gt;INPUT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1385]&lt;0450&gt;OUTPUT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1385]&lt;0450&gt;OUTPUT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1386]&lt;0451&gt;MORE|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1386]&lt;0451&gt;MORE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1387]&lt;0452&gt; million|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1387]&lt;0452&gt; million|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1389]&lt;0454&gt;Rating (0-100)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1389]&lt;0454&gt;Rating (0-100)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1390]&lt;0455&gt;Farming|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1390]&lt;0455&gt;Farming|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1391]&lt;0456&gt;Manufacturing|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1391]&lt;0456&gt;Manufacturing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1392]&lt;0457&gt;Research and Development|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1392]&lt;0457&gt;Research and Development|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1393]&lt;0458&gt;Raw Material Production|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162353Z" creationid="Александр" creationdate="20210109T162353Z">
+        <seg>[1393]&lt;0458&gt;Raw Material Production|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1394]&lt;0459&gt;Marketing|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162354Z" creationid="Александр" creationdate="20210109T162354Z">
+        <seg>[1394]&lt;0459&gt;Marketing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1395]&lt;0460&gt;Training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162354Z" creationid="Александр" creationdate="20210109T162354Z">
+        <seg>[1395]&lt;0460&gt;Training|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1396]&lt;0461&gt;Career|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162354Z" creationid="Александр" creationdate="20210109T162354Z">
+        <seg>[1396]&lt;0461&gt;Career|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1397]&lt;0462&gt;Corporation|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162354Z" creationid="Александр" creationdate="20210109T162354Z">
+        <seg>[1397]&lt;0462&gt;Corporation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1398]&lt;0463&gt;Job Title|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162354Z" creationid="Александр" creationdate="20210109T162354Z">
+        <seg>[1398]&lt;0463&gt;Job Title|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1399]&lt;0464&gt;Years of Service|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162354Z" creationid="Александр" creationdate="20210109T162354Z">
+        <seg>[1399]&lt;0464&gt;Years of Service|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1400]&lt;0465&gt;Retired|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162354Z" creationid="Александр" creationdate="20210109T162354Z">
+        <seg>[1400]&lt;0465&gt;Retired|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1401]&lt;0466&gt;Independent Investor|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162354Z" creationid="Александр" creationdate="20210109T162354Z">
+        <seg>[1401]&lt;0466&gt;Independent Investor|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1402]&lt;0467&gt;Attitude Towards You|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162354Z" creationid="Александр" creationdate="20210109T162354Z">
+        <seg>[1402]&lt;0467&gt;Attitude Towards You|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1403]&lt;0468&gt;Annual Salary|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162354Z" creationid="Александр" creationdate="20210109T162354Z">
+        <seg>[1403]&lt;0468&gt;Annual Salary|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1404]&lt;0469&gt;Terminate Employment|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162405Z" creationid="Александр" creationdate="20210109T162405Z">
+        <seg>[1404]&lt;0469&gt;Terminate Employment|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1674]&lt;0678&gt; Sector|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T082852Z" creationid="Александр" creationdate="20210107T082852Z">
@@ -6734,6 +7222,22 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235111Z" creationid="Olivier" creationdate="20201225T235111Z">
         <seg>[2845]&lt;TECH&gt;Технологии|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2846]&lt;ADSC&gt;Data Server Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162437Z" creationid="Александр" creationdate="20210109T162437Z">
+        <seg>[2846]&lt;ADSC&gt;Data Server Cost|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2847]&lt;REAC&gt;Reach|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162446Z" creationid="Александр" creationdate="20210109T162446Z">
+        <seg>[2847]&lt;REAC&gt;Достичь|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10770,6 +11274,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210108T123007Z" creationid="Александр" creationdate="20210108T123007Z">
         <seg>ведущие специалисты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of years passed|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210109T162351Z" creationid="Александр" creationdate="20210109T162351Z">
+        <seg>of years passed|</seg>
       </tuv>
     </tu>
     <tu>
