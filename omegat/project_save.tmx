@@ -10546,6 +10546,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3164]&lt;INS1&gt;Sorry, you are not allowed to use cash from your insurance company to buy shares of your corporation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133911Z" creationid="Александр" creationdate="20210110T133911Z">
+        <seg>[3164]&lt;INS1&gt;Извините, вам не разрешается использовать средства вашей страховой компании для покупки акций вашей корпорации.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3165]&lt;INS2&gt;Sorry, you are not allowed to use cash from this insurance company to buy shares of its parent corporation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134042Z" creationid="Александр" creationdate="20210110T134042Z">
+        <seg>[3165]&lt;INS2&gt;К сожалению, вы не можете использовать средства этой страховой компании для покупки акций ее корпорации.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3171]&lt;CE02&gt;The CEO previously considered setting up|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T064956Z" creationid="Александр" creationdate="20210103T064956Z">
