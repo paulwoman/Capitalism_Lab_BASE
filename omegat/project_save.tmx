@@ -5868,24 +5868,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1330]&lt;AG00&gt;Sales Revenue|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210109T162349Z" creationid="Александр" creationdate="20210109T162349Z">
-        <seg>[1330]&lt;AG00&gt;Sales Revenue|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1331]&lt;AG01&gt;Consumption of Reserve|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210109T162350Z" creationid="Александр" creationdate="20210109T162350Z">
-        <seg>[1331]&lt;AG01&gt;Consumption of Reserve|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1332]&lt;AG02&gt;Salaries Expense|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210109T162350Z" creationid="Александр" creationdate="20210109T162350Z">
-        <seg>[1332]&lt;AG02&gt;Salaries Expense|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T104311Z" creationid="Olivier" creationdate="20210110T104311Z">
+        <seg>[1330]&lt;AG00&gt;Доход от продаж|</seg>
       </tuv>
     </tu>
     <tu>
