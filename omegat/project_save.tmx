@@ -366,6 +366,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Banknotes and coins for the revalued currency will enter into circulation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163516Z" creationid="Olivier" creationdate="20210110T163516Z">
+        <seg>Банкноты и монеты переоцененной валюты поступают в обращение|Banknotes and coins for the revalued currency will enter into circulation.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Banknotes and coins for the revalued currency will enter into circulation.|
 [2708]&lt;BL01&gt;Buy Land|
 [2709]&lt;BL02&gt;Sorry, you cannot buy this land plot.|
@@ -1964,6 +1972,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The creator's version is %1s while your version is %2s.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163453Z" creationid="Olivier" creationdate="20210110T163453Z">
+        <seg>У создавшего игру версия %1s, тогда как ваша версии %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The game is not saved.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201229T224627Z" creationid="Olivier" creationdate="20201229T224627Z">
@@ -2034,6 +2050,14 @@ Choose one of eight pre-set difficulty levels.</seg>
 [2937]&lt;TUT3&gt;.\n\nРекомендуем Вам проходить обучение по порядку.\n\n|
 [2938]&lt;TUT4&gt;Ты уверен, что хочешь начать урок №|
 [2939]&lt;TUT5&gt; сейчас?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The government announced that the currency will be revalued at a ratio of 1 to 100.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163512Z" creationid="Olivier" creationdate="20210110T163512Z">
+        <seg>Правительство объявило о ревальвации нац.валюты в соотношении 1 к 100.The government announced that the currency will be revalued at a ratio of 1 to 100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14428,8 +14452,48 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2645]&lt;1525&gt;I accept your offer and agree to sell my technology to you.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163159Z" creationid="Olivier" creationdate="20210110T163159Z">
-        <seg>[2644]&lt;1524&gt;Местные рекламодатели</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163259Z" creationid="Olivier" creationdate="20210110T163159Z">
+        <seg>[2645]&lt;1525&gt;Я принимаю ваше предложение и предоставляю свою технологию вам.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2646]&lt;1526&gt;Your corporation has been acquired by |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163303Z" creationid="Olivier" creationdate="20210110T163303Z">
+        <seg>[2646]&lt;1526&gt;Ваша корпорация была приобретена |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2647]&lt;1527&gt;You cannot use this plan yet as you have not invented the product.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163305Z" creationid="Olivier" creationdate="20210110T163305Z">
+        <seg>[2647]&lt;1527&gt;Вы не можете использовать этот план, пока не изобретете продукцию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2648]&lt;1528&gt;You do not have enough cash to setup this unit.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163332Z" creationid="Olivier" creationdate="20210110T163306Z">
+        <seg>[2648]&lt;1528&gt;У вас нет достаточно средств для этого.|[2646]&lt;1526&gt;Ваша корпорация была приобретена |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2649]&lt;1529&gt;SKIP TUTORIAL|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163340Z" creationid="Olivier" creationdate="20210110T163340Z">
+        <seg>[2649]&lt;1529&gt;ПРОПУСТИТЬ ОЗНАКОМЛЕНИЕ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2650]&lt;1530&gt;Are you sure that you want to skip this tutorial?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163346Z" creationid="Olivier" creationdate="20210110T163346Z">
+        <seg>[2650]&lt;1530&gt;Вы уверены, что хотите пропустить эту ознакомительную часть?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -14690,6 +14754,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2687]&lt;C009&gt; |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163355Z" creationid="Olivier" creationdate="20210110T163355Z">
+        <seg>[2687]&lt;C009&gt; |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2688]&lt;C010&gt;Marketing &amp;|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T163852Z" creationid="Александр" creationdate="20210107T163852Z">
@@ -14782,6 +14854,46 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T170518Z" creationid="Александр" creationdate="20210107T170518Z">
         <seg>[2700]&lt;LAYS&gt; найденные планы размещения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2701]&lt;LAYM&gt;You do not have enough cash to setup this layout.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163421Z" creationid="Olivier" creationdate="20210110T163408Z">
+        <seg>[2701]&lt;LAYM&gt;У вас не хватает денег, чтобы приступить к этой разработке.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2702]&lt;DOWR&gt;You cannot join the game because your Capitalism II version is different from that of this multiplayer game's creator.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163446Z" creationid="Olivier" creationdate="20210110T163409Z">
+        <seg>[2702]&lt;DOWR&gt;Вы не можете присоединиться к сетевой игре, так как ваша версия игры Капитализм II отличается от версии создавшего игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2705]&lt;NCUR&gt;CURRENCY REVALUED!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163457Z" creationid="Olivier" creationdate="20210110T163457Z">
+        <seg>[2705]&lt;NCUR&gt;CВАЛЮТА РЕВАЛЬВИРОВАНА!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2708]&lt;BL01&gt;Buy Land|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163522Z" creationid="Olivier" creationdate="20210110T163522Z">
+        <seg>[2708]&lt;BL01&gt;Покупка земли!|[2708]&lt;BL01&gt;Buy Land|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2709]&lt;BL02&gt;Sorry, you cannot buy this land plot.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163529Z" creationid="Olivier" creationdate="20210110T163529Z">
+        <seg>[2709]&lt;BL02&gt;Извините, но Вы не можете купить этот участок земли.|[2709]&lt;BL02&gt;Sorry, you cannot buy this land plot.|</seg>
       </tuv>
     </tu>
     <tu>
