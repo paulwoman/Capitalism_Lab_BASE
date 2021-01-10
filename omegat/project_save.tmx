@@ -3116,8 +3116,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0298]&lt;PRFL&gt;Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201230T182129Z" creationid="Александр" creationdate="20201230T182129Z">
-        <seg>\[0298]&lt;PRFL&gt;Внимание: Это удалит всю информацию в вашем многопользовательском лобби учетной записи, которая связана с этим профилем игрока.|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T112558Z" creationid="Александр" creationdate="20201230T182129Z">
+        <seg>[0298]&lt;PRFL&gt;Внимание: Это удалит всю информацию в вашем многопользовательском лобби учетной записи, которая связана с этим профилем игрока.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5012,8 +5012,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0778]&lt;FH16&gt;Total no.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T102737Z" creationid="Александр" creationdate="20210108T122946Z">
-        <seg>[778]&lt;FH16&gt;&gt;Итого нет.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T113044Z" creationid="Александр" creationdate="20210108T122946Z">
+        <seg>[0778]&lt;FH16&gt;&gt;Итого нет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6382,6 +6382,46 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T112308Z" creationid="Olivier" creationdate="20210110T112308Z">
         <seg>[1050]&lt;0207&gt;Пакет акций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1051]&lt;0208&gt;Total Loans|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T112314Z" creationid="Olivier" creationdate="20210110T112314Z">
+        <seg>[1051]&lt;0208&gt;Суммарная ссуда|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1052]&lt;0209&gt;Dividend Paid|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T112318Z" creationid="Olivier" creationdate="20210110T112318Z">
+        <seg>[1052]&lt;0209&gt;Оплата дивидендов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1053]&lt;0210&gt;Stock Return|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T112322Z" creationid="Olivier" creationdate="20210110T112322Z">
+        <seg>[1053]&lt;0210&gt;Доход от акций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1054]&lt;0211&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T112326Z" creationid="Olivier" creationdate="20210110T112326Z">
+        <seg>[1054]&lt;0211&gt;Выплата зарплаты|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1055]&lt;0212&gt;Advertising|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T112737Z" creationid="Olivier" creationdate="20210110T112737Z">
+        <seg>[1055]&lt;0212&gt;Реклама|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10948,8 +10988,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3297]&lt;BCH5&gt;Sorry, training is not applicable to the firms you chose on this list.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T061318Z" creationid="Александр" creationdate="20210106T114744Z">
-        <seg>3297]&lt;BCH5&gt;Извините, обучение не применимо к фирмам, которые вы выбрали в этом списке.|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T112829Z" creationid="Александр" creationdate="20210106T114744Z">
+        <seg>[3297]&lt;BCH5&gt;Извините, обучение не применимо к фирмам, которые вы выбрали в этом списке.|</seg>
       </tuv>
     </tu>
     <tu>
