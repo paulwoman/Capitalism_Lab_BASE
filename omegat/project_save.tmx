@@ -1242,6 +1242,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its current equity value is negative.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T130207Z" creationid="Александр" creationdate="20210110T130207Z">
+        <seg>Текущая стоимость отрицательна.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its design goal is to achieve visual harmonization across languages.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T101603Z" creationid="Александр" creationdate="20201218T101603Z">
@@ -9982,6 +9990,30 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T125655Z" creationid="Александр" creationdate="20210110T125655Z">
         <seg>[3095]&lt;ACP4&gt;Теперь этот филиал полностью принадлежит вашей компании.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3096]&lt;SENO&gt;Sorry, you have not selected any firms.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125706Z" creationid="Александр" creationdate="20210110T125706Z">
+        <seg>[3096]&lt;SENO&gt;Извините, вы не выбрали ни одну фирму.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3097]&lt;VCLF&gt;VIEW / CLOSE DOWN FIRMS|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125837Z" creationid="Александр" creationdate="20210110T125837Z">
+        <seg>[3097]&lt;VCLF&gt;ПРОСМОТРЕТЬ / ЗАКРЫТЬ ФИРМЫ |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3098]&lt;IPN1&gt;Sorry, the company fails to meet the conditions for going public.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125912Z" creationid="Александр" creationdate="20210110T125912Z">
+        <seg>[3098]&lt;IPN1&gt;Извините, компания не выполнила условия для выхода на публику.</seg>
       </tuv>
     </tu>
     <tu>
