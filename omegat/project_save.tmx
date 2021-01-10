@@ -7250,6 +7250,302 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1188]&lt;0342&gt;NONE|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142754Z" creationid="Olivier" creationdate="20210110T142754Z">
+        <seg>[1188]&lt;0342&gt;НЕТ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1189]&lt;0343&gt;There is no space for adding new products|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142756Z" creationid="Olivier" creationdate="20210110T142756Z">
+        <seg>[1189]&lt;0343&gt;Нет места для новой продукции |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1190]&lt;0344&gt;This item can be sold in...|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142757Z" creationid="Olivier" creationdate="20210110T142757Z">
+        <seg>[1190]&lt;0344&gt;Это можно продать в ... |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1194]&lt;A700&gt;Frozen|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142800Z" creationid="Olivier" creationdate="20210110T142800Z">
+        <seg>[1194]&lt;A700&gt;Заморожено|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1195]&lt;A701&gt;Cold|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142802Z" creationid="Olivier" creationdate="20210110T142802Z">
+        <seg>[1195]&lt;A701&gt;Холодное|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1196]&lt;A702&gt;Cool|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142803Z" creationid="Olivier" creationdate="20210110T142803Z">
+        <seg>[1196]&lt;A702&gt;Прохладное|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1197]&lt;A703&gt;Warm|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142805Z" creationid="Olivier" creationdate="20210110T142805Z">
+        <seg>[1197]&lt;A703&gt;Теплое|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1198]&lt;A704&gt;Hot|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142829Z" creationid="Olivier" creationdate="20210110T142829Z">
+        <seg>[1198]&lt;A704&gt;Горячее|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1199]&lt;A800&gt;Dry|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142832Z" creationid="Olivier" creationdate="20210110T142832Z">
+        <seg>[1199]&lt;A800&gt;Сухое|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1200]&lt;A801&gt;Little|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142833Z" creationid="Olivier" creationdate="20210110T142833Z">
+        <seg>[1200]&lt;A801&gt;Маленькое|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1201]&lt;A802&gt;Moderate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142835Z" creationid="Olivier" creationdate="20210110T142835Z">
+        <seg>[1201]&lt;A802&gt;Средне|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1202]&lt;A803&gt;Plentiful|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142837Z" creationid="Olivier" creationdate="20210110T142837Z">
+        <seg>[1202]&lt;A803&gt;Обильное|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1203]&lt;0348&gt;Warm, Cool or Cold|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142841Z" creationid="Olivier" creationdate="20210110T142841Z">
+        <seg>[1203]&lt;0348&gt;Теплое, прохладное или холодное|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1235]&lt;0349&gt;No.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142906Z" creationid="Olivier" creationdate="20210110T142906Z">
+        <seg>[1235]&lt;0349&gt;Количество</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1236]&lt;0350&gt;No.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142931Z" creationid="Olivier" creationdate="20210110T142931Z">
+        <seg>[1236]&lt;0350&gt;Кол-во</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1237]&lt;0351&gt;Average Unit Level|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142940Z" creationid="Olivier" creationdate="20210110T142940Z">
+        <seg>[1237]&lt;0351&gt;Средний уровень|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1238]&lt;0352&gt;Average Utilization|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142942Z" creationid="Olivier" creationdate="20210110T142942Z">
+        <seg>[1238]&lt;0352&gt;Средняя произв-ть|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1239]&lt;0353&gt;Who manages this firm?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142943Z" creationid="Olivier" creationdate="20210110T142943Z">
+        <seg>[1239]&lt;0353&gt;Кто управляющий в этой фирме?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1240]&lt;0354&gt;C.E.O.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142944Z" creationid="Olivier" creationdate="20210110T142944Z">
+        <seg>[1240]&lt;0354&gt;Г.И.Д.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1241]&lt;0355&gt;President|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142945Z" creationid="Olivier" creationdate="20210110T142945Z">
+        <seg>[1241]&lt;0355&gt;Президент|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1242]&lt;0356&gt;Do you want to manage all of your firms yourself?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142946Z" creationid="Olivier" creationdate="20210110T142946Z">
+        <seg>[1242]&lt;0356&gt;Вы хотите управлять всеми фирмами сами?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1243]&lt;0357&gt;Do you want President |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142948Z" creationid="Olivier" creationdate="20210110T142948Z">
+        <seg>[1243]&lt;0357&gt;Вы хотите, чтобы президент |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1244]&lt;0358&gt; to manage all of your firms|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142949Z" creationid="Olivier" creationdate="20210110T142949Z">
+        <seg>[1244]&lt;0358&gt; управлял всеми вашими фирмами|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1245]&lt;0359&gt;Layout Plan Library - |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142950Z" creationid="Olivier" creationdate="20210110T142950Z">
+        <seg>[1245]&lt;0359&gt;Библиотека планов структуры - |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1247]&lt;0361&gt;Description|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142951Z" creationid="Olivier" creationdate="20210110T142951Z">
+        <seg>[1247]&lt;0361&gt;Описание|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1249]&lt;0363&gt;Output|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142955Z" creationid="Olivier" creationdate="20210110T142955Z">
+        <seg>[1249]&lt;0363&gt;Вывод|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1250]&lt;0364&gt;Input|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142956Z" creationid="Olivier" creationdate="20210110T142956Z">
+        <seg>[1250]&lt;0364&gt;Ввод|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1251]&lt;0365&gt;Available|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142959Z" creationid="Olivier" creationdate="20210110T142959Z">
+        <seg>[1251]&lt;0365&gt;Доступно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1253]&lt;0367&gt;Chief Operating Officer|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T143001Z" creationid="Olivier" creationdate="20210110T143001Z">
+        <seg>[1253]&lt;0367&gt;Менеджер этой фирмы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1255]&lt;0369&gt;He currently manages this firm|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T143002Z" creationid="Olivier" creationdate="20210110T143002Z">
+        <seg>[1255]&lt;0369&gt;Он сейчас руководит этой фирмой |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1256]&lt;0370&gt;She currently manages this firm|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T143015Z" creationid="Olivier" creationdate="20210110T143015Z">
+        <seg>[1256]&lt;0370&gt;Она сейчас руководит этой фирмой |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1263]&lt;0377&gt;Market Value:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T143016Z" creationid="Olivier" creationdate="20210110T143016Z">
+        <seg>[1263]&lt;0377&gt;Стоимость: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1264]&lt;0378&gt;This mansion is for sale|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T143018Z" creationid="Olivier" creationdate="20210110T143018Z">
+        <seg>[1264]&lt;0378&gt;Этот особняк продается за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1265]&lt;0379&gt;FOR SALE|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T143019Z" creationid="Olivier" creationdate="20210110T143019Z">
+        <seg>[1265]&lt;0379&gt;НА ПРОДАЖУ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1267]&lt;0381&gt;Function: Issuing new shares|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T143020Z" creationid="Olivier" creationdate="20210110T143020Z">
+        <seg>[1267]&lt;0381&gt;Функция: Продажа новых акций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1268]&lt;0382&gt;Function: Borrowing bank loans|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T143023Z" creationid="Olivier" creationdate="20210110T143023Z">
+        <seg>[1268]&lt;0382&gt;Функция: Займ ссуды в банке|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1269]&lt;0383&gt;Function: Trading stocks|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T143025Z" creationid="Olivier" creationdate="20210110T143025Z">
+        <seg>[1269]&lt;0383&gt;Функция: Продажа акций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1319]&lt;AE03&gt;Salaries Expense|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T104745Z" creationid="Александр" creationdate="20210109T161848Z">
@@ -13202,6 +13498,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T122735Z" creationid="Olivier" creationdate="20210110T122735Z">
         <seg>типов продукции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Units|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142937Z" creationid="Olivier" creationdate="20210110T142937Z">
+        <seg>служащих|</seg>
       </tuv>
     </tu>
     <tu>
