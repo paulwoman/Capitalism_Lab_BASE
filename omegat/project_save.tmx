@@ -274,6 +274,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI will take over the duties.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162656Z" creationid="Olivier" creationdate="20210110T162656Z">
+        <seg>Игру продолжит компьютер.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Active Interface=City View</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000524Z" creationid="Olivier" creationdate="20201226T000524Z">
@@ -928,6 +936,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fields are Completely Stripped of Vegetation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162636Z" creationid="Olivier" creationdate="20210110T162636Z">
+        <seg>Поля полностью опустошены.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm product count=My Department Store, 2</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000454Z" creationid="Olivier" creationdate="20201226T000454Z">
@@ -1088,6 +1104,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215733Z" creationid="Olivier" creationdate="20201217T215733Z">
         <seg>Hide=Preview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How much can you pay?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162702Z" creationid="Olivier" creationdate="20210110T162702Z">
+        <seg>Сколько можете предложить?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1330,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Looters Steal |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162639Z" creationid="Olivier" creationdate="20210110T162639Z">
+        <seg>Грабители похитили товаров на |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Macro Economy Realism=High</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215103Z" creationid="Olivier" creationdate="20201213T215103Z">
@@ -1454,6 +1486,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215234Z" creationid="Olivier" creationdate="20201213T215234Z">
         <seg>Operating Profit Margin=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Panic Selling Ensues!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162654Z" creationid="Olivier" creationdate="20210110T162654Z">
+        <seg>Паника на бирже!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2340,6 +2380,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Will you accept this offer?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162746Z" creationid="Olivier" creationdate="20210110T162746Z">
+        <seg>Принимаете предложение?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Window=Bottom Toolbar</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000543Z" creationid="Olivier" creationdate="20201226T000543Z">
@@ -2544,6 +2592,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215259Z" creationid="Olivier" creationdate="20201213T215259Z">
         <seg>Sua corporação atingiu o marco de ter um quadro de pessoal que ultrapassa 1000 pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your current technology level is %3s.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162853Z" creationid="Olivier" creationdate="20210110T162853Z">
+        <seg>Ваш технологический уровень в настоящий момент - %3s.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -11898,6 +11954,1054 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2255]&lt;1176&gt;Plague of Insects Descends on Crops in |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162622Z" creationid="Olivier" creationdate="20210110T162622Z">
+        <seg>[2255]&lt;1176&gt;Нашествие вредителей на поля возле города |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2256]&lt;1177&gt; Area.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162623Z" creationid="Olivier" creationdate="20210110T162623Z">
+        <seg>[2256]&lt;1177&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2257]&lt;1178&gt; Blacked Out for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162636Z" creationid="Olivier" creationdate="20210110T162636Z">
+        <seg>[2257]&lt;1178&gt; Отключение электричества в городе |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2258]&lt;1179&gt; Hours!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162637Z" creationid="Olivier" creationdate="20210110T162637Z">
+        <seg>[2258]&lt;1179&gt; часов длились массовые беспорядки!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2259]&lt;1180&gt; Worth of Goods from City's Retail Stores.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162640Z" creationid="Olivier" creationdate="20210110T162640Z">
+        <seg>[2259]&lt;1180&gt; из магазинов города.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2260]&lt;1181&gt;Stock Exchange Dives |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162641Z" creationid="Olivier" creationdate="20210110T162641Z">
+        <seg>[2260]&lt;1181&gt;Обвал акций на |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2261]&lt;1182&gt;!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162647Z" creationid="Olivier" creationdate="20210110T162647Z">
+        <seg>[2261]&lt;1182&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2278]&lt;1198&gt;Player group |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162655Z" creationid="Olivier" creationdate="20210110T162655Z">
+        <seg>[2278]&lt;1198&gt;Группа игроков|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2279]&lt;1199&gt; has left the game.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162655Z" creationid="Olivier" creationdate="20210110T162655Z">
+        <seg>[2279]&lt;1199&gt; покинула игру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2280]&lt;1200&gt;Forget it!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162656Z" creationid="Olivier" creationdate="20210110T162656Z">
+        <seg>[2280]&lt;1200&gt;Забудь!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2281]&lt;1201&gt;I'll pay this much.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162657Z" creationid="Olivier" creationdate="20210110T162657Z">
+        <seg>[2281]&lt;1201&gt;И так плачу много|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2282]&lt;1202&gt;I accept.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162657Z" creationid="Olivier" creationdate="20210110T162657Z">
+        <seg>[2282]&lt;1202&gt;Согласен.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2283]&lt;1203&gt;Pay Cash|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162658Z" creationid="Olivier" creationdate="20210110T162658Z">
+        <seg>[2283]&lt;1203&gt;Заплатить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2284]&lt;1204&gt;Issue Shares|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162658Z" creationid="Olivier" creationdate="20210110T162658Z">
+        <seg>[2284]&lt;1204&gt;Выпустить акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2285]&lt;1205&gt;I pay this much.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162658Z" creationid="Olivier" creationdate="20210110T162658Z">
+        <seg>[2285]&lt;1205&gt;Вот моё предложение.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2286]&lt;1206&gt;Accept resignation|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162659Z" creationid="Olivier" creationdate="20210110T162659Z">
+        <seg>[2286]&lt;1206&gt;Принять отставку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2287]&lt;1207&gt;Offer a salary raise|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162659Z" creationid="Olivier" creationdate="20210110T162659Z">
+        <seg>[2287]&lt;1207&gt;Поднять оклады|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2288]&lt;1208&gt;Accept Resignation|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162700Z" creationid="Olivier" creationdate="20210110T162700Z">
+        <seg>[2288]&lt;1208&gt;Принять отставку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2289]&lt;1209&gt;Offer this much|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162700Z" creationid="Olivier" creationdate="20210110T162700Z">
+        <seg>[2289]&lt;1209&gt;Предложить эту сумму|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2290]&lt;1210&gt;I want to sell this firm for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162701Z" creationid="Olivier" creationdate="20210110T162701Z">
+        <seg>[2290]&lt;1210&gt;Я хочу продать эту фирму за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2291]&lt;1211&gt;I want to sell this firm.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162701Z" creationid="Olivier" creationdate="20210110T162701Z">
+        <seg>[2291]&lt;1211&gt;Я хочу продать эту фирму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2292]&lt;1212&gt;I would like to buy this firm for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162726Z" creationid="Olivier" creationdate="20210110T162726Z">
+        <seg>[2292]&lt;1212&gt;Я хочу купить эту фирму за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2293]&lt;1213&gt;OK, I agree to sell this firm for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162726Z" creationid="Olivier" creationdate="20210110T162726Z">
+        <seg>[2293]&lt;1213&gt;Хорошо, согласен продать эту фирму за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2294]&lt;1214&gt;The Securities and Exchange Commission does not approve your purchase.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162727Z" creationid="Olivier" creationdate="20210110T162727Z">
+        <seg>[2294]&lt;1214&gt;Службы и комиссия по обмену не одобряют вашу покупку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2295]&lt;1215&gt;The Securities and Exchange Commission does not approve your purchase.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162728Z" creationid="Olivier" creationdate="20210110T162728Z">
+        <seg>[2295]&lt;1215&gt;Службы и комиссия по обмену не одобряют вашу покупку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2296]&lt;1216&gt;The Securities and Exchange Commission does not approve your purchase.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162728Z" creationid="Olivier" creationdate="20210110T162728Z">
+        <seg>[2296]&lt;1216&gt;Службы и комиссия по обмену не одобряют вашу покупку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2297]&lt;1217&gt;I don't want to sell my firm at this price to you.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162730Z" creationid="Olivier" creationdate="20210110T162730Z">
+        <seg>[2297]&lt;1217&gt;Я не хочу продавать свою фирму вам по этой цене.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2298]&lt;1218&gt;I don't want to sell my stock to you.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162731Z" creationid="Olivier" creationdate="20210110T162731Z">
+        <seg>[2298]&lt;1218&gt;Я не хочу продавать вам свой пакет.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2299]&lt;1219&gt;I reject your offer and demand |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162731Z" creationid="Olivier" creationdate="20210110T162731Z">
+        <seg>[2299]&lt;1219&gt;Я отклоняю ваше предложение и прошу |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2300]&lt;1220&gt; per share.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162732Z" creationid="Olivier" creationdate="20210110T162732Z">
+        <seg>[2300]&lt;1220&gt; за акцию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2301]&lt;1221&gt;( Total payment: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162733Z" creationid="Olivier" creationdate="20210110T162733Z">
+        <seg>[2301]&lt;1221&gt;( Общая сумма : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2302]&lt;1222&gt;You don't have enough cash to purchase my stock.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162734Z" creationid="Olivier" creationdate="20210110T162734Z">
+        <seg>[2302]&lt;1222&gt;У меня не хватит наличных для покупки своего пакета.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2303]&lt;1223&gt;How would you prefer to acquire the remaining shares of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162735Z" creationid="Olivier" creationdate="20210110T162735Z">
+        <seg>[2303]&lt;1223&gt;Что вы сделаете для покупки оставшихся акций |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2304]&lt;1224&gt;1) By paying |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162735Z" creationid="Olivier" creationdate="20210110T162735Z">
+        <seg>[2304]&lt;1224&gt;1) Заплатите |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2305]&lt;1225&gt;) cash|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162736Z" creationid="Olivier" creationdate="20210110T162736Z">
+        <seg>[2305]&lt;1225&gt;) наличными|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2306]&lt;1226&gt;2) By issuing |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162737Z" creationid="Olivier" creationdate="20210110T162737Z">
+        <seg>[2306]&lt;1226&gt;2) Выпустите |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2307]&lt;1227&gt; new shares of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162737Z" creationid="Olivier" creationdate="20210110T162737Z">
+        <seg>[2307]&lt;1227&gt; новых акций компании |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2308]&lt;1228&gt; in exchange with |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162738Z" creationid="Olivier" creationdate="20210110T162738Z">
+        <seg>[2308]&lt;1228&gt; в обмен на |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2309]&lt;1229&gt; shares|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162738Z" creationid="Olivier" creationdate="20210110T162738Z">
+        <seg>[2309]&lt;1229&gt; акций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2310]&lt;1230&gt; offers you |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162739Z" creationid="Olivier" creationdate="20210110T162739Z">
+        <seg>[2310]&lt;1230&gt; предлагает вам |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2311]&lt;1231&gt; per share for buying |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162739Z" creationid="Olivier" creationdate="20210110T162739Z">
+        <seg>[2311]&lt;1231&gt; за акцию |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2312]&lt;1232&gt;back |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162740Z" creationid="Olivier" creationdate="20210110T162740Z">
+        <seg>[2312]&lt;1232&gt;для выкупа |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2313]&lt;1233&gt; shares (|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162741Z" creationid="Olivier" creationdate="20210110T162741Z">
+        <seg>[2313]&lt;1233&gt; акций (|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2314]&lt;1234&gt;) of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162741Z" creationid="Olivier" creationdate="20210110T162741Z">
+        <seg>[2314]&lt;1234&gt;) |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2315]&lt;1235&gt;its own stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162743Z" creationid="Olivier" creationdate="20210110T162743Z">
+        <seg>[2315]&lt;1235&gt;своей компании|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2316]&lt;1236&gt; held by |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162744Z" creationid="Olivier" creationdate="20210110T162744Z">
+        <seg>[2316]&lt;1236&gt; которыми сейчас владеет |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2317]&lt;1237&gt;The market price of the stock is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162745Z" creationid="Olivier" creationdate="20210110T162745Z">
+        <seg>[2317]&lt;1237&gt;Рыночная цена акции составляет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2318]&lt;1238&gt;.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162751Z" creationid="Olivier" creationdate="20210110T162751Z">
+        <seg>[2318]&lt;1238&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2319]&lt;1239&gt;I want to sell this mansion for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162754Z" creationid="Olivier" creationdate="20210110T162754Z">
+        <seg>[2319]&lt;1239&gt;Я хочу продать этот особняк за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2320]&lt;1240&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162754Z" creationid="Olivier" creationdate="20210110T162754Z">
+        <seg>[2320]&lt;1240&gt; \nРыночная цена этого особняка |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2321]&lt;1241&gt;The market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162755Z" creationid="Olivier" creationdate="20210110T162755Z">
+        <seg>[2321]&lt;1241&gt;Рыночная цена этого особняка |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2322]&lt;1242&gt;.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162759Z" creationid="Olivier" creationdate="20210110T162759Z">
+        <seg>[2322]&lt;1242&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2323]&lt;1243&gt;I would like to buy this mansion for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162805Z" creationid="Olivier" creationdate="20210110T162805Z">
+        <seg>[2323]&lt;1243&gt;я хочу купить этот особняк за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2324]&lt;1244&gt;OK, I agree to sell this mansion for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162806Z" creationid="Olivier" creationdate="20210110T162806Z">
+        <seg>[2324]&lt;1244&gt;Хорошо, согласен продать этот особняк за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2325]&lt;1245&gt;I am the |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162806Z" creationid="Olivier" creationdate="20210110T162806Z">
+        <seg>[2325]&lt;1245&gt;Я |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2326]&lt;1246&gt; of your company.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162807Z" creationid="Olivier" creationdate="20210110T162807Z">
+        <seg>[2326]&lt;1246&gt; вашей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2327]&lt;1247&gt;Will you accept my resignation ?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162814Z" creationid="Olivier" creationdate="20210110T162814Z">
+        <seg>[2327]&lt;1247&gt;Согласны с моим увольнением ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2328]&lt;1248&gt;What is your offer ?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162815Z" creationid="Olivier" creationdate="20210110T162815Z">
+        <seg>[2328]&lt;1248&gt;Что вы можете предложить ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2329]&lt;1249&gt;My current salary is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162816Z" creationid="Olivier" creationdate="20210110T162816Z">
+        <seg>[2329]&lt;1249&gt;Мой текущий оклад составляет |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2330]&lt;1250&gt;I'll increase your annual salary to |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162816Z" creationid="Olivier" creationdate="20210110T162816Z">
+        <seg>[2330]&lt;1250&gt;Я повышу ваш годовой оклад до |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2331]&lt;1251&gt;I accept your offer and withdraw my resignation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162817Z" creationid="Olivier" creationdate="20210110T162817Z">
+        <seg>[2331]&lt;1251&gt;Я принимаю предложение и забираю заявление об уходе.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2332]&lt;1252&gt;I reject your offer and affirm my resignation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162818Z" creationid="Olivier" creationdate="20210110T162818Z">
+        <seg>[2332]&lt;1252&gt;Я отклоняю предложение и подтверждаю свое увольнение.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2333]&lt;1253&gt;I accept your offer and agree to buy the technology from you.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162818Z" creationid="Olivier" creationdate="20210110T162818Z">
+        <seg>[2333]&lt;1253&gt;Я согласен с вами и хочу купить у вас технологию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2334]&lt;1254&gt;I reject your offer.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162819Z" creationid="Olivier" creationdate="20210110T162819Z">
+        <seg>[2334]&lt;1254&gt;Не согласен.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2336]&lt;1256&gt; counter offers you |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162821Z" creationid="Olivier" creationdate="20210110T162821Z">
+        <seg>[2336]&lt;1256&gt; делает вам встречное предложение :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2337]&lt;1257&gt; offers you |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162822Z" creationid="Olivier" creationdate="20210110T162822Z">
+        <seg>[2337]&lt;1257&gt; предлагает вам |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2338]&lt;1258&gt; per share for buying |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162823Z" creationid="Olivier" creationdate="20210110T162823Z">
+        <seg>[2338]&lt;1258&gt; за акцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2339]&lt;1259&gt;back |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162823Z" creationid="Olivier" creationdate="20210110T162823Z">
+        <seg>[2339]&lt;1259&gt;обратно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2340]&lt;1260&gt; shares (|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162824Z" creationid="Olivier" creationdate="20210110T162824Z">
+        <seg>[2340]&lt;1260&gt; акций (|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2341]&lt;1261&gt;) of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162825Z" creationid="Olivier" creationdate="20210110T162825Z">
+        <seg>[2341]&lt;1261&gt;) |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2342]&lt;1262&gt;its own stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162826Z" creationid="Olivier" creationdate="20210110T162826Z">
+        <seg>[2342]&lt;1262&gt;своей компании|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2343]&lt;1263&gt; held by |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162827Z" creationid="Olivier" creationdate="20210110T162827Z">
+        <seg>[2343]&lt;1263&gt; которыми сейчас владеет |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2344]&lt;1264&gt;The market price of the stock is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162828Z" creationid="Olivier" creationdate="20210110T162828Z">
+        <seg>[2344]&lt;1264&gt;Рыночная цена акции составляет |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2345]&lt;1265&gt;.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162833Z" creationid="Olivier" creationdate="20210110T162833Z">
+        <seg>[2345]&lt;1265&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2346]&lt;1266&gt;I would like to sell this stock for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162837Z" creationid="Olivier" creationdate="20210110T162837Z">
+        <seg>[2346]&lt;1266&gt;Я хочу продать этот пакет за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2347]&lt;1267&gt;I reject your offer and demand |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162838Z" creationid="Olivier" creationdate="20210110T162838Z">
+        <seg>[2347]&lt;1267&gt;Я отклоняю ваше предложение и прошу |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2348]&lt;1268&gt; per share.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162839Z" creationid="Olivier" creationdate="20210110T162839Z">
+        <seg>[2348]&lt;1268&gt; за акцию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2349]&lt;1269&gt;( Total payment: |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162840Z" creationid="Olivier" creationdate="20210110T162840Z">
+        <seg>[2349]&lt;1269&gt;( Общая сумма : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2350]&lt;1270&gt;I would like to buy this stock for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162840Z" creationid="Olivier" creationdate="20210110T162840Z">
+        <seg>[2350]&lt;1270&gt;Я хочу купить этот пакет за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2351]&lt;1271&gt;I want to buy this mansion for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162841Z" creationid="Olivier" creationdate="20210110T162841Z">
+        <seg>[2351]&lt;1271&gt;Я хочу купить этот особняк за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2352]&lt;1272&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162842Z" creationid="Olivier" creationdate="20210110T162842Z">
+        <seg>[2352]&lt;1272&gt; \nРыночная цена этого особняка |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2353]&lt;1273&gt;I would like to sell this mansion for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162842Z" creationid="Olivier" creationdate="20210110T162842Z">
+        <seg>[2353]&lt;1273&gt;Я хочу продать этот особняк за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2354]&lt;1274&gt;I would like to sell this mansion.\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162843Z" creationid="Olivier" creationdate="20210110T162843Z">
+        <seg>[2354]&lt;1274&gt;Я хочу продать этот особняк.\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2355]&lt;1275&gt;How much can you offer?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162844Z" creationid="Olivier" creationdate="20210110T162844Z">
+        <seg>[2355]&lt;1275&gt;Сколько можете предложить?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2356]&lt;1276&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162844Z" creationid="Olivier" creationdate="20210110T162844Z">
+        <seg>[2356]&lt;1276&gt; \nРыночная цена этого особняка |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2357]&lt;1277&gt;I want to sell this mansion for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162845Z" creationid="Olivier" creationdate="20210110T162845Z">
+        <seg>[2357]&lt;1277&gt;Я хочу продать этот особняк за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2358]&lt;1278&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162845Z" creationid="Olivier" creationdate="20210110T162845Z">
+        <seg>[2358]&lt;1278&gt; \nРыночная цена этого особняка |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2359]&lt;1279&gt;I would like to buy this mansion for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162846Z" creationid="Olivier" creationdate="20210110T162846Z">
+        <seg>[2359]&lt;1279&gt;я хочу купить этот особняк за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2360]&lt;1280&gt;I want to buy this firm for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162847Z" creationid="Olivier" creationdate="20210110T162847Z">
+        <seg>[2360]&lt;1280&gt;Я хочу купить эту фирму за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2361]&lt;1281&gt; \nIts market value is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162847Z" creationid="Olivier" creationdate="20210110T162847Z">
+        <seg>[2361]&lt;1281&gt; \nРыночная стоимость составляет |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2362]&lt;1282&gt;I would like to sell it for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162848Z" creationid="Olivier" creationdate="20210110T162848Z">
+        <seg>[2362]&lt;1282&gt;Я хочу продать это за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2363]&lt;1283&gt;I would like to sell this firm.\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162849Z" creationid="Olivier" creationdate="20210110T162849Z">
+        <seg>[2363]&lt;1283&gt;Я хочу продать эту фирму.\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2364]&lt;1284&gt;How much can you offer?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162849Z" creationid="Olivier" creationdate="20210110T162849Z">
+        <seg>[2364]&lt;1284&gt;Сколько можете предложить?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2365]&lt;1285&gt; \nThe market value of this firm is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162850Z" creationid="Olivier" creationdate="20210110T162850Z">
+        <seg>[2365]&lt;1285&gt; \nРыночная стоимость ее составляет |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2366]&lt;1286&gt;I want to sell this firm for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162851Z" creationid="Olivier" creationdate="20210110T162851Z">
+        <seg>[2366]&lt;1286&gt;Я хочу продать эту фирму за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2367]&lt;1287&gt; \nThe market value of this firm is |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162851Z" creationid="Olivier" creationdate="20210110T162851Z">
+        <seg>[2367]&lt;1287 \nРыночная стоимость ее составляет |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2368]&lt;1288&gt;I would like to buy this firm for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162852Z" creationid="Olivier" creationdate="20210110T162852Z">
+        <seg>[2368]&lt;1288&gt;Я хочу купить эту фирму за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2369]&lt;1289&gt;I want to buy the production technology of %1s from you for %2s.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162853Z" creationid="Olivier" creationdate="20210110T162853Z">
+        <seg>[2369]&lt;1289]Я хочу купить у вас технологию производства товара "%1s" за %2s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2370]&lt;1290&gt;I will only sell this technology for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162858Z" creationid="Olivier" creationdate="20210110T162858Z">
+        <seg>[2370]&lt;1290&gt;Я продам эту технологию только за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2371]&lt;1291&gt;I would like to sell this technology.\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162859Z" creationid="Olivier" creationdate="20210110T162859Z">
+        <seg>[2371]&lt;1291&gt;Я хочу продать свою технологию.\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2372]&lt;1292&gt;How much can you offer?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162859Z" creationid="Olivier" creationdate="20210110T162859Z">
+        <seg>[2372]&lt;1292&gt;Сколько можете предложить?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2373]&lt;1293&gt;I want to sell this technology for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162900Z" creationid="Olivier" creationdate="20210110T162900Z">
+        <seg>[2373]&lt;1293&gt;Я хочу продать эту технологию за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2374]&lt;1294&gt;I would like to buy this technology for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162900Z" creationid="Olivier" creationdate="20210110T162900Z">
+        <seg>[2374]&lt;1294Я хочу продать эту технологию за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2375]&lt;1295&gt;, CEO, |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162901Z" creationid="Olivier" creationdate="20210110T162901Z">
+        <seg>[2375]&lt;1295&gt;, ГИД, |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2377]&lt;1297&gt;LOG|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162904Z" creationid="Olivier" creationdate="20210110T162904Z">
+        <seg>[2377]&lt;1297&gt;ЛОГ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2378]&lt;1298&gt;PREVIOUS|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162905Z" creationid="Olivier" creationdate="20210110T162905Z">
+        <seg>[2378]&lt;1298&gt;ПРЕД.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2379]&lt;1299&gt;NEXT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162906Z" creationid="Olivier" creationdate="20210110T162906Z">
+        <seg>[2379]&lt;1299&gt;СЛЕД.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2380]&lt;1300&gt;CLOSE|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162907Z" creationid="Olivier" creationdate="20210110T162907Z">
+        <seg>[2380]&lt;1300&gt;ЗАКРЫТЬ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2381]&lt;1301&gt;Invented|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162907Z" creationid="Olivier" creationdate="20210110T162907Z">
+        <seg>[2381]&lt;1301&gt;Изобретено|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2382]&lt;1302&gt;Known to You|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162908Z" creationid="Olivier" creationdate="20210110T162908Z">
+        <seg>[2382]&lt;1302&gt;Известно вам|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2383]&lt;AT00&gt;DISABLED|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162909Z" creationid="Olivier" creationdate="20210110T162909Z">
+        <seg>[2383]&lt;AT00&gt;ВЫКЛ.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2384]&lt;AT01&gt;ENABLED|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162909Z" creationid="Olivier" creationdate="20210110T162909Z">
+        <seg>[2384]&lt;AT01&gt;ВКЛ.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2385]&lt;AU00&gt;OFF|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162910Z" creationid="Olivier" creationdate="20210110T162910Z">
+        <seg>[2385]&lt;AU00&gt;ВЫКЛ.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2386]&lt;AU01&gt;ON|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162911Z" creationid="Olivier" creationdate="20210110T162911Z">
+        <seg>[2386]&lt;AU01&gt;ВКЛ.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2387]&lt;AV00&gt;NONE|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162911Z" creationid="Olivier" creationdate="20210110T162911Z">
+        <seg>[2387]&lt;AV00&gt;НЕТ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2388]&lt;AV01&gt;BRIEF|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162912Z" creationid="Olivier" creationdate="20210110T162912Z">
+        <seg>[2388]&lt;AV01&gt;КРАТКО|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2389]&lt;AV02&gt;DETAILED|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162913Z" creationid="Olivier" creationdate="20210110T162913Z">
+        <seg>[2389]&lt;AV02&gt;ПОДРОБНО |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2390]&lt;1303&gt;Game Options|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162913Z" creationid="Olivier" creationdate="20210110T162913Z">
+        <seg>[2390]&lt;1303&gt;Настройки игры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2392]&lt;1305&gt;Default Internal Sale|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162914Z" creationid="Olivier" creationdate="20210110T162914Z">
+        <seg>[2392]&lt;1305&gt;ВНУТРЕННИЕ ПРОДАЖИ ПО УМОЛЧ.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2393]&lt;1306&gt;Default Auto Link Supplier|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162914Z" creationid="Olivier" creationdate="20210110T162914Z">
+        <seg>[2393]&lt;1306&gt;АВТОВЫБОР ПОСТАВЩИКА ПО УМОЛЧ.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2394]&lt;1307&gt;Consider Stock Offers from AI|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162915Z" creationid="Olivier" creationdate="20210110T162915Z">
+        <seg>[2394]&lt;1307&gt;РАССМАТРИВАТЬ ПРЕДЛОЖЕНИЯ СОПЕРНИКОВ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2395]&lt;1308&gt;Music|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162916Z" creationid="Olivier" creationdate="20210110T162916Z">
+        <seg>[2395]&lt;1308&gt;МУЗЫКА|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2396]&lt;1309&gt;Sound Effects|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162916Z" creationid="Olivier" creationdate="20210110T162916Z">
+        <seg>[2396]&lt;1309&gt;ЗВУКОВЫЕ ЭФФЕКТЫ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2397]&lt;1310&gt;Context Sensitive Help|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162917Z" creationid="Olivier" creationdate="20210110T162917Z">
+        <seg>[2397]&lt;1310&gt;ВСПЛЫВАЮЩИЕ ПОДСКАЗКИ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2398]&lt;1311&gt;Auto Save|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162917Z" creationid="Olivier" creationdate="20210110T162917Z">
+        <seg>[2398]&lt;1311&gt;АВТОСОХРАНЕНИЕ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2400]&lt;1313&gt;YOU HAVE RUN OUT OF CASH!!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162918Z" creationid="Olivier" creationdate="20210110T162918Z">
+        <seg>[2400]&lt;1313&gt;У ВАС КОНЧИЛИСЬ СРЕДСТВА!!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2401]&lt;1314&gt;WHAT WOULD YOU LIKE TO DO ?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162919Z" creationid="Olivier" creationdate="20210110T162919Z">
+        <seg>[2401]&lt;1314&gt;ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2402]&lt;1315&gt;If you do not respond in |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162919Z" creationid="Olivier" creationdate="20210110T162919Z">
+        <seg>[2402]&lt;1315&gt;Если вы не ответите в течение |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2403]&lt;1316&gt; seconds, you will be forced to declare bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162920Z" creationid="Olivier" creationdate="20210110T162920Z">
+        <seg>[2403]&lt;1316&gt; секунд, вы будете вынуждены заявить о банкротстве.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2404]&lt;1317&gt;CASH|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162922Z" creationid="Olivier" creationdate="20210110T162922Z">
+        <seg>[2404]&lt;1317&gt;НАЛИЧНЫЕ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2405]&lt;1318&gt;NET WORTH|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162922Z" creationid="Olivier" creationdate="20210110T162922Z">
+        <seg>[2405]&lt;1318&gt;ОБЩ.СТОИМОСТЬ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2651]&lt;1531&gt;RESTART TUTORIAL|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162134Z" creationid="Александр" creationdate="20210107T162134Z">
@@ -17010,6 +18114,54 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T142639Z" creationid="Olivier" creationdate="20210110T142639Z">
         <seg>\n \nЗемлю можно продать за |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\nHow much can you pay ?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162804Z" creationid="Olivier" creationdate="20210110T162804Z">
+        <seg>\nСколько можете предложить ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\nWill you accept this offer?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162733Z" creationid="Olivier" creationdate="20210110T162733Z">
+        <seg>\nКак вам такое предложение?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\nYou cannot buy a stock in which your corporation or its subsidiary has ownership.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162729Z" creationid="Olivier" creationdate="20210110T162729Z">
+        <seg>\nВаша корпорация не может купить пакет, в доле которого вы участвуете.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\nYou cannot use a corporation that you control to buy a stock in which you personally have ownership.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162727Z" creationid="Olivier" creationdate="20210110T162727Z">
+        <seg>\nВы не можете использовать свою корпорацию для покупки пакета, в доле которого участвуете.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\nYou cannot use a corporation that you control to buy a stock in which your corporation or its subsidiary has ownership.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162728Z" creationid="Olivier" creationdate="20210110T162728Z">
+        <seg>\nВы не можете использовать свою корпорацию для покупки пакета, в доле которого участвует ваша корпорация.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162810Z" creationid="Olivier" creationdate="20210110T162810Z">
+        <seg>\n|</seg>
       </tuv>
     </tu>
     <tu>
