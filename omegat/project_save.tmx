@@ -10290,6 +10290,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3132]&lt;LAU2&gt;Set up a farm to produce|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132803Z" creationid="Александр" creationdate="20210110T132740Z">
+        <seg>[3132]&lt;LAU2&gt;Создать ферму по производству|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3133]&lt;LAU3&gt;Set up a factory to produce|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132756Z" creationid="Александр" creationdate="20210110T132756Z">
+        <seg>[3133]&lt;LAU3&gt;Создать фабрику по производству|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3134]&lt;LAU4&gt;and launch it onto the market|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132819Z" creationid="Александр" creationdate="20210110T132819Z">
+        <seg>[3134]&lt;LAU4&gt;и вывести на рынок|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3135]&lt;GSU1&gt;Subsidiaries with Net Worth of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132931Z" creationid="Александр" creationdate="20210110T132931Z">
+        <seg>[3135]&lt;GSU1&gt;Филиалы с чистой стоимостью|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3136]&lt;GSU2&gt;Subsidiaries with Market Value of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133102Z" creationid="Александр" creationdate="20210110T133102Z">
+        <seg>[3136]&lt;GSU2&gt;Филиалы с рыночной стоимостью|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3139]&lt;GSU5&gt;Subsidiaries with Dominance in|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T062903Z" creationid="Александр" creationdate="20210107T062903Z">
