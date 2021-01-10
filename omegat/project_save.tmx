@@ -10274,6 +10274,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3130]&lt;MDOM&gt;Achieve market dominance in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132523Z" creationid="Александр" creationdate="20210110T132523Z">
+        <seg>[3130]&lt;MDOM&gt;Достичь доминирования на рынке в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3131]&lt;LAU1&gt;Launch|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132721Z" creationid="Александр" creationdate="20210110T132721Z">
+        <seg>[3131]&lt;LAU1&gt;Начать|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3139]&lt;GSU5&gt;Subsidiaries with Dominance in|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T062903Z" creationid="Александр" creationdate="20210107T062903Z">
