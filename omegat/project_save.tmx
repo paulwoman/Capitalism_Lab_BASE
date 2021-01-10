@@ -7836,8 +7836,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1323]&lt;AE07&gt;Write-offs|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210109T162115Z" creationid="Александр" creationdate="20210109T162040Z">
-        <seg>[132]&lt;AE07&gt;Списания|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162121Z" creationid="Александр" creationdate="20210109T162040Z">
+        <seg>[1323]&lt;AE07&gt;Списания|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10982,6 +10982,94 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T161404Z" creationid="Olivier" creationdate="20210110T161404Z">
         <seg>[2117]&lt;1038&gt; Появился новый конкурент|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2118]&lt;1039&gt; Firm Setting Up|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162159Z" creationid="Olivier" creationdate="20210110T162159Z">
+        <seg>[2118]&lt;1039&gt; Создается новая фирма|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2119]&lt;1040&gt; Firm Closing Down|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162200Z" creationid="Olivier" creationdate="20210110T162200Z">
+        <seg>[2119]&lt;1040&gt; Закрывается фирма|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2120]&lt;1041&gt; Competitor Bankrupts|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162201Z" creationid="Olivier" creationdate="20210110T162201Z">
+        <seg>[2120]&lt;1041&gt; Банкротство конкурента|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2121]&lt;1042&gt; Resource Reserve Exhausted|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162202Z" creationid="Olivier" creationdate="20210110T162202Z">
+        <seg>[2121]&lt;1042&gt; Истощение запаса ресурсов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2122]&lt;1043&gt; Resource DISCOVERY|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162203Z" creationid="Olivier" creationdate="20210110T162203Z">
+        <seg>[2122]&lt;1043&gt; ОТКРЫТО новое месторождение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2123]&lt;1044&gt; Competitor Borrows Bank Loan|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162204Z" creationid="Olivier" creationdate="20210110T162204Z">
+        <seg>[2123]&lt;1044&gt; Ваш конкурент берет ссуду в банке|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2124]&lt;1045&gt; Competitor Repaies Bank Loan|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162205Z" creationid="Olivier" creationdate="20210110T162205Z">
+        <seg>[2124]&lt;1045&gt; Ваш конкурент возвращает долг банку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2125]&lt;1046&gt; Competitor Issues New Share|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162206Z" creationid="Olivier" creationdate="20210110T162206Z">
+        <seg>[2125]&lt;1046&gt; Ваш конкурент выпускает новые акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2126]&lt;1047&gt; Competitor Buys/Sells Share|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162207Z" creationid="Olivier" creationdate="20210110T162207Z">
+        <seg>[2126]&lt;1047&gt; Ваш конкурент покупает/продает акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2127]&lt;1048&gt; Competitor Takes/Loses Ownership|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162208Z" creationid="Olivier" creationdate="20210110T162208Z">
+        <seg>[2127]&lt;1048&gt; Ваш конкурент приобретает/теряет собственность |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2128]&lt;1049&gt; MERGER|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162323Z" creationid="Olivier" creationdate="20210110T162323Z">
+        <seg>[2128]&lt;1049&gt;СЛИЯНИЕ|</seg>
       </tuv>
     </tu>
     <tu>
