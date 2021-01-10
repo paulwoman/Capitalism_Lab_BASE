@@ -6308,8 +6308,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1812]&lt;0816&gt;CORPORATE LOGO|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T083956Z" creationid="Александр" creationdate="20210107T083956Z">
-        <seg>[0801]&lt;0021&gt;ЛОГОТИП КОРПОРАЦИИ</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T105519Z" creationid="Александр" creationdate="20210107T083956Z">
+        <seg>[1812]&lt;0816&gt;ЛОГОТИП КОРПОРАЦИИ</seg>
       </tuv>
     </tu>
     <tu>
