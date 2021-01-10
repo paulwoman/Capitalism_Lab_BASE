@@ -10026,6 +10026,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3100]&lt;SCRO&gt;Map Scrolling Speed|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T130552Z" creationid="Александр" creationdate="20210110T130552Z">
+        <seg>[3100]&lt;SCRO&gt;Скорость прокрутки карты|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3101]&lt;CTEC&gt;Consider Tech Offers|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T130641Z" creationid="Александр" creationdate="20210110T130641Z">
+        <seg>[3101]&lt;CTEC&gt;Рассмотрим технологические предложения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3107]&lt;ENBL&gt;Enabled|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T064901Z" creationid="Александр" creationdate="20210103T064901Z">
