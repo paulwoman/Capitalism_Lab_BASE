@@ -8108,8 +8108,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1373]&lt;0438&gt; x 5|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T154615Z" creationid="Olivier" creationdate="20210110T154615Z">
-        <seg>[1376]&lt;0441&gt; x |</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154629Z" creationid="Olivier" creationdate="20210110T154615Z">
+        <seg>[1373]&lt;0438&gt; x 5|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8342,6 +8342,134 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T104445Z" creationid="Александр" creationdate="20210109T162405Z">
         <seg>[1404]&lt;0469&gt;Уволить Сотрудника|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1405]&lt;0470&gt;Hire Chief Operating Officer|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154657Z" creationid="Olivier" creationdate="20210110T154657Z">
+        <seg>[1405]&lt;0470&gt;Нанять главного управляющего директора|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1406]&lt;0471&gt;Hire Chief Marketing Officer|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154700Z" creationid="Olivier" creationdate="20210110T154700Z">
+        <seg>[1406]&lt;0471&gt;Нанять начальника отдела маркетинга|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1407]&lt;0472&gt;Hire Chief Technical Officer|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154701Z" creationid="Olivier" creationdate="20210110T154701Z">
+        <seg>[1407]&lt;0472&gt;Нанять глав. тех.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1408]&lt;0473&gt;MANAGEMENT POLICIES|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154709Z" creationid="Olivier" creationdate="20210110T154709Z">
+        <seg>[1408]&lt;0473&gt;УПРАВЛЕНИЕ МЕНЕДЖМЕНТОМ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1409]&lt;0474&gt;Pricing Policy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154711Z" creationid="Olivier" creationdate="20210110T154711Z">
+        <seg>[1409]&lt;0474&gt;Ценовая политика|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1411]&lt;0476&gt;Aggressive|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154712Z" creationid="Olivier" creationdate="20210110T154712Z">
+        <seg>[1411]&lt;0476&gt;Агрессивная|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1412]&lt;0477&gt;Very Aggressive|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154714Z" creationid="Olivier" creationdate="20210110T154714Z">
+        <seg>[1412]&lt;0477&gt;Очень агрессивная|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1419]&lt;0484&gt;The severance for terminating the employment of \n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154715Z" creationid="Olivier" creationdate="20210110T154715Z">
+        <seg>[1419]&lt;0484&gt;Выходное пособие при увольнении сотрудника по имени \n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1424]&lt;0489&gt;, is \n|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154717Z" creationid="Olivier" creationdate="20210110T154717Z">
+        <seg>[1424]&lt;0489&gt;,  потребует выплаты ему\n |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1425]&lt;0490&gt; (monthly salary)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154740Z" creationid="Olivier" creationdate="20210110T154740Z">
+        <seg>[1425]&lt;0490&gt; (месячный оклад)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1426]&lt;0491&gt; (weekly salary) x|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154741Z" creationid="Olivier" creationdate="20210110T154741Z">
+        <seg>[1426]&lt;0491&gt; (недельный оклад) x|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1427]&lt;0492&gt; (years of service)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154743Z" creationid="Olivier" creationdate="20210110T154743Z">
+        <seg>[1427]&lt;0492&gt; (лет на службе)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1428]&lt;0493&gt;Do you want to proceed ?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154744Z" creationid="Olivier" creationdate="20210110T154744Z">
+        <seg>[1428]&lt;0493&gt;Хотите продолжить ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1445]&lt;0510&gt;You offered|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154813Z" creationid="Olivier" creationdate="20210110T154813Z">
+        <seg>[1445]&lt;0510&gt;Вы предложили|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1448]&lt;0513&gt;She|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154832Z" creationid="Olivier" creationdate="20210110T154832Z">
+        <seg>[1448]&lt;0513&gt;Она|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1449]&lt;0514&gt;He|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154835Z" creationid="Olivier" creationdate="20210110T154835Z">
+        <seg>[1449]&lt;0514&gt;Он|</seg>
       </tuv>
     </tu>
     <tu>
