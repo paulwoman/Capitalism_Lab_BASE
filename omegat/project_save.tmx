@@ -10330,6 +10330,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3137]&lt;GSU3&gt;Subsidiaries with Annual Revenue of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133120Z" creationid="Александр" creationdate="20210110T133120Z">
+        <seg>[3137]&lt;GSU3&gt;Филиалы с годовой выручкой|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3138]&lt;GSU4&gt;Subsidiaries with Operating Profit of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133252Z" creationid="Александр" creationdate="20210110T133252Z">
+        <seg>[3138]&lt;GSU4&gt;Филиалы с операционной прибылью|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3139]&lt;GSU5&gt;Subsidiaries with Dominance in|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T062903Z" creationid="Александр" creationdate="20210107T062903Z">
@@ -10468,8 +10484,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3156]&lt;DMOS&gt;Market Dominance of Mobile OS|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T063522Z" creationid="Александр" creationdate="20210107T063522Z">
-        <seg>[3156]&lt;DMOS&gt;Market Dominance of Mobile OS|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133311Z" creationid="Александр" creationdate="20210107T063522Z">
+        <seg>[3156]&lt;DMOS&gt;Доминирование на рынке мобильных операционных систем|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3157]&lt;DCOS&gt;Market Dominance of Computer OS|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133255Z" creationid="Александр" creationdate="20210110T133255Z">
+        <seg>[3157]&lt;DCOS&gt;Market Dominance of Computer OS|</seg>
       </tuv>
     </tu>
     <tu>
