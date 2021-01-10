@@ -7546,6 +7546,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1270]&lt;0384&gt;Function: Advertising your products|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T153728Z" creationid="Olivier" creationdate="20210110T153728Z">
+        <seg>1270]&lt;0384&gt;Функция: Реклама продукции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1271]&lt;0385&gt;Function: Provide information|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T153806Z" creationid="Olivier" creationdate="20210110T153806Z">
+        <seg>[1271]&lt;0385&gt;Функция: Поиск информации|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1272]&lt;0386&gt;Rating Points|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T153809Z" creationid="Olivier" creationdate="20210110T153809Z">
+        <seg>[1272]&lt;0386&gt;Очки рейтинга|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1273]&lt;0387&gt;Rating Points for past 36 months|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154038Z" creationid="Olivier" creationdate="20210110T154038Z">
+        <seg>[1273]&lt;0387&gt;Очки рейтинга за последние 36 месяцев|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1319]&lt;AE03&gt;Salaries Expense|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T104745Z" creationid="Александр" creationdate="20210109T161848Z">
