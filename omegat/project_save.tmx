@@ -8210,6 +8210,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2779]&lt;CBA1&gt;Inflation Hawk (modest)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T135429Z" creationid="Александр" creationdate="20210110T135429Z">
+        <seg>[2779]&lt;CBA1&gt;Инфляция Ястреб (скромная)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2780]&lt;CBA2&gt;Inflation Hawk (strong)|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T135342Z" creationid="Александр" creationdate="20210110T135342Z">
