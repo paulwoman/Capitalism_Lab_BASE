@@ -6426,6 +6426,30 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1056]&lt;0213&gt;Training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T113521Z" creationid="Olivier" creationdate="20210110T113521Z">
+        <seg>[1056]&lt;0213&gt;Обучение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1057]&lt;0214&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T113526Z" creationid="Olivier" creationdate="20210110T113526Z">
+        <seg>[1057]&lt;0214&gt;Брак|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1058]&lt;0215&gt;Shareholder          Owned Qty  Owned%  Stock Value|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T113604Z" creationid="Olivier" creationdate="20210110T113534Z">
+        <seg>[1058]&lt;0215&gt;Акционер	Количество   Проценты   Цена Пакета   Должность|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1108]&lt;0263&gt;Stock Price|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210109T143252Z" creationid="Александр" creationdate="20210109T143252Z">
