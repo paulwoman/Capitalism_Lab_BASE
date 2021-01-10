@@ -5498,6 +5498,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0867]&lt;0082&gt;Necessity Index:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110128Z" creationid="Olivier" creationdate="20210110T110128Z">
+        <seg>[0867]&lt;0082&gt;Индекс необходимости:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1108]&lt;0263&gt;Stock Price|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210109T143252Z" creationid="Александр" creationdate="20210109T143252Z">
