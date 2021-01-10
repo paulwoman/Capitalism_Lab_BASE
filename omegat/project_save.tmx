@@ -6218,6 +6218,166 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1027]&lt;0184&gt;Chief Technical Officer|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111423Z" creationid="Olivier" creationdate="20210110T111423Z">
+        <seg>[1027]&lt;0184&gt;Главный технический директор|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1028]&lt;0185&gt;Financial Overview|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111427Z" creationid="Olivier" creationdate="20210110T111427Z">
+        <seg>[1028]&lt;0185&gt;Финансовый обзор|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1029]&lt;0186&gt;Stock Overview|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111432Z" creationid="Olivier" creationdate="20210110T111432Z">
+        <seg>[1029]&lt;0186&gt;Обзор акций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1031]&lt;0188&gt;Private Corporation|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111442Z" creationid="Olivier" creationdate="20210110T111442Z">
+        <seg>[1031]&lt;0188&gt;Частная корпорация|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1032]&lt;0189&gt;Firm Overview|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111450Z" creationid="Olivier" creationdate="20210110T111450Z">
+        <seg>[1032]&lt;0189&gt;Обзор фирмы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1033]&lt;0190&gt;Annual Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111501Z" creationid="Olivier" creationdate="20210110T111501Z">
+        <seg>[1033]&lt;0190&gt;Годовой доход|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1034]&lt;0191&gt;Annual Gross Profit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111505Z" creationid="Olivier" creationdate="20210110T111505Z">
+        <seg>[1034]&lt;0191&gt;Ежегодная валовая прибыль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1035]&lt;0192&gt;Production &amp; Retail|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111512Z" creationid="Olivier" creationdate="20210110T111512Z">
+        <seg>[1035]&lt;0192&gt;Пр-во и розница|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1036]&lt;0193&gt;Production|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111517Z" creationid="Olivier" creationdate="20210110T111517Z">
+        <seg>[1036]&lt;0193&gt;Произв-во|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1037]&lt;0194&gt;Retail|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111521Z" creationid="Olivier" creationdate="20210110T111521Z">
+        <seg>[1037]&lt;0194&gt;Розница|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1039]&lt;0196&gt;Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111527Z" creationid="Olivier" creationdate="20210110T111527Z">
+        <seg>[1039]&lt;0196&gt;Доход|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1040]&lt;0197&gt;Operating Profit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111541Z" creationid="Olivier" creationdate="20210110T111541Z">
+        <seg>[1040]&lt;0197&gt;Текущая прибыль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1041]&lt;0198&gt;Net Profit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111549Z" creationid="Olivier" creationdate="20210110T111549Z">
+        <seg>[1041]&lt;0198&gt;Чистая прибыль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1042]&lt;0199&gt;Net Worth|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111558Z" creationid="Olivier" creationdate="20210110T111558Z">
+        <seg>[1042]&lt;0199&gt;Чистая стоимость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1043]&lt;0200&gt;Stock Price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111602Z" creationid="Olivier" creationdate="20210110T111602Z">
+        <seg>[1043]&lt;0200&gt;Цена акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1044]&lt;0201&gt;Past 30 Years|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111608Z" creationid="Olivier" creationdate="20210110T111608Z">
+        <seg>[1044]&lt;0201&gt;За 30 лет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1046]&lt;0203&gt;Cash|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111612Z" creationid="Olivier" creationdate="20210110T111612Z">
+        <seg>[1046]&lt;0203&gt;Наличные|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1047]&lt;0204&gt;Inventory|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111615Z" creationid="Olivier" creationdate="20210110T111615Z">
+        <seg>[1047]&lt;0204&gt;Инвентарь|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1048]&lt;0205&gt;Business Assets|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T111620Z" creationid="Olivier" creationdate="20210110T111620Z">
+        <seg>[1048]&lt;0205&gt;Активы корпорации|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1049]&lt;0206&gt;Land &amp; Resource|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T112130Z" creationid="Olivier" creationdate="20210110T112130Z">
+        <seg>[1049]&lt;0206&gt;Земля и ресурсы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1108]&lt;0263&gt;Stock Price|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210109T143252Z" creationid="Александр" creationdate="20210109T143252Z">
