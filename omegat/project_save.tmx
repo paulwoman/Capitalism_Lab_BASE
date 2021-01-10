@@ -5538,6 +5538,198 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0872]&lt;0087&gt;Retail|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110440Z" creationid="Olivier" creationdate="20210110T110440Z">
+        <seg>[0872]&lt;0087&gt;Розница|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0873]&lt;0088&gt;Producer |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110447Z" creationid="Olivier" creationdate="20210110T110447Z">
+        <seg>[0873]&lt;0088&gt;Производитель|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0874]&lt;0089&gt;Retailer |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110453Z" creationid="Olivier" creationdate="20210110T110453Z">
+        <seg>[0874]&lt;0089&gt;Продавец|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0875]&lt;0090&gt;Product Quality|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110522Z" creationid="Olivier" creationdate="20210110T110522Z">
+        <seg>[0875]&lt;0090&gt;Качество продукции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0876]&lt;0091&gt;Production Quality|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110524Z" creationid="Olivier" creationdate="20210110T110524Z">
+        <seg>[0876]&lt;0091&gt;Качество производства|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0877]&lt;0092&gt;Raw Material Quality|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110537Z" creationid="Olivier" creationdate="20210110T110537Z">
+        <seg>[0877]&lt;0092&gt;Качество сырья|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0879]&lt;A300&gt;Corporate Brand|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110554Z" creationid="Olivier" creationdate="20210110T110554Z">
+        <seg>[0879]&lt;A300&gt;Корпоративная марка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0880]&lt;A301&gt;Range Brand|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110601Z" creationid="Olivier" creationdate="20210110T110601Z">
+        <seg>[0880]&lt;A301&gt;Отраслевая марка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0881]&lt;A302&gt;Unique Brand|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110606Z" creationid="Olivier" creationdate="20210110T110606Z">
+        <seg>[0881]&lt;A302&gt;Уникальная марка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0882]&lt;0094&gt;Brand Strategy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110612Z" creationid="Olivier" creationdate="20210110T110612Z">
+        <seg>[0882]&lt;0094&gt;Стратегия марки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0883]&lt;0095&gt;Brand Rating|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110618Z" creationid="Olivier" creationdate="20210110T110618Z">
+        <seg>[0883]&lt;0095&gt;Рейтинг|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0884]&lt;0096&gt;Brand Awareness|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110624Z" creationid="Olivier" creationdate="20210110T110624Z">
+        <seg>[0884]&lt;0096&gt;Известность|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0885]&lt;0097&gt;Brand Loyalty|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110629Z" creationid="Olivier" creationdate="20210110T110629Z">
+        <seg>[0885]&lt;0097&gt;Приверженность|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0886]&lt;0098&gt;Advertising Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110632Z" creationid="Olivier" creationdate="20210110T110632Z">
+        <seg>[0886]&lt;0098&gt;Затраты на рекламу|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0887]&lt;0099&gt; per|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110637Z" creationid="Olivier" creationdate="20210110T110637Z">
+        <seg>[0887]&lt;0099&gt; по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0891]&lt;0103&gt;New Price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110642Z" creationid="Olivier" creationdate="20210110T110642Z">
+        <seg>[0891]&lt;0103&gt;Новая цена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0892]&lt;0104&gt;All companies|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110650Z" creationid="Olivier" creationdate="20210110T110650Z">
+        <seg>[0892]&lt;0104&gt;Всем компаниям|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0893]&lt;0105&gt;All cities|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110654Z" creationid="Olivier" creationdate="20210110T110654Z">
+        <seg>[0893]&lt;0105&gt;Все города|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0894]&lt;0106&gt;(Tech unknown to you)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110659Z" creationid="Olivier" creationdate="20210110T110659Z">
+        <seg>[0894]&lt;0106&gt;(Технология вам незнакома)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0896]&lt;0108&gt;Import|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110703Z" creationid="Olivier" creationdate="20210110T110703Z">
+        <seg>[0896]&lt;0108&gt;Иностр.произв-ль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0897]&lt;0109&gt;No Longer in Business|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110707Z" creationid="Olivier" creationdate="20210110T110707Z">
+        <seg>[0897]&lt;0109&gt;Больше не работает|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0898]&lt;A400&gt;Financial Overview|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110713Z" creationid="Olivier" creationdate="20210110T110713Z">
+        <seg>[0898]&lt;A400&gt;Обзор финансов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0899]&lt;A401&gt;Stock Overview|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110719Z" creationid="Olivier" creationdate="20210110T110719Z">
+        <seg>[0899]&lt;A401&gt;Обзор акций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0900]&lt;A402&gt;Business Relations|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110731Z" creationid="Olivier" creationdate="20210110T110731Z">
+        <seg>[0900]&lt;A402&gt;Обзор фирм|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1108]&lt;0263&gt;Stock Price|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210109T143252Z" creationid="Александр" creationdate="20210109T143252Z">
