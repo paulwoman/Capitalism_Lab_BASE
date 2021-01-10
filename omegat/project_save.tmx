@@ -10154,6 +10154,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3115]&lt;MERI&gt;(You cannot issue new shares for the merger because that will exceed the maximum number of shares that a company is allowed to issue.)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132256Z" creationid="Александр" creationdate="20210110T132256Z">
+        <seg>[3115]&lt;MERI&gt;(Вы не можете выпускать новые акции для объединения, поскольку это превысит максимальное количество акций, которое компания может выпустить.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3116]&lt;TEC1&gt;Not interested, unless you offer|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132322Z" creationid="Александр" creationdate="20210110T132322Z">
+        <seg>[3116]&lt;TEC1&gt;Не интересно, если только вы не предложите|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3117]&lt;TEC2&gt;for the technology.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132343Z" creationid="Александр" creationdate="20210110T132343Z">
+        <seg>[3117]&lt;TEC2&gt;для технологии.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3118]&lt;TEC3&gt;We are not interested in selling this technology to our competitors.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132405Z" creationid="Александр" creationdate="20210110T132405Z">
+        <seg>[3118]&lt;TEC3&gt;Мы не заинтересованы в том, чтобы продавать эту технологию нашим конкурентам.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3119]&lt;TEC4&gt;We are not in need of cash and thus not interested in selling our technology.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132510Z" creationid="Александр" creationdate="20210110T132510Z">
+        <seg>[3119]&lt;TEC4&gt;Мы не нуждаемся в наличных деньгах и поэтому не заинтересованы в продаже нашей технологии.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3120]&lt;SRA1&gt;Your|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205941Z" creationid="Александр" creationdate="20210102T205941Z">
