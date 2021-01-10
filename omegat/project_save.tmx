@@ -10018,6 +10018,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3099]&lt;IPN2&gt;Sorry, under the current market conditions, no investors are interested in subscribing new shares of the company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T130541Z" creationid="Александр" creationdate="20210110T130541Z">
+        <seg>[3099]&lt;IPN2&gt;К сожалению, инвесторы не заинтересованы в подписке на новые акции компании из-за текущих рыночных отношений|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3107]&lt;ENBL&gt;Enabled|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T064901Z" creationid="Александр" creationdate="20210103T064901Z">
