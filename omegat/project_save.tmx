@@ -226,6 +226,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A factory can only make packaged versions of software that is #developed by the same corporation#|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T131442Z" creationid="Александр" creationdate="20210110T131208Z">
+        <seg>Фабрика может выпускать только пакетные версии программного обеспечения, разработанные той же корпорацией.#|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Expansion Aggressiveness=Moderate</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215106Z" creationid="Olivier" creationdate="20201213T215106Z">
@@ -10108,8 +10116,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3110]&lt;TFNO&gt;Sorry, you cannot transfer this factory as it is making #packaged software products#.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210103T064943Z" creationid="Александр" creationdate="20210103T064943Z">
-        <seg>[3110]&lt;TFNO&gt;Sorry, you cannot transfer this factory as it is making #packaged software products#.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T131406Z" creationid="Александр" creationdate="20210103T064943Z">
+        <seg>[3110]&lt;TFNO&gt;К сожалению, вы не можете перенести эту фабрику, так как она производит #пакеты программных продуктов#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3111]&lt;STB1&gt;Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T131532Z" creationid="Александр" creationdate="20210110T131532Z">
+        <seg>[3111]&lt;STB1&gt;К сожалению, вы не можете осуществить эту сделку по выкупу акций, так как общее количество акций публичной компании, находящихся в обращении, не должно быть меньше 1 000 000.|</seg>
       </tuv>
     </tu>
     <tu>
