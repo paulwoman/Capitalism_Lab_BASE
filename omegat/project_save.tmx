@@ -4996,16 +4996,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0778]&lt;FH16&gt;Total no.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210108T122946Z" creationid="Александр" creationdate="20210108T122946Z">
-        <seg>[1836]&lt;0840&gt;Итого нет.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T102737Z" creationid="Александр" creationdate="20210108T122946Z">
+        <seg>[778]&lt;FH16&gt;&gt;Итого нет.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0779]&lt;FH17&gt;Total no.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210108T123013Z" creationid="Александр" creationdate="20210108T123013Z">
-        <seg>[1836]&lt;0840&gt;Итого нет.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T102758Z" creationid="Александр" creationdate="20210108T123013Z">
+        <seg>[0779]&lt;FH17&gt;Итого нет.</seg>
       </tuv>
     </tu>
     <tu>
