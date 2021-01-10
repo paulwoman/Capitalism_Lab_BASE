@@ -10242,6 +10242,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1963]&lt;0912&gt;Brand|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T160747Z" creationid="Olivier" creationdate="20210110T160747Z">
+        <seg>[1963]&lt;0912&gt;Марка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1964]&lt;0913&gt;Overall|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161124Z" creationid="Olivier" creationdate="20210110T161124Z">
+        <seg>[1964]&lt;0913&gt;Всего|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2651]&lt;1531&gt;RESTART TUTORIAL|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162134Z" creationid="Александр" creationdate="20210107T162134Z">
