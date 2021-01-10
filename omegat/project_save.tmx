@@ -5506,6 +5506,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0868]&lt;0083&gt;City Total|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110236Z" creationid="Olivier" creationdate="20210110T110236Z">
+        <seg>[0868]&lt;0083&gt;Всего по городу|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0869]&lt;0084&gt;One Product|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110301Z" creationid="Olivier" creationdate="20210110T110301Z">
+        <seg>[0869]&lt;0084&gt;Одна продукция|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0870]&lt;0085&gt;Market Share |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110321Z" creationid="Olivier" creationdate="20210110T110321Z">
+        <seg>[0870]&lt;0085&gt;Число акций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0871]&lt;0086&gt;Production|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T110434Z" creationid="Olivier" creationdate="20210110T110434Z">
+        <seg>[0871]&lt;0086&gt;Произв-во|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1108]&lt;0263&gt;Stock Price|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210109T143252Z" creationid="Александр" creationdate="20210109T143252Z">
