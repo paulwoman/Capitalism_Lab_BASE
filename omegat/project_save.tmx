@@ -672,6 +672,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You have been trying to raise capital for your fashion startup for years.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165358Z" creationid="Olivier" creationdate="20210110T165358Z">
+        <seg>Description=На протяжении многих лет вы пытались привлечь капитал для своего стартапа в индустрии моды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difficulty Rating=90</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215047Z" creationid="Olivier" creationdate="20201213T215047Z">
@@ -2372,6 +2380,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Fashion Venture</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165220Z" creationid="Olivier" creationdate="20210110T165220Z">
+        <seg>Title=Медиа империя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Media Empire</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T063956Z" creationid="Александр" creationdate="20210107T063956Z">
@@ -2444,6 +2460,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unfortunately the fund raising process is difficult and slow.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165408Z" creationid="Olivier" creationdate="20210110T165408Z">
+        <seg>К сожалению, процесс поиска инвесторов труден и медлен, так что, скорее всего, на момент запуска вашей компании (предпол.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Untitled Document</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T214315Z" creationid="Olivier" creationdate="20201213T214315Z">
@@ -2464,6 +2488,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000513Z" creationid="Olivier" creationdate="20201226T000513Z">
         <seg>Превосходно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165432Z" creationid="Olivier" creationdate="20210110T165432Z">
+        <seg>в 2000 г.) на рынке уже будут конкуренты.</seg>
       </tuv>
     </tu>
     <tu>
