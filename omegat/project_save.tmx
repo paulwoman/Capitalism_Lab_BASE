@@ -10564,8 +10564,32 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3166]&lt;ICR1&gt;Your Insurance Company's Capital Ratio is Negative!|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210110T134241Z" creationid="Александр" creationdate="20210110T134241Z">
-        <seg>[3166]&lt;ICR1&gt;Коэффициент капитала Вашей страховой компании отрицательное!|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134427Z" creationid="Александр" creationdate="20210110T134241Z">
+        <seg>[3166]&lt;ICR1&gt;Коэффициент капитала Вашей страховой компании отрицательный!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3167]&lt;ICR2&gt;The Capital Ratio of Your Subsidiary Insurance Company |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134344Z" creationid="Александр" creationdate="20210110T134344Z">
+        <seg>[3167]&lt;ICR2&gt;Коэффициент капитала филиала Вашей страховой компании |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3168]&lt;ICR3&gt; is Too Low!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134417Z" creationid="Александр" creationdate="20210110T134417Z">
+        <seg>[3168]&lt;ICR3&gt; Слишком низкий!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3169]&lt;ICR4&gt;Insurance Company Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134604Z" creationid="Александр" creationdate="20210110T134604Z">
+        <seg>[3169]&lt;ICR4&gt;Коэффициент капитала Вашей страховой компании|</seg>
       </tuv>
     </tu>
     <tu>
