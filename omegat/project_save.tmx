@@ -368,8 +368,8 @@ Show or hide the Toolbox menu.</seg>
       <tuv lang="en-US">
         <seg>Banknotes and coins for the revalued currency will enter into circulation.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163516Z" creationid="Olivier" creationdate="20210110T163516Z">
-        <seg>Банкноты и монеты переоцененной валюты поступают в обращение|Banknotes and coins for the revalued currency will enter into circulation.|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163607Z" creationid="Olivier" creationdate="20210110T163516Z">
+        <seg>Банкноты и монеты переоцененной валюты поступают в обращение|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,8 +2056,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The government announced that the currency will be revalued at a ratio of 1 to 100.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163512Z" creationid="Olivier" creationdate="20210110T163512Z">
-        <seg>Правительство объявило о ревальвации нац.валюты в соотношении 1 к 100.The government announced that the currency will be revalued at a ratio of 1 to 100.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163541Z" creationid="Olivier" creationdate="20210110T163512Z">
+        <seg>Правительство объявило о ревальвации нац.валюты в соотношении 1 к 100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14884,16 +14884,56 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2708]&lt;BL01&gt;Buy Land|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163522Z" creationid="Olivier" creationdate="20210110T163522Z">
-        <seg>[2708]&lt;BL01&gt;Покупка земли!|[2708]&lt;BL01&gt;Buy Land|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163614Z" creationid="Olivier" creationdate="20210110T163522Z">
+        <seg>[2708]&lt;BL01&gt;Покупка земли!|[2708]&lt;BL01&gt;Покупка земли!|[2708]&lt;BL01&gt;Buy Land|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2709]&lt;BL02&gt;Sorry, you cannot buy this land plot.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163529Z" creationid="Olivier" creationdate="20210110T163529Z">
-        <seg>[2709]&lt;BL02&gt;Извините, но Вы не можете купить этот участок земли.|[2709]&lt;BL02&gt;Sorry, you cannot buy this land plot.|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163623Z" creationid="Olivier" creationdate="20210110T163529Z">
+        <seg>[2709]&lt;BL02&gt;Извините, но Вы не можете купить этот участок земли.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2710]&lt;P36M&gt;Past 36 months|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163628Z" creationid="Olivier" creationdate="20210110T163628Z">
+        <seg>[2710]&lt;P36M&gt;36 мес.последние|[2710]&lt;P36M&gt;Past 36 months|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2711]&lt;AIG4&gt;Tech Focused|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163634Z" creationid="Olivier" creationdate="20210110T163634Z">
+        <seg>[2711]&lt;AIG4&gt;Технологический прорыв|[2711]&lt;AIG4&gt;Tech Focused|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2712]&lt;AIG5&gt;Media Focused|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163640Z" creationid="Olivier" creationdate="20210110T163640Z">
+        <seg>[2712]&lt;AIG5&gt;Медиа в фокусе|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2713]&lt;AIS4&gt;Tech|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163650Z" creationid="Olivier" creationdate="20210110T163650Z">
+        <seg>[2713]&lt;AIS4&gt;Технология|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2714]&lt;AIS5&gt;Media|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T163655Z" creationid="Olivier" creationdate="20210110T163655Z">
+        <seg>[2714]&lt;AIS5&gt;Медиа|</seg>
       </tuv>
     </tu>
     <tu>
@@ -15150,14 +15190,6 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T134811Z" creationid="Александр" creationdate="20210110T134811Z">
         <seg>[2785]&lt;CBP2&gt;Очень плотно|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210109T162500Z" creationid="Александр" creationdate="20210109T162500Z">
-        <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
       </tuv>
     </tu>
     <tu>
