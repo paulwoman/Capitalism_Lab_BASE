@@ -8170,6 +8170,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2766]&lt;NCB2&gt;attitude is now at the helm of the central bank.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125126Z" creationid="Александр" creationdate="20210110T125126Z">
+        <seg>[2766]&lt;NCB2&gt;attitude is now at the helm of the central bank.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210109T162500Z" creationid="Александр" creationdate="20210109T162500Z">
@@ -9886,6 +9894,38 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T064822Z" creationid="Александр" creationdate="20210103T064822Z">
         <seg>[3086]&lt;FTM1&gt;Продайте эту фирму другой компании под вашим контролем.l|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3087]&lt;FTM2&gt;Sell these firms to another company under your control.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125143Z" creationid="Александр" creationdate="20210110T125143Z">
+        <seg>[3086]&lt;FTM1&gt;Продайте эту фирму другой компании под вашим контролем.l|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3088]&lt;FFMP&gt;Fair Market Value|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125314Z" creationid="Александр" creationdate="20210110T125314Z">
+        <seg>[3088]&lt;FFMP&gt;Справедливая рыночная стоимость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3089]&lt;GACQ&gt;Which company under your control will acquire the target company?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125342Z" creationid="Александр" creationdate="20210110T125342Z">
+        <seg>[3089]&lt;GACQ&gt;Какая компания под вашим контролем приобретет целевую компанию?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3090]&lt;ACQP&gt;Acquisition Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125403Z" creationid="Александр" creationdate="20210110T125403Z">
+        <seg>[0785]&lt;0005&gt;Стоимость приобретения|</seg>
       </tuv>
     </tu>
     <tu>
