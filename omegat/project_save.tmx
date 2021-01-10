@@ -8210,6 +8210,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2784]&lt;CBP1&gt;Ultra Tight|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134653Z" creationid="Александр" creationdate="20210110T134653Z">
+        <seg>[2784]&lt;CBP1&gt;Ультратонкий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2785]&lt;CBP2&gt;Very Tight|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134811Z" creationid="Александр" creationdate="20210110T134811Z">
+        <seg>[2785]&lt;CBP2&gt;Очень плотно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210109T162500Z" creationid="Александр" creationdate="20210109T162500Z">
@@ -10590,6 +10606,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T134604Z" creationid="Александр" creationdate="20210110T134604Z">
         <seg>[3169]&lt;ICR4&gt;Коэффициент капитала Вашей страховой компании|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3170]&lt;CE01&gt;The CEO previously considered setting up new a firm but decided not to do so because the company's debt level was too high.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134622Z" creationid="Александр" creationdate="20210110T134622Z">
+        <seg>[3170]&lt;CE01&gt;Генеральный директор ранее рассматривал вопрос о создании новой фирмы, но решил не делать этого, так как уровень долга компании был слишком высоким.|</seg>
       </tuv>
     </tu>
     <tu>
