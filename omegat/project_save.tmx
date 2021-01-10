@@ -10004,8 +10004,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3097]&lt;VCLF&gt;VIEW / CLOSE DOWN FIRMS|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210110T125837Z" creationid="Александр" creationdate="20210110T125837Z">
-        <seg>[3097]&lt;VCLF&gt;ПРОСМОТРЕТЬ / ЗАКРЫТЬ ФИРМЫ |</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T130649Z" creationid="Александр" creationdate="20210110T125837Z">
+        <seg>[3097]&lt;VCLF&gt;ПРОСМОТРЕТЬ / ЗАКРЫТЬ ФИРМЫ|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10038,6 +10038,30 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T130641Z" creationid="Александр" creationdate="20210110T130641Z">
         <seg>[3101]&lt;CTEC&gt;Рассмотрим технологические предложения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3102]&lt;RDCN&gt;R&amp;D Completion Notification|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T130842Z" creationid="Александр" creationdate="20210110T130842Z">
+        <seg>[3102]&lt;RDCN&gt;Уведомление о завершении НИОКР|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3103]&lt;WSAD&gt;WSAD Keys|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T130858Z" creationid="Александр" creationdate="20210110T130858Z">
+        <seg>[3103]&lt;WSAD&gt;WSAD-Клавиши|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3104]&lt;SFIC&gt;Sell factory "Internal Sale" products at cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T130948Z" creationid="Александр" creationdate="20210110T130948Z">
+        <seg>[3104]&lt;SFIC&gt;Продажа заводской продукции "Внутренние продажи" по себестоимости|</seg>
       </tuv>
     </tu>
     <tu>
