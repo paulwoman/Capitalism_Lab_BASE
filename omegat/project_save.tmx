@@ -10492,8 +10492,56 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3157]&lt;DCOS&gt;Market Dominance of Computer OS|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210110T133255Z" creationid="Александр" creationdate="20210110T133255Z">
-        <seg>[3157]&lt;DCOS&gt;Market Dominance of Computer OS|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133337Z" creationid="Александр" creationdate="20210110T133255Z">
+        <seg>[3157]&lt;DCOS&gt;Доминирование на рынке компьютерных операционных систем|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3158]&lt;MINT&gt;Revenue Market Share of Internet Sites|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133432Z" creationid="Александр" creationdate="20210110T133432Z">
+        <seg>[3158]&lt;MINT&gt;Рыночная доля веб-сайтов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3159]&lt;GTEC&gt;Leadership in Technology for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133455Z" creationid="Александр" creationdate="20210110T133455Z">
+        <seg>[3159]&lt;GTEC&gt;Лидерство в области технологий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3160]&lt;GMDO&gt;Market Dominance of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133506Z" creationid="Александр" creationdate="20210110T133506Z">
+        <seg>[3160]&lt;GMDO&gt;Доминирование на рынке|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3161]&lt;OCI1&gt;of Your City|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133526Z" creationid="Александр" creationdate="20210110T133526Z">
+        <seg>[3161]&lt;OCI1&gt;вашего города|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3162]&lt;OCI2&gt;of Your Cities|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133548Z" creationid="Александр" creationdate="20210110T133548Z">
+        <seg>[3162]&lt;OCI2&gt;ваших городов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3163]&lt;NGOA&gt;You have been given a new goal!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T133643Z" creationid="Александр" creationdate="20210110T133643Z">
+        <seg>[3163]&lt;NGOA&gt;Вы получили новую цель!|</seg>
       </tuv>
     </tu>
     <tu>
