@@ -10130,6 +10130,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3112]&lt;STB2&gt;You cannot use a corporation that you control to buy back its own shares.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T131708Z" creationid="Александр" creationdate="20210110T131708Z">
+        <seg>[3112]&lt;STB2&gt;Вы не можете использовать вашу корпорацию, чтобы выкупить ее собственные акции.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3113]&lt;MER1&gt;How would you like|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T131921Z" creationid="Александр" creationdate="20210110T131921Z">
+        <seg>[3113]&lt;MER1&gt;Как бы вы хотели|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3120]&lt;SRA1&gt;Your|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205941Z" creationid="Александр" creationdate="20210102T205941Z">
