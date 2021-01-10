@@ -10146,6 +10146,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3114]&lt;MER2&gt;to acquire the remaining shares of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T132143Z" creationid="Александр" creationdate="20210110T132143Z">
+        <seg>[3114]&lt;MER2&gt;приобрести оставшиеся акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3120]&lt;SRA1&gt;Your|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210102T205941Z" creationid="Александр" creationdate="20210102T205941Z">
