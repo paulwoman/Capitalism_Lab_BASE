@@ -9122,6 +9122,86 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1632]&lt;AK00&gt;Operating Revenue|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T155543Z" creationid="Olivier" creationdate="20210110T155543Z">
+        <seg>[1632]&lt;AK00&gt;Операционный доход|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1633]&lt;AK01&gt;Cost of Sales|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T155546Z" creationid="Olivier" creationdate="20210110T155546Z">
+        <seg>[1633]&lt;AK01&gt;Стоимость продаж|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1634]&lt;AK02&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T155547Z" creationid="Olivier" creationdate="20210110T155547Z">
+        <seg>[1634]&lt;AK02&gt;Издержки на зарплату|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1635]&lt;AK03&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T155549Z" creationid="Olivier" creationdate="20210110T155549Z">
+        <seg>[1635]&lt;AK03&gt;Превышение активов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1636]&lt;AK04&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T155550Z" creationid="Olivier" creationdate="20210110T155550Z">
+        <seg>[1636]&lt;AK04&gt;Затраты на рекламу|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1637]&lt;AK05&gt;Training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T155551Z" creationid="Olivier" creationdate="20210110T155551Z">
+        <seg>[1637]&lt;AK05&gt;Обучение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1638]&lt;AK06&gt;R&amp;D Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T155552Z" creationid="Olivier" creationdate="20210110T155552Z">
+        <seg>[1638]&lt;AK06&gt;Исследование и проектирование|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1639]&lt;AK07&gt;Donation to Public Facilities|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T155617Z" creationid="Olivier" creationdate="20210110T155617Z">
+        <seg>[1639]&lt;AK07&gt;Соц. пожертвования|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1640]&lt;AK08&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T155732Z" creationid="Olivier" creationdate="20210110T155717Z">
+        <seg>[1640]&lt;AK08&gt;Брак|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1641]&lt;AK09&gt;Stock Return|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T155929Z" creationid="Olivier" creationdate="20210110T155929Z">
+        <seg>[1641]&lt;AK09&gt;Доход от акций|&lt;AK09&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1674]&lt;0678&gt; Sector|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T082852Z" creationid="Александр" creationdate="20210107T082852Z">
