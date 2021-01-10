@@ -11074,6 +11074,830 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2129]&lt;1050&gt; Annual Stock Dividend|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162325Z" creationid="Olivier" creationdate="20210110T162325Z">
+        <seg>[2129]&lt;1050&gt; Годовые дивиденды|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2130]&lt;1051&gt; Competitors Retires|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162327Z" creationid="Olivier" creationdate="20210110T162327Z">
+        <seg>[2130]&lt;1051&gt; Конкуренты Увольняются|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2131]&lt;1052&gt; Resource Discovered|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162328Z" creationid="Olivier" creationdate="20210110T162328Z">
+        <seg>[2131]&lt;1052&gt; Открытие нового ископаемого|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2132]&lt;1053&gt; New City|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162329Z" creationid="Olivier" creationdate="20210110T162329Z">
+        <seg>[2132]&lt;1053&gt; Доступен новый город|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2133]&lt;1054&gt; Competitor Declares a Price War|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162330Z" creationid="Olivier" creationdate="20210110T162330Z">
+        <seg>[2133]&lt;1054&gt; Ваш конкурент начинает ценовую войну|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2134]&lt;1055&gt; Ultimate Dominance|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162331Z" creationid="Olivier" creationdate="20210110T162331Z">
+        <seg>[2134]&lt;1055&gt; Окончательное превосходство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2135]&lt;1056&gt; Tender Offering|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162332Z" creationid="Olivier" creationdate="20210110T162332Z">
+        <seg>[2135]&lt;1056&gt; Получено предложение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2136]&lt;1057&gt; Tender Offer|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162334Z" creationid="Olivier" creationdate="20210110T162334Z">
+        <seg>[2136]&lt;1057&gt; Предложение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2137]&lt;1058&gt; Succeeding CEO|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162335Z" creationid="Olivier" creationdate="20210110T162335Z">
+        <seg>[2137]&lt;1058&gt; Назначение генерального директора|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2138]&lt;1059&gt; New Invention|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162336Z" creationid="Olivier" creationdate="20210110T162336Z">
+        <seg>[2138]&lt;1059&gt; Новое изобретение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2139]&lt;1060&gt; Technology Acquisition|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162337Z" creationid="Olivier" creationdate="20210110T162337Z">
+        <seg>[2139]&lt;1060&gt; Распространение технологии|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2140]&lt;1061&gt; Animal Disease!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162338Z" creationid="Olivier" creationdate="20210110T162338Z">
+        <seg>[2140]&lt;1061&gt; Эпидемия среди животных!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2141]&lt;1062&gt; Fire!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162339Z" creationid="Olivier" creationdate="20210110T162339Z">
+        <seg>[2141]&lt;1062&gt; Пожар!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2142]&lt;1063&gt; Plague of Insects!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162340Z" creationid="Olivier" creationdate="20210110T162340Z">
+        <seg>[2142]&lt;1063&gt; Нашествие вредителей!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2143]&lt;1064&gt; Technology Breakthrough!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162356Z" creationid="Olivier" creationdate="20210110T162356Z">
+        <seg>[2143]&lt;1064&gt; Технологический прорыв!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2146]&lt;1067&gt; Firm Acquisition|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162357Z" creationid="Olivier" creationdate="20210110T162357Z">
+        <seg>[2146]&lt;1067&gt; Приобретение фирмы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2147]&lt;1068&gt; Stock Offer|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162418Z" creationid="Olivier" creationdate="20210110T162418Z">
+        <seg>[2147]&lt;1068&gt; Предложение акций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2148]&lt;1069&gt; Merger!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162421Z" creationid="Olivier" creationdate="20210110T162421Z">
+        <seg>[2148]&lt;1069&gt; Объединение!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2149]&lt;1070&gt; sets up Headquarters|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162423Z" creationid="Olivier" creationdate="20210110T162423Z">
+        <seg>[2149]&lt;1070&gt; построила Штаб-квартиру|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2152]&lt;1073&gt; sets up a Factory|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162424Z" creationid="Olivier" creationdate="20210110T162424Z">
+        <seg>[2152]&lt;1073&gt; открывает фабрику|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2153]&lt;1074&gt; opens a R&amp;D Center|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162425Z" creationid="Olivier" creationdate="20210110T162425Z">
+        <seg>[2153]&lt;1074&gt; построила центр НИР|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2154]&lt;1075&gt; sets up a Farm|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162426Z" creationid="Olivier" creationdate="20210110T162426Z">
+        <seg>[2154]&lt;1075&gt; построила ферму|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2155]&lt;1076&gt; sets up a Logging Camp|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162427Z" creationid="Olivier" creationdate="20210110T162427Z">
+        <seg>[2155]&lt;1076&gt; построила лесозаготовку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2156]&lt;1077&gt; sets up a Mine|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162428Z" creationid="Olivier" creationdate="20210110T162428Z">
+        <seg>[2156]&lt;1077&gt; открывает рудник|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2157]&lt;1078&gt; Drills an Oil Well|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162429Z" creationid="Olivier" creationdate="20210110T162429Z">
+        <seg>[2157]&lt;1078&gt; закончила бурение нефтяной скважины|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2158]&lt;1079&gt;TV Station Started|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162445Z" creationid="Olivier" creationdate="20210110T162445Z">
+        <seg>[2158]&lt;1079&gt;открывает новую телестанцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2159]&lt;1080&gt;Newspaper Publisher Started|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162446Z" creationid="Olivier" creationdate="20210110T162446Z">
+        <seg>[2159]&lt;1080&gt;открывает газетное издательство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2160]&lt;1081&gt;Radio Station Started|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162447Z" creationid="Olivier" creationdate="20210110T162447Z">
+        <seg>[2160]&lt;1081&gt;открывает новую Радиостанцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2161]&lt;1082&gt;Seaport Opened|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162448Z" creationid="Olivier" creationdate="20210110T162448Z">
+        <seg>[2161]&lt;1082&gt;открывает морской порт|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2162]&lt;1083&gt; Builds a Mansion|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162449Z" creationid="Olivier" creationdate="20210110T162449Z">
+        <seg>[2162]&lt;1083&gt; построила новый особняк|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2163]&lt;1084&gt; Builds an Apartment|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162450Z" creationid="Olivier" creationdate="20210110T162450Z">
+        <seg>[2163]&lt;1084&gt; построила новое жилье|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2164]&lt;1085&gt; Builds a Commercial Building|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162452Z" creationid="Olivier" creationdate="20210110T162452Z">
+        <seg>[2164]&lt;1085&gt; построила коммерческое здание|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2165]&lt;1086&gt; in |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162453Z" creationid="Olivier" creationdate="20210110T162453Z">
+        <seg>[2165]&lt;1086&gt; в городе |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2170]&lt;1091&gt; Closes Down its |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162503Z" creationid="Olivier" creationdate="20210110T162503Z">
+        <seg>[2170]&lt;1091&gt; закрывает |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2171]&lt;1092&gt; in |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162505Z" creationid="Olivier" creationdate="20210110T162505Z">
+        <seg>[2171]&lt;1092&gt; в городе |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2172]&lt;1093&gt; near |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162506Z" creationid="Olivier" creationdate="20210110T162506Z">
+        <seg>[2172]&lt;1093&gt; в окрестностях города |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2173]&lt;1094&gt; after |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162507Z" creationid="Olivier" creationdate="20210110T162507Z">
+        <seg>[2173]&lt;1094&gt; после |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2174]&lt;1095&gt; Year |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162509Z" creationid="Olivier" creationdate="20210110T162509Z">
+        <seg>[2174]&lt;1095&gt; года |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2175]&lt;1096&gt; Years |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162510Z" creationid="Olivier" creationdate="20210110T162510Z">
+        <seg>[2175]&lt;1096&gt;лет |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2176]&lt;1097&gt;of Operation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162511Z" creationid="Olivier" creationdate="20210110T162511Z">
+        <seg>[2176]&lt;1097&gt;работы.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2177]&lt;1098&gt;NEWCOMER!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162513Z" creationid="Olivier" creationdate="20210110T162513Z">
+        <seg>[2177]&lt;1098&gt;Новая корпорация |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2178]&lt;1099&gt; Joins the Competition.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162514Z" creationid="Olivier" creationdate="20210110T162514Z">
+        <seg>[2178]&lt;1099&gt; вступает в конкурентную борьбу.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2179]&lt;1100&gt;BANKRUPTCY!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162516Z" creationid="Olivier" creationdate="20210110T162516Z">
+        <seg>[2179]&lt;1100&gt;БАНКРОТСТВО!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2181]&lt;1102&gt; Goes Bankrupt after |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162522Z" creationid="Olivier" creationdate="20210110T162522Z">
+        <seg>[2181]&lt;1102&gt; обанкротилась после |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2182]&lt;1103&gt; Year|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162524Z" creationid="Olivier" creationdate="20210110T162524Z">
+        <seg>[2182]&lt;1103&gt; года|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2183]&lt;1104&gt; Years|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162525Z" creationid="Olivier" creationdate="20210110T162525Z">
+        <seg>[2183]&lt;1104&gt; лет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2184]&lt;1105&gt; of Operation.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162526Z" creationid="Olivier" creationdate="20210110T162526Z">
+        <seg>[2184]&lt;1105&gt; работы.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2185]&lt;1106&gt; The Shareholders Received |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162530Z" creationid="Olivier" creationdate="20210110T162530Z">
+        <seg>[2185]&lt;1106&gt; Держатели акций получили |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2186]&lt;1107&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162531Z" creationid="Olivier" creationdate="20210110T162531Z">
+        <seg>[2186]&lt;1107&gt; за акцию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2187]&lt;1108&gt; Reserve near |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162538Z" creationid="Olivier" creationdate="20210110T162538Z">
+        <seg>[2187]&lt;1108&gt; Запас сырья в окрестностях города |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2188]&lt;1109&gt; Exhausted.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162539Z" creationid="Olivier" creationdate="20210110T162539Z">
+        <seg>[2188]&lt;1109&gt; истощен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2189]&lt;1110&gt;Production at the |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162540Z" creationid="Olivier" creationdate="20210110T162540Z">
+        <seg>[2189]&lt;1110&gt;Работа на объекте |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2190]&lt;1111&gt; Owned by |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162540Z" creationid="Olivier" creationdate="20210110T162540Z">
+        <seg>[2190]&lt;1111&gt; принадлежащем компании |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2191]&lt;1112&gt; Ceases.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162541Z" creationid="Olivier" creationdate="20210110T162541Z">
+        <seg>[2191]&lt;1112&gt; приостановлена.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2192]&lt;1113&gt; Deposit Discovered near |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162542Z" creationid="Olivier" creationdate="20210110T162542Z">
+        <seg>[2192]&lt;1113&gt; Новое месторождение было обнаружено возле города |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2193]&lt;1114&gt; Deposit Discovered Accidentally on the Construction Site of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162543Z" creationid="Olivier" creationdate="20210110T162543Z">
+        <seg>[2193]&lt;1114&gt; На строительстве было обнаружено месторождение около нового объекта |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2194]&lt;1115&gt;'s New |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162544Z" creationid="Olivier" creationdate="20210110T162544Z">
+        <seg>[2194]&lt;1115&gt;Новая кампания |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2198]&lt;1119&gt; Issues |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162544Z" creationid="Olivier" creationdate="20210110T162544Z">
+        <seg>[2198]&lt;1119&gt; выпускает |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2199]&lt;1120&gt; New Shares at |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162545Z" creationid="Olivier" creationdate="20210110T162545Z">
+        <seg>[2199]&lt;1120&gt; новых акций по |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2200]&lt;1121&gt; Per Share|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162546Z" creationid="Olivier" creationdate="20210110T162546Z">
+        <seg>[2200]&lt;1121&gt; за акцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2201]&lt;1122&gt; Buys Back |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162546Z" creationid="Olivier" creationdate="20210110T162546Z">
+        <seg>[2201]&lt;1122&gt; выкупает |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2202]&lt;1123&gt; Buys |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162547Z" creationid="Olivier" creationdate="20210110T162547Z">
+        <seg>[2202]&lt;1123&gt; покупает |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2203]&lt;1124&gt; Sells |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162548Z" creationid="Olivier" creationdate="20210110T162548Z">
+        <seg>[2203]&lt;1124&gt; продает |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2204]&lt;1125&gt; Shares of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162548Z" creationid="Olivier" creationdate="20210110T162548Z">
+        <seg>[2204]&lt;1125&gt; акций |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2205]&lt;1126&gt;its Own Stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162549Z" creationid="Olivier" creationdate="20210110T162549Z">
+        <seg>[2205]&lt;1126&gt;своей компании|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2206]&lt;1127&gt; at |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162550Z" creationid="Olivier" creationdate="20210110T162550Z">
+        <seg>[2206]&lt;1127&gt; по цене |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2207]&lt;1128&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162550Z" creationid="Olivier" creationdate="20210110T162550Z">
+        <seg>[2207]&lt;1128&gt; за акцию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2208]&lt;1129&gt; Takes Control of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162551Z" creationid="Olivier" creationdate="20210110T162551Z">
+        <seg>[2208]&lt;1129&gt; берет контроль над кампанией |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2209]&lt;1130&gt; Loses Control of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162552Z" creationid="Olivier" creationdate="20210110T162552Z">
+        <seg>[2209]&lt;1130&gt; теряет контроль над кампанией |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2210]&lt;1131&gt;FRIENDLY MERGER!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162552Z" creationid="Olivier" creationdate="20210110T162552Z">
+        <seg>[2210]&lt;1131&gt;ДРУЖЕСТВЕННОЕ СЛИЯНИЕ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2211]&lt;1132&gt;MERGER!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162553Z" creationid="Olivier" creationdate="20210110T162553Z">
+        <seg>[2211]&lt;1132&gt;СЛИЯНИЯ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2212]&lt;1133&gt; Merges with |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162553Z" creationid="Olivier" creationdate="20210110T162553Z">
+        <seg>[2212]&lt;1133&gt; объединяется с кампанией |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2213]&lt;1134&gt; Pays an Annual Stock Dividend of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162554Z" creationid="Olivier" creationdate="20210110T162554Z">
+        <seg>[2213]&lt;1134&gt; выплачивает годовые дивиденды в размере |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2214]&lt;1135&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162555Z" creationid="Olivier" creationdate="20210110T162555Z">
+        <seg>[2214]&lt;1135&gt; за акцию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2215]&lt;1136&gt; of the Stock Price).|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162555Z" creationid="Olivier" creationdate="20210110T162555Z">
+        <seg>[2215]&lt;1136&gt; Цены пакета).|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2216]&lt;1137&gt; Retires after |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162556Z" creationid="Olivier" creationdate="20210110T162556Z">
+        <seg>[2216]&lt;1137&gt; Увольняется после|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2217]&lt;1138&gt; Years of Service as the CEO of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162556Z" creationid="Olivier" creationdate="20210110T162556Z">
+        <seg>[2217]&lt;1138&gt;  работы в должности ГИД в компании |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2227]&lt;1148&gt; Buys |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162557Z" creationid="Olivier" creationdate="20210110T162557Z">
+        <seg>[2227]&lt;1148&gt; покупает |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2228]&lt;1149&gt;Back |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162557Z" creationid="Olivier" creationdate="20210110T162557Z">
+        <seg>[2228]&lt;1149&gt;назад|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2229]&lt;1150&gt; Shares of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162558Z" creationid="Olivier" creationdate="20210110T162558Z">
+        <seg>[2229]&lt;1150&gt; акций |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2230]&lt;1151&gt;its Own Stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162558Z" creationid="Olivier" creationdate="20210110T162558Z">
+        <seg>[2230]&lt;1151&gt; своей компании |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2231]&lt;1152&gt; from |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162600Z" creationid="Olivier" creationdate="20210110T162600Z">
+        <seg>[2231]&lt;1152&gt; у |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2232]&lt;1153&gt; at |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162604Z" creationid="Olivier" creationdate="20210110T162604Z">
+        <seg>[2232]&lt;1153&gt; по цене |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2233]&lt;1154&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162605Z" creationid="Olivier" creationdate="20210110T162605Z">
+        <seg>[2233]&lt;1154&gt; за акцию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2234]&lt;1155&gt; Succeeds |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162605Z" creationid="Olivier" creationdate="20210110T162605Z">
+        <seg>[2234]&lt;1155&gt; достигает|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2235]&lt;1156&gt; as the CEO of |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162606Z" creationid="Olivier" creationdate="20210110T162606Z">
+        <seg>[2235]&lt;1156&gt; как ГИД в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2236]&lt;1157&gt;Researchers at |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162607Z" creationid="Olivier" creationdate="20210110T162607Z">
+        <seg>[2236]&lt;1157&gt;Ученые |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2237]&lt;1158&gt;'s R&amp;D Center Announce Invention.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162607Z" creationid="Olivier" creationdate="20210110T162607Z">
+        <seg>[2237]&lt;1158&gt; объявили об изобретении года.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2238]&lt;1159&gt; Unveiled at Press Conference.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162609Z" creationid="Olivier" creationdate="20210110T162609Z">
+        <seg>[2238]&lt;1159&gt; будет представлен на пресс-конференции.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2241]&lt;1162&gt;Unknown Disease Decimates |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162609Z" creationid="Olivier" creationdate="20210110T162609Z">
+        <seg>[2241]&lt;1162&gt;Неизвестная болезнь поразила |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2242]&lt;1163&gt; Population in |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162610Z" creationid="Olivier" creationdate="20210110T162610Z">
+        <seg>[2242]&lt;1163&gt; Население в городе |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2243]&lt;1164&gt; Area.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162611Z" creationid="Olivier" creationdate="20210110T162611Z">
+        <seg>[2243]&lt;1164&gt; области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2244]&lt;1165&gt; Are Destroyed.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162611Z" creationid="Olivier" creationdate="20210110T162611Z">
+        <seg>[2244]&lt;1165&gt; уничтожены.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2245]&lt;1166&gt;Researchers at |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162615Z" creationid="Olivier" creationdate="20210110T162615Z">
+        <seg>[2245]&lt;1166&gt;Ученые компании |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2246]&lt;1167&gt;'s R&amp;D Center Make a Breakthrough.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162616Z" creationid="Olivier" creationdate="20210110T162616Z">
+        <seg>[2246]&lt;1167&gt; совершили прорыв в технологии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2247]&lt;1168&gt; Unveiled at Press Conference.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162617Z" creationid="Olivier" creationdate="20210110T162617Z">
+        <seg>[2247]&lt;1168&gt; будет представлен на пресс-конференции.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2248]&lt;1169&gt;Researchers at |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162617Z" creationid="Olivier" creationdate="20210110T162617Z">
+        <seg>[2248]&lt;1169&gt;Ученые компании |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2249]&lt;1170&gt;'s R&amp;D Center Make a Breakthrough in |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162618Z" creationid="Olivier" creationdate="20210110T162618Z">
+        <seg>[2249]&lt;1170&gt; совершают прорыв в технологии производства товара |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2250]&lt;1171&gt;'s Production Technology.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162618Z" creationid="Olivier" creationdate="20210110T162618Z">
+        <seg>[2250]&lt;1171&gt;.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2251]&lt;1172&gt;Fire Destroyed the |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162619Z" creationid="Olivier" creationdate="20210110T162619Z">
+        <seg>[2251]&lt;1172&gt;Пожар уничтожил предприятие корпорации |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2252]&lt;1173&gt;'s |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162620Z" creationid="Olivier" creationdate="20210110T162620Z">
+        <seg>[2252]&lt;1173&gt; (|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2253]&lt;1174&gt; in |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162620Z" creationid="Olivier" creationdate="20210110T162620Z">
+        <seg>[2253]&lt;1174&gt;) в городе |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2254]&lt;1175&gt; near |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162621Z" creationid="Olivier" creationdate="20210110T162621Z">
+        <seg>[2254]&lt;1175&gt; возле города |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2651]&lt;1531&gt;RESTART TUTORIAL|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162134Z" creationid="Александр" creationdate="20210107T162134Z">
@@ -16346,6 +17170,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T154548Z" creationid="Olivier" creationdate="20210110T154548Z">
         <seg>прошедших лет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T162351Z" creationid="Olivier" creationdate="20210110T162351Z">
+        <seg>|</seg>
       </tuv>
     </tu>
     <tu>
