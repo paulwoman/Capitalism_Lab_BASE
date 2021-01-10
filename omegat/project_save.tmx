@@ -6820,8 +6820,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1108]&lt;0263&gt;Stock Price|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210109T143252Z" creationid="Александр" creationdate="20210109T143252Z">
-        <seg>[1110]&lt;0265&gt;Стоимость акции|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142332Z" creationid="Александр" creationdate="20210109T143252Z">
+        <seg>[1108]&lt;0263&gt;Цена акции|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6852,16 +6852,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1112]&lt;0267&gt;P/E Ratio|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T065523Z" creationid="Александр" creationdate="20210107T065523Z">
-        <seg>[1112]&lt;0267&gt;соотношение P/E|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142411Z" creationid="Александр" creationdate="20210107T065523Z">
+        <seg>[1112]&lt;0267&gt;Отношение Ц/Д|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1113]&lt;0268&gt;Dividend Yield|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T065533Z" creationid="Александр" creationdate="20210107T065533Z">
-        <seg>[1113]&lt;0268&gt;Дивидендная доходность|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142353Z" creationid="Александр" creationdate="20210107T065533Z">
+        <seg>[1113]&lt;0268&gt;Дивид. доходность|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6876,8 +6876,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1116]&lt;0271&gt;Who             Cash|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T065601Z" creationid="Александр" creationdate="20210107T065601Z">
-        <seg>[1116]&lt;0271&gt;Кто              Наличными|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142440Z" creationid="Александр" creationdate="20210107T065601Z">
+        <seg>[1116]&lt;0271&gt;Владелец        Сумма|</seg>
       </tuv>
     </tu>
     <tu>
