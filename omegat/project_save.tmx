@@ -16380,8 +16380,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2980]&lt;CASN&gt;CASH NEEDED|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210102T204530Z" creationid="Александр" creationdate="20210102T204530Z">
-        <seg>э[2980]&lt;CASN&gt;ТРЕБУЮТСЯ ДЕНЬГИ|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164150Z" creationid="Александр" creationdate="20210102T204530Z">
+        <seg>[2980]&lt;CASN&gt;ТРЕБУЮТСЯ ДЕНЬГИ|</seg>
       </tuv>
     </tu>
     <tu>
