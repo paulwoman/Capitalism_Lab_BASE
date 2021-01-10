@@ -10562,6 +10562,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3166]&lt;ICR1&gt;Your Insurance Company's Capital Ratio is Negative!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134241Z" creationid="Александр" creationdate="20210110T134241Z">
+        <seg>[3166]&lt;ICR1&gt;Коэффициент капитала Вашей страховой компании отрицательное!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3171]&lt;CE02&gt;The CEO previously considered setting up|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T064956Z" creationid="Александр" creationdate="20210103T064956Z">
