@@ -520,6 +520,30 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Berlin</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164614Z" creationid="Olivier" creationdate="20210110T164614Z">
+        <seg>City=Berlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Frankfurt</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164625Z" creationid="Olivier" creationdate="20210110T164625Z">
+        <seg>City=Frankfurt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Hamburg</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164632Z" creationid="Olivier" creationdate="20210110T164632Z">
+        <seg>City=Hamburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~ now.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215905Z" creationid="Olivier" creationdate="20201217T215855Z">
@@ -1458,6 +1482,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Competitors=15</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164643Z" creationid="Olivier" creationdate="20210110T164643Z">
+        <seg>Number of Competitors=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Competitors=20</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215105Z" creationid="Olivier" creationdate="20201213T215105Z">
@@ -1610,6 +1642,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Population=0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164640Z" creationid="Olivier" creationdate="20210110T164640Z">
+        <seg>Population=0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population=300000</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164629Z" creationid="Olivier" creationdate="20210110T164629Z">
+        <seg>Population=300000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population=500000</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164619Z" creationid="Olivier" creationdate="20210110T164619Z">
+        <seg>Population=500000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201229T224613Z" creationid="Olivier" creationdate="20201229T224613Z">
@@ -1662,6 +1718,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215307Z" creationid="Olivier" creationdate="20201213T215307Z">
         <seg>Ranking Method=Score</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real Wage Rate=30</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164637Z" creationid="Olivier" creationdate="20210110T164637Z">
+        <seg>Real Wage Rate=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real Wage Rate=60</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164623Z" creationid="Olivier" creationdate="20210110T164623Z">
+        <seg>Real Wage Rate=60</seg>
       </tuv>
     </tu>
     <tu>
@@ -19000,6 +19072,14 @@ Hide=Preview</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064106Z" creationid="Olivier" creationdate="20201213T215305Z">
         <seg>[СОРЕВНОВАНИЕ]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[CITIES]</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164612Z" creationid="Olivier" creationdate="20210110T164612Z">
+        <seg>[CITIES]</seg>
       </tuv>
     </tu>
     <tu>
