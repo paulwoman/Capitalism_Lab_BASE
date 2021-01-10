@@ -7786,6 +7786,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1317]&lt;AE01&gt;Purchase Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154323Z" creationid="Olivier" creationdate="20210110T154323Z">
+        <seg>[1317]&lt;AE01&gt;Стоимость|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1318]&lt;AE02&gt;Freight Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154328Z" creationid="Olivier" creationdate="20210110T154328Z">
+        <seg>[1318]&lt;AE02&gt;Стоимость перевозки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1319]&lt;AE03&gt;Salaries Expense|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T104745Z" creationid="Александр" creationdate="20210109T161848Z">
@@ -7886,6 +7902,214 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T104429Z" creationid="Olivier" creationdate="20210110T104352Z">
         <seg>[1331]&lt;AG01&gt;Потребление резерва сырья|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1332]&lt;AG02&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154416Z" creationid="Olivier" creationdate="20210110T154416Z">
+        <seg>[1332]&lt;AG02&gt;Издержки на зарплату|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1333]&lt;AG03&gt;Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154420Z" creationid="Olivier" creationdate="20210110T154420Z">
+        <seg>[1333]&lt;AG03&gt;Превышение активов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1334]&lt;AG04&gt;Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154424Z" creationid="Olivier" creationdate="20210110T154424Z">
+        <seg>[1334]&lt;AG04&gt;Затраты на рекламу|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1335]&lt;AG05&gt;Training|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154428Z" creationid="Olivier" creationdate="20210110T154428Z">
+        <seg>[1335]&lt;AG05&gt;Обучение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1336]&lt;AG06&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154432Z" creationid="Olivier" creationdate="20210110T154432Z">
+        <seg>[1336]&lt;AG06&gt;Брак|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1347]&lt;0412&gt;Summary|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154437Z" creationid="Olivier" creationdate="20210110T154437Z">
+        <seg>[1347]&lt;0412&gt;Кратко|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1348]&lt;0413&gt;Wealth|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154442Z" creationid="Olivier" creationdate="20210110T154442Z">
+        <seg>[1348]&lt;0413&gt;Состояние|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1349]&lt;0414&gt;Career|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154448Z" creationid="Olivier" creationdate="20210110T154448Z">
+        <seg>[1349]&lt;0414&gt;Карьера|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1350]&lt;0415&gt;Personality|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154452Z" creationid="Olivier" creationdate="20210110T154452Z">
+        <seg>[1350]&lt;0415&gt;Личность|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1351]&lt;0416&gt;Expertise|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154506Z" creationid="Olivier" creationdate="20210110T154506Z">
+        <seg>[1351]&lt;0416&gt;Навыки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1352]&lt;0417&gt;Score|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154512Z" creationid="Olivier" creationdate="20210110T154512Z">
+        <seg>[1352]&lt;0417&gt;Счет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1353]&lt;0418&gt;Corporate Balance Sheet|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154516Z" creationid="Olivier" creationdate="20210110T154516Z">
+        <seg>[1353]&lt;0418&gt;Корпоративный баланс|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1354]&lt;0419&gt;Corporate Income Statement|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154520Z" creationid="Olivier" creationdate="20210110T154520Z">
+        <seg>[1354]&lt;0419&gt;Корпоративные поступления|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1355]&lt;0420&gt;Firm Income Statement|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154524Z" creationid="Olivier" creationdate="20210110T154524Z">
+        <seg>[1355]&lt;0420&gt;Поступления в фирму|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1358]&lt;0423&gt;No.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154534Z" creationid="Olivier" creationdate="20210110T154534Z">
+        <seg>[1358]&lt;0423&gt;Количество</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1360]&lt;0425&gt;TARGET|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154558Z" creationid="Olivier" creationdate="20210110T154558Z">
+        <seg>[1360]&lt;0425&gt;ПОКАЗАТЕЛЬ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1361]&lt;0426&gt;CURRENT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154559Z" creationid="Olivier" creationdate="20210110T154559Z">
+        <seg>[1361]&lt;0426&gt;ТЕКУЩЕЕ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1362]&lt;0427&gt;ACHIEVED|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154601Z" creationid="Olivier" creationdate="20210110T154601Z">
+        <seg>[1362]&lt;0427&gt;ЗАДАНИЯ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1363]&lt;0428&gt;SCORE|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154602Z" creationid="Olivier" creationdate="20210110T154602Z">
+        <seg>[1363]&lt;0428&gt;- ОТЧЕТ ПО ИГРЕ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1364]&lt;0429&gt;Personal Wealth|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154603Z" creationid="Olivier" creationdate="20210110T154603Z">
+        <seg>[1364]&lt;0429&gt;Личное состояние|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1365]&lt;0430&gt;Value of Companies Controlled by You|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154605Z" creationid="Olivier" creationdate="20210110T154605Z">
+        <seg>[1365]&lt;0430&gt;   Число контролируемых компаний|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1366]&lt;0431&gt;Dominated Industries|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154606Z" creationid="Olivier" creationdate="20210110T154606Z">
+        <seg>[1366]&lt;0431&gt;Основная отрасль|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1367]&lt;0432&gt;Dominated Products|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154607Z" creationid="Olivier" creationdate="20210110T154607Z">
+        <seg>[1367]&lt;0432&gt;Основная продукция|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1370]&lt;0435&gt; Points|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154609Z" creationid="Olivier" creationdate="20210110T154609Z">
+        <seg>[1370]&lt;0435&gt; Очков|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1372]&lt;0437&gt; x 20|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154625Z" creationid="Olivier" creationdate="20210110T154610Z">
+        <seg>[1372]&lt;0437&gt; x 20|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1373]&lt;0438&gt; x 5|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154615Z" creationid="Olivier" creationdate="20210110T154615Z">
+        <seg>[1376]&lt;0441&gt; x |</seg>
       </tuv>
     </tu>
     <tu>
@@ -13770,6 +13994,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210108T123007Z" creationid="Александр" creationdate="20210108T123007Z">
         <seg>ведущие специалисты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of years passed|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T154548Z" creationid="Olivier" creationdate="20210110T154548Z">
+        <seg>прошедших лет|</seg>
       </tuv>
     </tu>
     <tu>
