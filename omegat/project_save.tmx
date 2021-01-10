@@ -16748,8 +16748,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3026]&lt;IOC1&gt;Your Insurance Company Has Run Out of Cash!|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210105T114335Z" creationid="Александр" creationdate="20210105T114335Z">
-        <seg>\[3026]&lt;IOC1&gt;У вашей страховой компании закончились деньги!|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T164357Z" creationid="Александр" creationdate="20210105T114335Z">
+        <seg>[3026]&lt;IOC1&gt;У вашей страховой компании закончились деньги!|</seg>
       </tuv>
     </tu>
     <tu>
