@@ -712,10 +712,26 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You are always fascinated by stories of legendary investors who have amassed astronomical wealth and exerted great influence over the corporate world.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165919Z" creationid="Olivier" creationdate="20210110T165807Z">
+        <seg>Description=Вас всегда очаровывали рассказы о легендарных инвесторах, которые накопили астрономические богатства и оказали большое влияние на корпоративный мир.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have been trying to raise capital for your fashion startup for years.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165358Z" creationid="Olivier" creationdate="20210110T165358Z">
         <seg>Description=На протяжении многих лет вы пытались привлечь капитал для своего стартапа в индустрии моды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=110</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T170004Z" creationid="Olivier" creationdate="20210110T170004Z">
+        <seg>Difficulty Rating=110</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +1590,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165509Z" creationid="Olivier" creationdate="20210110T165509Z">
         <seg>Number of Competitors=25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Competitors=30</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T170008Z" creationid="Olivier" creationdate="20210110T170008Z">
+        <seg>Number of Competitors=30</seg>
       </tuv>
     </tu>
     <tu>
@@ -2816,6 +2840,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154636Z" creationid="Александр" creationdate="20201218T154636Z">
         <seg>Теперь вам нужно настроить продукты в своем новом универмаге.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You win this game when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165958Z" creationid="Olivier" creationdate="20210110T165958Z">
+        <seg>Вы выиграете эту игру, если накопите состояние в $1 миллиард и получите контроль над 5 публичными компаниями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20002,6 +20034,22 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T162810Z" creationid="Olivier" creationdate="20210110T162810Z">
         <seg>\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Can you become a legendary investor yourself one day?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165908Z" creationid="Olivier" creationdate="20210110T165908Z">
+        <seg>^^Сможете ли вы и сами однажды стать легендарным инвестором?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^In this scenario game, your will just attempt to realize this dream.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165936Z" creationid="Olivier" creationdate="20210110T165936Z">
+        <seg>^^В этом сценарии вы попытаетесь реализовать свою мечту.</seg>
       </tuv>
     </tu>
     <tu>
