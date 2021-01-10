@@ -1,0 +1,2 @@
+Write-offs	Брак
+Stock Return	Доход от акций
