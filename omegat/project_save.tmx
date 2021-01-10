@@ -2404,6 +2404,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have successfully acquired and merged|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125505Z" creationid="Александр" creationdate="20210110T125505Z">
+        <seg>Вы успешно приобрели и объединили|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have successfully acquired|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125623Z" creationid="Александр" creationdate="20210110T125623Z">
+        <seg>Вы успешно приобрели|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have successfully privatized this company.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210106T114508Z" creationid="Александр" creationdate="20210106T114508Z">
@@ -9924,8 +9940,48 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3090]&lt;ACQP&gt;Acquisition Cost|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210110T125403Z" creationid="Александр" creationdate="20210110T125403Z">
-        <seg>[0785]&lt;0005&gt;Стоимость приобретения|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125553Z" creationid="Александр" creationdate="20210110T125403Z">
+        <seg>[3090]&lt;ACQP&gt;Стоимость приобретения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3091]&lt;FTSU&gt;All the selected firms have been transferred successfully.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125439Z" creationid="Александр" creationdate="20210110T125439Z">
+        <seg>[3091]&lt;FTSU&gt;Все выбранные фирмы были успешно переведены.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3092]&lt;ACP1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125449Z" creationid="Александр" creationdate="20210110T125449Z">
+        <seg>[3092]&lt;ACP1&gt;Поздравляем!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3093]&lt;ACP2&gt;into your company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125538Z" creationid="Александр" creationdate="20210110T125538Z">
+        <seg>[3093]&lt;ACP2&gt;в вашу компанию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3094]&lt;ACP3&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125609Z" creationid="Александр" creationdate="20210110T125609Z">
+        <seg>[3094]&lt;ACP3&gt;Поздравляем!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3095]&lt;ACP4&gt;It is now a wholly owned subsidiary of your company.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T125655Z" creationid="Александр" creationdate="20210110T125655Z">
+        <seg>[3095]&lt;ACP4&gt;Теперь этот филиал полностью принадлежит вашей компании.|</seg>
       </tuv>
     </tu>
     <tu>
