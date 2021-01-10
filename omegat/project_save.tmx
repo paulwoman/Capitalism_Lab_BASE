@@ -258,6 +258,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Friendly Merger=Yes</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165512Z" creationid="Olivier" creationdate="20210110T165512Z">
+        <seg>AI Friendly Merger=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Pricing Aggressiveness=Moderate</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215106Z" creationid="Olivier" creationdate="20201213T215106Z">
@@ -544,6 +552,38 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Miami</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165506Z" creationid="Olivier" creationdate="20210110T165506Z">
+        <seg>City=Miami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Paris</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165504Z" creationid="Olivier" creationdate="20210110T165504Z">
+        <seg>City=Paris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Seoul</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165456Z" creationid="Olivier" creationdate="20210110T165456Z">
+        <seg>City=Seoul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Warsaw</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165459Z" creationid="Olivier" creationdate="20210110T165459Z">
+        <seg>City=Warsaw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~ now.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215905Z" creationid="Olivier" creationdate="20201217T215855Z">
@@ -680,6 +720,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Difficulty Rating=80</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165445Z" creationid="Olivier" creationdate="20210110T165445Z">
+        <seg>Difficulty Rating=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difficulty Rating=90</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215047Z" creationid="Olivier" creationdate="20201213T215047Z">
@@ -700,6 +748,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T155210Z" creationid="Александр" creationdate="20201218T155210Z">
         <seg>У вас уже есть деньги, чтобы построить второй универмаг?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you have what it takes to carve out a niche with your new fashion brand and thrive in the market?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165440Z" creationid="Olivier" creationdate="20210110T165440Z">
+        <seg>Есть ли у вас все что требуется для того, чтобы занять нишу с вашим новым модным брендом и процветать на рынке?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1538,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Cities=4</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165448Z" creationid="Olivier" creationdate="20210110T165448Z">
+        <seg>Number of Cities=4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Cities=5</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215049Z" creationid="Olivier" creationdate="20201213T215049Z">
@@ -1502,6 +1566,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215105Z" creationid="Olivier" creationdate="20201213T215105Z">
         <seg>Number of Competitors=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Competitors=25</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165509Z" creationid="Olivier" creationdate="20210110T165509Z">
+        <seg>Number of Competitors=25</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,6 +1782,62 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T183150Z" creationid="Александр" creationdate="20201230T183150Z">
         <seg>Начать?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Beverage, 70</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165525Z" creationid="Olivier" creationdate="20210110T165525Z">
+        <seg>Product Expertise=Beverage, 70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Food, 70</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165527Z" creationid="Olivier" creationdate="20210110T165527Z">
+        <seg>Product Expertise=Food, 70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Snacks, 70</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165529Z" creationid="Olivier" creationdate="20210110T165529Z">
+        <seg>Product Expertise=Snacks, 70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=All</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165536Z" creationid="Olivier" creationdate="20210110T165536Z">
+        <seg>Product=All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=Beverage</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165541Z" creationid="Olivier" creationdate="20210110T165541Z">
+        <seg>Product=Beverage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=Food</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165543Z" creationid="Olivier" creationdate="20210110T165543Z">
+        <seg>Product=Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=Snacks</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165544Z" creationid="Olivier" creationdate="20210110T165544Z">
+        <seg>Product=Snacks</seg>
       </tuv>
     </tu>
     <tu>
@@ -19300,6 +19428,14 @@ Description=This is a sample script for Capitalism Lab, listing all variables un
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[LOCKS]</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165532Z" creationid="Olivier" creationdate="20210110T165532Z">
+        <seg>[LOCKS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Logging Unit]
 ~Raw Material Name~
 The raw material which the unit is currently producing.^
@@ -19336,6 +19472,14 @@ This area shows the stock of the raw material in the unit.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215115Z" creationid="Olivier" creationdate="20201213T215115Z">
         <seg>[MAIN GOAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[PLAYER EXPERTISE]</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165518Z" creationid="Olivier" creationdate="20210110T165518Z">
+        <seg>[PLAYER EXPERTISE]</seg>
       </tuv>
     </tu>
     <tu>
@@ -19794,6 +19938,14 @@ While we were exploring the interfaces, your department store was already genera
       <tuv lang="ru" changeid="Александр" changedate="20201218T155116Z" creationid="Александр" creationdate="20201218T155116Z">
         <seg>[TEXT] 
 Пока мы изучали интерфейс, ваш универмаг уже приносит доход. ^^ Взгляните на ~ данные о денежных средствах и прибыли ~ на панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[UNLOCKS]</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T165539Z" creationid="Olivier" creationdate="20210110T165539Z">
+        <seg>[UNLOCKS]</seg>
       </tuv>
     </tu>
     <tu>
