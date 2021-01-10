@@ -6948,8 +6948,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1127]&lt;0282&gt;Past 30 Days|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T065807Z" creationid="Александр" creationdate="20210107T065807Z">
-        <seg>[1127]&lt;0282&gt;За последние 30 дней|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142535Z" creationid="Александр" creationdate="20210107T065807Z">
+        <seg>[1127]&lt;0282&gt;За 30 дней|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7092,8 +7092,160 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1145]&lt;0299&gt;Your purchase price|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T082837Z" creationid="Александр" creationdate="20210107T082837Z">
-        <seg>[1145]&lt;0299&gt;Your purchase price|</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142619Z" creationid="Александр" creationdate="20210107T082837Z">
+        <seg>[1145]&lt;0299&gt;Вы купили этот особняк за: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1146]&lt;0300&gt;Land and building cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142626Z" creationid="Olivier" creationdate="20210110T142626Z">
+        <seg>[1146]&lt;0300&gt;Цена земли и здания:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1147]&lt;0301&gt;Market value|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142628Z" creationid="Olivier" creationdate="20210110T142628Z">
+        <seg>[1147]&lt;0301&gt;MРасчетное значение: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1148]&lt;0302&gt;Put this mansion on sale for:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142630Z" creationid="Olivier" creationdate="20210110T142630Z">
+        <seg>[1148]&lt;0302&gt;Выставить этот особняк на продажу за:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1149]&lt;0303&gt;Put this mansion on sale|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142631Z" creationid="Olivier" creationdate="20210110T142631Z">
+        <seg>[1149]&lt;0303&gt;Выставить этот особняк на продажу |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1150]&lt;0304&gt;Demolish the mansion and sell the land|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142632Z" creationid="Olivier" creationdate="20210110T142632Z">
+        <seg>[1150]&lt;0304&gt;Снести особняк и продать землю |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1151]&lt;0305&gt;This mansion is for sale|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142633Z" creationid="Olivier" creationdate="20210110T142633Z">
+        <seg>[1151]&lt;0305&gt;тот особняк продается за: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1152]&lt;0306&gt;Buy this mansion|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142634Z" creationid="Olivier" creationdate="20210110T142634Z">
+        <seg>[1152]&lt;0306&gt;Купить этот особняк |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1154]&lt;0308&gt;Are you sure that you want to demolish the mansion and sell the land?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142635Z" creationid="Olivier" creationdate="20210110T142635Z">
+        <seg>[1154]&lt;0308&gt;Вы уверены, что вы хотите снести особняк и продать землю?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1155]&lt;0309&gt;Manager|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142641Z" creationid="Olivier" creationdate="20210110T142641Z">
+        <seg>[1155]&lt;0309&gt;Менеджер|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1156]&lt;0310&gt;TV Broadcast|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142717Z" creationid="Olivier" creationdate="20210110T142717Z">
+        <seg>[1156]&lt;0310&gt;ТВ-вещание|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1158]&lt;0312&gt;Newspaper|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142734Z" creationid="Olivier" creationdate="20210110T142734Z">
+        <seg>[1158]&lt;0312&gt;Газета|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1163]&lt;0317&gt;retail stores.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142736Z" creationid="Olivier" creationdate="20210110T142736Z">
+        <seg>[1163]&lt;0317&gt;розничных магазинах.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1164]&lt;0318&gt;Double-click here to view the product detail report.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142744Z" creationid="Olivier" creationdate="20210110T142744Z">
+        <seg>[1164]&lt;0318&gt;Двойной щелчок для просмотра отчета по розничной реализации.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1175]&lt;0329&gt;City Overall|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142746Z" creationid="Olivier" creationdate="20210110T142746Z">
+        <seg>[1175]&lt;0329&gt;В среднем по городу|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1181]&lt;0335&gt;New Product|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142747Z" creationid="Olivier" creationdate="20210110T142747Z">
+        <seg>[1181]&lt;0335&gt;Новая продукция|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1182]&lt;0336&gt;Development|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142748Z" creationid="Olivier" creationdate="20210110T142748Z">
+        <seg>[1182]&lt;0336&gt;Разработка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1185]&lt;0339&gt;Target Technology:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142750Z" creationid="Olivier" creationdate="20210110T142750Z">
+        <seg>[1185]&lt;0339&gt;Конечная: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1186]&lt;0340&gt;Duration:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142752Z" creationid="Olivier" creationdate="20210110T142752Z">
+        <seg>[1186]&lt;0340&gt;Срок: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1187]&lt;0341&gt;Progress|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142753Z" creationid="Olivier" creationdate="20210110T142753Z">
+        <seg>[1187]&lt;0341&gt;Время|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12954,6 +13106,14 @@ While we were exploring the interfaces, your department store was already genera
       <tuv lang="ru" changeid="Александр" changedate="20201218T155116Z" creationid="Александр" creationdate="20201218T155116Z">
         <seg>[TEXT] 
 Пока мы изучали интерфейс, ваш универмаг уже приносит доход. ^^ Взгляните на ~ данные о денежных средствах и прибыли ~ на панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\n \nThe land can be sold for |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T142639Z" creationid="Olivier" creationdate="20210110T142639Z">
+        <seg>\n \nЗемлю можно продать за |</seg>
       </tuv>
     </tu>
     <tu>
