@@ -10746,6 +10746,246 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2075]&lt;1020&gt;Progress|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161336Z" creationid="Olivier" creationdate="20210110T161336Z">
+        <seg>[2075]&lt;1020&gt;Время|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2078]&lt;1023&gt;Internal Sale|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161337Z" creationid="Olivier" creationdate="20210110T161337Z">
+        <seg>[2078]&lt;1023&gt;Внутр. продажа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2084]&lt;1029&gt;Price|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161338Z" creationid="Olivier" creationdate="20210110T161338Z">
+        <seg>[2084]&lt;1029&gt;Цена|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2091]&lt;1036&gt;Select|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161339Z" creationid="Olivier" creationdate="20210110T161339Z">
+        <seg>[2091]&lt;1036&gt;Выбрать|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2092]&lt;1037&gt;Input Material|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161340Z" creationid="Olivier" creationdate="20210110T161340Z">
+        <seg>[2092]&lt;1037&gt;Входящий материал|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2093]&lt;AR00&gt;Cattle|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161341Z" creationid="Olivier" creationdate="20210110T161341Z">
+        <seg>[2093]&lt;AR00&gt;Крупный рогатый скот|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2094]&lt;AR01&gt;Sheep|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161342Z" creationid="Olivier" creationdate="20210110T161342Z">
+        <seg>[2094]&lt;AR01&gt;Овца|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2095]&lt;AR02&gt;Pig|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161343Z" creationid="Olivier" creationdate="20210110T161343Z">
+        <seg>[2095]&lt;AR02&gt;Свинья|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2096]&lt;AR03&gt;Chicken|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161344Z" creationid="Olivier" creationdate="20210110T161344Z">
+        <seg>[2096]&lt;AR03&gt;Курица|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2097]&lt;AR04&gt;Goat|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161345Z" creationid="Olivier" creationdate="20210110T161345Z">
+        <seg>[2097]&lt;AR04&gt;Коза|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2098]&lt;AR05&gt;Goose|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161345Z" creationid="Olivier" creationdate="20210110T161345Z">
+        <seg>[2098]&lt;AR05&gt;Гусь|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2099]&lt;AR06&gt;Ostrich|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161346Z" creationid="Olivier" creationdate="20210110T161346Z">
+        <seg>[2099]&lt;AR06&gt;Страус|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2100]&lt;AR07&gt;Turkey|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161347Z" creationid="Olivier" creationdate="20210110T161347Z">
+        <seg>[2100]&lt;AR07&gt;Индейка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2101]&lt;AS00&gt;Cattle|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161348Z" creationid="Olivier" creationdate="20210110T161348Z">
+        <seg>[2101]&lt;AS00&gt;Крупный рогатый скот|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2102]&lt;AS01&gt;Sheep|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161349Z" creationid="Olivier" creationdate="20210110T161349Z">
+        <seg>[2102]&lt;AS01&gt;Овца|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2103]&lt;AS02&gt;Pigs|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161350Z" creationid="Olivier" creationdate="20210110T161350Z">
+        <seg>[2103]&lt;AS02&gt;Свиньи|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2104]&lt;AS03&gt;Chickens|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161351Z" creationid="Olivier" creationdate="20210110T161351Z">
+        <seg>[2104]&lt;AS03&gt;Куры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2105]&lt;AS04&gt;Goats|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161352Z" creationid="Olivier" creationdate="20210110T161352Z">
+        <seg>[2105]&lt;AS04&gt;Козы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2106]&lt;AS05&gt;Geese|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161353Z" creationid="Olivier" creationdate="20210110T161353Z">
+        <seg>[2106]&lt;AS05&gt;Гуси|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2107]&lt;AS06&gt;Ostriches|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161354Z" creationid="Olivier" creationdate="20210110T161354Z">
+        <seg>[2107]&lt;AS06&gt;Страусы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2108]&lt;AS07&gt;Turkeys|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161355Z" creationid="Olivier" creationdate="20210110T161355Z">
+        <seg>[2108]&lt;AS07&gt;Индейки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2109]&lt;AT00&gt;Operations News|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161356Z" creationid="Olivier" creationdate="20210110T161356Z">
+        <seg>[2109]&lt;AT00&gt;Новости|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2110]&lt;AT01&gt;Financial News|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161357Z" creationid="Olivier" creationdate="20210110T161357Z">
+        <seg>[2110]&lt;AT01&gt;Финансовые новости|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2111]&lt;AT02&gt;Technology News|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161358Z" creationid="Olivier" creationdate="20210110T161358Z">
+        <seg>[2111]&lt;AT02&gt;Технические новости|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2112]&lt;AT03&gt;Special News|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161359Z" creationid="Olivier" creationdate="20210110T161359Z">
+        <seg>[2112]&lt;AT03&gt;Специальные новости|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2113]&lt;AU00&gt;News related to all corporations|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161400Z" creationid="Olivier" creationdate="20210110T161400Z">
+        <seg>[2113]&lt;AU00&gt;Новости по всем корпорациям|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2114]&lt;AU01&gt;News related to corporations that you control + Special news|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161401Z" creationid="Olivier" creationdate="20210110T161401Z">
+        <seg>[2114]&lt;AU01&gt;Новости по вашим корпорациям + специальные новости|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2115]&lt;AU02&gt;News related to your corporation + Special news|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161402Z" creationid="Olivier" creationdate="20210110T161402Z">
+        <seg>[2115]&lt;AU02&gt;Новости по вашей корпорации + специальные новости|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2116]&lt;AU03&gt;Special news only|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161403Z" creationid="Olivier" creationdate="20210110T161403Z">
+        <seg>[2116]&lt;AU03&gt;Только специальные новости|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2117]&lt;1038&gt; New Competitor|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210110T161404Z" creationid="Olivier" creationdate="20210110T161404Z">
+        <seg>[2117]&lt;1038&gt; Появился новый конкурент|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2651]&lt;1531&gt;RESTART TUTORIAL|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162134Z" creationid="Александр" creationdate="20210107T162134Z">
