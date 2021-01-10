@@ -10066,6 +10066,22 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3105]&lt;SUBS&gt;The new game options for the Subsidiary DLC are available on the [Environment], [Competitors] and [Products] pages.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T131154Z" creationid="Александр" creationdate="20210110T131154Z">
+        <seg>[3105]&lt;SUBS&gt;Новые варианты игр для DLC доступны на страницах [Окружающая среда], [Конкуренты] и [Продукты].|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3106]&lt;PSYN&gt;Default Price Synchronization|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T131205Z" creationid="Александр" creationdate="20210110T131205Z">
+        <seg>[3106]&lt;PSYN&gt;Синхронизация цены по умолчанию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3107]&lt;ENBL&gt;Enabled|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T064901Z" creationid="Александр" creationdate="20210103T064901Z">
