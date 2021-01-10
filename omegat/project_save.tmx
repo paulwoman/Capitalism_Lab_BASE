@@ -8210,6 +8210,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2780]&lt;CBA2&gt;Inflation Hawk (strong)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T135342Z" creationid="Александр" creationdate="20210110T135342Z">
+        <seg>[2780]&lt;CBA2&gt;Инфляция Ястреб (сильная)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2781]&lt;CBA3&gt;Neutral|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134949Z" creationid="Александр" creationdate="20210110T134949Z">
+        <seg>[2781]&lt;CBA3&gt;Нейтральгно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2782]&lt;CBA4&gt;Inflation Dove (modest)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134857Z" creationid="Александр" creationdate="20210110T134857Z">
+        <seg>[2782]&lt;CBA4&gt;Голубь-инфляция (скромная)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2783]&lt;CBA5&gt;Inflation Dove (strong)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210110T134837Z" creationid="Александр" creationdate="20210110T134837Z">
+        <seg>[2783]&lt;CBA5&gt;Голубь-Инфляция (сильная)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2784]&lt;CBP1&gt;Ultra Tight|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T134653Z" creationid="Александр" creationdate="20210110T134653Z">
