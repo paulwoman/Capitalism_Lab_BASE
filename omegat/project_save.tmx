@@ -3852,6 +3852,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your Corporation's Monthly Profit &amp; Loss Chart</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134106Z" creationid="Александр" creationdate="20210111T133546Z">
+        <seg>Ежемесячный график прибыли и убытков вашей корпорации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your Corporation's Operating Profit</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T102027Z" creationid="Александр" creationdate="20210111T102027Z">
