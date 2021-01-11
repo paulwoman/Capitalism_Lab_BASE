@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Double-click# here to see tips for #improving game running speed#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140637Z" creationid="Александр" creationdate="20210111T140637Z">
+        <seg>#Двойной клик# здесь, чтобы увидеть советы для #улучшения скорости работы игры#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#Double-click# to apply the change of this setting to #all your firms#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104451Z" creationid="Александр" creationdate="20210111T104451Z">
+        <seg>#Нажмите дважды#, чтобы применить эти изменения настроек ко всем вашим фирмам#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)
 ~
 GM_CUSTR
@@ -82,6 +98,38 @@ Low - product customization applies to your company only; Medium - it applies to
 GM_CUSTR
 Product Customization Range
 Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Success chance:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084510Z" creationid="Александр" creationdate="20210111T084510Z">
+        <seg>(Шанс успеха:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(hotkey: '+' or '=')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T110026Z" creationid="Александр" creationdate="20210111T110026Z">
+        <seg>(клавиша: '+' или '=')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(hotkey: '-' )</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T110010Z" creationid="Александр" creationdate="20210111T110010Z">
+        <seg>(клавиша: '-' )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(the same firm type and the same company/subsidiary)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134503Z" creationid="Александр" creationdate="20210111T134503Z">
+        <seg>(один и тот же тип фирмы и одна и та же компания/филиал)</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +242,38 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T133035Z" creationid="Александр" creationdate="20210111T133035Z">
+        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T171239Z" creationid="Александр" creationdate="20210111T171239Z">
+        <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
+        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//------------------------------------------------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
+        <seg>//------------------------------------------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//-------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215114Z" creationid="Olivier" creationdate="20201213T215114Z">
@@ -230,6 +310,14 @@ Low - product customization applies to your company only; Medium - it applies to
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T131442Z" creationid="Александр" creationdate="20210110T131208Z">
         <seg>Фабрика может выпускать только пакетные версии программного обеспечения, разработанные той же корпорацией.#|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A red bar indicates a loss; a green bar indicates a profit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134148Z" creationid="Александр" creationdate="20210111T134148Z">
+        <seg>Красный столбик указывает на убыток, зеленый - на прибыль.</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,10 +378,26 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Activate the mode for buying plots of land.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134539Z" creationid="Александр" creationdate="20210111T134539Z">
+        <seg>Активировать режим покупки земельных участков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Active Interface=City View</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000524Z" creationid="Olivier" creationdate="20201226T000524Z">
         <seg>Active Interface=City View</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust monthly spending on investor relations efforts</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102409Z" creationid="Александр" creationdate="20210111T102409Z">
+        <seg>Скорректировать ежемесячные расходы на работу с инвесторами</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +434,30 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply All</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145228Z" creationid="Александр" creationdate="20210111T145228Z">
+        <seg>Применить всеl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply Selected</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145756Z" creationid="Александр" creationdate="20210111T145756Z">
+        <seg>Применить выбранное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply the change to all your firms</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145240Z" creationid="Александр" creationdate="20210111T145240Z">
+        <seg>Применить изменение ко всем вашим фирмам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you using any anti-virus software that runs in background?</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065310Z" creationid="Александр" creationdate="20210107T065310Z">
@@ -354,6 +482,54 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto Link Supplier</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145059Z" creationid="Александр" creationdate="20210111T104321Z">
+        <seg>Автоматическое назначение поставщика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_BACK</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101645Z" creationid="Александр" creationdate="20210111T101645Z">
+        <seg>B_BACK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_CASH</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101728Z" creationid="Александр" creationdate="20210111T101728Z">
+        <seg>B_CASH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_INFO</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101448Z" creationid="Александр" creationdate="20210111T101448Z">
+        <seg>B_INFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_MINMAP</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101240Z" creationid="Александр" creationdate="20210111T101240Z">
+        <seg>B_MINMAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_PROFIT</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102012Z" creationid="Александр" creationdate="20210111T102012Z">
+        <seg>B_PROFIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B_TOOL</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065351Z" creationid="Александр" creationdate="20210107T065351Z">
@@ -370,6 +546,30 @@ Show or hide the Toolbox menu.</seg>
         <seg>B_TOOL
 Toolbox (hotkey: Ctrl-T)
 Show or hide the Toolbox menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_WATCH</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101526Z" creationid="Александр" creationdate="20210111T101526Z">
+        <seg>B_WATCH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_WORLD</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101358Z" creationid="Александр" creationdate="20210111T101358Z">
+        <seg>B_WORLD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Back to the previous firm (hotkey: q)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101709Z" creationid="Александр" creationdate="20210111T101709Z">
+        <seg>Вернуться к предыдущей фирме (Q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,6 +696,22 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Borrow Money</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103645Z" creationid="Александр" creationdate="20210111T103645Z">
+        <seg>Займ денег</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Budding Entrepreneur</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100522Z" creationid="Александр" creationdate="20210111T100522Z">
+        <seg>Budding Entrepreneur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build Firm=Department Store, My Department Store</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215822Z" creationid="Olivier" creationdate="20201217T215822Z">
@@ -504,10 +720,82 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build Menu (hotkey: B)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134340Z" creationid="Александр" creationdate="20210111T134340Z">
+        <seg>Меню строительства (B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build an R&amp;D center and set up Tech R&amp;D units to research the required tech.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T083744Z" creationid="Александр" creationdate="20210111T083744Z">
+        <seg>Построить научно-исследовательский центр и создать технологические научно-исследовательские подразделения для исследования необходимой техники.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy Stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T110044Z" creationid="Александр" creationdate="20210111T110044Z">
+        <seg>Купить акции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy This Firm</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104745Z" creationid="Александр" creationdate="20210111T104745Z">
+        <seg>Купить эту фирму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy This Mansion</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103932Z" creationid="Александр" creationdate="20210111T103932Z">
+        <seg>Купить этот особняк |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy less stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105621Z" creationid="Александр" creationdate="20210111T105621Z">
+        <seg>Купить меньше акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy more stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105637Z" creationid="Александр" creationdate="20210111T105637Z">
+        <seg>Купить больше  акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy plots of land (hotkey: CTRL-L)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134525Z" creationid="Александр" creationdate="20210111T134525Z">
+        <seg>Купить земельные участки (CTRL+L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can you apply what you have learned into running a business in the real world?</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215757Z" creationid="Olivier" creationdate="20201217T215757Z">
         <seg>Сможете ли вы применить то, что узнали, в реальном мире?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102033Z" creationid="Александр" creationdate="20210111T102033Z">
+        <seg>Отмена</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,6 +872,54 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to open the Corporation Detail Report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104636Z" creationid="Александр" creationdate="20210111T104610Z">
+        <seg>Нажмите здесь, чтобы открыть подробный отчет о компании</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view its #Balance Sheet#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102007Z" creationid="Александр" creationdate="20210111T102007Z">
+        <seg>Нажмите здесь, чтобы просмотреть #Балансовый отчёт#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view its #Income Statement#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T133545Z" creationid="Александр" creationdate="20210111T133545Z">
+        <seg>Нажмите здесь, чтобы просмотреть #отчет о прибылях и убытках#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view profile details.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102826Z" creationid="Александр" creationdate="20210111T102826Z">
+        <seg>Нажмите здесь, чтобы просмотреть детали профиля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view the person's details.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104646Z" creationid="Александр" creationdate="20210111T104646Z">
+        <seg>Нажмите здесь, чтобы просмотреть данные о человеке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the speed dial to change the game speed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140556Z" creationid="Александр" creationdate="20210111T140556Z">
+        <seg>Нажмите, чтобы изменить скорость игры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~ now.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215905Z" creationid="Olivier" creationdate="20201217T215855Z">
@@ -608,6 +944,206 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to allow purchasing units to find their own suppliers.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104350Z" creationid="Александр" creationdate="20210111T104323Z">
+        <seg>Нажмите, чтобы позволить покупателям найти собственных поставщиков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to change city view to largest zoom level</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135701Z" creationid="Александр" creationdate="20210111T135701Z">
+        <seg>Нажмите, чтобы выбрать наибольший уровень масштабирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to change city view to normal zoom level.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135145Z" creationid="Александр" creationdate="20210111T135145Z">
+        <seg>Нажмите, чтобы выбрать обычный уровень масштабирования..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to change city view to smallest zoom level.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135736Z" creationid="Александр" creationdate="20210111T134942Z">
+        <seg>Нажмите, чтобы выбрать наименьший уровень масштабирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display previous product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103547Z" creationid="Александр" creationdate="20210111T103547Z">
+        <seg>Нажмите, чтобы показать предыдущий продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the Profit graph for this product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103341Z" creationid="Александр" creationdate="20210111T103341Z">
+        <seg>Нажмите, чтобы отобразить график Прибыли для данного продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the Quantity Sold graph for this product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102923Z" creationid="Александр" creationdate="20210111T102923Z">
+        <seg>Нажмите, чтобы отобразить график Продаж для данного продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the Revenue graph for this product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103319Z" creationid="Александр" creationdate="20210111T103319Z">
+        <seg>Нажмите, чтобы отобразить график выручки для данного продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the daily stock graph for the past 30 days.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105422Z" creationid="Александр" creationdate="20210111T105422Z">
+        <seg>Нажмите, чтобы отобразить график акций за последние 30 дней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the monthly stock graph for the past 36 months.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105355Z" creationid="Александр" creationdate="20210111T105148Z">
+        <seg>Нажмите, чтобы отобразить график акицй за последние 36 месяцев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the next Research Project</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103757Z" creationid="Александр" creationdate="20210111T103757Z">
+        <seg>Нажмите, чтобы показать следующий научный проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the next product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103536Z" creationid="Александр" creationdate="20210111T103536Z">
+        <seg>Нажмите, чтобы показать следующий продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the previous Research Project</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103727Z" creationid="Александр" creationdate="20210111T103727Z">
+        <seg>Нажмите, чтобы показать предыдущий научный проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the previous product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103827Z" creationid="Александр" creationdate="20210111T103827Z">
+        <seg>Нажмите, чтобы показать предыдущий продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the yearly stock graph for the past 30 years.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105146Z" creationid="Александр" creationdate="20210111T105146Z">
+        <seg>Нажмите, чтобы отобразить график акций за последние 30 лет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the yearly stock graph over its lifetime.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105116Z" creationid="Александр" creationdate="20210111T105031Z">
+        <seg>Нажмите, чтобы отобразить годовой график акций на протяжении всего срока его службы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Build Menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134404Z" creationid="Александр" creationdate="20210111T134404Z">
+        <seg>Нажмите, чтобы открыть меню Строительства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Corporate Summary Report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140053Z" creationid="Александр" creationdate="20210111T140008Z">
+        <seg>Нажмите, чтобы открыть краткий отчёт корпорации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Firm Financial Report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104307Z" creationid="Александр" creationdate="20210111T104307Z">
+        <seg>Нажмите, чтобы открыть финансовый отчет фирмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Firm Summary Report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140045Z" creationid="Александр" creationdate="20210111T140045Z">
+        <seg>Нажмите, чтобы открыть краткий отчёт фирмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Layout Plan Library</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104245Z" creationid="Александр" creationdate="20210111T104245Z">
+        <seg>Нажмите чтобы открыть библиотеку планов размещенеия |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Product Summary Report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135905Z" creationid="Александр" creationdate="20210111T135808Z">
+        <seg>Нажмите, чтобы открыть сводный отчет о продукции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to sell the displayed stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105529Z" creationid="Александр" creationdate="20210111T105529Z">
+        <seg>Нажмите, чтобы продать отображаемую акцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle the stock news option on or off.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104945Z" creationid="Александр" creationdate="20210111T104945Z">
+        <seg>Нажмите, чтобы включить или выключить биржевые новости.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close News Log window (hotkey: 'V')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104849Z" creationid="Александр" creationdate="20210111T104849Z">
+        <seg>Закрыть окно журнала новостей (V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=Moderate</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215112Z" creationid="Olivier" creationdate="20201213T215112Z">
@@ -620,6 +1156,46 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215106Z" creationid="Olivier" creationdate="20201213T215106Z">
         <seg>Competitor Start-up Capital=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitors are allowed to buy your products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T141520Z" creationid="Александр" creationdate="20210111T141520Z">
+        <seg>Competitors are allowed to buy your products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitors are not allowed to buy your products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T141603Z" creationid="Александр" creationdate="20210111T141603Z">
+        <seg>Конкуренты не имеют права покупать вашу продукцию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm change to Selling Price</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103915Z" creationid="Александр" creationdate="20210111T103915Z">
+        <seg>Подтвердить изменение цены продажи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm change to selling price</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103901Z" creationid="Александр" creationdate="20210111T103901Z">
+        <seg>Подтвердить изменение цены продажи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm the new dividend</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145129Z" creationid="Александр" creationdate="20210111T145129Z">
+        <seg>Подтвердите новый дивиденд</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,6 +1248,22 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate Summary Report (hotkey: 'C')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140115Z" creationid="Александр" creationdate="20210111T135931Z">
+        <seg>Краткий отчёт корпорации (C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Date</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134159Z" creationid="Александр" creationdate="20210111T134159Z">
+        <seg>Текущая дата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Current Firm=My Department Store</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215852Z" creationid="Olivier" creationdate="20201217T215852Z">
@@ -680,10 +1272,42 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Daily Stock Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105409Z" creationid="Александр" creationdate="20210111T105409Z">
+        <seg>Ежедневный график акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Definitions&lt;/a1&gt;&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T115706Z" creationid="Александр" creationdate="20201218T115706Z">
         <seg>Definitions&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish This Firm</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104733Z" creationid="Александр" creationdate="20210111T104733Z">
+        <seg>Уничтожить эту фирму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish This Mansion</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103947Z" creationid="Александр" creationdate="20210111T103947Z">
+        <seg>Снести этот особняк |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100741Z" creationid="Александр" creationdate="20210111T100741Z">
+        <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
       </tuv>
     </tu>
     <tu>
@@ -748,6 +1372,30 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215047Z" creationid="Olivier" creationdate="20201213T215047Z">
         <seg>Difficulty Rating=90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disable AutoLink to Supplier</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T144126Z" creationid="Александр" creationdate="20210111T144126Z">
+        <seg>Отключить автоматическую связь с поставщиком</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disable Internal Sale</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140958Z" creationid="Александр" creationdate="20210111T140958Z">
+        <seg>Отключить внутреннюю продажу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the game options menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140406Z" creationid="Александр" creationdate="20210111T140406Z">
+        <seg>Показать меню опций игры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1024,10 +1672,42 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable AutoLink to Supplier</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T144440Z" creationid="Александр" creationdate="20210111T144440Z">
+        <seg>Включить автоматическую связь с поставщиком</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable Internal Sale</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T141535Z" creationid="Александр" creationdate="20210111T141535Z">
+        <seg>Включить внутреннюю продажу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable/Disable Stock News</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104918Z" creationid="Александр" creationdate="20210111T104918Z">
+        <seg>Включить/выключить биржевые новости</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enjoyable for Most Players.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T062231Z" creationid="Александр" creationdate="20210107T062231Z">
         <seg>Подходит для большинства игроков.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Event Tracker (hotkey: F5)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101626Z" creationid="Александр" creationdate="20210111T101626Z">
+        <seg>События (F5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1052,6 +1732,22 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T162636Z" creationid="Olivier" creationdate="20210110T162636Z">
         <seg>Поля полностью опустошены.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Financial Report (hotkey: F6)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104257Z" creationid="Александр" creationdate="20210111T104257Z">
+        <seg>Финансовый отчёт (F6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm Summary Report (hotkey: 'F')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140024Z" creationid="Александр" creationdate="20210111T140024Z">
+        <seg>Краткий отчет фирмы (F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1124,6 +1820,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game Menu (hotkey: ESC)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140256Z" creationid="Александр" creationdate="20210111T140256Z">
+        <seg>Меню игры (ESC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140537Z" creationid="Александр" creationdate="20210111T140537Z">
+        <seg>Скорость игры (0 - пауза, 1 - 5 для настройки скорости)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game Starting Year=1990</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
@@ -1136,6 +1848,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T234454Z" creationid="Olivier" creationdate="20201225T234454Z">
         <seg>Уровень сложности игры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go back to the previously selected firm.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101727Z" creationid="Александр" creationdate="20210111T101727Z">
+        <seg>Вернуться к предыдущей фирме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the Firms report and select those of your firms that you want to apply the change</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145929Z" creationid="Александр" creationdate="20210111T145929Z">
+        <seg>Перейдите к отчету компании и выберите те компании, в которые вы хотите внедрить изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the Headquarters.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140143Z" creationid="Александр" creationdate="20210111T140143Z">
+        <seg>Перейти в штаб-квартиру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1172,6 +1908,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Report (hotkey: G)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134728Z" creationid="Александр" creationdate="20210111T134728Z">
+        <seg>Отчёт о целях (F6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Aggressive Growth Plan</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215119Z" creationid="Olivier" creationdate="20201213T215119Z">
@@ -1204,6 +1948,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Headquarters (hotkey: 'H')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140129Z" creationid="Александр" creationdate="20210111T140129Z">
+        <seg>Штаб-квартира (H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide=Minimap and Filter</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215729Z" creationid="Olivier" creationdate="20201217T215729Z">
@@ -1216,6 +1968,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215733Z" creationid="Olivier" creationdate="20201217T215733Z">
         <seg>Hide=Preview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire a new Chief Technical Officer.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102753Z" creationid="Александр" creationdate="20210111T102753Z">
+        <seg>Нанять нового главного технического директора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold #CTRL# key while clicking for #100X# speed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105905Z" creationid="Александр" creationdate="20210111T105803Z">
+        <seg>Зажмите клавишу #CTRL#, для скорости #100X#..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold #SHIFT# key while clicking for #10X# speed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105959Z" creationid="Александр" creationdate="20210111T105854Z">
+        <seg>Зажмите клавишу #SHIFT#, для скорости #10X#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1236,10 +2012,42 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IFA_GP</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103425Z" creationid="Александр" creationdate="20210111T103425Z">
+        <seg>IFA_GP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_AL</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104308Z" creationid="Александр" creationdate="20210111T104308Z">
+        <seg>IF_AL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_L</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104156Z" creationid="Александр" creationdate="20210111T104156Z">
+        <seg>IF_L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T182330Z" creationid="Александр" creationdate="20201218T181917Z">
         <seg>Если установлено значение обратной инфляции,  то денежные суммы корректируются в зависимости от их чистой покупательной способности..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this option is on stock purchases and sales will be headlined in the city view</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105017Z" creationid="Александр" creationdate="20210111T105017Z">
+        <seg>Если эта опция включена в раздел "Покупки и продажи на складе", то она будет иметь заголовок на странице "Обзор города".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1284,6 +2092,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information Center</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101501Z" creationid="Александр" creationdate="20210111T101501Z">
+        <seg>Информационный центр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Interface Select=Select Supplier, Seaport</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T220031Z" creationid="Olivier" creationdate="20201217T220031Z">
@@ -1304,6 +2120,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215929Z" creationid="Olivier" creationdate="20201217T215929Z">
         <seg>Здесь перечислены все доступные в игре продукты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It offers a powerful suite of features that allow you to set up banks and insurance companies, issue and trade bonds, and invest in global stocks.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055841Z" creationid="Александр" creationdate="20210111T055752Z">
+        <seg>Предлагается мощный набор функций, которые позволяют создавать банки и страховые компании, выпускать и торговать облигациями, а также инвестировать в глобальные акции.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,6 +2210,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its bondholders lost all their investments in the bonds.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T092655Z" creationid="Александр" creationdate="20210111T092655Z">
+        <seg>Держатели облигаций потеряли все свои вложения.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its bondholders receive|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T092732Z" creationid="Александр" creationdate="20210111T092732Z">
+        <seg>Держатели облигаций получают|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its current equity value is negative.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T130207Z" creationid="Александр" creationdate="20210110T130207Z">
@@ -1426,6 +2266,46 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Land-use planning</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134604Z" creationid="Александр" creationdate="20210111T134604Z">
+        <seg>План землепользования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Largest zoom level (hotkey: '/')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135224Z" creationid="Александр" creationdate="20210111T135224Z">
+        <seg>Самый большой уровень масштабирования (/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layout Plan Library (hotkey: F7)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104214Z" creationid="Александр" creationdate="20210111T104214Z">
+        <seg>Библиотека плана размещения (F7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Left-click to decrease.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102212Z" creationid="Александр" creationdate="20210111T102212Z">
+        <seg>Щелкните левой кнопкой мыши, чтобы уменьшить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Left-click to increase.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102222Z" creationid="Александр" creationdate="20210111T102222Z">
+        <seg>Щелкните левой кнопкой мыши, чтобы увеличить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000532Z" creationid="Olivier" creationdate="20201226T000532Z">
@@ -1438,6 +2318,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215124Z" creationid="Olivier" creationdate="20201213T215124Z">
         <seg>Lifetime shareholder return=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Link This Item</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103419Z" creationid="Александр" creationdate="20210111T103419Z">
+        <seg>Соединить эти пункты</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,10 +2346,82 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make Your Offer</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102100Z" creationid="Александр" creationdate="20210111T102100Z">
+        <seg>Сделайте ваше предложение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make a Counter Offer</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103925Z" creationid="Александр" creationdate="20210111T103925Z">
+        <seg>Сделайте ваше предложение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manager's Guide (hotkey: F3)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104518Z" creationid="Александр" creationdate="20210111T104518Z">
+        <seg>Руководство менеджера (F3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mini Map (hotkey: 'M')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101317Z" creationid="Александр" creationdate="20210111T101317Z">
+        <seg>Миникарта (M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Monthly Spending Adjustment</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102420Z" creationid="Александр" creationdate="20210111T102420Z">
+        <seg>Корректировка ежемесячных расходов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Monthly Stock Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105208Z" creationid="Александр" creationdate="20210111T105208Z">
+        <seg>Ежемесячный график акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move the slider to alter the Training Level.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104048Z" creationid="Александр" creationdate="20210111T104048Z">
+        <seg>Переместите ползунок, чтобы изменить уровень обучения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NIL</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215713Z" creationid="Olivier" creationdate="20201217T215713Z">
         <seg>NIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>News Action Button</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104819Z" creationid="Александр" creationdate="20210111T104819Z">
+        <seg>Кнопка "Новости"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>News Display Option (hotkey: 'N')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140738Z" creationid="Александр" creationdate="20210111T140738Z">
+        <seg>Опция отображения новостей (N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,10 +2434,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next Product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103442Z" creationid="Александр" creationdate="20210111T103442Z">
+        <seg>Следующий продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Research Project</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103818Z" creationid="Александр" creationdate="20210111T103818Z">
+        <seg>Следующий научный проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None of the other companies have a technology more advanced than yours.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T184042Z" creationid="Александр" creationdate="20201230T184042Z">
         <seg>Ни одна компания не имеет более продвинутой технологии, чем ваша.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Normal zoom level (hotkey: '.')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135013Z" creationid="Александр" creationdate="20210111T135013Z">
+        <seg>Обычный уровень увеличения (.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +2538,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Cities=2</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
+        <seg>Number of Cities=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Cities=4</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165448Z" creationid="Olivier" creationdate="20210110T165448Z">
@@ -1618,10 +2610,82 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Offer to sell this firm</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104758Z" creationid="Александр" creationdate="20210111T104758Z">
+        <seg>Предлагаю продать эту фирму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Offer to sell this mansion</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104026Z" creationid="Александр" creationdate="20210111T104026Z">
+        <seg>Предложение о продаже этого особняка |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140915Z" creationid="Александр" creationdate="20210111T140915Z">
+        <seg>Ок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only choose this if you have won in easier games.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T062133Z" creationid="Александр" creationdate="20210107T062133Z">
         <seg>Выберайте этот вариант, только если вы выигрывали в более простых играх.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open News Log window (hotkey: 'V')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104906Z" creationid="Александр" creationdate="20210111T104906Z">
+        <seg>Открыть окно журнала новостей (V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Event Tracker Window.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101644Z" creationid="Александр" creationdate="20210111T101644Z">
+        <seg>Открыть окно событий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Goal report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134638Z" creationid="Александр" creationdate="20210111T134638Z">
+        <seg>Открыть отчёт о целях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Information Center screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101524Z" creationid="Александр" creationdate="20210111T101524Z">
+        <seg>Открыть окно информационного центра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the News Display options screen</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140905Z" creationid="Александр" creationdate="20210111T140905Z">
+        <seg>Открыть экран параметров отображения новостей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Stock Market screen</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140239Z" creationid="Александр" creationdate="20210111T140239Z">
+        <seg>Откройте экран фондового рынка</seg>
       </tuv>
     </tu>
     <tu>
@@ -1634,10 +2698,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options Menu (hotkey: 'O')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140349Z" creationid="Александр" creationdate="20210111T140349Z">
+        <seg>Опции (O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Organize An Intensive Training Program</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T153510Z" creationid="Александр" creationdate="20210111T153510Z">
+        <seg>Организовать интенсивную программу обучения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Panic Selling Ensues!|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T162654Z" creationid="Olivier" creationdate="20210110T162654Z">
         <seg>Паника на бирже!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Person Details</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104716Z" creationid="Александр" creationdate="20210111T104716Z">
+        <seg>Детали о человеке</seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,6 +2858,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press Ctrl-Z to open the same sub-menu on the Build interface as the last time.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134444Z" creationid="Александр" creationdate="20210111T134444Z">
+        <seg>Нажмите Ctrl+Z, чтобы открыть в меню строительства то же самое подменю, что и в прошлый раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous Product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103559Z" creationid="Александр" creationdate="20210111T103559Z">
+        <seg>Предыдущий продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous Research Project</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103701Z" creationid="Александр" creationdate="20210111T103701Z">
+        <seg>Предыдущий научный проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201229T224613Z" creationid="Olivier" creationdate="20201229T224613Z">
@@ -1834,6 +2946,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Summary Report (hotkey: 'P')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135856Z" creationid="Александр" creationdate="20210111T135755Z">
+        <seg>Сводный отчёт о продукции (P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product=All</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165536Z" creationid="Olivier" creationdate="20210110T165536Z">
@@ -1862,6 +2982,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165544Z" creationid="Olivier" creationdate="20210110T165544Z">
         <seg>Product=Snacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Profit Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103357Z" creationid="Александр" creationdate="20210111T103357Z">
+        <seg>График прибыли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quantity Sold Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103126Z" creationid="Александр" creationdate="20210111T103126Z">
+        <seg>График продаж</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Random Events=Never</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100925Z" creationid="Александр" creationdate="20210111T100925Z">
+        <seg>Random Events=Never</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,10 +3042,82 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Repay Loan</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103620Z" creationid="Александр" creationdate="20210111T103620Z">
+        <seg>Погасить кредит</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T170335Z" creationid="Александр" creationdate="20210111T170335Z">
+        <seg>Retail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retail Store Type=Many</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
         <seg>Retail Store Type=Many</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail store type</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T175624Z" creationid="Александр" creationdate="20210111T175624Z">
+        <seg>Тип магазина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revenue Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103142Z" creationid="Александр" creationdate="20210111T103142Z">
+        <seg>График доходов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to decrease at a higher rate</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102836Z" creationid="Александр" creationdate="20210111T102836Z">
+        <seg>Щелкните правой кнопкой мыши, чтобы уменьшить с большей скоростью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to decrease at a higher rate.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102153Z" creationid="Александр" creationdate="20210111T102153Z">
+        <seg>Щелкните правой кнопкой мыши, чтобы уменьшить с большей скоростью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to increase at a higher rate</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102843Z" creationid="Александр" creationdate="20210111T102843Z">
+        <seg>Щелкните правой кнопкой мыши, чтобы увеличить с большей скоростью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to increase at a higher rate.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102245Z" creationid="Александр" creationdate="20210111T102245Z">
+        <seg>Щелкните правой кнопкой мыши, чтобы увеличить с большей скоростью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save, Load, Retire, return to main menu or return to Windows.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140338Z" creationid="Александр" creationdate="20210111T140338Z">
+        <seg>Сохранить, загрузить, уйти в отставку, вернуться в главное меню или выйти в Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1938,6 +3154,54 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sell Stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105438Z" creationid="Александр" creationdate="20210111T105438Z">
+        <seg>Продать акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell less stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105658Z" creationid="Александр" creationdate="20210111T105553Z">
+        <seg>Продать меньше акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell more stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105703Z" creationid="Александр" creationdate="20210111T105602Z">
+        <seg>Продать больше акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set New Dividend</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145139Z" creationid="Александр" creationdate="20210111T145139Z">
+        <seg>Установить новый дивиденд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set dividend to be paid to shareholders at year end</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145201Z" creationid="Александр" creationdate="20210111T145201Z">
+        <seg>Установить дивиденды, которые будут выплачены акционерам на конец года</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shortcut To Corporation Detail Report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104623Z" creationid="Александр" creationdate="20210111T104623Z">
+        <seg>Подробный отчет о компании</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Competitor Trade Secrets=Yes</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215110Z" creationid="Olivier" creationdate="20201213T215110Z">
@@ -1946,10 +3210,50 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show or hide the Mini Map.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101349Z" creationid="Александр" creationdate="20210111T101349Z">
+        <seg>Показать или скрыть Миникарту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the Toolbox menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101210Z" creationid="Александр" creationdate="20210111T101210Z">
+        <seg>Показать или скрыть меню Инструменты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the World Map.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101446Z" creationid="Александр" creationdate="20210111T101446Z">
+        <seg>Показать или скрыть карту мира.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Smallest zoom level (hotkey: ',')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134901Z" creationid="Александр" creationdate="20210111T134901Z">
+        <seg>Самый узкий уровень масштабирования (,)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spending|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T111050Z" creationid="Olivier" creationdate="20210110T111050Z">
         <seg>издержки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Market (hotkey: F4)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140247Z" creationid="Александр" creationdate="20210111T140155Z">
+        <seg>Фондовый рынок (F4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1966,6 +3270,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T115704Z" creationid="Александр" creationdate="20201218T115704Z">
         <seg>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_BUYLND</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134506Z" creationid="Александр" creationdate="20210111T134506Z">
+        <seg>T_BUYLND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_ZOOM2</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134944Z" creationid="Александр" creationdate="20210111T134944Z">
+        <seg>T_ZOOM2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_ZOOM3</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135742Z" creationid="Александр" creationdate="20210111T135742Z">
+        <seg>T_ZOOM3</seg>
       </tuv>
     </tu>
     <tu>
@@ -2212,6 +3540,38 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default setting of #AutoLink to Supplier# is #Disabled#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T144350Z" creationid="Александр" creationdate="20210111T144350Z">
+        <seg>По умолчанию #Автоматическая связь с поставщиком# - #Отключена#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #Internal Sale# is #Disabled#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T141059Z" creationid="Александр" creationdate="20210111T141059Z">
+        <seg>Настройка по умолчанию #Внутренняя продажа# - #Выключено#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #Internal Sale# is #Enabled#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T141551Z" creationid="Александр" creationdate="20210111T141551Z">
+        <seg>По умолчанию #Внутренняя продажа# - #Включено#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The dependence is broken when the firm is transferred to a new owner.\n\nAre you sure that you want to proceed?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100414Z" creationid="Александр" creationdate="20210111T100414Z">
+        <seg>Зависимость нарушается, когда фирма передается новому владельцу.\n\nВы уверены, что хотите продолжить?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The game is not saved.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201229T224627Z" creationid="Olivier" creationdate="20201229T224627Z">
@@ -2310,10 +3670,50 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The vertical bars represent your corporation's monthly profit or loss.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134129Z" creationid="Александр" creationdate="20210111T134129Z">
+        <seg>Вертикальные столбики отображают ежемесячную прибыль или убыток Вашей корпорации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121100Z" creationid="Olivier" creationdate="20201217T220133Z">
         <seg>Желтая ~полоска ПРЕДЛОЖЕНИЯ~ показывает, сколько продукта доступно в вашем магазине, а оранжевая полоска ~ СПРОСА~ показывает потребительский спрос на этот продукт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then inject capital into the bank.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084152Z" creationid="Александр" creationdate="20210111T084152Z">
+        <seg>Затем вложите капитал в банк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This figure is the amount of cash that your corporation currently has.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101825Z" creationid="Александр" creationdate="20210111T101825Z">
+        <seg>Здесь показана сумма наличных денег, которая в настоящее время есть у вашей корпорации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This figure is your corporation's operating profit over the past 12 months.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T133252Z" creationid="Александр" creationdate="20210111T133252Z">
+        <seg>Это число является операционной прибылью вашей корпорации за последние 12 месяцев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the current game date.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134215Z" creationid="Александр" creationdate="20210111T134215Z">
+        <seg>Это текущая игровая дата.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2524,6 +3924,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=1.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100515Z" creationid="Александр" creationdate="20210111T100515Z">
+        <seg>Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Breakthrough in Training</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215020Z" creationid="Olivier" creationdate="20201213T214956Z">
@@ -2572,6 +3980,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To resume loan issuance, access the bank, select [Financial] and [Fund Transfer].</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084116Z" creationid="Александр" creationdate="20210111T084116Z">
+        <seg>Чтобы возобновить выдачу займов, войдите в банк, выберите [Финансовый] и [Перевод средств].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154749Z" creationid="Александр" creationdate="20201218T154749Z">
@@ -2588,10 +4004,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toolbox (hotkey: Ctrl-T)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101323Z" creationid="Александр" creationdate="20210111T101200Z">
+        <seg>Инструменты (Ctrl+T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total Number of Employees=1000</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215302Z" creationid="Olivier" creationdate="20201213T215302Z">
         <seg>Total Number of Employees=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104034Z" creationid="Александр" creationdate="20210111T104034Z">
+        <seg>Обучение|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2628,6 +4060,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use this tool to restrict different areas of your city to specific uses.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134625Z" creationid="Александр" creationdate="20210111T134625Z">
+        <seg>Используйте этот инструмент, чтобы ограничить различные районы вашего города для конкретного использования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We are now in the city view.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121657Z" creationid="Александр" creationdate="20201218T121657Z">
@@ -2640,6 +4080,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000513Z" creationid="Olivier" creationdate="20201226T000513Z">
         <seg>Превосходно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you click this button, it will go to the Person screen and let you select a person to offer to hire.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102735Z" creationid="Александр" creationdate="20210111T102735Z">
+        <seg>При нажатии на эту кнопку появляется экран Люди, позволяющий выбрать человека, который будет делать предложение о приеме на работу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2684,10 +4132,50 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With training, operating units in your firm will gradually advance to higher levels, thus improving their efficiency.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104129Z" creationid="Александр" creationdate="20210111T104129Z">
+        <seg>С помощью обучения отделы вашей фирмы постепенно перейдут на более высокий уровень, тем самым повышая свою эффективность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wizard</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104154Z" creationid="Александр" creationdate="20210111T104154Z">
+        <seg>Мастер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>World Map (hotkey: Ctrl-W)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101430Z" creationid="Александр" creationdate="20210111T101430Z">
+        <seg>Карта мира (Ctrl+W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yearly Stock Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105053Z" creationid="Александр" creationdate="20210111T105053Z">
+        <seg>Годовой график акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You are now back in your department store.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000424Z" creationid="Olivier" creationdate="20201225T223138Z">
         <seg>Вы вернулись в свой универмаг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can only trade stock once a day in a Challenge Game.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105502Z" creationid="Александр" creationdate="20210111T105502Z">
+        <seg>В Соревновании вы можете торговать акциями только один раз в день.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2828,6 +4316,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You must select suppliers manually.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T144416Z" creationid="Александр" creationdate="20210111T144416Z">
+        <seg>Вы должны выбрать поставщиков вручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You need to belong to a political party in order to do so.\n\nTo form a new political party, access the Information Center and select [Political Parties] and then select [Form Your Own Party].|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210105T114218Z" creationid="Александр" creationdate="20210105T114218Z">
@@ -2844,6 +4340,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100915Z" creationid="Александр" creationdate="20210111T100915Z">
+        <seg>You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You win this game when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165958Z" creationid="Olivier" creationdate="20210110T165958Z">
@@ -2852,10 +4356,42 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your Corporation's Cash</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101743Z" creationid="Александр" creationdate="20210111T101743Z">
+        <seg>Деньги вашей корпорации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Corporation's Monthly Profit &amp; Loss Chart</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134106Z" creationid="Александр" creationdate="20210111T133546Z">
+        <seg>Ежемесячный график прибыли и убытков вашей корпорации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Corporation's Operating Profit</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102027Z" creationid="Александр" creationdate="20210111T102027Z">
+        <seg>Операционная прибыль вашей корпорации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your Start-up Capital=High</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215049Z" creationid="Olivier" creationdate="20201213T215049Z">
         <seg>Your Start-up Capital=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
+        <seg>Your Start-up Capital=Very High</seg>
       </tuv>
     </tu>
     <tu>
@@ -6396,24 +7932,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0937]&lt;0145&gt;A Single Brand Covers All Products|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T111133Z" creationid="Olivier" creationdate="20210110T111133Z">
-        <seg>[0937]&lt;0145&gt;- одна марка на все виды|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061108Z" creationid="Olivier" creationdate="20210110T111133Z">
+        <seg>[0937]&lt;0145&gt;одна марка на все виды|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0938]&lt;0146&gt;A Brand Covers a Range of Products|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T111134Z" creationid="Olivier" creationdate="20210110T111134Z">
-        <seg>[0938]&lt;0146&gt;- одна марка на класс продукции|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061111Z" creationid="Olivier" creationdate="20210110T111134Z">
+        <seg>[0938]&lt;0146&gt;одна марка на класс продукции|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0939]&lt;0147&gt;Each Product has a Unique Brand|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T111135Z" creationid="Olivier" creationdate="20210110T111135Z">
-        <seg>[0939]&lt;0147&gt;- у каждого продукта уникальная марка|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061114Z" creationid="Olivier" creationdate="20210110T111135Z">
+        <seg>[0939]&lt;0147&gt;у каждого продукта уникальная марка|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6652,16 +8188,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1035]&lt;0192&gt;Production &amp; Retail|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T111512Z" creationid="Olivier" creationdate="20210110T111512Z">
-        <seg>[1035]&lt;0192&gt;Пр-во и розница|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061213Z" creationid="Olivier" creationdate="20210110T111512Z">
+        <seg>[1035]&lt;0192&gt;Производство и розница|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1036]&lt;0193&gt;Production|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T111517Z" creationid="Olivier" creationdate="20210110T111517Z">
-        <seg>[1036]&lt;0193&gt;Произв-во|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061134Z" creationid="Olivier" creationdate="20210110T111517Z">
+        <seg>[1036]&lt;0193&gt;Производство|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7522,6 +9058,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1157]&lt;0311&gt;Radio Broadcast|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061239Z" creationid="Александр" creationdate="20210111T061239Z">
+        <seg>[1157]&lt;0311&gt;Радиовещание|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1158]&lt;0312&gt;Newspaper|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T142734Z" creationid="Olivier" creationdate="20210110T142734Z">
@@ -7708,8 +9252,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1236]&lt;0350&gt;No.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T142931Z" creationid="Olivier" creationdate="20210110T142931Z">
-        <seg>[1236]&lt;0350&gt;Кол-во</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061247Z" creationid="Olivier" creationdate="20210110T142931Z">
+        <seg>[1236]&lt;0350&gt;Колчество</seg>
       </tuv>
     </tu>
     <tu>
@@ -9466,6 +11010,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1626]&lt;0651&gt; Unit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061314Z" creationid="Александр" creationdate="20210111T061314Z">
+        <seg>[1626]&lt;0651&gt; Отдел|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1632]&lt;AK00&gt;Operating Revenue|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T155543Z" creationid="Olivier" creationdate="20210110T155543Z">
@@ -9868,8 +11420,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1721]&lt;0724&gt;Corporation Name|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T083224Z" creationid="Александр" creationdate="20210107T083224Z">
-        <seg>[1721]&lt;0724&gt;Наименование корпорации|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T164428Z" creationid="Александр" creationdate="20210107T083224Z">
+        <seg>[1721]&lt;0724&gt;Название компании|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10796,16 +12348,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1995]&lt;0940&gt;Baby Quantity|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T161245Z" creationid="Olivier" creationdate="20210110T161245Z">
-        <seg>[1995]&lt;0940&gt;К-во молодняка|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061334Z" creationid="Olivier" creationdate="20210110T161245Z">
+        <seg>[1995]&lt;0940&gt;Качество молодняка|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1996]&lt;0941&gt;Adult Quantity|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T161246Z" creationid="Olivier" creationdate="20210110T161246Z">
-        <seg>[1996]&lt;0941&gt;К-во взрослых|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061343Z" creationid="Olivier" creationdate="20210110T161246Z">
+        <seg>[1996]&lt;0941&gt;Качество взрослых|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10852,24 +12404,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2020]&lt;0965&gt;Upgrade Tech|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T161253Z" creationid="Olivier" creationdate="20210110T161253Z">
-        <seg>[2020]&lt;0965&gt;Усоверш.техн.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061421Z" creationid="Olivier" creationdate="20210110T161253Z">
+        <seg>[2020]&lt;0965&gt;Улучшение технологии|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2024]&lt;0969&gt;Current Technology Level: |</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T161254Z" creationid="Olivier" creationdate="20210110T161254Z">
-        <seg>[2024]&lt;0969&gt;Текущий уровень технологии : |</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061425Z" creationid="Olivier" creationdate="20210110T161254Z">
+        <seg>[2024]&lt;0969&gt;Текущий уровень технологии: |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2025]&lt;0970&gt;\n\nTarget Technology Level: |</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T161255Z" creationid="Olivier" creationdate="20210110T161255Z">
-        <seg>[2025]&lt;0970&gt;\n\nНужный уровень технологии : |</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061429Z" creationid="Olivier" creationdate="20210110T161255Z">
+        <seg>[2025]&lt;0970&gt;\n\nНужный уровень технологии: |</seg>
       </tuv>
     </tu>
     <tu>
@@ -12204,8 +13756,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2250]&lt;1171&gt;'s Production Technology.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T162618Z" creationid="Olivier" creationdate="20210110T162618Z">
-        <seg>[2250]&lt;1171&gt;.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061637Z" creationid="Olivier" creationdate="20210110T162618Z">
+        <seg>[2250]&lt;1171&gt;Технология производства.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12252,8 +13804,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2256]&lt;1177&gt; Area.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T162623Z" creationid="Olivier" creationdate="20210110T162623Z">
-        <seg>[2256]&lt;1177&gt;.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061710Z" creationid="Olivier" creationdate="20210110T162623Z">
+        <seg>[2256]&lt;1177&gt;Область.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12276,8 +13828,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2259]&lt;1180&gt; Worth of Goods from City's Retail Stores.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T162640Z" creationid="Olivier" creationdate="20210110T162640Z">
-        <seg>[2259]&lt;1180&gt; из магазинов города.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061850Z" creationid="Olivier" creationdate="20210110T162640Z">
+        <seg>[2259]&lt;1180&gt; Стоимость товаров из розничных магазинов города.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12308,8 +13860,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2279]&lt;1199&gt; has left the game.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T162655Z" creationid="Olivier" creationdate="20210110T162655Z">
-        <seg>[2279]&lt;1199&gt; покинула игру.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061904Z" creationid="Olivier" creationdate="20210110T162655Z">
+        <seg>[2279]&lt;1199&gt; покинул игру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14220,8 +15772,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2569]&lt;1450&gt;Next|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163114Z" creationid="Olivier" creationdate="20210110T163114Z">
-        <seg>[2569]&lt;1450&gt;След.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063224Z" creationid="Olivier" creationdate="20210110T163114Z">
+        <seg>[2569]&lt;1450&gt;Далее|</seg>
       </tuv>
     </tu>
     <tu>
@@ -15148,8 +16700,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2708]&lt;BL01&gt;Buy Land|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163614Z" creationid="Olivier" creationdate="20210110T163522Z">
-        <seg>[2708]&lt;BL01&gt;Покупка земли!|[2708]&lt;BL01&gt;Покупка земли!|[2708]&lt;BL01&gt;Buy Land|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063353Z" creationid="Olivier" creationdate="20210110T163522Z">
+        <seg>[2708]&lt;BL01&gt;Купить землю|</seg>
       </tuv>
     </tu>
     <tu>
@@ -15164,24 +16716,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2710]&lt;P36M&gt;Past 36 months|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163628Z" creationid="Olivier" creationdate="20210110T163628Z">
-        <seg>[2710]&lt;P36M&gt;36 мес.последние|[2710]&lt;P36M&gt;Past 36 months|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063428Z" creationid="Olivier" creationdate="20210110T163628Z">
+        <seg>[2710]&lt;P36M&gt;Последние 36 месяцев|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2711]&lt;AIG4&gt;Tech Focused|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163634Z" creationid="Olivier" creationdate="20210110T163634Z">
-        <seg>[2711]&lt;AIG4&gt;Технологический прорыв|[2711]&lt;AIG4&gt;Tech Focused|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063517Z" creationid="Olivier" creationdate="20210110T163634Z">
+        <seg>[2711]&lt;AIG4&gt;Технологический прорыв|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2712]&lt;AIG5&gt;Media Focused|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163640Z" creationid="Olivier" creationdate="20210110T163640Z">
-        <seg>[2712]&lt;AIG5&gt;Медиа в фокусе|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063534Z" creationid="Olivier" creationdate="20210110T163640Z">
+        <seg>[2712]&lt;AIG5&gt;Медиа-ориентрированный|</seg>
       </tuv>
     </tu>
     <tu>
@@ -15198,6 +16750,222 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T163655Z" creationid="Olivier" creationdate="20210110T163655Z">
         <seg>[2714]&lt;AIS5&gt;Медиа|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2715]&lt;RDTL&gt;Tech level|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062023Z" creationid="Александр" creationdate="20210111T062023Z">
+        <seg>[2715]&lt;RDTL&gt;уровень технологий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2716]&lt;NCJ1&gt;founded|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062117Z" creationid="Александр" creationdate="20210111T062117Z">
+        <seg>[2716]&lt;NCJ1&gt;Основанный|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2717]&lt;NCJ2&gt;and serves as its|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062128Z" creationid="Александр" creationdate="20210111T062128Z">
+        <seg>[2717]&lt;NCJ2&gt;и служит его|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2718]&lt;NCJ3&gt;joins|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062135Z" creationid="Александр" creationdate="20210111T062135Z">
+        <seg>[2178]&lt;1099&gt; вступает в конкурентную борьбу.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2719]&lt;NCJ4&gt;as|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062240Z" creationid="Александр" creationdate="20210111T062139Z">
+        <seg>[2719]&lt;NCJ4&gt;как|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2720]&lt;NCJ5&gt;becomes|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062224Z" creationid="Александр" creationdate="20210111T062141Z">
+        <seg>[2720]&lt;NCJ5&gt;становится|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2721]&lt;NCJ6&gt;of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062144Z" creationid="Александр" creationdate="20210111T062144Z">
+        <seg>[2870]&lt;NSH2&gt;от|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2722]&lt;NCJ7&gt;resigns from his job at|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062211Z" creationid="Александр" creationdate="20210111T062211Z">
+        <seg>[2722]&lt;NCJ7&gt;увольняется с работы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2723]&lt;NCJ8&gt;resigns from her job at|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062301Z" creationid="Александр" creationdate="20210111T062301Z">
+        <seg>[2723]&lt;NCJ8&gt;увольняется с работы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2724]&lt;NCJ9&gt;discharged by|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062322Z" creationid="Александр" creationdate="20210111T062322Z">
+        <seg>[2724]&lt;NCJ9&gt;свободный|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2725]&lt;NCK1&gt;went bankrupt and|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062332Z" creationid="Александр" creationdate="20210111T062332Z">
+        <seg>[2725]&lt;NCK1&gt;обанкротился и|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2726]&lt;NCK2&gt;loses his job as|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062923Z" creationid="Александр" creationdate="20210111T062923Z">
+        <seg>[2726]&lt;NCK2&gt;теряет работу в качестве|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2727]&lt;NCK3&gt;loses her job as|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063053Z" creationid="Александр" creationdate="20210111T062929Z">
+        <seg>[2727]&lt;NCK3&gt;теряет работу в качестве|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2728]&lt;NCK4&gt;after serving as|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063810Z" creationid="Александр" creationdate="20210111T063211Z">
+        <seg>[2728]&lt;NCK4&gt;после того, как|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2729]&lt;NCK5&gt;after serving as|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063803Z" creationid="Александр" creationdate="20210111T063803Z">
+        <seg>[2729]&lt;NCK5&gt;после того, как|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2730]&lt;MTH1&gt;month|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063817Z" creationid="Александр" creationdate="20210111T063817Z">
+        <seg>[2730]&lt;MTH1&gt;месяц|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2731]&lt;MTH2&gt;months|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063822Z" creationid="Александр" creationdate="20210111T063822Z">
+        <seg>[2731]&lt;MTH2&gt;месяцы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2732]&lt;NBF1&gt;opens an|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063957Z" creationid="Александр" creationdate="20210111T063957Z">
+        <seg>[2732]&lt;NBF1&gt;открывает|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2733]&lt;NBF2&gt;opens a|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064016Z" creationid="Александр" creationdate="20210111T064016Z">
+        <seg>[2733]&lt;NBF2&gt;открывать|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2734]&lt;NBF3&gt;sets up a Warehouse|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064125Z" creationid="Александр" creationdate="20210111T064047Z">
+        <seg>[2734]&lt;NBF3&gt;настроить Склад|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2735]&lt;NBF4&gt;sets up a TV Station|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064133Z" creationid="Александр" creationdate="20210111T064101Z">
+        <seg>[2735]&lt;NBF4&gt;настроить ТВ-станцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2736]&lt;NBF5&gt;sets up a Newspaper Publisher|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064118Z" creationid="Александр" creationdate="20210111T064118Z">
+        <seg>[2736]&lt;NBF5&gt;настроить газетное издательство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2737]&lt;NBF6&gt;sets up a Radio Station|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064150Z" creationid="Александр" creationdate="20210111T064150Z">
+        <seg>[2737]&lt;NBF6&gt;установить радиостанцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2738]&lt;NBF7&gt;builds a|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064206Z" creationid="Александр" creationdate="20210111T064206Z">
+        <seg>[2738]&lt;NBF7&gt;Построить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2739]&lt;NBF8&gt;donates to build a|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064217Z" creationid="Александр" creationdate="20210111T064217Z">
+        <seg>[2739]&lt;NBF8&gt;жертвует на строительство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2740]&lt;NBF9&gt;sets up|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064234Z" creationid="Александр" creationdate="20210111T064234Z">
+        <seg>[2740]&lt;NBF9&gt;установить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2741]&lt;NBG1&gt;builds|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064247Z" creationid="Александр" creationdate="20210111T064247Z">
+        <seg>[2741]&lt;NBG1&gt;Строить|</seg>
       </tuv>
     </tu>
     <tu>
@@ -15396,8 +17164,104 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2766]&lt;NCB2&gt;attitude is now at the helm of the central bank.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210110T125126Z" creationid="Александр" creationdate="20210110T125126Z">
-        <seg>[2766]&lt;NCB2&gt;attitude is now at the helm of the central bank.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064328Z" creationid="Александр" creationdate="20210110T125126Z">
+        <seg>[2766]&lt;NCB2&gt;отношение сейчас во главе центрального банка.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2767]&lt;NAT1&gt;acquires technology for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064340Z" creationid="Александр" creationdate="20210111T064340Z">
+        <seg>[2758]&lt;NBM2&gt;покупает|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2768]&lt;NAT2&gt;from|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064344Z" creationid="Александр" creationdate="20210111T064344Z">
+        <seg>[2768]&lt;NAT2&gt;из|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2769]&lt;NAT3&gt;for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064349Z" creationid="Александр" creationdate="20210111T064349Z">
+        <seg>[2769]&lt;NAT3&gt;за|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2770]&lt;NGV1&gt;The Government|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064358Z" creationid="Александр" creationdate="20210111T064358Z">
+        <seg>[2770]&lt;NGV1&gt;Правительство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2771]&lt;NGV2&gt;the Government|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064404Z" creationid="Александр" creationdate="20210111T064404Z">
+        <seg>[2771]&lt;NGV2&gt;Правительство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2772]&lt;NAC0&gt;Corporation Changes Strategy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064422Z" creationid="Александр" creationdate="20210111T064422Z">
+        <seg>[2772]&lt;NAC0&gt;Стратегия изменений в корпорации|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2773]&lt;NIR0&gt;Central Bank Changes Interest Rate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064436Z" creationid="Александр" creationdate="20210111T064436Z">
+        <seg>[2773]&lt;NIR0&gt;Центральный банк меняет процентную ставку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2774]&lt;NBC0&gt;The New Central Bank Chairman|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064445Z" creationid="Александр" creationdate="20210111T064445Z">
+        <seg>[2774]&lt;NBC0&gt;Новый председатель Центрального банка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2775]&lt;NCC0&gt;Career Change|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064536Z" creationid="Александр" creationdate="20210111T064536Z">
+        <seg>[2775]&lt;NCC0&gt;Смена профессии|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2776]&lt;NRI0&gt;Riot|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064551Z" creationid="Александр" creationdate="20210111T064551Z">
+        <seg>[2776]&lt;NRI0&gt;Беспорядки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2777]&lt;NSC0&gt;Stock Crash|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064601Z" creationid="Александр" creationdate="20210111T064601Z">
+        <seg>[2777]&lt;NSC0&gt;Авария на складе|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2778]&lt;NCR0&gt;Currency Revalued!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064619Z" creationid="Александр" creationdate="20210111T064619Z">
+        <seg>[2778]&lt;NCR0&gt;Валюта Переоценена!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -15458,10 +17322,378 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2786]&lt;CBP3&gt;Tight|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064638Z" creationid="Александр" creationdate="20210111T064638Z">
+        <seg>[2786]&lt;CBP3&gt;Плотно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2787]&lt;CBP4&gt;Slightly Tight|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064653Z" creationid="Александр" creationdate="20210111T064653Z">
+        <seg>[2787]&lt;CBP4&gt;Слегка плотно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2788]&lt;CBP5&gt;Normal|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064658Z" creationid="Александр" creationdate="20210111T064658Z">
+        <seg>[2788]&lt;CBP5&gt;Нормально|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2789]&lt;CBP6&gt;Slightly Loose|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064721Z" creationid="Александр" creationdate="20210111T064710Z">
+        <seg>[2789]&lt;CBP6&gt;Немного Свободно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2790]&lt;CBP7&gt;Loose|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064718Z" creationid="Александр" creationdate="20210111T064718Z">
+        <seg>[2790]&lt;CBP7&gt;Свободно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2791]&lt;CBP8&gt;Very Loose|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064730Z" creationid="Александр" creationdate="20210111T064730Z">
+        <seg>[2791]&lt;CBP8&gt;Достаточно свободный|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2792]&lt;CBP9&gt;Ultra Loose|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064816Z" creationid="Александр" creationdate="20210111T064816Z">
+        <seg>[2792]&lt;CBP9&gt;Сверхслабый|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064857Z" creationid="Александр" creationdate="20210111T064857Z">
+        <seg>[2793]&lt;AAS1&gt;Извините, у ИИ авансовый старт, и вы не сможете построить ни одного здания за этот год.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2794]&lt;AAS2&gt;Sorry, the AI is having an advance start and you cannot buy land until year|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064920Z" creationid="Александр" creationdate="20210111T064920Z">
+        <seg>[2794]&lt;AAS2&gt;Извините, у ИИ авансовый старт, и вы не можете купить землю в этом году.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2795]&lt;AAS3&gt;Sorry, the AI is having an advance start and you cannot buy stock until year|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064954Z" creationid="Александр" creationdate="20210111T064954Z">
+        <seg>[2795]&lt;AAS3&gt;Извините, у ИИ авансовый старт, и вы не можете купить акции в этом году.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2796]&lt;SCO1&gt;Score:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T065002Z" creationid="Александр" creationdate="20210111T065002Z">
+        <seg>[2796]&lt;SCO1&gt;Счёт:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074324Z" creationid="Александр" creationdate="20210111T065028Z">
+        <seg>[2797]&lt;SCO2&gt;миллиард х 100 корректировка на инфляцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2798]&lt;BF01&gt;Use your personal money to build your mansion.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074337Z" creationid="Александр" creationdate="20210111T074258Z">
+        <seg>[2798]&lt;BF01&gt;Используй свои личные деньги, чтобы построить особняк.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2799]&lt;BF02&gt;to relocate the firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074454Z" creationid="Александр" creationdate="20210111T074446Z">
+        <seg>[2799]&lt;BF02&gt;переместить фирму.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2800]&lt;BF03&gt;to duplicate the firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074516Z" creationid="Александр" creationdate="20210111T074448Z">
+        <seg>[2800]&lt;BF03&gt;дублировать фирму.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2801]&lt;BF04&gt;to build the firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074537Z" creationid="Александр" creationdate="20210111T074537Z">
+        <seg>[2801]&lt;BF04&gt;построить фирму.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2802]&lt;BF05&gt;Customer Traffic Index:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074552Z" creationid="Александр" creationdate="20210111T074552Z">
+        <seg>[2802]&lt;BF05&gt;Индекс трафика клиентов:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2803]&lt;BF06&gt;Compensation:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074607Z" creationid="Александр" creationdate="20210111T074607Z">
+        <seg>[2803]&lt;BF06&gt;Компенсация:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2804]&lt;BF07&gt;Price Premium|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074640Z" creationid="Александр" creationdate="20210111T074640Z">
+        <seg>[2804]&lt;BF07&gt;Цена с надбавкой|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to Build More|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074709Z" creationid="Александр" creationdate="20210111T074709Z">
+        <seg>[2805]&lt;BF08&gt;Держите клавишу [SHIFT] чтобы построить больше.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2806]&lt;PSTO&gt;Stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074724Z" creationid="Александр" creationdate="20210111T074724Z">
+        <seg>[2806]&lt;PSTO&gt;Акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2807]&lt;FRE1&gt;Freight Cost Breakdown|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074755Z" creationid="Александр" creationdate="20210111T074755Z">
+        <seg>[2807]&lt;FRE1&gt;Расходы на транспортировку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2808]&lt;FRE2&gt;Truck - Supplier to Seaport:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074811Z" creationid="Александр" creationdate="20210111T074811Z">
+        <seg>[2808]&lt;FRE2&gt;Грузовик - Поставщик в порт:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2809]&lt;FRE3&gt;Cargo Ship - City to City:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074823Z" creationid="Александр" creationdate="20210111T074823Z">
+        <seg>[2809]&lt;FRE3&gt;Грузовой корабль - От города к городу:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2810]&lt;FRE4&gt;Truck - Seaport to Buyer:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074859Z" creationid="Александр" creationdate="20210111T074859Z">
+        <seg>[2810]&lt;FRE4&gt;Грузовик - из порта к покупателю:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2811]&lt;FRE5&gt;TOTAL:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074917Z" creationid="Александр" creationdate="20210111T074917Z">
+        <seg>[2811]&lt;FRE5&gt;ИТОГО::|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2812]&lt;FRE6&gt;Freight Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074940Z" creationid="Александр" creationdate="20210111T074940Z">
+        <seg>[2812]&lt;FRE6&gt;Стоимость перевозки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2813]&lt;FRE7&gt;Shipment from Supplier to Buyer:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075103Z" creationid="Александр" creationdate="20210111T075103Z">
+        <seg>[2813]&lt;FRE7&gt;Отгрузка от поставщика к покупателю:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2814]&lt;SOW1&gt;Sowing in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075137Z" creationid="Александр" creationdate="20210111T075118Z">
+        <seg>[2814]&lt;SOW1&gt;Посев|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2815]&lt;HARV&gt;Harvest in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075141Z" creationid="Александр" creationdate="20210111T075131Z">
+        <seg>[2815]&lt;HARV&gt;Уборка урожая|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2816]&lt;ITP1&gt;Organize an Intensive Training Program|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075202Z" creationid="Александр" creationdate="20210111T075202Z">
+        <seg>[2816]&lt;ITP1&gt;Организовать программу интенсивного обучения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2817]&lt;ITP2&gt;Training effect will be instant but|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075212Z" creationid="Александр" creationdate="20210111T075212Z">
+        <seg>[2817]&lt;ITP2&gt;Тренировочный эффект будет мгновенным, но|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2818]&lt;ITP3&gt;its cost-effectiveness is 30% lower than normal training.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075326Z" creationid="Александр" creationdate="20210111T075326Z">
+        <seg>[2818]&lt;ITP3&gt;его эффективность по затратам на 30% ниже, чем у обычной подготовки.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2819]&lt;ITP4&gt;How much will you allocate for training per employee?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075336Z" creationid="Александр" creationdate="20210111T075336Z">
+        <seg>[2819]&lt;ITP4&gt;Сколько вы выделите на обучение одного сотрудника?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2820]&lt;RDC1&gt;firm|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075341Z" creationid="Александр" creationdate="20210111T075341Z">
+        <seg>[2820]&lt;RDC1&gt;фирма|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2821]&lt;RDC2&gt;firms|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075348Z" creationid="Александр" creationdate="20210111T075348Z">
+        <seg>[2821]&lt;RDC2&gt;фирмы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2822]&lt;RDC3&gt; of yours have been redirected to purchase |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075413Z" creationid="Александр" creationdate="20210111T075413Z">
+        <seg>[2822]&lt;RDC3&gt; были перенаправлены на покупку |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2823]&lt;RDC4&gt; from the current firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075432Z" creationid="Александр" creationdate="20210111T075432Z">
+        <seg>[2823]&lt;RDC4&gt; от нынешней фирмы.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2824]&lt;RDC5&gt;To view the new client list, click the [Clients] button on your Sales Unit's interface.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075523Z" creationid="Александр" creationdate="20210111T075449Z">
+        <seg>[2824]&lt;RDC5&gt;Для просмотра списка новых клиентов нажмите кнопку [Клиенты] на интерфейсе вашего отдела продаж.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2825]&lt;RDC6&gt;None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075617Z" creationid="Александр" creationdate="20210111T075500Z">
+        <seg>[2825]&lt;RDC6&gt;В настоящее время ни в одной из Ваших фирм нет ни одного отдела по закупкам этого типа продукции.\n\nТаким образом, не было предпринято никаких действий.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2826]&lt;KOC1&gt;King of Capitalism|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075625Z" creationid="Александр" creationdate="20210111T075625Z">
+        <seg>[2826]&lt;KOC1&gt;Король капитализма|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2827]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075724Z" creationid="Александр" creationdate="20210111T075648Z">
+        <seg>[2827]&lt;KOC2&gt;Чтобы стать бесспорным Королем Капитализма, вы должны быть достаточно финансово подкованными, чтобы увеличить рыночную капитализацию вашей компании до|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2828]&lt;KOC3&gt;billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075744Z" creationid="Александр" creationdate="20210111T075711Z">
+        <seg>[2828]&lt;KOC3&gt;миллиарда, сохранив при этом не менее 80% своих акций, и достичь всех подцелей.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2829]&lt;AGS1&gt;To win this game, you must achieve the given goals.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075759Z" creationid="Александр" creationdate="20210111T075759Z">
+        <seg>[2829]&lt;AGS1&gt;Чтобы выиграть эту игру, вы должны достичь поставленных целей.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075822Z" creationid="Александр" creationdate="20210111T075822Z">
+        <seg>[2830]&lt;AGS2&gt;(Нажмите клавишу 'G' в любое время для просмотра Целей.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075834Z" creationid="Александр" creationdate="20210111T075834Z">
+        <seg>[2831]&lt;AGS3&gt;У вас есть опыт в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
-        <seg>[2832]&lt;AGS4&gt;промышленный (экспертный рейтинг):|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075845Z" creationid="Olivier" creationdate="20201225T235043Z">
+        <seg>[2832]&lt;AGS4&gt;промышленности (экспертный рейтинг):|</seg>
       </tuv>
     </tu>
     <tu>
@@ -17140,8 +19372,336 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3042]&lt;MANS&gt;Mansions Market Values|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210105T115106Z" creationid="Александр" creationdate="20210105T115106Z">
-        <seg>[3042]&lt;MANS&gt;Mansions Market Values|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055226Z" creationid="Александр" creationdate="20210105T115106Z">
+        <seg>[3042]&lt;MANS&gt;Рыночная стоимость особняков|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3043]&lt;BCR1&gt;Your Bank's Capital Ratio is Too Low!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055200Z" creationid="Александр" creationdate="20210111T055200Z">
+        <seg>[3043]&lt;BCR1&gt;Коэффициент достаточности капитала вашего банка слишком низок!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3044]&lt;BCR2&gt;The Capital Ratio of Your Subsidiary Bank |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055302Z" creationid="Александр" creationdate="20210111T055302Z">
+        <seg>[3044]&lt;BCR2&gt;Коэффициент соотношения капитала филиала Вашего банка |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3045]&lt;BCR3&gt; is Too Low!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055328Z" creationid="Александр" creationdate="20210111T055328Z">
+        <seg>[3045]&lt;BCR3&gt; Слишком низкий!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3046]&lt;BCR4&gt;Bank Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055343Z" creationid="Александр" creationdate="20210111T055343Z">
+        <seg>[3046]&lt;BCR4&gt;Коэффициент банковского капитала|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3047]&lt;BCR5&gt;Required Bank Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055424Z" creationid="Александр" creationdate="20210111T055424Z">
+        <seg>[3047]&lt;BCR5&gt;Требуемый коэффициент достаточности капитала банка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3048]&lt;DLC1&gt;The Subsidiary DLC offers you a new set of powerful tools for conquering the business world on a grander scale!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055544Z" creationid="Александр" creationdate="20210111T055516Z">
+        <seg>[3048]&lt;DLC1&gt;Subsidiary DLC предлагает Вам новый набор мощных инструментов для покорения мира бизнеса в более широком масштабе!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3049]&lt;DLC2&gt;The City Economic Simulation DLC lets you build new cities from scratch, form your own political party, and assume the role of mayor while simultaneously growing your business empire!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055532Z" creationid="Александр" creationdate="20210111T055532Z">
+        <seg>[3049]&lt;DLC2&gt;City Economic Simulation DLC позволяет строить новые города с нуля, формировать собственную политическую партию и брать на себя роль мэра, одновременно развивая свою бизнес-империю!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3050]&lt;DLC3&gt;The Digital Age DLC offers you an exciting opportunity to build a tech startup at the dawn of the digital age and oversee its growth to eventually become a tech powerhouse that joins the ranks of tech titans such as Microsoft and Google!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055715Z" creationid="Александр" creationdate="20210111T055715Z">
+        <seg>[3050]&lt;DLC3&gt; Дополнение "Цифровой Век" предлагает вам захватывающую возможность построить технологический стартап на заре цифровой эры и наблюдать за его ростом, чтобы в конечном итоге стать технологической державой, которая пополняет ряды титанов техники, таких как Microsoft и Google!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3051]&lt;DLC4&gt;The Banking and Finance DLC simulates the financial world with a level of realism that is unprecedented in video games.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055816Z" creationid="Александр" creationdate="20210111T055721Z">
+        <seg>[3051]&lt;DLC4&gt;Дополнение "Банковское и финансовое управление" имитирует финансовый мир с беспрецедентным для видеоигр уровнем реализма.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3052]&lt;LTAX&gt;Accumulated losses for future tax deduction|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055911Z" creationid="Александр" creationdate="20210111T055911Z">
+        <seg>[3052]&lt;LTAX&gt;Накопленные убытки для будущих налоговых вычетов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3053]&lt;UNVI&gt;Unique Visitors|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T083441Z" creationid="Александр" creationdate="20210111T055916Z">
+        <seg>[3053]&lt;UNVI&gt;Уникальные посетители|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3054]&lt;UNVM&gt;Monthly Unique Visitors|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T083509Z" creationid="Александр" creationdate="20210111T083308Z">
+        <seg>[3054]&lt;UNVM&gt;Ежемесячные уникальные посетители|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3055]&lt;INTT&gt;This Internet company does not have the required technology to start operation yet.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T083622Z" creationid="Александр" creationdate="20210111T083415Z">
+        <seg>[3055]&lt;INTT&gt;Эта интернет-компания еще не имеет необходимой технологии для начала работы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3056]&lt;BCRW&gt;Your bank's Capital Ratio is too low and has stopped issuing new loans.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T083832Z" creationid="Александр" creationdate="20210111T083832Z">
+        <seg>[3056]&lt;BCRW&gt;Коэффициент достаточности капитала вашего банка слишком низок и прекратил выдачу новых кредитов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3057]&lt;RRD1&gt;Your radical R&amp;D of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084204Z" creationid="Александр" creationdate="20210111T084204Z">
+        <seg>[3057]&lt;RRD1&gt;Ваши радикальные исследования и разработки в области|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3058]&lt;RRD2&gt;is a success!\nYour technology is now|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084412Z" creationid="Александр" creationdate="20210111T084412Z">
+        <seg>[3058]&lt;RRD2&gt;Успешно!\nТеперь ваша технология|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3059]&lt;RRF1&gt;Unfortunately, your radical R&amp;D project of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084432Z" creationid="Александр" creationdate="20210111T084432Z">
+        <seg>[3059]&lt;RRF1&gt;К сожалению, ваш радикальный научно-исследовательский проект|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3060]&lt;RRF2&gt;failed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084500Z" creationid="Александр" creationdate="20210111T084500Z">
+        <seg>[3060]&lt;RRF2&gt;провалился.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3061]&lt;EMP1&gt;Your employee|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084547Z" creationid="Александр" creationdate="20210111T084547Z">
+        <seg>[3061]&lt;EMP1&gt;Ваш сотрудник|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3062]&lt;EMP2&gt;working on|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084556Z" creationid="Александр" creationdate="20210111T084556Z">
+        <seg>[3062]&lt;EMP2&gt;работающий над|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3063]&lt;EMP3&gt;working in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084610Z" creationid="Александр" creationdate="20210111T084610Z">
+        <seg>[3063]&lt;EMP3&gt;работающий в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3064]&lt;EMP4&gt;was headhunted.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084826Z" creationid="Александр" creationdate="20210111T084623Z">
+        <seg>[3064]&lt;EMP4&gt;был найден специалист по подбору персонала.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3065]&lt;EMP5&gt;was headhunted by|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084837Z" creationid="Александр" creationdate="20210111T084820Z">
+        <seg>[3065]&lt;EMP5&gt;был найден специалист по подбору персонала|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3066]&lt;EMP6&gt;has resigned.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084852Z" creationid="Александр" creationdate="20210111T084852Z">
+        <seg>[3066]&lt;EMP6&gt;ушёл в отставку.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3067]&lt;PARC&gt;to Parent Company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084935Z" creationid="Александр" creationdate="20210111T084935Z">
+        <seg>[3067]&lt;PARC&gt;головной компании|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3068]&lt;INSU&gt;Insurance Company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084954Z" creationid="Александр" creationdate="20210111T084954Z">
+        <seg>[3068]&lt;INSU&gt;Страховая компания|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3069]&lt;BRB1&gt;Bankruptcy!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T085004Z" creationid="Александр" creationdate="20210111T085004Z">
+        <seg>[3069]&lt;BRB1&gt;Банкротство!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3070]&lt;BRB2&gt;liquidates its assets and redeems all its outstanding bonds at the full issue price.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T085115Z" creationid="Александр" creationdate="20210111T085115Z">
+        <seg>[3070]&lt;BRB2&gt;ликвидирует свои активы и погашает все размещенные облигации по полной цене выпуска.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3071]&lt;BRB3&gt;went under with a negative balance in its shareholders' equity.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T085159Z" creationid="Александр" creationdate="20210111T085159Z">
+        <seg>[3071]&lt;BRB3&gt;обанкротился с отрицательным балансом в капитале.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3072]&lt;BRB4&gt;liquidates its assets.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T092712Z" creationid="Александр" creationdate="20210111T092712Z">
+        <seg>[3072]&lt;BRB4&gt;ликвидирует свои активы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3073]&lt;BRB5&gt;of the original bond values.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T094823Z" creationid="Александр" creationdate="20210111T094823Z">
+        <seg>[3073]&lt;BRB5&gt;первоначальной стоимости облигаций.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3074]&lt;BCA1&gt;Must Take Action|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095443Z" creationid="Александр" creationdate="20210111T095443Z">
+        <seg>[3074]&lt;BCA1&gt;Должны принять меры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3075]&lt;BCA2&gt;Notification Only|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095453Z" creationid="Александр" creationdate="20210111T095453Z">
+        <seg>[3075]&lt;BCA2&gt;Только уведомление|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3076]&lt;BCA3&gt;No Notification|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095513Z" creationid="Александр" creationdate="20210111T095513Z">
+        <seg>[3076]&lt;BCA3&gt;Без Уведомлений|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3077]&lt;PTAS&gt;% of Total Assets|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095535Z" creationid="Александр" creationdate="20210111T095535Z">
+        <seg>[3077]&lt;PTAS&gt;% от общей стоимости активов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3078]&lt;3YRA&gt;30-Year Average|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095619Z" creationid="Александр" creationdate="20210111T095619Z">
+        <seg>[3078]&lt;3YRA&gt;Средний показатель за 30 лет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3079]&lt;SABD&gt;Sale of Bonds|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095630Z" creationid="Александр" creationdate="20210111T095630Z">
+        <seg>[3079]&lt;SABD&gt;Продажа облигаций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3080]&lt;BDRD&gt;Bond Redemption|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095700Z" creationid="Александр" creationdate="20210111T095700Z">
+        <seg>[3080]&lt;BDRD&gt;Выкуп облигаций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3081]&lt;NCAS&gt;Net Cash|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095743Z" creationid="Александр" creationdate="20210111T095743Z">
+        <seg>[3081]&lt;NCAS&gt;Чистые деньги|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3082]&lt;BKRU&gt;Is BANKRUPT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095822Z" creationid="Александр" creationdate="20210111T095822Z">
+        <seg>[3082]&lt;BKRU&gt;БАНКРОТ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3083]&lt;FTRA&gt;When you transfer a R&amp;D center, its existing R&amp;D projects will be cancelled as they depend on the company's technological foundation.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095846Z" creationid="Александр" creationdate="20210111T095846Z">
+        <seg>[3083]&lt;FTRA&gt;При переводе научно-исследовательского центра его проекты будут аннулированы, так как они зависят от технологической базы компании.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19260,6 +21820,22 @@ Hide=Preview</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[BOX1]Ok</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060813Z" creationid="Александр" creationdate="20210111T060813Z">
+        <seg>[BOX1]Ок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[BOX2]Cancel</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060823Z" creationid="Александр" creationdate="20210111T060823Z">
+        <seg>[BOX2]Отмена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[CHALLENGE GAME]</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064106Z" creationid="Olivier" creationdate="20201213T215305Z">
@@ -19416,8 +21992,8 @@ Description=This is a sample script for Capitalism Lab, listing all variables un
       <tuv lang="en-US">
         <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T065356Z" creationid="Александр" creationdate="20210107T065356Z">
-        <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060929Z" creationid="Александр" creationdate="20210107T065356Z">
+        <seg>[LNGD]%2j{Январь|Февраль|Март|Апрель|Май|Июнь|Июль|август|Сентябрь|Октябрь|Ноябрь|Декабрь} %1d, %3,4d</seg>
       </tuv>
     </tu>
     <tu>
@@ -19504,6 +22080,102 @@ This area shows the stock of the raw material in the unit.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215115Z" creationid="Olivier" creationdate="20201213T215115Z">
         <seg>[MAIN GOAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON1]January</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060651Z" creationid="Александр" creationdate="20210111T060651Z">
+        <seg>[MON1]Январь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON2]February</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060658Z" creationid="Александр" creationdate="20210111T060658Z">
+        <seg>[MON2]Февраль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON3]March</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060703Z" creationid="Александр" creationdate="20210111T060703Z">
+        <seg>[MON3]Март</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON4]April</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060710Z" creationid="Александр" creationdate="20210111T060710Z">
+        <seg>[MON4]Апрель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON5]May</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060714Z" creationid="Александр" creationdate="20210111T060714Z">
+        <seg>[MON5]Май</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON6]June</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060720Z" creationid="Александр" creationdate="20210111T060720Z">
+        <seg>[MON6]Июнь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON7]July</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060728Z" creationid="Александр" creationdate="20210111T060728Z">
+        <seg>[MON7]Июль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON8]August</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060740Z" creationid="Александр" creationdate="20210111T060740Z">
+        <seg>[MON8]Август</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON9]September</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060747Z" creationid="Александр" creationdate="20210111T060747Z">
+        <seg>[MON9]Сентябрь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONA]October</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060754Z" creationid="Александр" creationdate="20210111T060754Z">
+        <seg>[MONA]Октябрь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONB]November</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060801Z" creationid="Александр" creationdate="20210111T060801Z">
+        <seg>[MONB]Ноябрь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONC]December</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060808Z" creationid="Александр" creationdate="20210111T060808Z">
+        <seg>[MONC]Декабрь</seg>
       </tuv>
     </tu>
     <tu>
@@ -19700,6 +22372,14 @@ Next Arrow=Yes</seg>
 Text Box=40,270,350,0
 Pointer=38,121,55,238
 Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061027Z" creationid="Александр" creationdate="20210111T061027Z">
+        <seg>[SHRD]%2j{Янв|Фев|Март|Апр|Май|Июн|Июл|Авг|Сент|Окт|Нояб|Дек} %1d, %3,4d</seg>
       </tuv>
     </tu>
     <tu>
@@ -20074,6 +22754,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064157Z" creationid="Александр" creationdate="20210107T064157Z">
         <seg>^^Ваша цель состоит в том, чтобы увеличить доходы вашей медиа-корпорации до существенного размера и в конечном итоге превзойти все другие медиа-компании, чтобы стать крупнейшей в мире.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103400Z" creationid="Александр" creationdate="20210111T103400Z">
+        <seg>`</seg>
       </tuv>
     </tu>
     <tu>
