@@ -640,6 +640,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy This Firm</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104745Z" creationid="Александр" creationdate="20210111T104745Z">
+        <seg>Купить эту фирму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy This Mansion</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103932Z" creationid="Александр" creationdate="20210111T103932Z">
@@ -864,6 +872,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the yearly stock graph over its lifetime.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105031Z" creationid="Александр" creationdate="20210111T105031Z">
+        <seg>Нажмите, чтобы отобразить график годового запаса на протяжении всего срока его службы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Firm Financial Report</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104307Z" creationid="Александр" creationdate="20210111T104307Z">
@@ -876,6 +892,22 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104245Z" creationid="Александр" creationdate="20210111T104245Z">
         <seg>Нажмите чтобы открыть библиотеку планов размещенеия |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle the stock news option on or off.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104945Z" creationid="Александр" creationdate="20210111T104945Z">
+        <seg>Нажмите, чтобы включить или выключить биржевые новости.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close News Log window (hotkey: 'V')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104849Z" creationid="Александр" creationdate="20210111T104849Z">
+        <seg>Закрыть окно журнала новостей (V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1336,6 +1368,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable/Disable Stock News</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104918Z" creationid="Александр" creationdate="20210111T104918Z">
+        <seg>Включить/выключить биржевые новости</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enjoyable for Most Players.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T062231Z" creationid="Александр" creationdate="20210107T062231Z">
@@ -1608,6 +1648,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T182330Z" creationid="Александр" creationdate="20201218T181917Z">
         <seg>Если установлено значение обратной инфляции,  то денежные суммы корректируются в зависимости от их чистой покупательной способности..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this option is on stock purchases and sales will be headlined in the city view</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105017Z" creationid="Александр" creationdate="20210111T105017Z">
+        <seg>Если эта опция включена в раздел "Покупки и продажи на складе", то она будет иметь заголовок на странице "Обзор города".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1946,6 +1994,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>News Action Button</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104819Z" creationid="Александр" creationdate="20210111T104819Z">
+        <seg>Кнопка "Новости"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next Arrow=Yes</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215820Z" creationid="Olivier" creationdate="20201217T215820Z">
@@ -2122,6 +2178,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Offer to sell this firm</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104758Z" creationid="Александр" creationdate="20210111T104758Z">
+        <seg>Предлагаю продать эту фирму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Offer to sell this mansion</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104026Z" creationid="Александр" creationdate="20210111T104026Z">
@@ -2134,6 +2198,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T062133Z" creationid="Александр" creationdate="20210107T062133Z">
         <seg>Выберайте этот вариант, только если вы выигрывали в более простых играх.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open News Log window (hotkey: 'V')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104906Z" creationid="Александр" creationdate="20210111T104906Z">
+        <seg>Открыть окно журнала новостей (V)</seg>
       </tuv>
     </tu>
     <tu>
