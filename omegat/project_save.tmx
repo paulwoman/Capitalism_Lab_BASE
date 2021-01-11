@@ -2252,6 +2252,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The dependence is broken when the firm is transferred to a new owner.\n\nAre you sure that you want to proceed?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100414Z" creationid="Александр" creationdate="20210111T100414Z">
+        <seg>Зависимость нарушается, когда фирма передается новому владельцу.\n\nВы уверены, что хотите продолжить?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The game is not saved.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201229T224627Z" creationid="Olivier" creationdate="20201229T224627Z">
@@ -18214,6 +18222,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T095822Z" creationid="Александр" creationdate="20210111T095822Z">
         <seg>[3082]&lt;BKRU&gt;БАНКРОТ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3083]&lt;FTRA&gt;When you transfer a R&amp;D center, its existing R&amp;D projects will be cancelled as they depend on the company's technological foundation.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095846Z" creationid="Александр" creationdate="20210111T095846Z">
+        <seg>[3083]&lt;FTRA&gt;При переводе научно-исследовательского центра его проекты будут аннулированы, так как они зависят от технологической базы компании.</seg>
       </tuv>
     </tu>
     <tu>
