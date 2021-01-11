@@ -504,6 +504,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build an R&amp;D center and set up Tech R&amp;D units to research the required tech.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T083744Z" creationid="Александр" creationdate="20210111T083744Z">
+        <seg>Построить научно-исследовательский центр и создать технологические научно-исследовательские подразделения для исследования необходимой техники.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can you apply what you have learned into running a business in the real world?</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215757Z" creationid="Olivier" creationdate="20201217T215757Z">
@@ -2576,6 +2584,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061131Z" creationid="Александр" creationdate="20210103T061131Z">
         <seg>Чтобы это исправить, вы можете перевести средства своей корпорации в страховую компанию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To resume loan issuance, access the bank, select [Financial] and [Fund Transfer].</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084116Z" creationid="Александр" creationdate="20210111T084116Z">
+        <seg>Чтобы возобновить выдачу займов, войдите в банк, выберите [Финансовый] и [Перевод средств].</seg>
       </tuv>
     </tu>
     <tu>
@@ -17950,6 +17966,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T083622Z" creationid="Александр" creationdate="20210111T083415Z">
         <seg>[3055]&lt;INTT&gt;Эта интернет-компания еще не имеет необходимой технологии для начала работы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3056]&lt;BCRW&gt;Your bank's Capital Ratio is too low and has stopped issuing new loans.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T083832Z" creationid="Александр" creationdate="20210111T083832Z">
+        <seg>[3056]&lt;BCRW&gt;Коэффициент достаточности капитала вашего банка слишком низок и прекратил выдачу новых кредитов.</seg>
       </tuv>
     </tu>
     <tu>
