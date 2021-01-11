@@ -15978,6 +15978,54 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2809]&lt;FRE3&gt;Cargo Ship - City to City:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074823Z" creationid="Александр" creationdate="20210111T074823Z">
+        <seg>[2809]&lt;FRE3&gt;Грузовой корабль - От города к городу:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2810]&lt;FRE4&gt;Truck - Seaport to Buyer:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074859Z" creationid="Александр" creationdate="20210111T074859Z">
+        <seg>[2810]&lt;FRE4&gt;Грузовик - из порта к покупателю:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2811]&lt;FRE5&gt;TOTAL:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074917Z" creationid="Александр" creationdate="20210111T074917Z">
+        <seg>[2811]&lt;FRE5&gt;ИТОГО::|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2812]&lt;FRE6&gt;Freight Cost|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074940Z" creationid="Александр" creationdate="20210111T074940Z">
+        <seg>[2812]&lt;FRE6&gt;Стоимость перевозки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2813]&lt;FRE7&gt;Shipment from Supplier to Buyer:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075103Z" creationid="Александр" creationdate="20210111T075103Z">
+        <seg>[2813]&lt;FRE7&gt;Отгрузка от поставщика к покупателю:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2814]&lt;SOW1&gt;Sowing in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075118Z" creationid="Александр" creationdate="20210111T075118Z">
+        <seg>[2814]&lt;SOW1&gt;Засевание|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
