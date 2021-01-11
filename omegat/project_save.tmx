@@ -15172,8 +15172,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2708]&lt;BL01&gt;Buy Land|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163614Z" creationid="Olivier" creationdate="20210110T163522Z">
-        <seg>[2708]&lt;BL01&gt;Покупка земли!|[2708]&lt;BL01&gt;Покупка земли!|[2708]&lt;BL01&gt;Buy Land|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063353Z" creationid="Olivier" creationdate="20210110T163522Z">
+        <seg>[2708]&lt;BL01&gt;Купить землю|</seg>
       </tuv>
     </tu>
     <tu>
@@ -15188,24 +15188,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2710]&lt;P36M&gt;Past 36 months|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163628Z" creationid="Olivier" creationdate="20210110T163628Z">
-        <seg>[2710]&lt;P36M&gt;36 мес.последние|[2710]&lt;P36M&gt;Past 36 months|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063428Z" creationid="Olivier" creationdate="20210110T163628Z">
+        <seg>[2710]&lt;P36M&gt;Последние 36 месяцев|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2711]&lt;AIG4&gt;Tech Focused|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163634Z" creationid="Olivier" creationdate="20210110T163634Z">
-        <seg>[2711]&lt;AIG4&gt;Технологический прорыв|[2711]&lt;AIG4&gt;Tech Focused|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063517Z" creationid="Olivier" creationdate="20210110T163634Z">
+        <seg>[2711]&lt;AIG4&gt;Технологический прорыв|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2712]&lt;AIG5&gt;Media Focused|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163640Z" creationid="Olivier" creationdate="20210110T163640Z">
-        <seg>[2712]&lt;AIG5&gt;Медиа в фокусе|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063534Z" creationid="Olivier" creationdate="20210110T163640Z">
+        <seg>[2712]&lt;AIG5&gt;Медиа-ориентрированный|</seg>
       </tuv>
     </tu>
     <tu>
