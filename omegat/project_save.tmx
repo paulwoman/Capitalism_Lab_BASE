@@ -1410,6 +1410,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its bondholders lost all their investments in the bonds.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T092655Z" creationid="Александр" creationdate="20210111T092655Z">
+        <seg>Держатели облигаций потеряли все свои вложения.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its current equity value is negative.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T130207Z" creationid="Александр" creationdate="20210110T130207Z">
