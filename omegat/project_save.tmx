@@ -17186,6 +17186,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3048]&lt;DLC1&gt;The Subsidiary DLC offers you a new set of powerful tools for conquering the business world on a grander scale!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055429Z" creationid="Александр" creationdate="20210111T055429Z">
+        <seg>[2935]&lt;TUT1&gt;If this is your first time playing Capitalism Lab, you are advised to start with tutorial #1.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061324Z" creationid="Александр" creationdate="20210103T061324Z">
