@@ -904,6 +904,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to change city view to largest zoom level</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135701Z" creationid="Александр" creationdate="20210111T135701Z">
+        <seg>Нажмите, чтобы выбрать наибольший уровень масштабирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to change city view to normal zoom level.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T135145Z" creationid="Александр" creationdate="20210111T135145Z">
@@ -914,8 +922,8 @@ Show or hide the Toolbox menu.</seg>
       <tuv lang="en-US">
         <seg>Click to change city view to smallest zoom level.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T134942Z" creationid="Александр" creationdate="20210111T134942Z">
-        <seg>Нажмите, чтобы максимально уменьшить уровень масштабирования..</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135201Z" creationid="Александр" creationdate="20210111T134942Z">
+        <seg>Нажмите, чтобы выбрать минимальный масштабирования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2070,6 +2078,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T134604Z" creationid="Александр" creationdate="20210111T134604Z">
         <seg>План землепользования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Largest zoom level (hotkey: '/')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135224Z" creationid="Александр" creationdate="20210111T135224Z">
+        <seg>Самый большой уровень масштабирования (/)</seg>
       </tuv>
     </tu>
     <tu>
