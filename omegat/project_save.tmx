@@ -15322,6 +15322,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2727]&lt;NCK3&gt;loses her job as|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062929Z" creationid="Александр" creationdate="20210111T062929Z">
+        <seg>[2726]&lt;NCK2&gt;теряет работу в качестве|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162113Z" creationid="Александр" creationdate="20210107T162113Z">
