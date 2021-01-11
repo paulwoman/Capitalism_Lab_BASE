@@ -1660,6 +1660,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hold #CTRL# key while clicking for #100X# speed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105905Z" creationid="Александр" creationdate="20210111T105803Z">
+        <seg>Зажмите клавишу #CTRL#, для скорости #100X#..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold #SHIFT# key while clicking for #10X# speed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105959Z" creationid="Александр" creationdate="20210111T105854Z">
+        <seg>Зажмите клавишу #SHIFT#, для скорости #10X#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How much can you pay?|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T162702Z" creationid="Olivier" creationdate="20210110T162702Z">
@@ -2708,16 +2724,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Sell less stock</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T105553Z" creationid="Александр" creationdate="20210111T105553Z">
-        <seg>Продавать меньше акций</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105658Z" creationid="Александр" creationdate="20210111T105553Z">
+        <seg>Продать меньше акций</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Sell more stock</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T105602Z" creationid="Александр" creationdate="20210111T105602Z">
-        <seg>продать больше акцийk</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105703Z" creationid="Александр" creationdate="20210111T105602Z">
+        <seg>Продать больше акций</seg>
       </tuv>
     </tu>
     <tu>
