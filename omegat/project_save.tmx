@@ -1178,8 +1178,8 @@ Show or hide the Toolbox menu.</seg>
       <tuv lang="en-US">
         <seg>Corporate Summary Report (hotkey: 'C')</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T135931Z" creationid="Александр" creationdate="20210111T135931Z">
-        <seg>Краткий отчёт компании (C)</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140115Z" creationid="Александр" creationdate="20210111T135931Z">
+        <seg>Краткий отчёт корпорации (C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1300,6 +1300,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215047Z" creationid="Olivier" creationdate="20201213T215047Z">
         <seg>Difficulty Rating=90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the game options menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140406Z" creationid="Александр" creationdate="20210111T140406Z">
+        <seg>Показать меню опций игры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1708,6 +1716,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game Menu (hotkey: ESC)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140256Z" creationid="Александр" creationdate="20210111T140256Z">
+        <seg>Меню игры (ESC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game Starting Year=1990</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
@@ -1728,6 +1744,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101727Z" creationid="Александр" creationdate="20210111T101727Z">
         <seg>Вернуться к предыдущей фирме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the Headquarters.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140143Z" creationid="Александр" creationdate="20210111T140143Z">
+        <seg>Перейти в штаб-квартиру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1800,6 +1824,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000527Z" creationid="Olivier" creationdate="20201226T000527Z">
         <seg>Good.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Headquarters (hotkey: 'H')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140129Z" creationid="Александр" creationdate="20210111T140129Z">
+        <seg>Штаб-квартира (H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2506,10 +2538,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Stock Market screen</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140239Z" creationid="Александр" creationdate="20210111T140239Z">
+        <seg>Откройте экран фондового рынка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operating Profit Margin=15</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215234Z" creationid="Olivier" creationdate="20201213T215234Z">
         <seg>Operating Profit Margin=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options Menu (hotkey: 'O')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140349Z" creationid="Александр" creationdate="20210111T140349Z">
+        <seg>Опции (O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2898,6 +2946,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save, Load, Retire, return to main menu or return to Windows.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140338Z" creationid="Александр" creationdate="20210111T140338Z">
+        <seg>Сохранить, загрузить, уйти в отставку, вернуться в главное меню или выйти в Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=100</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215235Z" creationid="Olivier" creationdate="20201213T215235Z">
@@ -3006,6 +3062,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T111050Z" creationid="Olivier" creationdate="20210110T111050Z">
         <seg>издержки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Market (hotkey: F4)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140247Z" creationid="Александр" creationdate="20210111T140155Z">
+        <seg>Фондовый рынок (F4)</seg>
       </tuv>
     </tu>
     <tu>
