@@ -18034,6 +18034,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3062]&lt;EMP2&gt;working on|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084556Z" creationid="Александр" creationdate="20210111T084556Z">
+        <seg>[3062]&lt;EMP2&gt;работающий над|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3063]&lt;EMP3&gt;working in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084610Z" creationid="Александр" creationdate="20210111T084610Z">
+        <seg>[3063]&lt;EMP3&gt;работающий в|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3064]&lt;EMP4&gt;was headhunted.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084826Z" creationid="Александр" creationdate="20210111T084623Z">
+        <seg>[3064]&lt;EMP4&gt;был найден специалист по подбору персонала.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3065]&lt;EMP5&gt;was headhunted by|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084837Z" creationid="Александр" creationdate="20210111T084820Z">
+        <seg>[3065]&lt;EMP5&gt;был найден специалист по подбору персонала|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061324Z" creationid="Александр" creationdate="20210103T061324Z">
