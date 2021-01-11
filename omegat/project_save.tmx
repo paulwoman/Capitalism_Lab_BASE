@@ -1032,6 +1032,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to open the Corporate Summary Report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140053Z" creationid="Александр" creationdate="20210111T140008Z">
+        <seg>Нажмите, чтобы открыть краткий отчёт корпорации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Firm Financial Report</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104307Z" creationid="Александр" creationdate="20210111T104307Z">
@@ -1040,10 +1048,26 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to open the Firm Summary Report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140045Z" creationid="Александр" creationdate="20210111T140045Z">
+        <seg>Нажмите, чтобы открыть краткий отчёт фирмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Layout Plan Library</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104245Z" creationid="Александр" creationdate="20210111T104245Z">
         <seg>Нажмите чтобы открыть библиотеку планов размещенеия |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Product Summary Report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135905Z" creationid="Александр" creationdate="20210111T135808Z">
+        <seg>Нажмите, чтобы открыть сводный отчет о продукции</seg>
       </tuv>
     </tu>
     <tu>
@@ -1148,6 +1172,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215242Z" creationid="Olivier" creationdate="20201213T215242Z">
         <seg>Corporate Cash Change=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Summary Report (hotkey: 'C')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135931Z" creationid="Александр" creationdate="20210111T135931Z">
+        <seg>Краткий отчёт компании (C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1596,6 +1628,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104257Z" creationid="Александр" creationdate="20210111T104257Z">
         <seg>Финансовый отчёт (F6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm Summary Report (hotkey: 'F')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140024Z" creationid="Александр" creationdate="20210111T140024Z">
+        <seg>Краткий отчет фирмы (F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2708,8 +2748,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Product Summary Report (hotkey: 'P')</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T135755Z" creationid="Александр" creationdate="20210111T135755Z">
-        <seg>Краткий обзор продукции (hotkey: 'P')</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135856Z" creationid="Александр" creationdate="20210111T135755Z">
+        <seg>Сводный отчёт о продукции (P)</seg>
       </tuv>
     </tu>
     <tu>
