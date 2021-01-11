@@ -17932,16 +17932,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3053]&lt;UNVI&gt;Unique Visitors|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T055916Z" creationid="Александр" creationdate="20210111T055916Z">
-        <seg>[3053]&lt;UNVI&gt;Unique Visitors|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T083441Z" creationid="Александр" creationdate="20210111T055916Z">
+        <seg>[3053]&lt;UNVI&gt;Уникальные посетители|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3054]&lt;UNVM&gt;Monthly Unique Visitors|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T083308Z" creationid="Александр" creationdate="20210111T083308Z">
-        <seg>[3054]&lt;UNVM&gt;Monthly Unique Visitors|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T083509Z" creationid="Александр" creationdate="20210111T083308Z">
+        <seg>[3054]&lt;UNVM&gt;Ежемесячные уникальные посетители|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3055]&lt;INTT&gt;This Internet company does not have the required technology to start operation yet.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T083622Z" creationid="Александр" creationdate="20210111T083415Z">
+        <seg>[3055]&lt;INTT&gt;Эта интернет-компания еще не имеет необходимой технологии для начала работы.</seg>
       </tuv>
     </tu>
     <tu>
