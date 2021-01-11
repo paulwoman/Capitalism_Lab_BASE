@@ -1128,6 +1128,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitors are allowed to buy your products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T141520Z" creationid="Александр" creationdate="20210111T141520Z">
+        <seg>Competitors are allowed to buy your products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Confirm change to Selling Price</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103915Z" creationid="Александр" creationdate="20210111T103915Z">
@@ -3408,6 +3416,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T163453Z" creationid="Olivier" creationdate="20210110T163453Z">
         <seg>У создавшего игру версия %1s, тогда как ваша версии %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #Internal Sale# is #Disabled#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T141059Z" creationid="Александр" creationdate="20210111T141059Z">
+        <seg>Настройка по умолчанию #Внутренняя продажа# - #Выключено#.</seg>
       </tuv>
     </tu>
     <tu>
