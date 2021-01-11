@@ -452,8 +452,8 @@ Low - product customization applies to your company only; Medium - it applies to
       <tuv lang="en-US">
         <seg>Auto Link Supplier</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T104334Z" creationid="Александр" creationdate="20210111T104321Z">
-        <seg>автоматическое назначение поставщика</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145059Z" creationid="Александр" creationdate="20210111T104321Z">
+        <seg>Автоматическое назначение поставщика</seg>
       </tuv>
     </tu>
     <tu>
