@@ -15730,6 +15730,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2778]&lt;NCR0&gt;Currency Revalued!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064619Z" creationid="Александр" creationdate="20210111T064619Z">
+        <seg>[2778]&lt;NCR0&gt;Валюта Переоценена!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2779]&lt;CBA1&gt;Inflation Hawk (modest)|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T135429Z" creationid="Александр" creationdate="20210110T135429Z">
@@ -15782,6 +15790,78 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T134811Z" creationid="Александр" creationdate="20210110T134811Z">
         <seg>[2785]&lt;CBP2&gt;Очень плотно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2786]&lt;CBP3&gt;Tight|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064638Z" creationid="Александр" creationdate="20210111T064638Z">
+        <seg>[2786]&lt;CBP3&gt;Плотно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2787]&lt;CBP4&gt;Slightly Tight|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064653Z" creationid="Александр" creationdate="20210111T064653Z">
+        <seg>[2787]&lt;CBP4&gt;Слегка плотно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2788]&lt;CBP5&gt;Normal|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064658Z" creationid="Александр" creationdate="20210111T064658Z">
+        <seg>[2788]&lt;CBP5&gt;Нормально|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2789]&lt;CBP6&gt;Slightly Loose|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064721Z" creationid="Александр" creationdate="20210111T064710Z">
+        <seg>[2789]&lt;CBP6&gt;Немного Свободно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2790]&lt;CBP7&gt;Loose|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064718Z" creationid="Александр" creationdate="20210111T064718Z">
+        <seg>[2790]&lt;CBP7&gt;Свободно|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2791]&lt;CBP8&gt;Very Loose|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064730Z" creationid="Александр" creationdate="20210111T064730Z">
+        <seg>[2791]&lt;CBP8&gt;Достаточно свободный|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2792]&lt;CBP9&gt;Ultra Loose|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064816Z" creationid="Александр" creationdate="20210111T064816Z">
+        <seg>[2792]&lt;CBP9&gt;Сверхслабый|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064857Z" creationid="Александр" creationdate="20210111T064857Z">
+        <seg>[2793]&lt;AAS1&gt;Извините, у ИИ авансовый старт, и вы не сможете построить ни одного здания за этот год.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2794]&lt;AAS2&gt;Sorry, the AI is having an advance start and you cannot buy land until year|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064920Z" creationid="Александр" creationdate="20210111T064920Z">
+        <seg>[2794]&lt;AAS2&gt;Извините, у ИИ авансовый старт, и вы не можете купить землю в этом году.|</seg>
       </tuv>
     </tu>
     <tu>
