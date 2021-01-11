@@ -426,6 +426,30 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply All</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145228Z" creationid="Александр" creationdate="20210111T145228Z">
+        <seg>Применить всеl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply Selected</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145756Z" creationid="Александр" creationdate="20210111T145756Z">
+        <seg>Применить выбранное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply the change to all your firms</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145240Z" creationid="Александр" creationdate="20210111T145240Z">
+        <seg>Применить изменение ко всем вашим фирмам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you using any anti-virus software that runs in background?</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065310Z" creationid="Александр" creationdate="20210107T065310Z">
@@ -1156,6 +1180,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103901Z" creationid="Александр" creationdate="20210111T103901Z">
         <seg>Подтвердить изменение цены продажи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm the new dividend</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145129Z" creationid="Александр" creationdate="20210111T145129Z">
+        <seg>Подтвердите новый дивиденд</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,6 +3134,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T105703Z" creationid="Александр" creationdate="20210111T105602Z">
         <seg>Продать больше акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set New Dividend</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145139Z" creationid="Александр" creationdate="20210111T145139Z">
+        <seg>Установить новый дивиденд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set dividend to be paid to shareholders at year end</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145201Z" creationid="Александр" creationdate="20210111T145201Z">
+        <seg>Установить дивиденды, которые будут выплачены акционерам на конец года</seg>
       </tuv>
     </tu>
     <tu>
