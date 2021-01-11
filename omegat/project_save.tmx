@@ -16090,6 +16090,54 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2823]&lt;RDC4&gt; from the current firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075432Z" creationid="Александр" creationdate="20210111T075432Z">
+        <seg>[2823]&lt;RDC4&gt; от нынешней фирмы.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2824]&lt;RDC5&gt;To view the new client list, click the [Clients] button on your Sales Unit's interface.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075523Z" creationid="Александр" creationdate="20210111T075449Z">
+        <seg>[2824]&lt;RDC5&gt;Для просмотра списка новых клиентов нажмите кнопку [Клиенты] на интерфейсе вашего отдела продаж.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2825]&lt;RDC6&gt;None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075617Z" creationid="Александр" creationdate="20210111T075500Z">
+        <seg>[2825]&lt;RDC6&gt;В настоящее время ни в одной из Ваших фирм нет ни одного отдела по закупкам этого типа продукции.\n\nТаким образом, не было предпринято никаких действий.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2826]&lt;KOC1&gt;King of Capitalism|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075625Z" creationid="Александр" creationdate="20210111T075625Z">
+        <seg>[2826]&lt;KOC1&gt;Король капитализма|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2827]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075648Z" creationid="Александр" creationdate="20210111T075648Z">
+        <seg>[2827]&lt;KOC2&gt;Чтобы стать бесспорным Королем Капитализма, вы должны быть достаточно финансово подкованными, чтобы увеличить рыночную капитализацию вашей компании|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2828]&lt;KOC3&gt;billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075711Z" creationid="Александр" creationdate="20210111T075711Z">
+        <seg>[2828]&lt;KOC3&gt;миллиард, сохранив при этом не менее 80% своих акций, и достичь всех субзадач..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
