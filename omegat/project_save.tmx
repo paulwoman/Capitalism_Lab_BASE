@@ -250,6 +250,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T171239Z" creationid="Александр" creationdate="20210111T171239Z">
+        <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
@@ -3054,6 +3062,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
         <seg>Retail Store Type=Many</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail store type</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T175624Z" creationid="Александр" creationdate="20210111T175624Z">
+        <seg>Тип магазина</seg>
       </tuv>
     </tu>
     <tu>
