@@ -6414,8 +6414,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T182330Z" creationid="Александр" creationdate="20201218T181917Z">
-        <seg>Если установлено значение обратной инфляции,  то денежные суммы корректируются в зависимости от их чистой покупательной способности..</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220357Z" creationid="Александр" creationdate="20201218T181917Z">
+        <seg>то денежные суммы корректируются в зависимости от их чистой покупательной способности..</seg>
       </tuv>
     </tu>
     <tu>
@@ -6990,8 +6990,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Inflation is enabled when this option is set to On.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210111T215917Z" creationid="Olivier" creationdate="20210111T215917Z">
-        <seg>Inflation is enabled when this option is set to On.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220347Z" creationid="Olivier" creationdate="20210111T215917Z">
+        <seg>Если установлено "Обратная инфляция",&lt;</seg>
       </tuv>
     </tu>
     <tu>
