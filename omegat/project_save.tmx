@@ -12300,8 +12300,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2259]&lt;1180&gt; Worth of Goods from City's Retail Stores.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T162640Z" creationid="Olivier" creationdate="20210110T162640Z">
-        <seg>[2259]&lt;1180&gt; из магазинов города.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061850Z" creationid="Olivier" creationdate="20210110T162640Z">
+        <seg>[2259]&lt;1180&gt; Стоимость товаров из розничных магазинов города.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12332,8 +12332,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2279]&lt;1199&gt; has left the game.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T162655Z" creationid="Olivier" creationdate="20210110T162655Z">
-        <seg>[2279]&lt;1199&gt; покинула игру.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061904Z" creationid="Olivier" creationdate="20210110T162655Z">
+        <seg>[2279]&lt;1199&gt; покинул игру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15222,6 +15222,30 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T163655Z" creationid="Olivier" creationdate="20210110T163655Z">
         <seg>[2714]&lt;AIS5&gt;Медиа|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2715]&lt;RDTL&gt;Tech level|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062023Z" creationid="Александр" creationdate="20210111T062023Z">
+        <seg>[2715]&lt;RDTL&gt;уровень технологий|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2716]&lt;NCJ1&gt;founded|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062117Z" creationid="Александр" creationdate="20210111T062117Z">
+        <seg>[2716]&lt;NCJ1&gt;Основанный|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2717]&lt;NCJ2&gt;and serves as its|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T062128Z" creationid="Александр" creationdate="20210111T062128Z">
+        <seg>[2717]&lt;NCJ2&gt;и служит его|</seg>
       </tuv>
     </tu>
     <tu>
