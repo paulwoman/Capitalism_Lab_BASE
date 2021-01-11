@@ -434,26 +434,10 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T133035Z" creationid="Александр" creationdate="20210111T133035Z">
-        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T171239Z" creationid="Александр" creationdate="20210111T171239Z">
         <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
-        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2228,14 +2212,6 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Краткие подсказки</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Budding Entrepreneur</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T100522Z" creationid="Александр" creationdate="20210111T100522Z">
-        <seg>Budding Entrepreneur</seg>
       </tuv>
     </tu>
     <tu>
@@ -4424,14 +4400,6 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T100741Z" creationid="Александр" creationdate="20210111T100741Z">
-        <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Description=The advent of the Internet is changing every aspect of life.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064350Z" creationid="Александр" creationdate="20210107T064350Z">
@@ -6048,6 +6016,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T140537Z" creationid="Александр" creationdate="20210111T140537Z">
         <seg>Скорость игры (0 - пауза, 1 - 5 для настройки скорости)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Starting Year=1900</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T223851Z" creationid="Olivier" creationdate="20210111T223851Z">
+        <seg>Game Starting Year=1900</seg>
       </tuv>
     </tu>
     <tu>
@@ -14142,6 +14118,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is a row of icons on the toolbar.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T224124Z" creationid="Olivier" creationdate="20210111T224124Z">
+        <seg>На панели инструментов есть ряд иконок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There will be AI corporations focused on real estate, media and technology if this is set to High or above.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T184236Z" creationid="OmegaT Aligner" creationdate="20210111T184236Z">
@@ -16660,6 +16644,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T224051Z" creationid="Olivier" creationdate="20210111T224051Z">
+        <seg>Здесь вы можете видеть текущую игровую дату.^^Обратите внимание, что игра идет в реальном времени. Вы можете изменять игровую скорость, используя кнопки от ~'1'~ (очень медленно) до ~'5'~ (очень быстро).^^Также вы можете поставить игру на паузу, нажав кнопку ~'0'~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can see the price level of each insurance type on the #Insurances# page.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -17128,14 +17120,6 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Вы владеете акциями этой компании напрямую или через холдинговые компании.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T100915Z" creationid="Александр" creationdate="20210111T100915Z">
-        <seg>You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.</seg>
       </tuv>
     </tu>
     <tu>
