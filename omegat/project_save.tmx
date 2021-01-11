@@ -19356,6 +19356,22 @@ Hide=Preview</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[BOX1]Ok</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060813Z" creationid="Александр" creationdate="20210111T060813Z">
+        <seg>[BOX1]Ок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[BOX2]Cancel</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060823Z" creationid="Александр" creationdate="20210111T060823Z">
+        <seg>[BOX2]Отмена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[CHALLENGE GAME]</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064106Z" creationid="Olivier" creationdate="20201213T215305Z">
@@ -19512,8 +19528,8 @@ Description=This is a sample script for Capitalism Lab, listing all variables un
       <tuv lang="en-US">
         <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T065356Z" creationid="Александр" creationdate="20210107T065356Z">
-        <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060929Z" creationid="Александр" creationdate="20210107T065356Z">
+        <seg>[LNGD]%2j{Январь|Февраль|Март|Апрель|Май|Июнь|Июль|август|Сентябрь|Октябрь|Ноябрь|Декабрь} %1d, %3,4d</seg>
       </tuv>
     </tu>
     <tu>
@@ -19600,6 +19616,102 @@ This area shows the stock of the raw material in the unit.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215115Z" creationid="Olivier" creationdate="20201213T215115Z">
         <seg>[MAIN GOAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON1]January</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060651Z" creationid="Александр" creationdate="20210111T060651Z">
+        <seg>[MON1]Январь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON2]February</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060658Z" creationid="Александр" creationdate="20210111T060658Z">
+        <seg>[MON2]Февраль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON3]March</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060703Z" creationid="Александр" creationdate="20210111T060703Z">
+        <seg>[MON3]Март</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON4]April</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060710Z" creationid="Александр" creationdate="20210111T060710Z">
+        <seg>[MON4]Апрель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON5]May</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060714Z" creationid="Александр" creationdate="20210111T060714Z">
+        <seg>[MON5]Май</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON6]June</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060720Z" creationid="Александр" creationdate="20210111T060720Z">
+        <seg>[MON6]Июнь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON7]July</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060728Z" creationid="Александр" creationdate="20210111T060728Z">
+        <seg>[MON7]Июль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON8]August</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060740Z" creationid="Александр" creationdate="20210111T060740Z">
+        <seg>[MON8]Август</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON9]September</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060747Z" creationid="Александр" creationdate="20210111T060747Z">
+        <seg>[MON9]Сентябрь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONA]October</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060754Z" creationid="Александр" creationdate="20210111T060754Z">
+        <seg>[MONA]Октябрь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONB]November</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060801Z" creationid="Александр" creationdate="20210111T060801Z">
+        <seg>[MONB]Ноябрь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONC]December</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T060808Z" creationid="Александр" creationdate="20210111T060808Z">
+        <seg>[MONC]Декабрь</seg>
       </tuv>
     </tu>
     <tu>
