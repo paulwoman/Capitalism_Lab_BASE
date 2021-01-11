@@ -1852,6 +1852,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the Firms report and select those of your firms that you want to apply the change</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T145929Z" creationid="Александр" creationdate="20210111T145929Z">
+        <seg>Перейдите к отчету компании и выберите те компании, в которые вы хотите внедрить изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to the Headquarters.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T140143Z" creationid="Александр" creationdate="20210111T140143Z">
@@ -2686,6 +2694,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T140349Z" creationid="Александр" creationdate="20210111T140349Z">
         <seg>Опции (O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Organize An Intensive Training Program</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T153510Z" creationid="Александр" creationdate="20210111T153510Z">
+        <seg>Организовать интенсивную программу обучения</seg>
       </tuv>
     </tu>
     <tu>
