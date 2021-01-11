@@ -11396,8 +11396,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1721]&lt;0724&gt;Corporation Name|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210107T083224Z" creationid="Александр" creationdate="20210107T083224Z">
-        <seg>[1721]&lt;0724&gt;Наименование корпорации|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T164428Z" creationid="Александр" creationdate="20210107T083224Z">
+        <seg>[1721]&lt;0724&gt;Название компании|</seg>
       </tuv>
     </tu>
     <tu>
