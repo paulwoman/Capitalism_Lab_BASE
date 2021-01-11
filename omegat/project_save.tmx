@@ -322,6 +322,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust monthly spending on investor relations efforts</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102409Z" creationid="Александр" creationdate="20210111T102409Z">
+        <seg>Скорректировать ежемесячные расходы на работу с инвесторами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All cash and loan amounts will shrink in accordance to this Purchasing Power Index.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T182235Z" creationid="Александр" creationdate="20201218T182235Z">
@@ -406,6 +414,14 @@ Low - product customization applies to your company only; Medium - it applies to
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101240Z" creationid="Александр" creationdate="20210111T101240Z">
         <seg>B_MINMAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_PROFIT</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102012Z" creationid="Александр" creationdate="20210111T102012Z">
+        <seg>B_PROFIT</seg>
       </tuv>
     </tu>
     <tu>
@@ -604,6 +620,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215757Z" creationid="Olivier" creationdate="20201217T215757Z">
         <seg>Сможете ли вы применить то, что узнали, в реальном мире?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102033Z" creationid="Александр" creationdate="20210111T102033Z">
+        <seg>Отмена</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1610,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left-click to decrease.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102212Z" creationid="Александр" creationdate="20210111T102212Z">
+        <seg>Щелкните левой кнопкой мыши, чтобы уменьшить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Left-click to increase.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102222Z" creationid="Александр" creationdate="20210111T102222Z">
+        <seg>Щелкните левой кнопкой мыши, чтобы увеличить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000532Z" creationid="Olivier" creationdate="20201226T000532Z">
@@ -1614,6 +1654,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215103Z" creationid="Olivier" creationdate="20201213T215103Z">
         <seg>Macro Economy Realism=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make Your Offer</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102100Z" creationid="Александр" creationdate="20210111T102100Z">
+        <seg>Сделайте ваше предложение</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2150,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
         <seg>Retail Store Type=Many</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to decrease at a higher rate.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102153Z" creationid="Александр" creationdate="20210111T102153Z">
+        <seg>Щелкните правой кнопкой мыши, чтобы уменьшить с большей скоростью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to increase at a higher rate.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102245Z" creationid="Александр" creationdate="20210111T102245Z">
+        <seg>Щелкните правой кнопкой мыши, чтобы увеличить с большей скоростью.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3144,6 +3208,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101743Z" creationid="Александр" creationdate="20210111T101743Z">
         <seg>Деньги вашей корпорации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Corporation's Operating Profit</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102027Z" creationid="Александр" creationdate="20210111T102027Z">
+        <seg>Операционная прибыль вашей корпорации</seg>
       </tuv>
     </tu>
     <tu>
