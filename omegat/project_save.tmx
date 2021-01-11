@@ -1674,6 +1674,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Monthly Spending Adjustment</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102420Z" creationid="Александр" creationdate="20210111T102420Z">
+        <seg>Корректировка ежемесячных расходов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NIL</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215713Z" creationid="Olivier" creationdate="20201217T215713Z">
@@ -2976,6 +2984,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000513Z" creationid="Olivier" creationdate="20201226T000513Z">
         <seg>Превосходно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you click this button, it will go to the Person screen and let you select a person to offer to hire.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102735Z" creationid="Александр" creationdate="20210111T102735Z">
+        <seg>При нажатии на эту кнопку появляется экран Люди, позволяющий выбрать человека, который будет делать предложение о приеме на работу.</seg>
       </tuv>
     </tu>
     <tu>
