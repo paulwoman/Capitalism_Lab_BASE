@@ -378,6 +378,22 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B_BACK</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101645Z" creationid="Александр" creationdate="20210111T101645Z">
+        <seg>B_BACK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_INFO</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101448Z" creationid="Александр" creationdate="20210111T101448Z">
+        <seg>B_INFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B_MINMAP</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101240Z" creationid="Александр" creationdate="20210111T101240Z">
@@ -402,6 +418,30 @@ Show or hide the Toolbox menu.</seg>
         <seg>B_TOOL
 Toolbox (hotkey: Ctrl-T)
 Show or hide the Toolbox menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_WATCH</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101526Z" creationid="Александр" creationdate="20210111T101526Z">
+        <seg>B_WATCH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_WORLD</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101358Z" creationid="Александр" creationdate="20210111T101358Z">
+        <seg>B_WORLD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Back to the previous firm (hotkey: q)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101709Z" creationid="Александр" creationdate="20210111T101709Z">
+        <seg>Вернуться к предыдущей фирме (Q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,6 +1128,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Event Tracker (hotkey: F5)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101626Z" creationid="Александр" creationdate="20210111T101626Z">
+        <seg>События (F5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extend Text Box=32,420,300,0</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215844Z" creationid="Olivier" creationdate="20201217T215844Z">
@@ -1336,6 +1384,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215104Z" creationid="Olivier" creationdate="20201213T215104Z">
         <seg>Inflation=Inverse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101501Z" creationid="Александр" creationdate="20210111T101501Z">
+        <seg>Информационный центр</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1778,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Event Tracker Window.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101644Z" creationid="Александр" creationdate="20210111T101644Z">
+        <seg>Открыть окно событий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Information Center screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101524Z" creationid="Александр" creationdate="20210111T101524Z">
+        <seg>Открыть окно информационного центра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operating Profit Margin=15</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215234Z" creationid="Olivier" creationdate="20201213T215234Z">
@@ -2062,6 +2134,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101210Z" creationid="Александр" creationdate="20210111T101210Z">
         <seg>Показать или скрыть меню Инструменты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the World Map.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101446Z" creationid="Александр" creationdate="20210111T101446Z">
+        <seg>Показать или скрыть карту мира.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2840,6 +2920,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215949Z" creationid="Olivier" creationdate="20201217T215949Z">
         <seg>Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>World Map (hotkey: Ctrl-W)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101430Z" creationid="Александр" creationdate="20210111T101430Z">
+        <seg>Карта мира (Ctrl+W)</seg>
       </tuv>
     </tu>
     <tu>
