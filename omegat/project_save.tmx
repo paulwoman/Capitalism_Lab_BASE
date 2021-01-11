@@ -1418,6 +1418,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its bondholders receive|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T092732Z" creationid="Александр" creationdate="20210111T092732Z">
+        <seg>Держатели облигаций получают|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its current equity value is negative.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T130207Z" creationid="Александр" creationdate="20210110T130207Z">
@@ -18118,6 +18126,22 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T085159Z" creationid="Александр" creationdate="20210111T085159Z">
         <seg>[3071]&lt;BRB3&gt;обанкротился с отрицательным балансом в капитале.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3072]&lt;BRB4&gt;liquidates its assets.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T092712Z" creationid="Александр" creationdate="20210111T092712Z">
+        <seg>[3072]&lt;BRB4&gt;ликвидирует свои активы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3073]&lt;BRB5&gt;of the original bond values.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T094823Z" creationid="Александр" creationdate="20210111T094823Z">
+        <seg>[3073]&lt;BRB5&gt;первоначальной стоимости облигаций.|</seg>
       </tuv>
     </tu>
     <tu>
