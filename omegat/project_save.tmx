@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Double-click# here to see tips for #improving game running speed#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140637Z" creationid="Александр" creationdate="20210111T140637Z">
+        <seg>#Двойной клик# здесь, чтобы увидеть советы для #улучшения скорости работы игры#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Double-click# to apply the change of this setting to #all your firms#.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104451Z" creationid="Александр" creationdate="20210111T104451Z">
@@ -868,6 +876,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104646Z" creationid="Александр" creationdate="20210111T104646Z">
         <seg>Нажмите здесь, чтобы просмотреть данные о человеке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the speed dial to change the game speed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140556Z" creationid="Александр" creationdate="20210111T140556Z">
+        <seg>Нажмите, чтобы изменить скорость игры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1724,6 +1740,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140537Z" creationid="Александр" creationdate="20210111T140537Z">
+        <seg>Скорость игры (0 - пауза, 1 - 5 для настройки скорости)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game Starting Year=1990</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
@@ -2294,6 +2318,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104819Z" creationid="Александр" creationdate="20210111T104819Z">
         <seg>Кнопка "Новости"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>News Display Option (hotkey: 'N')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140738Z" creationid="Александр" creationdate="20210111T140738Z">
+        <seg>Опция отображения новостей (N)</seg>
       </tuv>
     </tu>
     <tu>
