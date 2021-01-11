@@ -7724,8 +7724,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1236]&lt;0350&gt;No.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T142931Z" creationid="Olivier" creationdate="20210110T142931Z">
-        <seg>[1236]&lt;0350&gt;Кол-во</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061247Z" creationid="Olivier" creationdate="20210110T142931Z">
+        <seg>[1236]&lt;0350&gt;Колчество</seg>
       </tuv>
     </tu>
     <tu>
@@ -9482,6 +9482,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1626]&lt;0651&gt; Unit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061314Z" creationid="Александр" creationdate="20210111T061314Z">
+        <seg>[1626]&lt;0651&gt; Отдел|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1632]&lt;AK00&gt;Operating Revenue|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T155543Z" creationid="Olivier" creationdate="20210110T155543Z">
@@ -10812,16 +10820,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1995]&lt;0940&gt;Baby Quantity|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T161245Z" creationid="Olivier" creationdate="20210110T161245Z">
-        <seg>[1995]&lt;0940&gt;К-во молодняка|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061334Z" creationid="Olivier" creationdate="20210110T161245Z">
+        <seg>[1995]&lt;0940&gt;Качество молодняка|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1996]&lt;0941&gt;Adult Quantity|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T161246Z" creationid="Olivier" creationdate="20210110T161246Z">
-        <seg>[1996]&lt;0941&gt;К-во взрослых|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061343Z" creationid="Olivier" creationdate="20210110T161246Z">
+        <seg>[1996]&lt;0941&gt;Качество взрослых|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10868,24 +10876,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2020]&lt;0965&gt;Upgrade Tech|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T161253Z" creationid="Olivier" creationdate="20210110T161253Z">
-        <seg>[2020]&lt;0965&gt;Усоверш.техн.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061421Z" creationid="Olivier" creationdate="20210110T161253Z">
+        <seg>[2020]&lt;0965&gt;Улучшение технологии|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2024]&lt;0969&gt;Current Technology Level: |</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T161254Z" creationid="Olivier" creationdate="20210110T161254Z">
-        <seg>[2024]&lt;0969&gt;Текущий уровень технологии : |</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061425Z" creationid="Olivier" creationdate="20210110T161254Z">
+        <seg>[2024]&lt;0969&gt;Текущий уровень технологии: |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2025]&lt;0970&gt;\n\nTarget Technology Level: |</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T161255Z" creationid="Olivier" creationdate="20210110T161255Z">
-        <seg>[2025]&lt;0970&gt;\n\nНужный уровень технологии : |</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061429Z" creationid="Olivier" creationdate="20210110T161255Z">
+        <seg>[2025]&lt;0970&gt;\n\nНужный уровень технологии: |</seg>
       </tuv>
     </tu>
     <tu>
