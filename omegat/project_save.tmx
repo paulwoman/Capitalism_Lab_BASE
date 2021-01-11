@@ -86,6 +86,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Success chance:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084510Z" creationid="Александр" creationdate="20210111T084510Z">
+        <seg>(Шанс успеха:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- help|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T182251Z" creationid="Александр" creationdate="20201230T182251Z">
@@ -17998,6 +18006,30 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T084412Z" creationid="Александр" creationdate="20210111T084412Z">
         <seg>[3058]&lt;RRD2&gt;Успешно!\nТеперь ваша технология|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3059]&lt;RRF1&gt;Unfortunately, your radical R&amp;D project of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084432Z" creationid="Александр" creationdate="20210111T084432Z">
+        <seg>[3059]&lt;RRF1&gt;К сожалению, ваш радикальный научно-исследовательский проект|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3060]&lt;RRF2&gt;failed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084500Z" creationid="Александр" creationdate="20210111T084500Z">
+        <seg>[3060]&lt;RRF2&gt;провалился.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3061]&lt;EMP1&gt;Your employee|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084547Z" creationid="Александр" creationdate="20210111T084547Z">
+        <seg>[3061]&lt;EMP1&gt;Ваш сотрудник|</seg>
       </tuv>
     </tu>
     <tu>
