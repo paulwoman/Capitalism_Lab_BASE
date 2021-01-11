@@ -2334,6 +2334,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then inject capital into the bank.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084152Z" creationid="Александр" creationdate="20210111T084152Z">
+        <seg>Затем вложите капитал в банк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the ~Select a Supplier~ window.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215924Z" creationid="Olivier" creationdate="20201217T215924Z">
@@ -17974,6 +17982,22 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T083832Z" creationid="Александр" creationdate="20210111T083832Z">
         <seg>[3056]&lt;BCRW&gt;Коэффициент достаточности капитала вашего банка слишком низок и прекратил выдачу новых кредитов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3057]&lt;RRD1&gt;Your radical R&amp;D of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084204Z" creationid="Александр" creationdate="20210111T084204Z">
+        <seg>[3057]&lt;RRD1&gt;Ваши радикальные исследования и разработки в области|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3058]&lt;RRD2&gt;is a success!\nYour technology is now|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084412Z" creationid="Александр" creationdate="20210111T084412Z">
+        <seg>[3058]&lt;RRD2&gt;Успешно!\nТеперь ваша технология|</seg>
       </tuv>
     </tu>
     <tu>
