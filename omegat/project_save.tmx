@@ -15332,8 +15332,40 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2728]&lt;NCK4&gt;after serving as|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T063609Z" creationid="Александр" creationdate="20210111T063211Z">
-        <seg>[2728]&lt;NCK4&gt;после того, как он стал|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063810Z" creationid="Александр" creationdate="20210111T063211Z">
+        <seg>[2728]&lt;NCK4&gt;после того, как|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2729]&lt;NCK5&gt;after serving as|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063803Z" creationid="Александр" creationdate="20210111T063803Z">
+        <seg>[2729]&lt;NCK5&gt;после того, как|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2730]&lt;MTH1&gt;month|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063817Z" creationid="Александр" creationdate="20210111T063817Z">
+        <seg>[2730]&lt;MTH1&gt;месяц|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2731]&lt;MTH2&gt;months|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063822Z" creationid="Александр" creationdate="20210111T063822Z">
+        <seg>[2731]&lt;MTH2&gt;месяцы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2732]&lt;NBF1&gt;opens an|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063957Z" creationid="Александр" creationdate="20210111T063957Z">
+        <seg>[2732]&lt;NBF1&gt;открывает|</seg>
       </tuv>
     </tu>
     <tu>
