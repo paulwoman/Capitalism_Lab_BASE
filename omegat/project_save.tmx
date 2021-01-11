@@ -1320,6 +1320,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable Internal Sale</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140958Z" creationid="Александр" creationdate="20210111T140958Z">
+        <seg>Отключить внутреннюю продажу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display the game options menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T140406Z" creationid="Александр" creationdate="20210111T140406Z">
@@ -2530,6 +2538,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140915Z" creationid="Александр" creationdate="20210111T140915Z">
+        <seg>Ок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only choose this if you have won in easier games.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T062133Z" creationid="Александр" creationdate="20210107T062133Z">
@@ -2566,6 +2582,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101524Z" creationid="Александр" creationdate="20210111T101524Z">
         <seg>Открыть окно информационного центра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the News Display options screen</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T140905Z" creationid="Александр" creationdate="20210111T140905Z">
+        <seg>Открыть экран параметров отображения новостей</seg>
       </tuv>
     </tu>
     <tu>
