@@ -17186,6 +17186,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3048]&lt;DLC1&gt;The Subsidiary DLC offers you a new set of powerful tools for conquering the business world on a grander scale!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055544Z" creationid="Александр" creationdate="20210111T055516Z">
+        <seg>[3048]&lt;DLC1&gt;Subsidiary DLC предлагает Вам новый набор мощных инструментов для покорения мира бизнеса в более широком масштабе!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3049]&lt;DLC2&gt;The City Economic Simulation DLC lets you build new cities from scratch, form your own political party, and assume the role of mayor while simultaneously growing your business empire!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055532Z" creationid="Александр" creationdate="20210111T055532Z">
+        <seg>[3049]&lt;DLC2&gt;City Economic Simulation DLC позволяет строить новые города с нуля, формировать собственную политическую партию и брать на себя роль мэра, одновременно развивая свою бизнес-империю!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3050]&lt;DLC3&gt;The Digital Age DLC offers you an exciting opportunity to build a tech startup at the dawn of the digital age and oversee its growth to eventually become a tech powerhouse that joins the ranks of tech titans such as Microsoft and Google!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055715Z" creationid="Александр" creationdate="20210111T055715Z">
+        <seg>[3050]&lt;DLC3&gt; Дополнение "Цифровой Век" предлагает вам захватывающую возможность построить технологический стартап на заре цифровой эры и наблюдать за его ростом, чтобы в конечном итоге стать технологической державой, которая пополняет ряды титанов техники, таких как Microsoft и Google!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3051]&lt;DLC4&gt;The Banking and Finance DLC simulates the financial world with a level of realism that is unprecedented in video games.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055721Z" creationid="Александр" creationdate="20210111T055721Z">
+        <seg>[2937]&lt;TUT3&gt;.\n\nYou are advised to follow the tutorials in a sequential order.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061324Z" creationid="Александр" creationdate="20210103T061324Z">
