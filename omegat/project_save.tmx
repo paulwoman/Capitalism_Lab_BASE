@@ -1700,6 +1700,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Report (hotkey: G)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134728Z" creationid="Александр" creationdate="20210111T134728Z">
+        <seg>Отчёт о целях (F6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Aggressive Growth Plan</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215119Z" creationid="Olivier" creationdate="20201213T215119Z">
@@ -2038,6 +2046,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T082900Z" creationid="Александр" creationdate="20201228T082900Z">
         <seg>Продолжайте в том же духе и постарайтесь достичь еще более высоких целей.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Land-use planning</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134604Z" creationid="Александр" creationdate="20210111T134604Z">
+        <seg>План землепользования</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,6 +2406,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101644Z" creationid="Александр" creationdate="20210111T101644Z">
         <seg>Открыть окно событий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Goal report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134638Z" creationid="Александр" creationdate="20210111T134638Z">
+        <seg>Открыть отчёт о целях</seg>
       </tuv>
     </tu>
     <tu>
@@ -2878,6 +2902,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101446Z" creationid="Александр" creationdate="20210111T101446Z">
         <seg>Показать или скрыть карту мира.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Smallest zoom level (hotkey: ',')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134901Z" creationid="Александр" creationdate="20210111T134901Z">
+        <seg>Самый узкий уровень масштабирования (,)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3648,6 +3680,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T214315Z" creationid="Olivier" creationdate="20201213T214315Z">
         <seg>Untitled Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to restrict different areas of your city to specific uses.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134625Z" creationid="Александр" creationdate="20210111T134625Z">
+        <seg>Используйте этот инструмент, чтобы ограничить различные районы вашего города для конкретного использования.</seg>
       </tuv>
     </tu>
     <tu>
