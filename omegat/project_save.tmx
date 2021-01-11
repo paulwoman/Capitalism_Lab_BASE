@@ -1136,6 +1136,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitors are not allowed to buy your products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T141603Z" creationid="Александр" creationdate="20210111T141603Z">
+        <seg>Конкуренты не имеют права покупать вашу продукцию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Confirm change to Selling Price</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103915Z" creationid="Александр" creationdate="20210111T103915Z">
@@ -1612,6 +1620,14 @@ Show or hide the Toolbox menu.</seg>
 [2858]&lt;DIFF&gt;РЕЙТИНГ СЛОЖНОСТИ|
 [2859]&lt;CORP&gt;КОРПОРАЦИИ (Итого|
 [2860]&lt;FLR0&gt;Извините, у вас недостаточно денег..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable Internal Sale</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T141535Z" creationid="Александр" creationdate="20210111T141535Z">
+        <seg>Включить внутреннюю продажу</seg>
       </tuv>
     </tu>
     <tu>
@@ -3424,6 +3440,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T141059Z" creationid="Александр" creationdate="20210111T141059Z">
         <seg>Настройка по умолчанию #Внутренняя продажа# - #Выключено#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #Internal Sale# is #Enabled#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T141551Z" creationid="Александр" creationdate="20210111T141551Z">
+        <seg>По умолчанию #Внутренняя продажа# - #Включено#.</seg>
       </tuv>
     </tu>
     <tu>
