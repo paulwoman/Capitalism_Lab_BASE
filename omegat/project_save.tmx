@@ -18154,6 +18154,70 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3075]&lt;BCA2&gt;Notification Only|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095453Z" creationid="Александр" creationdate="20210111T095453Z">
+        <seg>[3075]&lt;BCA2&gt;Только уведомление|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3076]&lt;BCA3&gt;No Notification|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095513Z" creationid="Александр" creationdate="20210111T095513Z">
+        <seg>[3076]&lt;BCA3&gt;Без Уведомлений|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3077]&lt;PTAS&gt;% of Total Assets|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095535Z" creationid="Александр" creationdate="20210111T095535Z">
+        <seg>[3077]&lt;PTAS&gt;% от общей стоимости активов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3078]&lt;3YRA&gt;30-Year Average|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095619Z" creationid="Александр" creationdate="20210111T095619Z">
+        <seg>[3078]&lt;3YRA&gt;Средний показатель за 30 лет|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3079]&lt;SABD&gt;Sale of Bonds|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095630Z" creationid="Александр" creationdate="20210111T095630Z">
+        <seg>[3079]&lt;SABD&gt;Продажа облигаций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3080]&lt;BDRD&gt;Bond Redemption|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095700Z" creationid="Александр" creationdate="20210111T095700Z">
+        <seg>[3080]&lt;BDRD&gt;Выкуп облигаций|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3081]&lt;NCAS&gt;Net Cash|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095743Z" creationid="Александр" creationdate="20210111T095743Z">
+        <seg>[3081]&lt;NCAS&gt;Чистые деньги|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3082]&lt;BKRU&gt;Is BANKRUPT|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095822Z" creationid="Александр" creationdate="20210111T095822Z">
+        <seg>[3082]&lt;BKRU&gt;БАНКРОТ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061324Z" creationid="Александр" creationdate="20210103T061324Z">
