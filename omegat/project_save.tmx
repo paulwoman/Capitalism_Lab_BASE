@@ -118,6 +118,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(the same firm type and the same company/subsidiary)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134503Z" creationid="Александр" creationdate="20210111T134503Z">
+        <seg>(один и тот же тип фирмы и одна и та же компания/филиал)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- help|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T182251Z" creationid="Александр" creationdate="20201230T182251Z">
@@ -350,6 +358,14 @@ Low - product customization applies to your company only; Medium - it applies to
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T162656Z" creationid="Olivier" creationdate="20210110T162656Z">
         <seg>Игру продолжит компьютер.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activate the mode for buying plots of land.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134539Z" creationid="Александр" creationdate="20210111T134539Z">
+        <seg>Активировать режим покупки земельных участков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -720,6 +736,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy plots of land (hotkey: CTRL-L)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134525Z" creationid="Александр" creationdate="20210111T134525Z">
+        <seg>Купить земельные участки (CTRL+L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can you apply what you have learned into running a business in the real world?</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215757Z" creationid="Olivier" creationdate="20201217T215757Z">
@@ -972,6 +996,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T105116Z" creationid="Александр" creationdate="20210111T105031Z">
         <seg>Нажмите, чтобы отобразить годовой график акций на протяжении всего срока его службы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Build Menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134404Z" creationid="Александр" creationdate="20210111T134404Z">
+        <seg>Нажмите, чтобы открыть меню Строительства.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,6 +2554,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press Ctrl-Z to open the same sub-menu on the Build interface as the last time.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134444Z" creationid="Александр" creationdate="20210111T134444Z">
+        <seg>Нажмите Ctrl+Z, чтобы открыть в меню строительства то же самое подменю, что и в прошлый раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previous Product</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103559Z" creationid="Александр" creationdate="20210111T103559Z">
@@ -2862,6 +2902,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T115704Z" creationid="Александр" creationdate="20201218T115704Z">
         <seg>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_BUYLND</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134506Z" creationid="Александр" creationdate="20210111T134506Z">
+        <seg>T_BUYLND</seg>
       </tuv>
     </tu>
     <tu>
