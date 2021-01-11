@@ -752,6 +752,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the Revenue graph for this product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103319Z" creationid="Александр" creationdate="20210111T103319Z">
+        <seg>Нажмите, чтобы отобразить график выручки для данного продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=Moderate</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215112Z" creationid="Olivier" creationdate="20201213T215112Z">
@@ -2138,6 +2146,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quantity Sold Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103126Z" creationid="Александр" creationdate="20210111T103126Z">
+        <seg>График продаж</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random Events=Never</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T100925Z" creationid="Александр" creationdate="20210111T100925Z">
@@ -2182,6 +2198,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
         <seg>Retail Store Type=Many</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revenue Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103142Z" creationid="Александр" creationdate="20210111T103142Z">
+        <seg>График доходов</seg>
       </tuv>
     </tu>
     <tu>
