@@ -15370,6 +15370,78 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2733]&lt;NBF2&gt;opens a|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064016Z" creationid="Александр" creationdate="20210111T064016Z">
+        <seg>[2733]&lt;NBF2&gt;открывать|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2734]&lt;NBF3&gt;sets up a Warehouse|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064125Z" creationid="Александр" creationdate="20210111T064047Z">
+        <seg>[2734]&lt;NBF3&gt;настроить Склад|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2735]&lt;NBF4&gt;sets up a TV Station|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064133Z" creationid="Александр" creationdate="20210111T064101Z">
+        <seg>[2735]&lt;NBF4&gt;настроить ТВ-станцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2736]&lt;NBF5&gt;sets up a Newspaper Publisher|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064118Z" creationid="Александр" creationdate="20210111T064118Z">
+        <seg>[2736]&lt;NBF5&gt;настроить газетное издательство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2737]&lt;NBF6&gt;sets up a Radio Station|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064150Z" creationid="Александр" creationdate="20210111T064150Z">
+        <seg>[2737]&lt;NBF6&gt;установить радиостанцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2738]&lt;NBF7&gt;builds a|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064206Z" creationid="Александр" creationdate="20210111T064206Z">
+        <seg>[2738]&lt;NBF7&gt;Построить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2739]&lt;NBF8&gt;donates to build a|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064217Z" creationid="Александр" creationdate="20210111T064217Z">
+        <seg>[2739]&lt;NBF8&gt;жертвует на строительство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2740]&lt;NBF9&gt;sets up|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064234Z" creationid="Александр" creationdate="20210111T064234Z">
+        <seg>[2740]&lt;NBF9&gt;установить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2741]&lt;NBG1&gt;builds|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064247Z" creationid="Александр" creationdate="20210111T064247Z">
+        <seg>[2741]&lt;NBG1&gt;Строить|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T162113Z" creationid="Александр" creationdate="20210107T162113Z">
@@ -15564,8 +15636,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2766]&lt;NCB2&gt;attitude is now at the helm of the central bank.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210110T125126Z" creationid="Александр" creationdate="20210110T125126Z">
-        <seg>[2766]&lt;NCB2&gt;attitude is now at the helm of the central bank.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064328Z" creationid="Александр" creationdate="20210110T125126Z">
+        <seg>[2766]&lt;NCB2&gt;отношение сейчас во главе центрального банка.|</seg>
       </tuv>
     </tu>
     <tu>
