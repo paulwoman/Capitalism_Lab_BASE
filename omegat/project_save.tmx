@@ -16124,24 +16124,48 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2827]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T075648Z" creationid="Александр" creationdate="20210111T075648Z">
-        <seg>[2827]&lt;KOC2&gt;Чтобы стать бесспорным Королем Капитализма, вы должны быть достаточно финансово подкованными, чтобы увеличить рыночную капитализацию вашей компании|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075724Z" creationid="Александр" creationdate="20210111T075648Z">
+        <seg>[2827]&lt;KOC2&gt;Чтобы стать бесспорным Королем Капитализма, вы должны быть достаточно финансово подкованными, чтобы увеличить рыночную капитализацию вашей компании до|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2828]&lt;KOC3&gt;billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T075711Z" creationid="Александр" creationdate="20210111T075711Z">
-        <seg>[2828]&lt;KOC3&gt;миллиард, сохранив при этом не менее 80% своих акций, и достичь всех субзадач..|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075744Z" creationid="Александр" creationdate="20210111T075711Z">
+        <seg>[2828]&lt;KOC3&gt;миллиарда, сохранив при этом не менее 80% своих акций, и достичь всех подцелей.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2829]&lt;AGS1&gt;To win this game, you must achieve the given goals.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075759Z" creationid="Александр" creationdate="20210111T075759Z">
+        <seg>[2829]&lt;AGS1&gt;Чтобы выиграть эту игру, вы должны достичь поставленных целей.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075822Z" creationid="Александр" creationdate="20210111T075822Z">
+        <seg>[2830]&lt;AGS2&gt;(Нажмите клавишу 'G' в любое время для просмотра Целей.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075834Z" creationid="Александр" creationdate="20210111T075834Z">
+        <seg>[2831]&lt;AGS3&gt;У вас есть опыт в|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
-        <seg>[2832]&lt;AGS4&gt;промышленный (экспертный рейтинг):|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075845Z" creationid="Olivier" creationdate="20201225T235043Z">
+        <seg>[2832]&lt;AGS4&gt;промышленности (экспертный рейтинг):|</seg>
       </tuv>
     </tu>
     <tu>
