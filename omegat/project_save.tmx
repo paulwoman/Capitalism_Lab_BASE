@@ -15866,6 +15866,30 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2795]&lt;AAS3&gt;Sorry, the AI is having an advance start and you cannot buy stock until year|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064954Z" creationid="Александр" creationdate="20210111T064954Z">
+        <seg>[2795]&lt;AAS3&gt;Извините, у ИИ авансовый старт, и вы не можете купить акции в этом году.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2796]&lt;SCO1&gt;Score:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T065002Z" creationid="Александр" creationdate="20210111T065002Z">
+        <seg>[2796]&lt;SCO1&gt;Счёт:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T065028Z" creationid="Александр" creationdate="20210111T065028Z">
+        <seg>[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
