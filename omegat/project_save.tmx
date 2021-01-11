@@ -656,6 +656,22 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy less stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105621Z" creationid="Александр" creationdate="20210111T105621Z">
+        <seg>Купить меньше акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy more stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105637Z" creationid="Александр" creationdate="20210111T105637Z">
+        <seg>Купить больше  акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can you apply what you have learned into running a business in the real world?</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215757Z" creationid="Olivier" creationdate="20201217T215757Z">
@@ -840,6 +856,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the daily stock graph for the past 30 days.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105422Z" creationid="Александр" creationdate="20210111T105422Z">
+        <seg>Нажмите, чтобы отобразить график акций за последние 30 дней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to display the monthly stock graph for the past 36 months.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T105355Z" creationid="Александр" creationdate="20210111T105148Z">
@@ -908,6 +932,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104245Z" creationid="Александр" creationdate="20210111T104245Z">
         <seg>Нажмите чтобы открыть библиотеку планов размещенеия |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to sell the displayed stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105529Z" creationid="Александр" creationdate="20210111T105529Z">
+        <seg>Нажмите, чтобы продать отображаемую акцию|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1012,6 +1044,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215852Z" creationid="Olivier" creationdate="20201217T215852Z">
         <seg>Current Firm=My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Daily Stock Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105409Z" creationid="Александр" creationdate="20210111T105409Z">
+        <seg>Ежедневный график акций</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2698,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sell Stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105438Z" creationid="Александр" creationdate="20210111T105438Z">
+        <seg>Продать акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell less stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105553Z" creationid="Александр" creationdate="20210111T105553Z">
+        <seg>Продавать меньше акций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell more stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105602Z" creationid="Александр" creationdate="20210111T105602Z">
+        <seg>продать больше акцийk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shortcut To Corporation Detail Report</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104623Z" creationid="Александр" creationdate="20210111T104623Z">
@@ -3536,6 +3600,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000424Z" creationid="Olivier" creationdate="20201225T223138Z">
         <seg>Вы вернулись в свой универмаг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can only trade stock once a day in a Challenge Game.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105502Z" creationid="Александр" creationdate="20210111T105502Z">
+        <seg>В Соревновании вы можете торговать акциями только один раз в день.</seg>
       </tuv>
     </tu>
     <tu>
