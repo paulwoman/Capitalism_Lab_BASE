@@ -6404,24 +6404,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[0937]&lt;0145&gt;A Single Brand Covers All Products|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T111133Z" creationid="Olivier" creationdate="20210110T111133Z">
-        <seg>[0937]&lt;0145&gt;- одна марка на все виды|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061108Z" creationid="Olivier" creationdate="20210110T111133Z">
+        <seg>[0937]&lt;0145&gt;одна марка на все виды|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0938]&lt;0146&gt;A Brand Covers a Range of Products|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T111134Z" creationid="Olivier" creationdate="20210110T111134Z">
-        <seg>[0938]&lt;0146&gt;- одна марка на класс продукции|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061111Z" creationid="Olivier" creationdate="20210110T111134Z">
+        <seg>[0938]&lt;0146&gt;одна марка на класс продукции|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0939]&lt;0147&gt;Each Product has a Unique Brand|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T111135Z" creationid="Olivier" creationdate="20210110T111135Z">
-        <seg>[0939]&lt;0147&gt;- у каждого продукта уникальная марка|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061114Z" creationid="Olivier" creationdate="20210110T111135Z">
+        <seg>[0939]&lt;0147&gt;у каждого продукта уникальная марка|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6660,16 +6660,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1035]&lt;0192&gt;Production &amp; Retail|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T111512Z" creationid="Olivier" creationdate="20210110T111512Z">
-        <seg>[1035]&lt;0192&gt;Пр-во и розница|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061213Z" creationid="Olivier" creationdate="20210110T111512Z">
+        <seg>[1035]&lt;0192&gt;Производство и розница|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1036]&lt;0193&gt;Production|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T111517Z" creationid="Olivier" creationdate="20210110T111517Z">
-        <seg>[1036]&lt;0193&gt;Произв-во|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061134Z" creationid="Olivier" creationdate="20210110T111517Z">
+        <seg>[1036]&lt;0193&gt;Производство|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7526,6 +7526,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T142717Z" creationid="Olivier" creationdate="20210110T142717Z">
         <seg>[1156]&lt;0310&gt;ТВ-вещание|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1157]&lt;0311&gt;Radio Broadcast|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061239Z" creationid="Александр" creationdate="20210111T061239Z">
+        <seg>[1157]&lt;0311&gt;Радиовещание|</seg>
       </tuv>
     </tu>
     <tu>
@@ -19908,6 +19916,14 @@ Next Arrow=Yes</seg>
 Text Box=40,270,350,0
 Pointer=38,121,55,238
 Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061027Z" creationid="Александр" creationdate="20210111T061027Z">
+        <seg>[SHRD]%2j{Янв|Фев|Март|Апр|Май|Июн|Июл|Авг|Сент|Окт|Нояб|Дек} %1d, %3,4d</seg>
       </tuv>
     </tu>
     <tu>
