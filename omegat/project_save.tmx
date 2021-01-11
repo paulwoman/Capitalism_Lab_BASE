@@ -1106,6 +1106,30 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AIPRIVAT</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220702Z" creationid="Olivier" creationdate="20210111T220702Z">
+        <seg>AIPRIVAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI_AC_PI</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220709Z" creationid="Olivier" creationdate="20210111T220709Z">
+        <seg>AI_AC_PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI_IPO</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220709Z" creationid="Olivier" creationdate="20210111T220709Z">
+        <seg>AI_IPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access the Capitalism Lab MOD forum to download user-created MODs.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -2308,6 +2332,22 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Ценовая политика компании</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHALCONF</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220656Z" creationid="Olivier" creationdate="20210111T220656Z">
+        <seg>CHALCONF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHALHOW</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220657Z" creationid="Olivier" creationdate="20210111T220657Z">
+        <seg>CHALHOW</seg>
       </tuv>
     </tu>
     <tu>
@@ -4584,6 +4624,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ECOM_SET</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220709Z" creationid="Olivier" creationdate="20210111T220709Z">
+        <seg>ECOM_SET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each retail store has four product slots.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000446Z" creationid="Olivier" creationdate="20201226T000446Z">
@@ -5432,6 +5480,22 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GENDER_F</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220659Z" creationid="Olivier" creationdate="20210111T220659Z">
+        <seg>GENDER_F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GENDER_M</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220658Z" creationid="Olivier" creationdate="20210111T220658Z">
+        <seg>GENDER_M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_ADV</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210111T215832Z" creationid="Olivier" creationdate="20210111T215832Z">
@@ -5444,6 +5508,54 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210111T215836Z" creationid="Olivier" creationdate="20210111T215836Z">
         <seg>GM_ASI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CA</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220651Z" creationid="Olivier" creationdate="20210111T220651Z">
+        <seg>GM_CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CCITY</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220704Z" creationid="Olivier" creationdate="20210111T220704Z">
+        <seg>GM_CCITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CEL</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220652Z" creationid="Olivier" creationdate="20210111T220652Z">
+        <seg>GM_CEL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CLC</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220653Z" creationid="Olivier" creationdate="20210111T220653Z">
+        <seg>GM_CLC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CSC</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220650Z" creationid="Olivier" creationdate="20210111T220650Z">
+        <seg>GM_CSC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CTS</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220652Z" creationid="Olivier" creationdate="20210111T220652Z">
+        <seg>GM_CTS</seg>
       </tuv>
     </tu>
     <tu>
@@ -5484,10 +5596,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_DONPP</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220705Z" creationid="Olivier" creationdate="20210111T220705Z">
+        <seg>GM_DONPP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_FM</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210111T215908Z" creationid="Olivier" creationdate="20210111T215908Z">
         <seg>GM_FM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_GSY</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220649Z" creationid="Olivier" creationdate="20210111T220649Z">
+        <seg>GM_GSY</seg>
       </tuv>
     </tu>
     <tu>
@@ -5524,6 +5652,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_NOCO</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220650Z" creationid="Olivier" creationdate="20210111T220650Z">
+        <seg>GM_NOCO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_NOSC</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220653Z" creationid="Olivier" creationdate="20210111T220653Z">
+        <seg>GM_NOSC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_NOSI</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220654Z" creationid="Olivier" creationdate="20210111T220654Z">
+        <seg>GM_NOSI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_PRI</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210111T215849Z" creationid="Olivier" creationdate="20210111T215849Z">
@@ -5532,10 +5684,90 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_PUBEX</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220705Z" creationid="Olivier" creationdate="20210111T220705Z">
+        <seg>GM_PUBEX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RDI1</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220701Z" creationid="Olivier" creationdate="20210111T220701Z">
+        <seg>GM_RDI1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RDI2</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220701Z" creationid="Olivier" creationdate="20210111T220701Z">
+        <seg>GM_RDI2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_RE</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210111T215907Z" creationid="Olivier" creationdate="20210111T215907Z">
         <seg>GM_RE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RFL</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220705Z" creationid="Olivier" creationdate="20210111T220705Z">
+        <seg>GM_RFL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RINV1</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220706Z" creationid="Olivier" creationdate="20210111T220706Z">
+        <seg>GM_RINV1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RINV2</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220706Z" creationid="Olivier" creationdate="20210111T220706Z">
+        <seg>GM_RINV2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RST</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220648Z" creationid="Olivier" creationdate="20210111T220648Z">
+        <seg>GM_RST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_SCI</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220655Z" creationid="Olivier" creationdate="20210111T220655Z">
+        <seg>GM_SCI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_SIQ</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220655Z" creationid="Olivier" creationdate="20210111T220655Z">
+        <seg>GM_SIQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_SN</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220654Z" creationid="Olivier" creationdate="20210111T220654Z">
+        <seg>GM_SN</seg>
       </tuv>
     </tu>
     <tu>
@@ -5560,6 +5792,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210111T215907Z" creationid="Olivier" creationdate="20210111T215907Z">
         <seg>GM_TEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GS_PLIST</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220703Z" creationid="Olivier" creationdate="20210111T220703Z">
+        <seg>GS_PLIST</seg>
       </tuv>
     </tu>
     <tu>
@@ -6414,8 +6654,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210111T220357Z" creationid="Александр" creationdate="20201218T181917Z">
-        <seg>то денежные суммы корректируются в зависимости от их чистой покупательной способности..</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220610Z" creationid="Александр" creationdate="20201218T181917Z">
+        <seg>денежные суммы корректируютсяв в зависимости от их чистой покупательной способности. . </seg>
       </tuv>
     </tu>
     <tu>
@@ -6990,8 +7230,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Inflation is enabled when this option is set to On.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210111T220347Z" creationid="Olivier" creationdate="20210111T215917Z">
-        <seg>Если установлено "Обратная инфляция",&lt;</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220550Z" creationid="Olivier" creationdate="20210111T215917Z">
+        <seg>Если установлено "Обратная инфляция",</seg>
       </tuv>
     </tu>
     <tu>
@@ -7738,6 +7978,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LANDPRIC</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220707Z" creationid="Olivier" creationdate="20210111T220707Z">
+        <seg>LANDPRIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOANINT</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220711Z" creationid="Olivier" creationdate="20210111T220711Z">
+        <seg>LOANINT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Land Ownership and Resources Mode</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -8062,6 +8318,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T184236Z" creationid="OmegaT Aligner" creationdate="20210111T184236Z">
         <seg>Его уменьшение уменьшит количество офисных площадей, которые предоставляет каждое коммерческое здание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MAXAIDIG</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220718Z" creationid="Olivier" creationdate="20210111T220718Z">
+        <seg>MAXAIDIG</seg>
       </tuv>
     </tu>
     <tu>
@@ -8774,6 +9038,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T184236Z" creationid="OmegaT Aligner" creationdate="20210111T184236Z">
         <seg>Число портов, импортирующих сырье в города</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSTECH</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220717Z" creationid="Olivier" creationdate="20210111T220717Z">
+        <seg>OSTECH</seg>
       </tuv>
     </tu>
     <tu>
@@ -10514,6 +10786,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SOFT_IDX</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220707Z" creationid="Olivier" creationdate="20210111T220707Z">
+        <seg>SOFT_IDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SPADV</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220710Z" creationid="Olivier" creationdate="20210111T220710Z">
+        <seg>SPADV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SUBCOUNT</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220703Z" creationid="Olivier" creationdate="20210111T220703Z">
+        <seg>SUBCOUNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Safety</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -12020,8 +12316,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The Purchasing Power Index starts at 100% and diminishes over those years with inflation.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201218T182248Z" creationid="Александр" creationdate="20201218T181947Z">
-        <seg>Индекс покупательной способности начинается на уровне 100% и снижается в течение этих лет в связи с инфляцией..</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220641Z" creationid="Александр" creationdate="20201218T181947Z">
+        <seg>Индекс покупательной способности начинается со 100% и уменьшается в течение этих лет с ростом инфляции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15180,6 +15476,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>VGADV</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220710Z" creationid="Olivier" creationdate="20210111T220710Z">
+        <seg>VGADV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Very Fast</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -15240,6 +15544,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Просмотреть список клиентов, которые покупают этот продукт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WEB_IDX</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210111T220708Z" creationid="Olivier" creationdate="20210111T220708Z">
+        <seg>WEB_IDX</seg>
       </tuv>
     </tu>
     <tu>
