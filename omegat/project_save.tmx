@@ -14244,8 +14244,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2569]&lt;1450&gt;Next|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T163114Z" creationid="Olivier" creationdate="20210110T163114Z">
-        <seg>[2569]&lt;1450&gt;След.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063224Z" creationid="Olivier" creationdate="20210110T163114Z">
+        <seg>[2569]&lt;1450&gt;Далее|</seg>
       </tuv>
     </tu>
     <tu>
@@ -15324,8 +15324,16 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2727]&lt;NCK3&gt;loses her job as|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T062929Z" creationid="Александр" creationdate="20210111T062929Z">
-        <seg>[2726]&lt;NCK2&gt;теряет работу в качестве|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063053Z" creationid="Александр" creationdate="20210111T062929Z">
+        <seg>[2727]&lt;NCK3&gt;теряет работу в качестве|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2728]&lt;NCK4&gt;after serving as|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T063211Z" creationid="Александр" creationdate="20210111T063211Z">
+        <seg>[2728]&lt;NCK4&gt;after serving as|</seg>
       </tuv>
     </tu>
     <tu>
