@@ -290,6 +290,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A red bar indicates a loss; a green bar indicates a profit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134148Z" creationid="Александр" creationdate="20210111T134148Z">
+        <seg>Красный столбик указывает на убыток, зеленый - на прибыль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Expansion Aggressiveness=Moderate</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215106Z" creationid="Olivier" creationdate="20201213T215106Z">
@@ -652,6 +660,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215822Z" creationid="Olivier" creationdate="20201217T215822Z">
         <seg>Build Firm=Department Store, My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build Menu (hotkey: B)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134340Z" creationid="Александр" creationdate="20210111T134340Z">
+        <seg>Меню строительства (B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1076,6 +1092,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215242Z" creationid="Olivier" creationdate="20201213T215242Z">
         <seg>Corporate Cash Change=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Date</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134159Z" creationid="Александр" creationdate="20210111T134159Z">
+        <seg>Текущая дата</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,6 +3214,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The vertical bars represent your corporation's monthly profit or loss.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134129Z" creationid="Александр" creationdate="20210111T134129Z">
+        <seg>Вертикальные столбики отображают ежемесячную прибыль или убыток Вашей корпорации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121100Z" creationid="Olivier" creationdate="20201217T220133Z">
@@ -3218,6 +3250,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T133252Z" creationid="Александр" creationdate="20210111T133252Z">
         <seg>Это число является операционной прибылью вашей корпорации за последние 12 месяцев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the current game date.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T134215Z" creationid="Александр" creationdate="20210111T134215Z">
+        <seg>Это текущая игровая дата.</seg>
       </tuv>
     </tu>
     <tu>
