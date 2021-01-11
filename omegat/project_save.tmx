@@ -504,6 +504,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Budding Entrepreneur</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100522Z" creationid="Александр" creationdate="20210111T100522Z">
+        <seg>Budding Entrepreneur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build Firm=Department Store, My Department Store</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215822Z" creationid="Olivier" creationdate="20201217T215822Z">
@@ -2576,6 +2584,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T220044Z" creationid="Olivier" creationdate="20201217T220044Z">
         <seg>Окно обновилось, чтобы показать все продукты, доступные из местных морских портов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=1.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100515Z" creationid="Александр" creationdate="20210111T100515Z">
+        <seg>Title=1.</seg>
       </tuv>
     </tu>
     <tu>
