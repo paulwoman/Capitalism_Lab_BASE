@@ -17140,8 +17140,48 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3042]&lt;MANS&gt;Mansions Market Values|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210105T115106Z" creationid="Александр" creationdate="20210105T115106Z">
-        <seg>[3042]&lt;MANS&gt;Mansions Market Values|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055226Z" creationid="Александр" creationdate="20210105T115106Z">
+        <seg>[3042]&lt;MANS&gt;Рыночная стоимость особняков|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3043]&lt;BCR1&gt;Your Bank's Capital Ratio is Too Low!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055200Z" creationid="Александр" creationdate="20210111T055200Z">
+        <seg>[3043]&lt;BCR1&gt;Коэффициент достаточности капитала вашего банка слишком низок!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3044]&lt;BCR2&gt;The Capital Ratio of Your Subsidiary Bank |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055302Z" creationid="Александр" creationdate="20210111T055302Z">
+        <seg>[3044]&lt;BCR2&gt;Коэффициент соотношения капитала филиала Вашего банка |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3045]&lt;BCR3&gt; is Too Low!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055328Z" creationid="Александр" creationdate="20210111T055328Z">
+        <seg>[3045]&lt;BCR3&gt; Слишком низкий!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3046]&lt;BCR4&gt;Bank Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055343Z" creationid="Александр" creationdate="20210111T055343Z">
+        <seg>[3046]&lt;BCR4&gt;Коэффициент банковского капитала|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3047]&lt;BCR5&gt;Required Bank Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055424Z" creationid="Александр" creationdate="20210111T055424Z">
+        <seg>[3047]&lt;BCR5&gt;Требуемый коэффициент достаточности капитала банка|</seg>
       </tuv>
     </tu>
     <tu>
