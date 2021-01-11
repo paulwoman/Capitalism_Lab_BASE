@@ -15642,6 +15642,94 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2767]&lt;NAT1&gt;acquires technology for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064340Z" creationid="Александр" creationdate="20210111T064340Z">
+        <seg>[2758]&lt;NBM2&gt;покупает|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2768]&lt;NAT2&gt;from|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064344Z" creationid="Александр" creationdate="20210111T064344Z">
+        <seg>[2768]&lt;NAT2&gt;из|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2769]&lt;NAT3&gt;for|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064349Z" creationid="Александр" creationdate="20210111T064349Z">
+        <seg>[2769]&lt;NAT3&gt;за|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2770]&lt;NGV1&gt;The Government|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064358Z" creationid="Александр" creationdate="20210111T064358Z">
+        <seg>[2770]&lt;NGV1&gt;Правительство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2771]&lt;NGV2&gt;the Government|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064404Z" creationid="Александр" creationdate="20210111T064404Z">
+        <seg>[2771]&lt;NGV2&gt;Правительство|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2772]&lt;NAC0&gt;Corporation Changes Strategy|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064422Z" creationid="Александр" creationdate="20210111T064422Z">
+        <seg>[2772]&lt;NAC0&gt;Стратегия изменений в корпорации|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2773]&lt;NIR0&gt;Central Bank Changes Interest Rate|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064436Z" creationid="Александр" creationdate="20210111T064436Z">
+        <seg>[2773]&lt;NIR0&gt;Центральный банк меняет процентную ставку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2774]&lt;NBC0&gt;The New Central Bank Chairman|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064445Z" creationid="Александр" creationdate="20210111T064445Z">
+        <seg>[2774]&lt;NBC0&gt;Новый председатель Центрального банка|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2775]&lt;NCC0&gt;Career Change|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064536Z" creationid="Александр" creationdate="20210111T064536Z">
+        <seg>[2775]&lt;NCC0&gt;Смена профессии|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2776]&lt;NRI0&gt;Riot|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064551Z" creationid="Александр" creationdate="20210111T064551Z">
+        <seg>[2776]&lt;NRI0&gt;Беспорядки|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2777]&lt;NSC0&gt;Stock Crash|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T064601Z" creationid="Александр" creationdate="20210111T064601Z">
+        <seg>[2777]&lt;NSC0&gt;Авария на складе|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2779]&lt;CBA1&gt;Inflation Hawk (modest)|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T135429Z" creationid="Александр" creationdate="20210110T135429Z">
