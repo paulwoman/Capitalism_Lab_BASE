@@ -202,6 +202,22 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
+        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//------------------------------------------------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
+        <seg>//------------------------------------------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//-------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215114Z" creationid="Olivier" creationdate="20201213T215114Z">
@@ -1610,6 +1626,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Cities=2</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
+        <seg>Number of Cities=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Cities=4</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165448Z" creationid="Olivier" creationdate="20210110T165448Z">
@@ -1918,6 +1942,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165544Z" creationid="Olivier" creationdate="20210110T165544Z">
         <seg>Product=Snacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Random Events=Never</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100925Z" creationid="Александр" creationdate="20210111T100925Z">
+        <seg>Random Events=Never</seg>
       </tuv>
     </tu>
     <tu>
@@ -2932,6 +2964,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100915Z" creationid="Александр" creationdate="20210111T100915Z">
+        <seg>You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You win this game when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165958Z" creationid="Olivier" creationdate="20210110T165958Z">
@@ -2944,6 +2984,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215049Z" creationid="Olivier" creationdate="20201213T215049Z">
         <seg>Your Start-up Capital=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
+        <seg>Your Start-up Capital=Very High</seg>
       </tuv>
     </tu>
     <tu>
