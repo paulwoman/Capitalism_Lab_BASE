@@ -102,6 +102,22 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(hotkey: '+' or '=')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T110026Z" creationid="Александр" creationdate="20210111T110026Z">
+        <seg>(клавиша: '+' или '=')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(hotkey: '-' )</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T110010Z" creationid="Александр" creationdate="20210111T110010Z">
+        <seg>(клавиша: '-' )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- help|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T182251Z" creationid="Александр" creationdate="20201230T182251Z">
@@ -636,6 +652,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T083744Z" creationid="Александр" creationdate="20210111T083744Z">
         <seg>Построить научно-исследовательский центр и создать технологические научно-исследовательские подразделения для исследования необходимой техники.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy Stock</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T110044Z" creationid="Александр" creationdate="20210111T110044Z">
+        <seg>Купить акции</seg>
       </tuv>
     </tu>
     <tu>
