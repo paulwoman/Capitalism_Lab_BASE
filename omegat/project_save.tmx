@@ -15914,6 +15914,70 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2801]&lt;BF04&gt;to build the firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074537Z" creationid="Александр" creationdate="20210111T074537Z">
+        <seg>[2801]&lt;BF04&gt;построить фирму.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2802]&lt;BF05&gt;Customer Traffic Index:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074552Z" creationid="Александр" creationdate="20210111T074552Z">
+        <seg>[2802]&lt;BF05&gt;Индекс трафика клиентов:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2803]&lt;BF06&gt;Compensation:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074607Z" creationid="Александр" creationdate="20210111T074607Z">
+        <seg>[2803]&lt;BF06&gt;Компенсация:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2804]&lt;BF07&gt;Price Premium|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074640Z" creationid="Александр" creationdate="20210111T074640Z">
+        <seg>[2804]&lt;BF07&gt;Цена с надбавкой|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to Build More|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074709Z" creationid="Александр" creationdate="20210111T074709Z">
+        <seg>[2805]&lt;BF08&gt;Держите клавишу [SHIFT] чтобы построить больше.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2806]&lt;PSTO&gt;Stock|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074724Z" creationid="Александр" creationdate="20210111T074724Z">
+        <seg>[2806]&lt;PSTO&gt;Акции|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2807]&lt;FRE1&gt;Freight Cost Breakdown|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074755Z" creationid="Александр" creationdate="20210111T074755Z">
+        <seg>[2807]&lt;FRE1&gt;Расходы на транспортировку|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2808]&lt;FRE2&gt;Truck - Supplier to Seaport:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074811Z" creationid="Александр" creationdate="20210111T074811Z">
+        <seg>[2808]&lt;FRE2&gt;Грузовик - Поставщик в порт:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2832]&lt;AGS4&gt;industry (expertise rating:|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T235043Z" creationid="Olivier" creationdate="20201225T235043Z">
