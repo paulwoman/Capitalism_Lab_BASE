@@ -592,6 +592,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Borrow Money</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103645Z" creationid="Александр" creationdate="20210111T103645Z">
+        <seg>Займ денег</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Budding Entrepreneur</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T100522Z" creationid="Александр" creationdate="20210111T100522Z">
@@ -744,6 +752,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display previous product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103547Z" creationid="Александр" creationdate="20210111T103547Z">
+        <seg>Нажмите, чтобы показать предыдущий продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to display the Profit graph for this product</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103341Z" creationid="Александр" creationdate="20210111T103341Z">
@@ -768,10 +784,26 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the next Research Project</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103757Z" creationid="Александр" creationdate="20210111T103757Z">
+        <seg>Нажмите, чтобы показать следующий научный проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to display the next product</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103536Z" creationid="Александр" creationdate="20210111T103536Z">
         <seg>Нажмите, чтобы показать следующий продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the previous Research Project</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103727Z" creationid="Александр" creationdate="20210111T103727Z">
+        <seg>Нажмите, чтобы показать предыдущий научный проект</seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,6 +1802,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next Research Project</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103818Z" creationid="Александр" creationdate="20210111T103818Z">
+        <seg>Следующий научный проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None of the other companies have a technology more advanced than yours.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201230T184042Z" creationid="Александр" creationdate="20201230T184042Z">
@@ -2090,6 +2130,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previous Product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103559Z" creationid="Александр" creationdate="20210111T103559Z">
+        <seg>Предыдущий продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous Research Project</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103701Z" creationid="Александр" creationdate="20210111T103701Z">
+        <seg>Предыдущий научный проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201229T224613Z" creationid="Olivier" creationdate="20201229T224613Z">
@@ -2238,6 +2294,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T164623Z" creationid="Olivier" creationdate="20210110T164623Z">
         <seg>Real Wage Rate=60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repay Loan</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103620Z" creationid="Александр" creationdate="20210111T103620Z">
+        <seg>Погасить кредит</seg>
       </tuv>
     </tu>
     <tu>
