@@ -840,6 +840,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the monthly stock graph for the past 36 months.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105355Z" creationid="Александр" creationdate="20210111T105148Z">
+        <seg>Нажмите, чтобы отобразить график акицй за последние 36 месяцев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to display the next Research Project</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103757Z" creationid="Александр" creationdate="20210111T103757Z">
@@ -872,10 +880,18 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the yearly stock graph for the past 30 years.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105146Z" creationid="Александр" creationdate="20210111T105146Z">
+        <seg>Нажмите, чтобы отобразить график акций за последние 30 лет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to display the yearly stock graph over its lifetime.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T105031Z" creationid="Александр" creationdate="20210111T105031Z">
-        <seg>Нажмите, чтобы отобразить график годового запаса на протяжении всего срока его службы.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105116Z" creationid="Александр" creationdate="20210111T105031Z">
+        <seg>Нажмите, чтобы отобразить годовой график акций на протяжении всего срока его службы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +1990,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T102420Z" creationid="Александр" creationdate="20210111T102420Z">
         <seg>Корректировка ежемесячных расходов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Monthly Stock Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105208Z" creationid="Александр" creationdate="20210111T105208Z">
+        <seg>Ежемесячный график акций</seg>
       </tuv>
     </tu>
     <tu>
@@ -3496,6 +3520,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101430Z" creationid="Александр" creationdate="20210111T101430Z">
         <seg>Карта мира (Ctrl+W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yearly Stock Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T105053Z" creationid="Александр" creationdate="20210111T105053Z">
+        <seg>Годовой график акций</seg>
       </tuv>
     </tu>
     <tu>
