@@ -1632,6 +1632,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable AutoLink to Supplier</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T144440Z" creationid="Александр" creationdate="20210111T144440Z">
+        <seg>Включить автоматическую связь с поставщиком</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable Internal Sale</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T141535Z" creationid="Александр" creationdate="20210111T141535Z">
@@ -4216,6 +4224,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154412Z" creationid="Александр" creationdate="20201218T154317Z">
         <seg>Вы должны применять то, что вы только что узнали, для управления своей компанией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must select suppliers manually.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T144416Z" creationid="Александр" creationdate="20210111T144416Z">
+        <seg>Вы должны выбрать поставщиков вручную.</seg>
       </tuv>
     </tu>
     <tu>
