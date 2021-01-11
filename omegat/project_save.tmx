@@ -624,6 +624,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy This Mansion</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103932Z" creationid="Александр" creationdate="20210111T103932Z">
+        <seg>Купить этот особняк |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can you apply what you have learned into running a business in the real world?</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215757Z" creationid="Olivier" creationdate="20201217T215757Z">
@@ -808,6 +816,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the previous product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103827Z" creationid="Александр" creationdate="20210111T103827Z">
+        <seg>Нажмите, чтобы показать предыдущий продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=Moderate</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215112Z" creationid="Olivier" creationdate="20201213T215112Z">
@@ -820,6 +836,22 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215106Z" creationid="Olivier" creationdate="20201213T215106Z">
         <seg>Competitor Start-up Capital=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm change to Selling Price</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103915Z" creationid="Александр" creationdate="20210111T103915Z">
+        <seg>Подтвердить изменение цены продажи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm change to selling price</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103901Z" creationid="Александр" creationdate="20210111T103901Z">
+        <seg>Подтвердить изменение цены продажи</seg>
       </tuv>
     </tu>
     <tu>
@@ -884,6 +916,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T115706Z" creationid="Александр" creationdate="20201218T115706Z">
         <seg>Definitions&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish This Mansion</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103947Z" creationid="Александр" creationdate="20210111T103947Z">
+        <seg>Снести этот особняк |</seg>
       </tuv>
     </tu>
     <tu>
@@ -1762,6 +1802,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make a Counter Offer</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103925Z" creationid="Александр" creationdate="20210111T103925Z">
+        <seg>Сделайте ваше предложение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mini Map (hotkey: 'M')</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101317Z" creationid="Александр" creationdate="20210111T101317Z">
@@ -1774,6 +1822,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T102420Z" creationid="Александр" creationdate="20210111T102420Z">
         <seg>Корректировка ежемесячных расходов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move the slider to alter the Training Level.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104048Z" creationid="Александр" creationdate="20210111T104048Z">
+        <seg>Переместите ползунок, чтобы изменить уровень обучения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,6 +2014,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215122Z" creationid="Olivier" creationdate="20201213T215122Z">
         <seg>Number of Game Years=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Offer to sell this mansion</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104026Z" creationid="Александр" creationdate="20210111T104026Z">
+        <seg>Предложение о продаже этого особняка |</seg>
       </tuv>
     </tu>
     <tu>
@@ -3116,6 +3180,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104034Z" creationid="Александр" creationdate="20210111T104034Z">
+        <seg>Обучение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Training Effect Modifier=200</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215114Z" creationid="Olivier" creationdate="20201213T215114Z">
@@ -3208,6 +3280,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215949Z" creationid="Olivier" creationdate="20201217T215949Z">
         <seg>Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With training, operating units in your firm will gradually advance to higher levels, thus improving their efficiency.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104129Z" creationid="Александр" creationdate="20210111T104129Z">
+        <seg>С помощью обучения отделы вашей фирмы постепенно перейдут на более высокий уровень, тем самым повышая свою эффективность.</seg>
       </tuv>
     </tu>
     <tu>
