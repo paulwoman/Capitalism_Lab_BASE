@@ -16020,8 +16020,72 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2814]&lt;SOW1&gt;Sowing in|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T075118Z" creationid="Александр" creationdate="20210111T075118Z">
-        <seg>[2814]&lt;SOW1&gt;Засевание|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075137Z" creationid="Александр" creationdate="20210111T075118Z">
+        <seg>[2814]&lt;SOW1&gt;Посев|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2815]&lt;HARV&gt;Harvest in|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075141Z" creationid="Александр" creationdate="20210111T075131Z">
+        <seg>[2815]&lt;HARV&gt;Уборка урожая|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2816]&lt;ITP1&gt;Organize an Intensive Training Program|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075202Z" creationid="Александр" creationdate="20210111T075202Z">
+        <seg>[2816]&lt;ITP1&gt;Организовать программу интенсивного обучения|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2817]&lt;ITP2&gt;Training effect will be instant but|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075212Z" creationid="Александр" creationdate="20210111T075212Z">
+        <seg>[2817]&lt;ITP2&gt;Тренировочный эффект будет мгновенным, но|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2818]&lt;ITP3&gt;its cost-effectiveness is 30% lower than normal training.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075326Z" creationid="Александр" creationdate="20210111T075326Z">
+        <seg>[2818]&lt;ITP3&gt;его эффективность по затратам на 30% ниже, чем у обычной подготовки.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2819]&lt;ITP4&gt;How much will you allocate for training per employee?|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075336Z" creationid="Александр" creationdate="20210111T075336Z">
+        <seg>[2819]&lt;ITP4&gt;Сколько вы выделите на обучение одного сотрудника?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2820]&lt;RDC1&gt;firm|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075341Z" creationid="Александр" creationdate="20210111T075341Z">
+        <seg>[2820]&lt;RDC1&gt;фирма|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2821]&lt;RDC2&gt;firms|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075348Z" creationid="Александр" creationdate="20210111T075348Z">
+        <seg>[2821]&lt;RDC2&gt;фирмы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2822]&lt;RDC3&gt; of yours have been redirected to purchase |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T075413Z" creationid="Александр" creationdate="20210111T075413Z">
+        <seg>[2822]&lt;RDC3&gt; были перенаправлены на покупку |</seg>
       </tuv>
     </tu>
     <tu>
