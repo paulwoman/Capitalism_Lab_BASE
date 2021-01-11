@@ -378,6 +378,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B_MINMAP</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101240Z" creationid="Александр" creationdate="20210111T101240Z">
+        <seg>B_MINMAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B_TOOL</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T065351Z" creationid="Александр" creationdate="20210107T065351Z">
@@ -1530,6 +1538,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mini Map (hotkey: 'M')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101317Z" creationid="Александр" creationdate="20210111T101317Z">
+        <seg>Миникарта (M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NIL</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215713Z" creationid="Olivier" creationdate="20201217T215713Z">
@@ -2030,6 +2046,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215110Z" creationid="Olivier" creationdate="20201213T215110Z">
         <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the Mini Map.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101349Z" creationid="Александр" creationdate="20210111T101349Z">
+        <seg>Показать или скрыть Миникарту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the Toolbox menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101210Z" creationid="Александр" creationdate="20210111T101210Z">
+        <seg>Показать или скрыть меню Инструменты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2704,6 +2736,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154715Z" creationid="Александр" creationdate="20201218T154715Z">
         <seg>Для этого просто повторите шаги, которые вы только что сделали для создания своего первого универмага.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toolbox (hotkey: Ctrl-T)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101323Z" creationid="Александр" creationdate="20210111T101200Z">
+        <seg>Инструменты (Ctrl+T)</seg>
       </tuv>
     </tu>
     <tu>
