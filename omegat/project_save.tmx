@@ -1336,6 +1336,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable AutoLink to Supplier</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T144126Z" creationid="Александр" creationdate="20210111T144126Z">
+        <seg>Отключить автоматическую связь с поставщиком</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disable Internal Sale</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T140958Z" creationid="Александр" creationdate="20210111T140958Z">
@@ -3432,6 +3440,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T163453Z" creationid="Olivier" creationdate="20210110T163453Z">
         <seg>У создавшего игру версия %1s, тогда как ваша версии %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #AutoLink to Supplier# is #Disabled#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T144350Z" creationid="Александр" creationdate="20210111T144350Z">
+        <seg>По умолчанию #Автоматическая связь с поставщиком# - #Отключена#.</seg>
       </tuv>
     </tu>
     <tu>
