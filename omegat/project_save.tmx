@@ -12228,8 +12228,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2250]&lt;1171&gt;'s Production Technology.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T162618Z" creationid="Olivier" creationdate="20210110T162618Z">
-        <seg>[2250]&lt;1171&gt;.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061637Z" creationid="Olivier" creationdate="20210110T162618Z">
+        <seg>[2250]&lt;1171&gt;Технология производства.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12276,8 +12276,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2256]&lt;1177&gt; Area.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T162623Z" creationid="Olivier" creationdate="20210110T162623Z">
-        <seg>[2256]&lt;1177&gt;.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T061710Z" creationid="Olivier" creationdate="20210110T162623Z">
+        <seg>[2256]&lt;1177&gt;Область.</seg>
       </tuv>
     </tu>
     <tu>
