@@ -15884,8 +15884,32 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T065028Z" creationid="Александр" creationdate="20210111T065028Z">
-        <seg>[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074324Z" creationid="Александр" creationdate="20210111T065028Z">
+        <seg>[2797]&lt;SCO2&gt;миллиард х 100 корректировка на инфляцию|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2798]&lt;BF01&gt;Use your personal money to build your mansion.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074337Z" creationid="Александр" creationdate="20210111T074258Z">
+        <seg>[2798]&lt;BF01&gt;Используй свои личные деньги, чтобы построить особняк.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2799]&lt;BF02&gt;to relocate the firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074454Z" creationid="Александр" creationdate="20210111T074446Z">
+        <seg>[2799]&lt;BF02&gt;переместить фирму.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2800]&lt;BF03&gt;to duplicate the firm.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T074516Z" creationid="Александр" creationdate="20210111T074448Z">
+        <seg>[2800]&lt;BF03&gt;дублировать фирму.|</seg>
       </tuv>
     </tu>
     <tu>
