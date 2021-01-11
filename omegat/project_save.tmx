@@ -744,6 +744,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the Profit graph for this product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103341Z" creationid="Александр" creationdate="20210111T103341Z">
+        <seg>Нажмите, чтобы отобразить график Прибыли для данного продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to display the Quantity Sold graph for this product</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T102923Z" creationid="Александр" creationdate="20210111T102923Z">
@@ -756,6 +764,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103319Z" creationid="Александр" creationdate="20210111T103319Z">
         <seg>Нажмите, чтобы отобразить график выручки для данного продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the next product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103536Z" creationid="Александр" creationdate="20210111T103536Z">
+        <seg>Нажмите, чтобы показать следующий продукт</seg>
       </tuv>
     </tu>
     <tu>
@@ -1420,6 +1436,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IFA_GP</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103425Z" creationid="Александр" creationdate="20210111T103425Z">
+        <seg>IFA_GP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T182330Z" creationid="Александр" creationdate="20201218T181917Z">
@@ -1674,6 +1698,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Link This Item</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103419Z" creationid="Александр" creationdate="20210111T103419Z">
+        <seg>Соединить эти пункты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Looters Steal |</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T162639Z" creationid="Olivier" creationdate="20210110T162639Z">
@@ -1726,6 +1758,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215820Z" creationid="Olivier" creationdate="20201217T215820Z">
         <seg>Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103442Z" creationid="Александр" creationdate="20210111T103442Z">
+        <seg>Следующий продукт</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2182,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165544Z" creationid="Olivier" creationdate="20210110T165544Z">
         <seg>Product=Snacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Profit Graph</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103357Z" creationid="Александр" creationdate="20210111T103357Z">
+        <seg>График прибыли</seg>
       </tuv>
     </tu>
     <tu>
@@ -21674,6 +21722,14 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064157Z" creationid="Александр" creationdate="20210107T064157Z">
         <seg>^^Ваша цель состоит в том, чтобы увеличить доходы вашей медиа-корпорации до существенного размера и в конечном итоге превзойти все другие медиа-компании, чтобы стать крупнейшей в мире.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T103400Z" creationid="Александр" creationdate="20210111T103400Z">
+        <seg>`</seg>
       </tuv>
     </tu>
     <tu>
