@@ -226,6 +226,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T133035Z" creationid="Александр" creationdate="20210111T133035Z">
+        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
@@ -796,6 +804,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T102007Z" creationid="Александр" creationdate="20210111T102007Z">
         <seg>Нажмите здесь, чтобы просмотреть #Балансовый отчёт#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view its #Income Statement#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T133545Z" creationid="Александр" creationdate="20210111T133545Z">
+        <seg>Нажмите здесь, чтобы просмотреть #отчет о прибылях и убытках#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3194,6 +3210,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101825Z" creationid="Александр" creationdate="20210111T101825Z">
         <seg>Здесь показана сумма наличных денег, которая в настоящее время есть у вашей корпорации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This figure is your corporation's operating profit over the past 12 months.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T133252Z" creationid="Александр" creationdate="20210111T133252Z">
+        <seg>Это число является операционной прибылью вашей корпорации за последние 12 месяцев.</seg>
       </tuv>
     </tu>
     <tu>
