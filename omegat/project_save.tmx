@@ -386,6 +386,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B_CASH</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101728Z" creationid="Александр" creationdate="20210111T101728Z">
+        <seg>B_CASH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B_INFO</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T101448Z" creationid="Александр" creationdate="20210111T101448Z">
@@ -668,6 +676,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165459Z" creationid="Olivier" creationdate="20210110T165459Z">
         <seg>City=Warsaw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view its #Balance Sheet#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102007Z" creationid="Александр" creationdate="20210111T102007Z">
+        <seg>Нажмите здесь, чтобы просмотреть #Балансовый отчёт#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,6 +1256,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201225T234454Z" creationid="Olivier" creationdate="20201225T234454Z">
         <seg>Уровень сложности игры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go back to the previously selected firm.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101727Z" creationid="Александр" creationdate="20210111T101727Z">
+        <seg>Вернуться к предыдущей фирме.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2534,6 +2558,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This figure is the amount of cash that your corporation currently has.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101825Z" creationid="Александр" creationdate="20210111T101825Z">
+        <seg>Здесь показана сумма наличных денег, которая в настоящее время есть у вашей корпорации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the ~Select a Supplier~ window.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215924Z" creationid="Olivier" creationdate="20201217T215924Z">
@@ -3104,6 +3136,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165958Z" creationid="Olivier" creationdate="20210110T165958Z">
         <seg>Вы выиграете эту игру, если накопите состояние в $1 миллиард и получите контроль над 5 публичными компаниями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Corporation's Cash</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T101743Z" creationid="Александр" creationdate="20210111T101743Z">
+        <seg>Деньги вашей корпорации</seg>
       </tuv>
     </tu>
     <tu>
