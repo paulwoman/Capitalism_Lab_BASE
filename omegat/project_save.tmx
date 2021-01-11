@@ -922,8 +922,8 @@ Show or hide the Toolbox menu.</seg>
       <tuv lang="en-US">
         <seg>Click to change city view to smallest zoom level.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T135201Z" creationid="Александр" creationdate="20210111T134942Z">
-        <seg>Нажмите, чтобы выбрать минимальный масштабирования.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135736Z" creationid="Александр" creationdate="20210111T134942Z">
+        <seg>Нажмите, чтобы выбрать наименьший уровень масштабирования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2706,6 +2706,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Summary Report (hotkey: 'P')</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135755Z" creationid="Александр" creationdate="20210111T135755Z">
+        <seg>Краткий обзор продукции (hotkey: 'P')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product=All</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165536Z" creationid="Olivier" creationdate="20210110T165536Z">
@@ -2990,6 +2998,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T134944Z" creationid="Александр" creationdate="20210111T134944Z">
         <seg>T_ZOOM2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_ZOOM3</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T135742Z" creationid="Александр" creationdate="20210111T135742Z">
+        <seg>T_ZOOM3</seg>
       </tuv>
     </tu>
     <tu>
