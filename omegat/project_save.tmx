@@ -712,6 +712,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T100741Z" creationid="Александр" creationdate="20210111T100741Z">
+        <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=The advent of the Internet is changing every aspect of life.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064350Z" creationid="Александр" creationdate="20210107T064350Z">
