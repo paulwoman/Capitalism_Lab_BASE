@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Double-click# to apply the change of this setting to #all your firms#.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104451Z" creationid="Александр" creationdate="20210111T104451Z">
+        <seg>#Нажмите дважды#, чтобы применить эти изменения настроек ко всем вашим фирмам#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)
 ~
 GM_CUSTR
@@ -382,6 +390,14 @@ Low - product customization applies to your company only; Medium - it applies to
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T120652Z" creationid="Александр" creationdate="20201218T120839Z">
         <seg>На этом этапе вам не нужно беспокоиться о деталях, предоставляемых с каждым продуктом. ^^ (Информация, такая как стоимость перевозки, рейтинги, бренд, будет объяснена в следующем руководстве.) ^^ А пока давайте просто купим первый продукт в списке, чтобы начать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Link Supplier</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104334Z" creationid="Александр" creationdate="20210111T104321Z">
+        <seg>автоматическое назначение поставщика</seg>
       </tuv>
     </tu>
     <tu>
@@ -760,6 +776,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to allow purchasing units to find their own suppliers.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104350Z" creationid="Александр" creationdate="20210111T104323Z">
+        <seg>Нажмите, чтобы позволить покупателям найти собственных поставщиков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to display previous product</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103547Z" creationid="Александр" creationdate="20210111T103547Z">
@@ -820,6 +844,22 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103827Z" creationid="Александр" creationdate="20210111T103827Z">
         <seg>Нажмите, чтобы показать предыдущий продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Firm Financial Report</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104307Z" creationid="Александр" creationdate="20210111T104307Z">
+        <seg>Нажмите, чтобы открыть финансовый отчет фирмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Layout Plan Library</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104245Z" creationid="Александр" creationdate="20210111T104245Z">
+        <seg>Нажмите чтобы открыть библиотеку планов размещенеия |</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,6 +1352,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Financial Report (hotkey: F6)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104257Z" creationid="Александр" creationdate="20210111T104257Z">
+        <seg>Финансовый отчёт (F6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm product count=My Department Store, 2</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000454Z" creationid="Olivier" creationdate="20201226T000454Z">
@@ -1512,6 +1560,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T103425Z" creationid="Александр" creationdate="20210111T103425Z">
         <seg>IFA_GP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_AL</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104308Z" creationid="Александр" creationdate="20210111T104308Z">
+        <seg>IF_AL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_L</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104156Z" creationid="Александр" creationdate="20210111T104156Z">
+        <seg>IF_L</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,6 +1798,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T082900Z" creationid="Александр" creationdate="20201228T082900Z">
         <seg>Продолжайте в том же духе и постарайтесь достичь еще более высоких целей.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layout Plan Library (hotkey: F7)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104214Z" creationid="Александр" creationdate="20210111T104214Z">
+        <seg>Библиотека плана размещения (F7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3288,6 +3360,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104129Z" creationid="Александр" creationdate="20210111T104129Z">
         <seg>С помощью обучения отделы вашей фирмы постепенно перейдут на более высокий уровень, тем самым повышая свою эффективность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wizard</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T104154Z" creationid="Александр" creationdate="20210111T104154Z">
+        <seg>Мастер</seg>
       </tuv>
     </tu>
     <tu>
