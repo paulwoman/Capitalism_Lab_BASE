@@ -18146,6 +18146,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3074]&lt;BCA1&gt;Must Take Action|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T095443Z" creationid="Александр" creationdate="20210111T095443Z">
+        <seg>[3074]&lt;BCA1&gt;Должны принять меры|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061324Z" creationid="Александр" creationdate="20210103T061324Z">
