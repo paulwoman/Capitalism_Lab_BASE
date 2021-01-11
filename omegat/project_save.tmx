@@ -3042,6 +3042,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Retail</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T170335Z" creationid="Александр" creationdate="20210111T170335Z">
+        <seg>Retail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retail Store Type=Many</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215051Z" creationid="Olivier" creationdate="20201213T215051Z">
