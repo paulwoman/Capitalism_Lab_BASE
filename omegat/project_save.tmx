@@ -1308,6 +1308,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It offers a powerful suite of features that allow you to set up banks and insurance companies, issue and trade bonds, and invest in global stocks.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055841Z" creationid="Александр" creationdate="20210111T055752Z">
+        <seg>Предлагается мощный набор функций, которые позволяют создавать банки и страховые компании, выпускать и торговать облигациями, а также инвестировать в глобальные акции.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It seems within your budget, so let's proceed.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T155047Z" creationid="Александр" creationdate="20201218T155047Z">
@@ -17212,8 +17220,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3051]&lt;DLC4&gt;The Banking and Finance DLC simulates the financial world with a level of realism that is unprecedented in video games.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T055721Z" creationid="Александр" creationdate="20210111T055721Z">
-        <seg>[2937]&lt;TUT3&gt;.\n\nYou are advised to follow the tutorials in a sequential order.\n\n|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055816Z" creationid="Александр" creationdate="20210111T055721Z">
+        <seg>[3051]&lt;DLC4&gt;Дополнение "Банковское и финансовое управление" имитирует финансовый мир с беспрецедентным для видеоигр уровнем реализма.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3052]&lt;LTAX&gt;Accumulated losses for future tax deduction|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055911Z" creationid="Александр" creationdate="20210111T055911Z">
+        <seg>[3052]&lt;LTAX&gt;Накопленные убытки для будущих налоговых вычетов|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3053]&lt;UNVI&gt;Unique Visitors|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T055916Z" creationid="Александр" creationdate="20210111T055916Z">
+        <seg>[3053]&lt;UNVI&gt;Unique Visitors|</seg>
       </tuv>
     </tu>
     <tu>
