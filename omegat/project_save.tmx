@@ -18066,6 +18066,54 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3066]&lt;EMP6&gt;has resigned.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084852Z" creationid="Александр" creationdate="20210111T084852Z">
+        <seg>[3066]&lt;EMP6&gt;ушёл в отставку.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3067]&lt;PARC&gt;to Parent Company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084935Z" creationid="Александр" creationdate="20210111T084935Z">
+        <seg>[3067]&lt;PARC&gt;головной компании|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3068]&lt;INSU&gt;Insurance Company|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T084954Z" creationid="Александр" creationdate="20210111T084954Z">
+        <seg>[3068]&lt;INSU&gt;Страховая компания|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3069]&lt;BRB1&gt;Bankruptcy!|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T085004Z" creationid="Александр" creationdate="20210111T085004Z">
+        <seg>[3069]&lt;BRB1&gt;Банкротство!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3070]&lt;BRB2&gt;liquidates its assets and redeems all its outstanding bonds at the full issue price.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T085115Z" creationid="Александр" creationdate="20210111T085115Z">
+        <seg>[3070]&lt;BRB2&gt;ликвидирует свои активы и погашает все размещенные облигации по полной цене выпуска.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3071]&lt;BRB3&gt;went under with a negative balance in its shareholders' equity.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T085159Z" creationid="Александр" creationdate="20210111T085159Z">
+        <seg>[3071]&lt;BRB3&gt;обанкротился с отрицательным балансом в капитале.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T061324Z" creationid="Александр" creationdate="20210103T061324Z">
