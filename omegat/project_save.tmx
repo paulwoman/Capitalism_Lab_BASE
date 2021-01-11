@@ -712,6 +712,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to view profile details.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102826Z" creationid="Александр" creationdate="20210111T102826Z">
+        <seg>Нажмите здесь, чтобы просмотреть детали профиля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~ now.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215905Z" creationid="Olivier" creationdate="20201217T215855Z">
@@ -732,6 +740,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120855Z" creationid="Александр" creationdate="20201218T120855Z">
         <seg>Нажмите кнопку ~ ВЫБРАТЬ ~. ^^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the Quantity Sold graph for this product</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102923Z" creationid="Александр" creationdate="20210111T102923Z">
+        <seg>Нажмите, чтобы отобразить график Продаж для данного продукта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1368,6 +1384,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215733Z" creationid="Olivier" creationdate="20201217T215733Z">
         <seg>Hide=Preview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire a new Chief Technical Officer.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102753Z" creationid="Александр" creationdate="20210111T102753Z">
+        <seg>Нанять нового главного технического директора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,10 +2186,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click to decrease at a higher rate</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102836Z" creationid="Александр" creationdate="20210111T102836Z">
+        <seg>Щелкните правой кнопкой мыши, чтобы уменьшить с большей скоростью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click to decrease at a higher rate.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T102153Z" creationid="Александр" creationdate="20210111T102153Z">
         <seg>Щелкните правой кнопкой мыши, чтобы уменьшить с большей скоростью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to increase at a higher rate</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210111T102843Z" creationid="Александр" creationdate="20210111T102843Z">
+        <seg>Щелкните правой кнопкой мыши, чтобы увеличить с большей скоростью.</seg>
       </tuv>
     </tu>
     <tu>
