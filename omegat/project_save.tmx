@@ -978,6 +978,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ACQBANKR</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210310T233549Z" creationid="Olivier" creationdate="20210310T233528Z">
+        <seg>ACQBANKR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Acquires Private Companies</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
