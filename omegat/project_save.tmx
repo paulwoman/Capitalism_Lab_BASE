@@ -13908,6 +13908,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The figure in the top right corner of the unit is the ~unit's level~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T165154Z" creationid="Deivon" creationdate="20210507T165154Z">
+        <seg>Цифра в правом верхнем углу блока - это уровень отдела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The figure shows the total client deposits and the year-over-year growth rate.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -15178,6 +15186,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Это означает, что необходимо построить больше коммерческих зданий, и тогда бизнес с недвижимостью станет более прибыльным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This might be one of the reasons why your store is not making as much profit as it should be.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T164940Z" creationid="Deivon" creationdate="20210507T164940Z">
+        <seg>Это может быть одной из причин, по которой ваш магазин не получает столько прибыли, сколько должен.</seg>
       </tuv>
     </tu>
     <tu>
