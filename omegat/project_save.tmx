@@ -9402,6 +9402,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now select ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T150718Z" creationid="Deivon" creationdate="20210507T150718Z">
+        <seg>Теперь выберите в меню ~Розничный магазин~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now waste no time and get started working towards this goal.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T150010Z" creationid="Deivon" creationdate="20210507T150010Z">
@@ -15520,6 +15528,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Чтобы построить новый город, сначала выберите на карте пустой регион с достаточной территорией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To build your first store, click the ~Build~ icon.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T150618Z" creationid="Deivon" creationdate="20210507T150618Z">
+        <seg>Чтобы построить свой первый магазин, нажмите на значок ~Build~.</seg>
       </tuv>
     </tu>
     <tu>
