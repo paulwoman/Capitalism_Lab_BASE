@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35896,6 +35896,16 @@ Good.</seg>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121610Z" creationid="Александр" creationdate="20201218T121610Z">
         <seg>[TEXT]
 Хорошо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+In this tutorial, you will be trained to become a better retail manager and learn how to customize your retail stores to maximize their operational efficiency and profitability.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210506T155913Z" creationid="Deivon" creationdate="20210506T155913Z">
+        <seg>[TEXT]
+В этом уроке вы узнаете, как стать лучшим менеджером розничной торговли и научиться настраивать свои розничные магазины, чтобы максимизировать их операционную эффективность и прибыльность.</seg>
       </tuv>
     </tu>
     <tu>
