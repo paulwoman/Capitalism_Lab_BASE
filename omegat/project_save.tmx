@@ -11770,6 +11770,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the two units that have appeared in your layout grid?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T161851Z" creationid="Deivon" creationdate="20210507T161851Z">
+        <seg>Смотрите, появились два блока в вашей сетке макета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the vertical yellow and orange bars?</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121013Z" creationid="Александр" creationdate="20201218T121013Z">
