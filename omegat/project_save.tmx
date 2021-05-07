@@ -5552,6 +5552,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, a furniture store can only sell furniture.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T152859Z" creationid="Deivon" creationdate="20210507T152859Z">
+        <seg>Например, мебельный магазин может продавать только мебель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you may set your apartment's rent to be always 10% higher than the market rate.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -7376,6 +7384,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>При желании можно вернуть технологию производства на более низкий уровень и связать ее с другим пользовательским изображением изделия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T152842Z" creationid="Deivon" creationdate="20210507T152842Z">
+        <seg>Если по какой-либо причине поставка товара в магазин прекращается, вы можете легко заменить его другим товаром. С другой стороны, в ~специализированных магазинах~ могут продаватся только определенный ассортимент товаров.</seg>
       </tuv>
     </tu>
     <tu>
