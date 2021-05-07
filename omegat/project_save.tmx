@@ -15804,6 +15804,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To understand this better, we will just add a product to the store using the old method you are familiar with.^^Now click the ~Add Product icon~ and choose a product from the supply list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T161720Z" creationid="Deivon" creationdate="20210507T161720Z">
+        <seg>Чтобы лучше это понять, мы просто добавим продукт в магазин, используя старый метод, с которым вы знакомы. Теперь нажмите на значок ~Добавить продукт~ и выберите продукт из списка поставок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Together with the e-commerce site quality rating, they affect the amount of visitors to this site.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
