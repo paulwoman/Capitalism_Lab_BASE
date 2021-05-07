@@ -9458,6 +9458,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T155731Z" creationid="Deivon" creationdate="20210507T155731Z">
+        <seg>Теперь выберите в меню ~Гипермаркет~ и выберите место для постройки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now select ~Retail Store~ from the menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T150718Z" creationid="Deivon" creationdate="20210507T150718Z">
@@ -9870,6 +9878,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T140915Z" creationid="Александр" creationdate="20210111T140915Z">
         <seg>Ок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay, enough of the theory.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T155115Z" creationid="Deivon" creationdate="20210507T155115Z">
+        <seg>Ладно, хватит теории..</seg>
       </tuv>
     </tu>
     <tu>
