@@ -14688,8 +14688,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The ~brown bar~ represents the unit's utilization level.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T164405Z" creationid="Deivon" creationdate="20210507T164405Z">
-        <seg>~Коричневая полоска~ показывает уровень использования устройства.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T164657Z" creationid="Deivon" creationdate="20210507T164405Z">
+        <seg>~Коричневая полоска~ показывает уровень эффективности Отдела закупок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17006,8 +17006,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>When this bar reaches its full length, it means that the unit has reached its full capacity and can process no more goods even if there is additional supply and demand.^^Conversely, if the unit is underutilized, its facilities and resources are not used effectively.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T164506Z" creationid="Deivon" creationdate="20210507T164506Z">
-        <seg>Когда этот стержень достигает своей полной длины, это означает, что установка достигла своей полной мощности и не может обрабатывать больше товаров, даже если есть дополнительное предложение и спрос.^^И наоборот, если подразделение используется недостаточно, его средства и ресурсы используются неэффективно.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T164857Z" creationid="Deivon" creationdate="20210507T164506Z">
+        <seg>Когда этот стержень достигает своей полной длины, это означает, что отдел полностью загружен и не может обрабатывать больше товаров, даже если есть дополнительное предложение и спрос. И наоборот, если отдел используется недостаточно, его средства и ресурсы используются неэффективно.</seg>
       </tuv>
     </tu>
     <tu>
