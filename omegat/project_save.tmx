@@ -11642,6 +11642,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right now as the unit is new that level is 1.^^With time and training the level will increase and the unit will become more efficient, being able to handle greater stock quantities and meeting higher demand levels.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T165524Z" creationid="Deivon" creationdate="20210507T165524Z">
+        <seg>Сейчас, отдел закупок является новым, его уровень равен 1. Со временем и обучением уровень будет увеличиваться, и отдел станет более эффективным, способным обрабатывать большие объемы запасов и удовлетворять более высокие уровни спроса..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click to decrease at a higher rate</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T102836Z" creationid="Александр" creationdate="20210111T102836Z">
