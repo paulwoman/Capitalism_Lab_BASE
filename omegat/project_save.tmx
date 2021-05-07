@@ -922,6 +922,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A specialty stores is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T154141Z" creationid="Deivon" creationdate="20210507T154141Z">
+        <seg>Специализированные магазины более привлекательны для покупателей, заинтересованных в таких товарах. Например, компьютерный магазин, продающий компьютеры, должен превзойти соседний универмаг, продающий тот же продукт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stock split increases the total number of shares in a corporation and diminishes its stock price.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
