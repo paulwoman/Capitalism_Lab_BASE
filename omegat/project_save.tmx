@@ -9402,6 +9402,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notice anything different?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T155753Z" creationid="Deivon" creationdate="20210507T155753Z">
+        <seg>Заметили что-нибудь необычное?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notification Only</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -16624,6 +16632,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121657Z" creationid="Александр" creationdate="20201218T121657Z">
         <seg>Сейчас мы находимся на ПАНАРАМЕ города.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We can now see the ~Layout~ of your store, which is a 3x3 grid of boxes.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T155902Z" creationid="Deivon" creationdate="20210507T155902Z">
+        <seg>Теперь мы можем видеть ~Макет~ вашего магазина, который представляет собой сетку 3x3.</seg>
       </tuv>
     </tu>
     <tu>
