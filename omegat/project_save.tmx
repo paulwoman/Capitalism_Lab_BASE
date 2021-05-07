@@ -9914,6 +9914,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One is labeled ~Purchase~ and it is connected to a ~Sales~ unit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T162430Z" creationid="Deivon" creationdate="20210507T162430Z">
+        <seg>Один из блоков помечен как ~Покупка~ и подключен к блоку ~Продажи~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only choose this if you have won in easier games.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T062133Z" creationid="Александр" creationdate="20210107T062133Z">
