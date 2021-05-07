@@ -1642,6 +1642,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T151640Z" creationid="Deivon" creationdate="20210507T151640Z">
+        <seg>Поскольку у вас больше опыта в розничной торговле, вы можете выбирать из целого ряда типов розничных магазинов для строительства, включая универмаги, круглосуточные магазины, минимаркеты, супермаркеты и другие типы магазинов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each).</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
