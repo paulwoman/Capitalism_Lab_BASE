@@ -6996,6 +6996,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a supply problem occurs, you may not be able to solve it as easily because of the limited types of products that a specialty store can sell.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T153223Z" creationid="Deivon" creationdate="20210507T153223Z">
+        <seg>Если возникнет проблема с поставками, вы не сможете быстро решить ее из-за ограниченного количества продуктов, которые может продать специализированный магазин..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If any of your other firms have #broken supply links# which require the #same item# that #this Sales unit# is selling, you may use this button to #redirect all the affected supply links# to #this Sales unit#.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
