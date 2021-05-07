@@ -13942,8 +13942,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The first indicator, a ~blue line of dotted rectangles~, indicates the stock level of the product.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T163929Z" creationid="Deivon" creationdate="20210507T163929Z">
-        <seg>Первый индикатор, ~синяя линия пунктирныя~, указывает на уровень запасов продукта.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T164256Z" creationid="Deivon" creationdate="20210507T163929Z">
+        <seg>Первый индикатор, ~синяя линия пунктирныя~, указывает на уровень запасов продукта поставщика.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14682,6 +14682,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Рабочие бездельничают.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~brown bar~ represents the unit's utilization level.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T164405Z" creationid="Deivon" creationdate="20210507T164405Z">
+        <seg>~Коричневая полоска~ показывает уровень использования устройства.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16992,6 +17000,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Когда процентная ставка высокая, денежная масса также ограничена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this bar reaches its full length, it means that the unit has reached its full capacity and can process no more goods even if there is additional supply and demand.^^Conversely, if the unit is underutilized, its facilities and resources are not used effectively.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T164506Z" creationid="Deivon" creationdate="20210507T164506Z">
+        <seg>Когда этот стержень достигает своей полной длины, это означает, что установка достигла своей полной мощности и не может обрабатывать больше товаров, даже если есть дополнительное предложение и спрос.^^И наоборот, если подразделение используется недостаточно, его средства и ресурсы используются неэффективно.</seg>
       </tuv>
     </tu>
     <tu>
