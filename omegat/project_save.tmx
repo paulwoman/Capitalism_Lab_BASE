@@ -9402,6 +9402,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now waste no time and get started working towards this goal.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T150010Z" creationid="Deivon" creationdate="20210507T150010Z">
+        <seg>Не теряйте времени и начинайте работать над достижением этой цели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Companies Focused on Banking</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -17768,6 +17776,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065535Z" creationid="Александр" creationdate="20210103T065535Z">
         <seg>Ваша новая компания была создана.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your objectives in this game are to achieve an annual revenue of $50,000,000 and an annual profit of $5,000,000.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T145926Z" creationid="Deivon" creationdate="20210507T145926Z">
+        <seg>Ваша цель в этой игре достичь годового дохода в размере 50.000.000 $ и годовой прибыли в размере 5.000.000 $.</seg>
       </tuv>
     </tu>
     <tu>
