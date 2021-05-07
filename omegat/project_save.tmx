@@ -36578,6 +36578,14 @@ GM_TEC
 Если установлено значение Вкл, то технологический сбой происходит постоянно, и все технологические переменные уменьшаются на 10% каждый год..</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Discount megastores~ can sell anything which makes them very versatile.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T152627Z" creationid="Deivon" creationdate="20210507T152627Z">
+        <seg>~Гипермаркеты~ могут продавать все, это делает их очень универсальными.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">Release/translate/t_game.txt</prop>
