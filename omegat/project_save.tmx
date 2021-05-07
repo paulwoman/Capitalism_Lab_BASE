@@ -7532,6 +7532,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T161409Z" creationid="Deivon" creationdate="20210507T161409Z">
+        <seg>В предыдущем уроке вам нужно было только нажать на значок ~Добавить продукт~ и выбрать продукт из списка поставщиков, и выбранный продукт автоматически появится в вашем магазине.Чего вы не видели, так это ~Отдела закупок и продаж~ в вашем магазине..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this tutorial, you will be trained to become a better retail manager and learn how to customize your retail stores to maximize their operational efficiency and profitability.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T141103Z" creationid="Deivon" creationdate="20210507T141103Z">
