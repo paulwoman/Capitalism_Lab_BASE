@@ -13924,6 +13924,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first indicator, a ~blue line of dotted rectangles~, indicates the stock level of the product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T163929Z" creationid="Deivon" creationdate="20210507T163929Z">
+        <seg>Первый индикатор, ~синяя линия пунктирныя~, указывает на уровень запасов продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The funding will help improve the city's competitiveness in the focused area.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -14698,6 +14706,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>В каждом городе есть местные конкуренты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are several indicators on the ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T163804Z" creationid="Deivon" creationdate="20210507T163804Z">
+        <seg>Есть несколько индикаторов на ~Отделе закупок~.</seg>
       </tuv>
     </tu>
     <tu>
