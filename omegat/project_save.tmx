@@ -14838,6 +14838,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~Stop Purchase~ button will do exactly that.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121940Z" creationid="Deivon" creationdate="20210508T121940Z">
+        <seg>Кнопка ~Остановить~ останаливает закупку товара.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Supplier~ button displays information about the existing supplier.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121841Z" creationid="Deivon" creationdate="20210508T121841Z">
+        <seg>Кнопка ~Поставщик~ отображает информацию о существующем поставщике.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~brown bar~ represents the unit's utilization level.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T164657Z" creationid="Deivon" creationdate="20210507T164405Z">
