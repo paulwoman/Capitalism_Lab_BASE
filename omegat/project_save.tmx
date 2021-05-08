@@ -6516,6 +6516,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120944Z" creationid="Deivon" creationdate="20210508T120944Z">
+        <seg>Здесь он показывает ~качество~ продукта и ~уровень бренда~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here it shows the ~purchasing cost~ of the product and its ~freight cost~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120849Z" creationid="Deivon" creationdate="20210508T120849Z">
+        <seg>Здесь он показывает ~стоимость закупки~ продукта и его ~стоимость перевозки~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide Inactive Software Products</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -7128,6 +7144,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Если включен DLC City Economics Simulation, на него также влияет уровень образования людей в городе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the supplier is a business corporation, the color shown here is its ~corporate color~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120808Z" creationid="Deivon" creationdate="20210508T120808Z">
+        <seg>Если поставщик является коммерческой корпорацией, цвет, показанный здесь, является ее ~корпоративным цветом~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14922,6 +14946,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Эти апартаменты продаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This color is ~gray if the product is imported via a seaport~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120732Z" creationid="Deivon" creationdate="20210508T120732Z">
+        <seg>Серым цветом обозначаются товары, которые импортируется через морской порт~.</seg>
       </tuv>
     </tu>
     <tu>
