@@ -5280,6 +5280,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Excellent!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T115910Z" creationid="Deivon" creationdate="20210508T115910Z">
+        <seg>Отлично!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Existing Life Insurance Policies provide a reliable stream of premium incomes to the insurance company.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -9506,6 +9514,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T115859Z" creationid="Deivon" creationdate="20210508T115859Z">
+        <seg>Теперь свяжите два блока вместе, щелкнув линию связи между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T155731Z" creationid="Deivon" creationdate="20210507T155731Z">
@@ -12054,6 +12070,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210508T115144Z" creationid="Deivon" creationdate="20210508T115144Z">
         <seg>Выберите ~Блок покупки~ из списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Sales Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T115808Z" creationid="Deivon" creationdate="20210508T115808Z">
+        <seg>Выберите ~Подразделение продаж~ из списка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14658,6 +14682,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Общая стоимость импорта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The two units are now connected and are going to work with each other.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120007Z" creationid="Deivon" creationdate="20210508T120007Z">
+        <seg>Теперь эти два блока соединены и будут работать друг с другом.</seg>
       </tuv>
     </tu>
     <tu>
