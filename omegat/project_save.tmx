@@ -3288,6 +3288,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Link~ button and select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120206Z" creationid="Deivon" creationdate="20210508T120206Z">
+        <seg>Нажмите кнопку ~Связь~ и выберите продукт для заказа из списка поставщиков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~SELECT~ button now.^^</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120855Z" creationid="Александр" creationdate="20201218T120855Z">
@@ -6412,6 +6420,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Great job!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120313Z" creationid="Deivon" creationdate="20210508T120313Z">
+        <seg>Отличная работа!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Green and Sports Rating</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -8566,6 +8582,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000532Z" creationid="Olivier" creationdate="20201226T000532Z">
         <seg>Давайте его изучим.^^Видите панель инструментов в нижней части экрана?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's get the new Purchasing Unit working by telling it which supplier you want to order products from.^^Click the ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120124Z" creationid="Deivon" creationdate="20210508T120124Z">
+        <seg>Давайте заставим новое подразделение по закупкам работать, сообщив ему, у какого поставщика вы хотите заказать продукты. Нажмите на ~Отдел закупки~, чтобы выбрать ее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11918,6 +11942,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Выбор нового конечного продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120257Z" creationid="Deivon" creationdate="20210508T120257Z">
+        <seg>Выберите продукт для заказа из списка поставщиков.</seg>
       </tuv>
     </tu>
     <tu>
