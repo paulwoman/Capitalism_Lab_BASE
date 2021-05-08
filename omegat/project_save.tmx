@@ -9626,6 +9626,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now ~add one more group~ of ~Purchasing and Sales Units~ to increase the variety of your store's products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T123006Z" creationid="Deivon" creationdate="20210508T123006Z">
+        <seg>Теперь ~добавьте еще одну группу~ из ~Отдела закупок и продаж~, чтобы увеличить разнообразие продуктов вашего магазина.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Companies Focused on Banking</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
