@@ -14814,6 +14814,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These units actually do the real work!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T112444Z" creationid="Deivon" creationdate="20210508T112444Z">
+        <seg>Эти подразделения действительно выполняют реальную работу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are committed to long-term investment and do not actively trade stock.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
