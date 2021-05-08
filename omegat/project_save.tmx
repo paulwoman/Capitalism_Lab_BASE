@@ -914,6 +914,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A product's ~overall rating~ is calculated based on its price, its quality, and its brand rating.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121550Z" creationid="Deivon" creationdate="20210508T121550Z">
+        <seg>Общий рейтинг продукта рассчитывается на основе его цены, качества и рейтинга бренда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A red bar indicates a loss; a green bar indicates a profit.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T134148Z" creationid="Александр" creationdate="20210111T134148Z">
@@ -5600,6 +5608,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, when it comes to buying jeans, consumers generally pay more attention to the brand than the product's actual quality.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121517Z" creationid="Deivon" creationdate="20210508T121517Z">
+        <seg>Например, когда дело доходит до покупки джинсов, потребители, как правило, уделяют больше внимания бренду, чем фактическому качеству продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you may set your apartment's rent to be always 10% higher than the market rate.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -7568,6 +7584,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>В режиме Выживания в начале игры есть только один город.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a nutshell, ~a low price, high quality, and a high brand rating~ contribute to ~a high overall rating~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121632Z" creationid="Deivon" creationdate="20210508T121632Z">
+        <seg>В двух словах, ~низкая цена, высокое качество и высокий рейтинг бренда~ способствуют ~высокому общему рейтингу~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36944,6 +36968,14 @@ If it is set to On, technology disruption occurs constantly and all technology v
 GM_TEC
 Технологический сбой
 Если установлено значение Вкл, то технологический сбой происходит постоянно, и все технологические переменные уменьшаются на 10% каждый год..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Brands~ can be a very important factor for consumers' purchase decisions, especially for luxury and fashion products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121356Z" creationid="Deivon" creationdate="20210508T121356Z">
+        <seg>~Бренды~ могут быть очень важным фактором для принятия потребителями решений о покупке, особенно товаров класса люкс и модной одежды.</seg>
       </tuv>
     </tu>
     <tu>
