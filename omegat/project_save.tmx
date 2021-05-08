@@ -7550,8 +7550,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T161409Z" creationid="Deivon" creationdate="20210507T161409Z">
-        <seg>В предыдущем уроке вам нужно было только нажать на значок ~Добавить продукт~ и выбрать продукт из списка поставщиков, и выбранный продукт автоматически появится в вашем магазине.Чего вы не видели, так это ~Отдела закупок и продаж~ в вашем магазине..</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T112450Z" creationid="Deivon" creationdate="20210507T161409Z">
+        <seg>В предыдущем уроке вам нужно было только нажать на значок ~Добавить продукт~ и выбрать продукт из списка поставщиков, и выбранный продукт автоматически появится в вашем магазине.Чего вы не видели, так это ~Отдела закупок и продаж~ в вашем магазине.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14816,8 +14816,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>These units actually do the real work!</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210508T112444Z" creationid="Deivon" creationdate="20210508T112444Z">
-        <seg>Эти подразделения действительно выполняют реальную работу!</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T112537Z" creationid="Deivon" creationdate="20210508T112444Z">
+        <seg>Эти подразделения действительно выполняют важную работу!</seg>
       </tuv>
     </tu>
     <tu>
