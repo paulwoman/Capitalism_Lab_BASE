@@ -5664,6 +5664,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For now, keep it buying the current product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T122117Z" creationid="Deivon" creationdate="20210508T122117Z">
+        <seg>А пока пусть работают дальше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T115723Z" creationid="Александр" creationdate="20201218T115718Z">
@@ -18208,6 +18216,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T145926Z" creationid="Deivon" creationdate="20210507T145926Z">
         <seg>Ваша цель в этой игре достичь годового дохода в размере 50.000.000 $ и годовой прибыли в размере 5.000.000 $.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your purchasing unit will cease to buy the current product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T122030Z" creationid="Deivon" creationdate="20210508T122030Z">
+        <seg>Ваш отдел закупок перестанет закупать данный продукт.</seg>
       </tuv>
     </tu>
     <tu>
