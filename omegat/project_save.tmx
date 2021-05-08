@@ -15454,6 +15454,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T114556Z" creationid="Deivon" creationdate="20210508T114556Z">
+        <seg>На этот раз вы сделаете это сами, как опытный менеджер розничной торговли, - вручную настроите блок поставщика и продажи для вашего розничного магазина.~Дважды щелкните~ пустое место блока и выберите ~Отдел поставки~ из списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This value indicates the approximate value of goods produced per person in the city.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -17038,8 +17046,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>When this bar reaches its full length, it means that the unit has reached its full capacity and can process no more goods even if there is additional supply and demand.^^Conversely, if the unit is underutilized, its facilities and resources are not used effectively.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T164857Z" creationid="Deivon" creationdate="20210507T164506Z">
-        <seg>Когда этот стержень достигает своей полной длины, это означает, что отдел полностью загружен и не может обрабатывать больше товаров, даже если есть дополнительное предложение и спрос. И наоборот, если отдел используется недостаточно, его средства и ресурсы используются неэффективно.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T114142Z" creationid="Deivon" creationdate="20210507T164506Z">
+        <seg>Когда она достигает своей полной длины, это означает, что отдел полностью загружен и не может обрабатывать больше товаров, даже если есть дополнительное предложение и спрос. И наоборот, если отдел используется недостаточно, его средства и ресурсы используются неэффективно.</seg>
       </tuv>
     </tu>
     <tu>
