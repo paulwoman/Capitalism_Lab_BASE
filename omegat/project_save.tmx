@@ -18076,6 +18076,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T115512Z" creationid="Deivon" creationdate="20210508T115512Z">
+        <seg>В вашем магазине теперь есть новый ~Отдел закупок~. Перейдите к добавлению ~Отдела продаж~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your subsidiaries (Subsidiary DLC)</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -36824,6 +36832,14 @@ GM_TEC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T152627Z" creationid="Deivon" creationdate="20210507T152627Z">
         <seg>~Гипермаркеты~ могут продавать все, это делает их очень универсальными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Double click~ an empty unit right next to the Purchasing Unit you have just set up.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T115724Z" creationid="Deivon" creationdate="20210508T115724Z">
+        <seg>~Двойной щелчок~ по пустому блоку, рядом с настроенным отделом закупок.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
