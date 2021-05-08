@@ -14286,6 +14286,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The lower left hand of the screen now displays detail about your Purchasing Unit and the product it carries.^^Below the product image, you can see the color identity of the supplier.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120635Z" creationid="Deivon" creationdate="20210508T120635Z">
+        <seg>В левой нижней части экрана теперь отображается подробная информация о вашем поставщике и продукте, который она несет. Под изображением продукта вы можете увидеть цветовую идентификацию поставщика.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The market capitalization of a company.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -17688,6 +17696,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210106T114508Z" creationid="Александр" creationdate="20210106T114508Z">
         <seg>Вы успешно приватизировали эту компанию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120438Z" creationid="Deivon" creationdate="20210508T120438Z">
+        <seg>Вы успешно обновили логистику своего магазина и добавили в него новый продукт. Далее, давайте посмотрим на доступную вам информацию о продуктах, которые продает ваш магазин.</seg>
       </tuv>
     </tu>
     <tu>
