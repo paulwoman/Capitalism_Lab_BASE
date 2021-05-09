@@ -14910,6 +14910,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~Corporate Detail Report~ contains a lot of useful information about your corporation.^^Through the extensive menu options, you can glean detailed information about your own corporation and any rival corporation you select.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123310Z" creationid="Deivon" creationdate="20210509T123310Z">
+        <seg>Отчет о деталях корпорации содержит много полезной информации о вашей корпорации. С помощью обширных опций меню вы можете получить подробную информацию о своей корпорации и любой конкурирующей корпорации, которую вы выберете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~Firm Overview~ screen displays the a summary of the corporation's firms.^^Now select ~Business Relation~.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T122901Z" creationid="Deivon" creationdate="20210509T122721Z">
@@ -15018,6 +15026,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210111T224124Z" creationid="Olivier" creationdate="20210111T224124Z">
         <seg>На панели инструментов есть ряд иконок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is more than one city in this tutorial.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123331Z" creationid="Deivon" creationdate="20210509T123331Z">
+        <seg>В этом уроке есть несколько городов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18208,6 +18224,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Вы владеете акциями этой компании напрямую или через холдинговые компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should consider expanding your business to other cities, to take advantage of the availabiility of different products or perhaps the absence of strong competition.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123436Z" creationid="Deivon" creationdate="20210509T123436Z">
+        <seg>Вам следует подумать о расширении своего бизнеса в другие города, чтобы воспользоваться доступностью различных продуктов или, возможно, отсутствием сильной конкуренции.</seg>
       </tuv>
     </tu>
     <tu>
