@@ -5720,6 +5720,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122457Z" creationid="Deivon" creationdate="20210509T122457Z">
+        <seg>Здесь вы можете просмотреть подробную информацию о вашей корпорации и конкурирующих корпорациях. Для каждой отображаемой корпорации вы можете сразу увидеть показатели денежных средств, выручки и прибыли и сопутствующие бары, а также график операционной прибыли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fund Transfer</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -15358,6 +15366,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the ~Corporate Summary Report~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122359Z" creationid="Deivon" creationdate="20210509T122359Z">
+        <seg>Это ~Корпоративный сводный отчет~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the ~Select a Supplier~ window.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215924Z" creationid="Olivier" creationdate="20201217T215924Z">
@@ -15944,6 +15960,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Чтобы добавить в игру новые пользовательские изображения продуктов, сохраните файлы изображений PNG (120x120 пикселей) в папку ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To become a competent business person, you should also learn to digest the information available to you about your corporation and your competitors.^^Click the ~Information icon~ on the bottom toolbar to open the ~Information Center~ screen now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122307Z" creationid="Deivon" creationdate="20210509T122307Z">
+        <seg>Чтобы стать компетентным деловым человеком, вы также должны научиться анализировать доступную вам информацию о вашей корпорации и ваших конкурентах. Нажмите значок ~Информация~ на нижней панели инструментов, чтобы открыть экран ~Информационный центр~ прямо сейчас.</seg>
       </tuv>
     </tu>
     <tu>
