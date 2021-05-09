@@ -5464,6 +5464,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally, the corporate logo, corporate color and the CEO's portrait are displayed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122537Z" creationid="Deivon" creationdate="20210509T122537Z">
+        <seg>Наконец, отображается корпоративный логотип, корпоративный цвет и портрет генерального директора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Financial Performance</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -5724,6 +5732,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T122457Z" creationid="Deivon" creationdate="20210509T122457Z">
         <seg>Здесь вы можете просмотреть подробную информацию о вашей корпорации и конкурирующих корпорациях. Для каждой отображаемой корпорации вы можете сразу увидеть показатели денежных средств, выручки и прибыли и сопутствующие бары, а также график операционной прибыли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the menu options at the top right of the screen select ~Firm Overview~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122758Z" creationid="Deivon" creationdate="20210509T122650Z">
+        <seg>В меню в правом верхнем углу экрана выберите ~Обзор фирм~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14882,6 +14898,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T121550Z" creationid="Deivon" creationdate="20210509T121550Z">
         <seg>Кнопка ~Очистить склад~, как следует из ее названия, предназначена для очистки запаса продукции отдела продаж. Это полезно, если вы нашли лучшее предложение того же типа продукта и хотите продать новый как можно скорее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Firm Overview~ screen displays the a summary of the corporation's firms.^^Now select ~Business Relation~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122721Z" creationid="Deivon" creationdate="20210509T122721Z">
+        <seg>На экране ~Обзор фирмы~ отображается краткая информация о фирмах корпорации.^^Теперь выберите ~Деловые отношения~.</seg>
       </tuv>
     </tu>
     <tu>
