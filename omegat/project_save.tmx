@@ -1458,6 +1458,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although you have a humble beginning, with the new skills you have acquired in this tutorial, achieving the goal shouldn't be difficult!^^Good luck!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T124235Z" creationid="Deivon" creationdate="20210509T124235Z">
+        <seg>Хотя у вас скромное начало, с новыми навыками, которые вы приобрели в этом уроке, достижение цели не должно быть трудным!^^Удачи!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An employee with a loyalty level of 80 or higher will not be headhunted by competitors.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -18096,6 +18104,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210104T175120Z" creationid="Александр" creationdate="20210104T175120Z">
         <seg>Вы можете вмешиваться в работу, если владеете 75% и более акций компании.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may open it anytime by opening the ~Information Center~ and then selecting ~Goal Report~, or by pressing the ~shortcut key 'G'~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T124142Z" creationid="Deivon" creationdate="20210509T124142Z">
+        <seg>Вы можете открыть его в любое время, открыв ~Информационный центр~ и выбрав ~Отчет о цели~, или нажав ~клавишу "G"~.</seg>
       </tuv>
     </tu>
     <tu>
