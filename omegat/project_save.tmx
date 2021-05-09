@@ -7484,6 +7484,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you double-click the name of another city that city is pinpointed on the world map and the city view on the main screen is updated to show that city.^^Close the World Map view by either clicking the X in the top right of its window, or by clicking the World Map icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123752Z" creationid="Deivon" creationdate="20210509T123752Z">
+        <seg>Если вы дважды щелкните по названию другого города, этот город будет точно указан на карте мира, и вид города на главном экране будет обновлен, чтобы показать этот город. Закройте представление Карты мира, щелкнув значок X в правом верхнем углу окна или значок Карты мира на нижней панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -14132,6 +14140,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first way is to open the ~World Map~ by clicking its icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123533Z" creationid="Deivon" creationdate="20210509T123533Z">
+        <seg>Первый способ-открыть ~Карту мира~, щелкнув по ее значку на нижней панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The funding will help improve the city's competitiveness in the focused area.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -18352,6 +18368,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T145926Z" creationid="Deivon" creationdate="20210507T145926Z">
         <seg>Ваша цель в этой игре достичь годового дохода в размере 50.000.000 $ и годовой прибыли в размере 5.000.000 $.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your present city will be highlighted on the map when it first opens.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123606Z" creationid="Deivon" creationdate="20210509T123606Z">
+        <seg>Ваш текущий город будет выделен на карте при первом открытии.</seg>
       </tuv>
     </tu>
     <tu>
