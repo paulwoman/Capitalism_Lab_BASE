@@ -14094,8 +14094,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The first indicator, a ~blue line of dotted rectangles~, indicates the stock level of the product.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T164256Z" creationid="Deivon" creationdate="20210507T163929Z">
-        <seg>Первый индикатор, ~синяя линия пунктирныя~, указывает на уровень запасов продукта поставщика.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122129Z" creationid="Deivon" creationdate="20210507T163929Z">
+        <seg>Первый индикатор, ~синяя линия пунктирныя~, указывает на уровень запасов продукта на складе магазина.</seg>
       </tuv>
     </tu>
     <tu>
