@@ -6588,6 +6588,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here's a reminder of your goal for this tutorial game: to achieve ~an annual revenue of $50 million~ and ~an annual profit of $5 million~.^^The ~Goal Report~ gives a summary of your goal status.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T124047Z" creationid="Deivon" creationdate="20210509T124047Z">
+        <seg>Вот напоминание о вашей цели для этой обучающей игры: достичь ~годового дохода в размере 50 миллионов долларов~ и ~годовой прибыли в размере 5 миллионов долларов~. Отчет о цели ~содержит краткое описание состояния вашей цели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide Inactive Software Products</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -8458,6 +8466,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's time to expand your business empire.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123942Z" creationid="Deivon" creationdate="20210509T123942Z">
+        <seg>Пришло время расширить свою бизнес-империю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its bondholders lost all their investments in the bonds.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T092655Z" creationid="Александр" creationdate="20210111T092655Z">
@@ -9662,6 +9678,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T150718Z" creationid="Deivon" creationdate="20210507T150718Z">
         <seg>Теперь выберите в меню ~Розничный магазин~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now that you have learned how to build retail stores of different types, as well as how to navigate between cities.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123914Z" creationid="Deivon" creationdate="20210509T123914Z">
+        <seg>Теперь вы узнали, как строить розничные магазины разных типов, а также как перемещаться между городами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14746,6 +14770,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>То же самое для двух других цифр, приведенных ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second way to view another city is by using the city selection interface on the ~Mini Map~, as explained in the previous tutorial.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123834Z" creationid="Deivon" creationdate="20210509T123834Z">
+        <seg>Второй способ просмотра другого города-это использование интерфейса выбора города на мини-карте~, как описано в предыдущем руководстве.</seg>
       </tuv>
     </tu>
     <tu>
