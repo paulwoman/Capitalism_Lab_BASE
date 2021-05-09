@@ -14574,6 +14574,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T121319Z" creationid="Deivon" creationdate="20210509T121319Z">
+        <seg>Продукты, заказанные отделом закупок, уже должны были быть доставлены в ваш магазин, и данный отдел должен был начать работать с отделом продаж, поставляя ему запасы. Давайте взглянем на ваш ~Отдел продаж~, выбрав его прямо сейчас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The profit from underwriting insurance policies.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
