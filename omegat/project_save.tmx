@@ -2920,6 +2920,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clearing the stock in effect free up your retail shelves for the new product immediately.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T121711Z" creationid="Deivon" creationdate="20210509T121711Z">
+        <seg>Очистка склада фактически немедленно освободит ваши полки магазина для нового продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click again to cancel it.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -17784,6 +17792,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154604Z" creationid="Александр" creationdate="20201218T154604Z">
         <seg>Вы только что расширили свой бизнес!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have just learned the advanced skills for retail management and how to order the right products that have strong appeals to your customers.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122113Z" creationid="Deivon" creationdate="20210509T122113Z">
+        <seg>Вы только что освоили основные навыки управления розничной торговлей и научились заказывать нужные продукты, которые имеют сильную привлекательность для ваших клиентов.</seg>
       </tuv>
     </tu>
     <tu>
