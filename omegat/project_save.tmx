@@ -9602,6 +9602,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click your ~corporation's logo~ to view more information.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123110Z" creationid="Deivon" creationdate="20210509T123110Z">
+        <seg>Теперь нажмите на логотип вашей ~корпорации~, чтобы просмотреть дополнительную информацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now go and add products to your new department store and grow your business!</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T160351Z" creationid="Александр" creationdate="20201218T154429Z">
@@ -14904,8 +14912,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The ~Firm Overview~ screen displays the a summary of the corporation's firms.^^Now select ~Business Relation~.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T122721Z" creationid="Deivon" creationdate="20210509T122721Z">
-        <seg>На экране ~Обзор фирмы~ отображается краткая информация о фирмах корпорации.^^Теперь выберите ~Деловые отношения~.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122901Z" creationid="Deivon" creationdate="20210509T122721Z">
+        <seg>На экране ~Обзор фирмы~ отображается краткая информация о фирмах корпорации. Теперь выберите ~Деловые отношения~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15634,6 +15642,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Этот рейтинг определяется уровнем заработной платы в городе, уровнем безработицы и ставкой индивидуального подоходного налога.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This screen shows which corporations have been trading with your own.^^Now select ~Financial Overview~ to return to the first screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123028Z" creationid="Deivon" creationdate="20210509T123028Z">
+        <seg>Этот экран показывает, какие корпорации торгуют с вами. Теперь выберите ~Финансовый обзор~, чтобы вернуться к первому экрану.</seg>
       </tuv>
     </tu>
     <tu>
