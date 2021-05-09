@@ -14862,6 +14862,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~Clear Stock~ button here, as its name suggests, is for clearing the Sales Unit's product stock.^^This is useful if you have located a better supply of the same product type and you wish to sell the new one as soon as possible.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T121550Z" creationid="Deivon" creationdate="20210509T121550Z">
+        <seg>Кнопка ~Очистить склад~, как следует из ее названия, предназначена для очистки запаса продукции отдела продаж. Это полезно, если вы нашли лучшее предложение того же типа продукта и хотите продать новый как можно скорее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Sales Unit~ basically shows the same information as the Purchasing unit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T121423Z" creationid="Deivon" creationdate="20210509T121423Z">
+        <seg>~Отдел продаж~ в основном показывает ту же информацию, что и отдел закупок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~Stop Purchase~ button will do exactly that.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210508T121940Z" creationid="Deivon" creationdate="20210508T121940Z">
