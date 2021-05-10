@@ -4504,6 +4504,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=In this tutorial, you will learn advanced management skills for running a retail store and growing your retail chain by expanding into other cities.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T080547Z" creationid="Deivon" creationdate="20210510T080547Z">
+        <seg>Description=В этом уроке вы освоите основные навыки необходимые для управления розничным магазином и начнете расширять свою розничную сеть в другие города.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=The advent of the Internet is changing every aspect of life.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064350Z" creationid="Александр" creationdate="20210107T064350Z">
