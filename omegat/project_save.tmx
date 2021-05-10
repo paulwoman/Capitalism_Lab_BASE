@@ -5440,6 +5440,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fairly obvious eh?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155626Z" creationid="Deivon" creationdate="20210510T155626Z">
+        <seg>Довольно очевидно, а?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fast</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -8312,6 +8320,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T155047Z" creationid="Александр" creationdate="20201218T155047Z">
         <seg>Кажется, в рамках вашего бюджета, так что давайте продолжим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows that ~Timber~ can be used to produce ~Bed~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155602Z" creationid="Deivon" creationdate="20210510T155602Z">
+        <seg>Тут покано, что ~Древесина~ может быть использована для производства ~Кровати~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13302,6 +13318,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T135742Z" creationid="Александр" creationdate="20210111T135742Z">
         <seg>T_ZOOM3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take a close look at the information shown here.^^It tells that ~120 lbs of Timber~ is needed to make ~1 unit of Bed~.^^Notice that Timber has a ~quality influence of 50%~, which means that the quality of the finished product is 50% affected by the quality of Timber.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155751Z" creationid="Deivon" creationdate="20210510T155751Z">
+        <seg>Внимательно ознакомьтесь с информацией, приведенной здесь.^^Тут видно, что ~120 фунтов древесины~ необходимо для изготовления ~1 единицы кровати~.^^Обратите внимание, что древесина оказывает ~влияние на качество 50%~, что означает, что качество готового продукта на 50% зависит от качества древесины.</seg>
       </tuv>
     </tu>
     <tu>
