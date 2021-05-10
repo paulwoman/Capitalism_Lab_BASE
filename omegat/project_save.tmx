@@ -1690,6 +1690,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At this moment the maximum amount you may borrow is $30,000,000.^^</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153559Z" creationid="Deivon" creationdate="20210510T153559Z">
+        <seg>На данный момент максимальная сумма, которую вы можете занять, составляет 30 000 000 долларов.^^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At this stage you don't need to concern yourself with the details provided with each product.^^(Information such as freight costs, ratings, brand will explained in a later tutorial.)^^For now, let's just purchase the first product on the list to get things moving.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T120652Z" creationid="Александр" creationdate="20201218T120839Z">
@@ -18456,6 +18464,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Ваша компания должна обладать минимальным техническим уровнем, необходимым для каждой технологии для создания программного продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company's credit limit varies throughout the game depending on the state of your company.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153320Z" creationid="Deivon" creationdate="20210510T153320Z">
+        <seg>Кредитный лимит вашей компании варьируется на протяжении всей игры в зависимости от состояния вашей компании.</seg>
       </tuv>
     </tu>
     <tu>
