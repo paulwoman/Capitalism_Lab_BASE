@@ -8922,6 +8922,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Look for ~Timber~ in the list and double-click it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155337Z" creationid="Deivon" creationdate="20210510T155337Z">
+        <seg>Найдите ~Древесина~ в списке и дважды щелкните его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Looters Steal |</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T162639Z" creationid="Olivier" creationdate="20210110T162639Z">
@@ -17200,6 +17208,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T155902Z" creationid="Deivon" creationdate="20210507T155902Z">
         <seg>Теперь мы можем видеть ~Макет~ вашего магазина, который представляет собой сетку 3x3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We want to find out what products can be made from ~Timber~, so click the ~INPUT~ button.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155210Z" creationid="Deivon" creationdate="20210510T155210Z">
+        <seg>Мы хотим узнать, какие продукты могут быть изготовлены из ~Древесины~, поэтому нажмите кнопку ~ВВОД~.</seg>
       </tuv>
     </tu>
     <tu>
