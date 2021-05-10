@@ -8708,8 +8708,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Let's get the new Purchasing Unit working by telling it which supplier you want to order products from.^^Click the ~Purchasing Unit~ to select it.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210508T120124Z" creationid="Deivon" creationdate="20210508T120124Z">
-        <seg>Давайте заставим новое подразделение по закупкам работать, сообщив ему, у какого поставщика вы хотите заказать продукты. Нажмите на ~Отдел закупки~, чтобы выбрать ее.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075638Z" creationid="Deivon" creationdate="20210508T120124Z">
+        <seg>Давайте заставим новое подразделение по закупкам работать, сообщив ему, у какого поставщика вы хотите заказать продукты.^^Нажмите на ~Отдел закупки~, чтобы выбрать ее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11828,8 +11828,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Right now as the unit is new that level is 1.^^With time and training the level will increase and the unit will become more efficient, being able to handle greater stock quantities and meeting higher demand levels.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210508T113841Z" creationid="Deivon" creationdate="20210507T165524Z">
-        <seg>Сейчас, отдел закупок является новым, его уровень равен 1. Со временем и обучением уровень будет увеличиваться, и отдел станет более эффективным, способным обрабатывать большие объемы запасов и удовлетворять более высокие уровни спроса.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075521Z" creationid="Deivon" creationdate="20210507T165524Z">
+        <seg>Сейчас, отдел закупок является новым, его уровень равен 1.^^Со временем и обучением уровень будет увеличиваться, и отдел станет более эффективным, способным обрабатывать большие объемы запасов и удовлетворять более высокие уровни спроса.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14448,8 +14448,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The lower left hand of the screen now displays detail about your Purchasing Unit and the product it carries.^^Below the product image, you can see the color identity of the supplier.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210508T120635Z" creationid="Deivon" creationdate="20210508T120635Z">
-        <seg>В левой нижней части экрана теперь отображается подробная информация о вашем поставщике и продукте, который она несет. Под изображением продукта вы можете увидеть цветовую идентификацию поставщика.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075735Z" creationid="Deivon" creationdate="20210508T120635Z">
+        <seg>В левой нижней части экрана теперь отображается подробная информация о вашем поставщике и продукте, который она несет.^^Под изображением продукта вы можете увидеть цветовую идентификацию поставщика.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14664,8 +14664,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T121319Z" creationid="Deivon" creationdate="20210509T121319Z">
-        <seg>Продукты, заказанные отделом закупок, уже должны были быть доставлены в ваш магазин, и данный отдел должен был начать работать с отделом продаж, поставляя ему запасы. Давайте взглянем на ваш ~Отдел продаж~, выбрав его прямо сейчас.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075751Z" creationid="Deivon" creationdate="20210509T121319Z">
+        <seg>Продукты, заказанные отделом закупок, уже должны были быть доставлены в ваш магазин, и данный отдел должен был начать работать с отделом продаж, поставляя ему запасы.^^Давайте взглянем на ваш ~Отдел продаж~, выбрав его прямо сейчас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14960,8 +14960,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The ~Clear Stock~ button here, as its name suggests, is for clearing the Sales Unit's product stock.^^This is useful if you have located a better supply of the same product type and you wish to sell the new one as soon as possible.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T121550Z" creationid="Deivon" creationdate="20210509T121550Z">
-        <seg>Кнопка ~Очистить склад~, как следует из ее названия, предназначена для очистки запаса продукции отдела продаж. Это полезно, если вы нашли лучшее предложение того же типа продукта и хотите продать новый как можно скорее.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075819Z" creationid="Deivon" creationdate="20210509T121550Z">
+        <seg>Кнопка ~Очистить склад~, как следует из ее названия, предназначена для очистки запаса продукции отдела продаж.^^Это полезно, если вы нашли лучшее предложение того же типа продукта и хотите продать новый как можно скорее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15792,8 +15792,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210508T114556Z" creationid="Deivon" creationdate="20210508T114556Z">
-        <seg>На этот раз вы сделаете это сами, как опытный менеджер розничной торговли, - вручную настроите блок поставщика и продажи для вашего розничного магазина.~Дважды щелкните~ пустое место блока и выберите ~Отдел поставки~ из списка.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075540Z" creationid="Deivon" creationdate="20210508T114556Z">
+        <seg>На этот раз вы сделаете это сами, как опытный менеджер розничной торговли, - вручную настроите блок поставщика и продажи для вашего розничного магазина.^^~Дважды щелкните~ пустое место блока и выберите ~Отдел поставки~ из списка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17974,8 +17974,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210508T120438Z" creationid="Deivon" creationdate="20210508T120438Z">
-        <seg>Вы успешно обновили логистику своего магазина и добавили в него новый продукт. Далее, давайте посмотрим на доступную вам информацию о продуктах, которые продает ваш магазин.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075656Z" creationid="Deivon" creationdate="20210508T120438Z">
+        <seg>Вы успешно обновили логистику своего магазина и добавили в него новый продукт.^^Далее, давайте посмотрим на доступную вам информацию о продуктах, которые продает ваш магазин.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18462,8 +18462,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210508T115512Z" creationid="Deivon" creationdate="20210508T115512Z">
-        <seg>В вашем магазине теперь есть новый ~Отдел закупок~. Перейдите к добавлению ~Отдела продаж~.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075615Z" creationid="Deivon" creationdate="20210508T115512Z">
+        <seg>В вашем магазине теперь есть новый ~Отдел закупок~.^^Перейдите к добавлению ~Отдела продаж~.</seg>
       </tuv>
     </tu>
     <tu>
