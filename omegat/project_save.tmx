@@ -7566,8 +7566,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T152842Z" creationid="Deivon" creationdate="20210507T152842Z">
-        <seg>Если по какой-либо причине поставка товара в магазин прекращается, вы можете легко заменить его другим товаром. С другой стороны, в ~специализированных магазинах~ могут продаватся только определенный ассортимент товаров.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075210Z" creationid="Deivon" creationdate="20210507T152842Z">
+        <seg>Если по какой-либо причине поставка товара в магазин прекращается, вы можете легко заменить его другим товаром.^^С другой стороны, в ~специализированных магазинах~ могут продаватся только определенный ассортимент товаров.</seg>
       </tuv>
     </tu>
     <tu>
