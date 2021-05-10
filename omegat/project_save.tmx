@@ -6508,6 +6508,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Good!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T162601Z" creationid="Deivon" creationdate="20210510T162601Z">
+        <seg>Хорошо!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Good.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000527Z" creationid="Olivier" creationdate="20201226T000527Z">
@@ -8806,6 +8814,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T163426Z" creationid="Deivon" creationdate="20210507T163426Z">
         <seg>Давайте поближе рассмотрим каждый блок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's proceed to set up your production facility.^^Right click anywhere on the screen to exit back to the city view.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T162659Z" creationid="Deivon" creationdate="20210510T162659Z">
+        <seg>Давайте приступим к строительсву вашего производственного предприятия.^^Щелкните правой кнопкой мыши в любом месте экрана, чтобы вернуться к просмотру города.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18244,6 +18260,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may click the ~MORE~ button below the image of the Timber again to see more products that can be made with Timber.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T162553Z" creationid="Deivon" creationdate="20210510T162553Z">
+        <seg>Вы можете снова нажать кнопку ~Далее~ под изображением древесины, чтобы увидеть следующие товары, которые могут быть изготовлены из древесины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may customize the average amounts of insurance claims that insurance companies have to pay.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -18488,6 +18512,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165958Z" creationid="Olivier" creationdate="20210110T165958Z">
         <seg>Вы выиграете эту игру, если накопите состояние в $1 миллиард и получите контроль над 5 публичными компаниями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've got a basic understanding about manufacturing.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T162620Z" creationid="Deivon" creationdate="20210510T162620Z">
+        <seg>У вас есть базовые представления о производстве.</seg>
       </tuv>
     </tu>
     <tu>
