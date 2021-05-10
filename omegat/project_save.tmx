@@ -3328,6 +3328,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~MORE~ button below the image of the Timber.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T161039Z" creationid="Deivon" creationdate="20210510T161039Z">
+        <seg>Нажмите кнопку ~Далее~ под изображением древесины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~SELECT~ button now.^^</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120855Z" creationid="Александр" creationdate="20201218T120855Z">
@@ -8328,6 +8336,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T155602Z" creationid="Deivon" creationdate="20210510T155602Z">
         <seg>Тут покано, что ~Древесина~ может быть использована для производства ~Кровати~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows that ~Timber~ may also be combined with ~Cotton~ and ~Linen~ to produce ~Chair~.^^The quality of ~Chair~ is 60% influenced by the raw materials.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T161156Z" creationid="Deivon" creationdate="20210510T161156Z">
+        <seg>Тут показано, что ~Древесина~ также может быть объединена с ~Хлопком~ и ~Льном~ для производства ~Стула~.^^Качество ~стула~ на 60% зависит от сырья.</seg>
       </tuv>
     </tu>
     <tu>
