@@ -3800,6 +3800,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click ~Manufacturer's Guide~ on the left of the screen to proceed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155119Z" creationid="Deivon" creationdate="20210510T155119Z">
+        <seg>Нажмите ~Справочник производителя~ в левой части экрана, чтобы продолжить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Client Deposits</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -18352,6 +18360,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210105T114218Z" creationid="Александр" creationdate="20210105T114218Z">
         <seg>Для этого вы должны принадлежать к политической партии.\n\nСформируйте новую политическую партию, зайдите в информационный центр, выберите [Политические партии], а затем [Сформировать свою собственную партию].|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You now have the funds to start your company.^^The next step is to get an understanding about the manufacturing process.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153952Z" creationid="Deivon" creationdate="20210510T153952Z">
+        <seg>Теперь у вас есть средства, чтобы основать свою компанию.^^Следующий шаг это получить представление о производственном процессе.</seg>
       </tuv>
     </tu>
     <tu>
