@@ -15110,6 +15110,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~quality of Bed~ is determined by two factors: ~Production Technology~ and ~Raw Material Quality~.^^The ~raw materials~, as just stated, represent ~50%~ of the Bed's quality and the remaining ~50%~ is determined by ~production technology of the manufacturer~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155855Z" creationid="Deivon" creationdate="20210510T155855Z">
+        <seg>Качество кровати определяется двумя факторами: Технологией производства и Качеством сырья.^^~Сырье~, как только что было сказано, составляет ~50%~ качества Кровати, а остальные ~50%~ определяются ~технологией производства производителя~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121100Z" creationid="Olivier" creationdate="20201217T220133Z">
@@ -17240,6 +17248,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T155210Z" creationid="Deivon" creationdate="20210510T155210Z">
         <seg>Мы хотим узнать, какие продукты могут быть изготовлены из ~Древесины~, поэтому нажмите кнопку ~ВВОД~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will discuss production technology later.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155938Z" creationid="Deivon" creationdate="20210510T155938Z">
+        <seg> Технологию производства мы обсудим позже.</seg>
       </tuv>
     </tu>
     <tu>
