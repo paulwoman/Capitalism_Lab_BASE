@@ -932,8 +932,8 @@ Low - product customization applies to your company only; Medium - it applies to
       <tuv lang="en-US">
         <seg>A specialty stores is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T154141Z" creationid="Deivon" creationdate="20210507T154141Z">
-        <seg>Специализированные магазины более привлекательны для покупателей, заинтересованных в таких товарах. Например, компьютерный магазин, продающий компьютеры, должен превзойти соседний универмаг, продающий тот же продукт.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075237Z" creationid="Deivon" creationdate="20210507T154141Z">
+        <seg>Специализированные магазины более привлекательны для покупателей, заинтересованных в таких товарах.^^Например, компьютерный магазин, продающий компьютеры, должен превзойти соседний универмаг, продающий тот же продукт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -988,8 +988,8 @@ Low - product customization applies to your company only; Medium - it applies to
       <tuv lang="en-US">
         <seg>A ~Purchasing Unit~ does just that - it purchases the product you have selected from the supplier.^^Upon delivery the ~Purchasing Unit~ passes the stock to the ~Sales Unit~ which offers the product to customers.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T163317Z" creationid="Deivon" creationdate="20210507T163317Z">
-        <seg>~Отдел закупок~ закупает выбранный вами продукт у поставщика. После поставки ~Отдел закупок~ передает товар в ~Отдел продаж~, который предлагает продукт клиентам.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075431Z" creationid="Deivon" creationdate="20210507T163317Z">
+        <seg>~Отдел закупок~ закупает выбранный вами продукт у поставщика.^^После поставки ~Отдел закупок~ передает товар в ~Отдел продаж~, который предлагает продукт клиентам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7686,8 +7686,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210508T112450Z" creationid="Deivon" creationdate="20210507T161409Z">
-        <seg>В предыдущем уроке вам нужно было только нажать на значок ~Добавить продукт~ и выбрать продукт из списка поставщиков, и выбранный продукт автоматически появится в вашем магазине.Чего вы не видели, так это ~Отдела закупок и продаж~ в вашем магазине.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075301Z" creationid="Deivon" creationdate="20210507T161409Z">
+        <seg>В предыдущем уроке вам нужно было только нажать на значок ~Добавить продукт~ и выбрать продукт из списка поставщиков, и выбранный продукт автоматически появится в вашем магазине.^^Чего вы не видели, так это ~Отдела закупок и продаж~ в вашем магазине.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9476,8 +9476,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T164104Z" creationid="Deivon" creationdate="20210507T164104Z">
-        <seg>Затем вы увидите желтую полосу предложения и оранжевую полосу спроса.~Желтая~ показывает объем предложения от поставщика, а ~оранжевая~ измеряет потребительский спрос на продукт. Если планка предложения короче, чем планка спроса, возникает дефицит предложения.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075448Z" creationid="Deivon" creationdate="20210507T164104Z">
+        <seg>Затем вы увидите желтую полосу предложения и оранжевую полосу спроса.^^~Желтая~ показывает объем предложения от поставщика, а ~оранжевая~ измеряет потребительский спрос на продукт. Если планка предложения короче, чем планка спроса, возникает дефицит предложения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15496,8 +15496,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>This is your basic commerce unit grouping.^^Neither unit has much effect on its own but linked they allow your store to function.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T120254Z" creationid="Deivon" creationdate="20210507T162813Z">
-        <seg>Это ваша основная группировка торговых блоков. По отдельности эти блоки не дают эффекта, но в связке, они позволяют вашему магазину функционировать.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075355Z" creationid="Deivon" creationdate="20210507T162813Z">
+        <seg>Это ваша основная группировка торговых блоков.^^По отдельности эти блоки не дают эффекта, но в связке, они позволяют вашему магазину функционировать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16278,8 +16278,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>To understand this better, we will just add a product to the store using the old method you are familiar with.^^Now click the ~Add Product icon~ and choose a product from the supply list.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210507T161720Z" creationid="Deivon" creationdate="20210507T161720Z">
-        <seg>Чтобы лучше это понять, мы просто добавим продукт в магазин, используя старый метод, с которым вы знакомы. Теперь нажмите на значок ~Добавить продукт~ и выберите продукт из списка поставок.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075342Z" creationid="Deivon" creationdate="20210507T161720Z">
+        <seg>Чтобы лучше это понять, мы просто добавим продукт в магазин, используя старый метод, с которым вы знакомы.^^Теперь нажмите на значок ~Добавить продукт~ и выберите продукт из списка поставок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17390,8 +17390,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>When this bar reaches its full length, it means that the unit has reached its full capacity and can process no more goods even if there is additional supply and demand.^^Conversely, if the unit is underutilized, its facilities and resources are not used effectively.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210508T114142Z" creationid="Deivon" creationdate="20210507T164506Z">
-        <seg>Когда она достигает своей полной длины, это означает, что отдел полностью загружен и не может обрабатывать больше товаров, даже если есть дополнительное предложение и спрос. И наоборот, если отдел используется недостаточно, его средства и ресурсы используются неэффективно.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075511Z" creationid="Deivon" creationdate="20210507T164506Z">
+        <seg>Когда она достигает своей полной длины, это означает, что отдел полностью загружен и не может обрабатывать больше товаров, даже если есть дополнительное предложение и спрос.^^И наоборот, если отдел используется недостаточно, его средства и ресурсы используются неэффективно.</seg>
       </tuv>
     </tu>
     <tu>
