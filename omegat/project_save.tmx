@@ -5738,8 +5738,8 @@ Show or hide the Toolbox menu.</seg>
       <tuv lang="en-US">
         <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T122457Z" creationid="Deivon" creationdate="20210509T122457Z">
-        <seg>Здесь вы можете просмотреть подробную информацию о вашей корпорации и конкурирующих корпорациях. Для каждой отображаемой корпорации вы можете сразу увидеть показатели денежных средств, выручки и прибыли и сопутствующие бары, а также график операционной прибыли.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075925Z" creationid="Deivon" creationdate="20210509T122457Z">
+        <seg>Здесь вы можете просмотреть подробную информацию о вашей корпорации и конкурирующих корпорациях.^^Для каждой отображаемой корпорации вы можете сразу увидеть показатели денежных средств, выручки и прибыли и сопутствующие бары, а также график операционной прибыли.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6598,8 +6598,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Here's a reminder of your goal for this tutorial game: to achieve ~an annual revenue of $50 million~ and ~an annual profit of $5 million~.^^The ~Goal Report~ gives a summary of your goal status.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T124047Z" creationid="Deivon" creationdate="20210509T124047Z">
-        <seg>Вот напоминание о вашей цели для этой обучающей игры: достичь ~годового дохода в размере 50 миллионов долларов~ и ~годовой прибыли в размере 5 миллионов долларов~. Отчет о цели ~содержит краткое описание состояния вашей цели.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T080106Z" creationid="Deivon" creationdate="20210509T124047Z">
+        <seg>Вот напоминание о вашей цели для этой обучающей игры: достичь ~годового дохода в размере 50 миллионов долларов~ и ~годовой прибыли в размере 5 миллионов долларов~.^^Отчет о цели ~содержит краткое описание состояния вашей цели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7502,8 +7502,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If you double-click the name of another city that city is pinpointed on the world map and the city view on the main screen is updated to show that city.^^Close the World Map view by either clicking the X in the top right of its window, or by clicking the World Map icon on the bottom toolbar.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T123752Z" creationid="Deivon" creationdate="20210509T123752Z">
-        <seg>Если вы дважды щелкните по названию другого города, этот город будет точно указан на карте мира, и вид города на главном экране будет обновлен, чтобы показать этот город. Закройте представление Карты мира, щелкнув значок X в правом верхнем углу окна или значок Карты мира на нижней панели инструментов.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T080045Z" creationid="Deivon" creationdate="20210509T123752Z">
+        <seg>Если вы дважды щелкните по названию другого города, этот город будет точно указан на карте мира, и вид города на главном экране будет обновлен, чтобы показать этот город.^^Закройте представление Карты мира, щелкнув значок X в правом верхнем углу окна или значок Карты мира на нижней панели инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14968,16 +14968,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The ~Corporate Detail Report~ contains a lot of useful information about your corporation.^^Through the extensive menu options, you can glean detailed information about your own corporation and any rival corporation you select.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T123310Z" creationid="Deivon" creationdate="20210509T123310Z">
-        <seg>Отчет о деталях корпорации содержит много полезной информации о вашей корпорации. С помощью обширных опций меню вы можете получить подробную информацию о своей корпорации и любой конкурирующей корпорации, которую вы выберете.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T080023Z" creationid="Deivon" creationdate="20210509T123310Z">
+        <seg>Отчет о деталях корпорации содержит много полезной информации о вашей корпорации.^^С помощью обширных опций меню вы можете получить подробную информацию о своей корпорации и любой конкурирующей корпорации, которую вы выберете.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The ~Firm Overview~ screen displays the a summary of the corporation's firms.^^Now select ~Business Relation~.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T122901Z" creationid="Deivon" creationdate="20210509T122721Z">
-        <seg>На экране ~Обзор фирмы~ отображается краткая информация о фирмах корпорации. Теперь выберите ~Деловые отношения~.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075936Z" creationid="Deivon" creationdate="20210509T122721Z">
+        <seg>На экране ~Обзор фирмы~ отображается краткая информация о фирмах корпорации.^^Теперь выберите ~Деловые отношения~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15720,8 +15720,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>This screen shows which corporations have been trading with your own.^^Now select ~Financial Overview~ to return to the first screen.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T123028Z" creationid="Deivon" creationdate="20210509T123028Z">
-        <seg>Этот экран показывает, какие корпорации торгуют с вами. Теперь выберите ~Финансовый обзор~, чтобы вернуться к первому экрану.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075948Z" creationid="Deivon" creationdate="20210509T123028Z">
+        <seg>Этот экран показывает, какие корпорации торгуют с вами.^^Теперь выберите ~Финансовый обзор~, чтобы вернуться к первому экрану.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16078,8 +16078,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>To become a competent business person, you should also learn to digest the information available to you about your corporation and your competitors.^^Click the ~Information icon~ on the bottom toolbar to open the ~Information Center~ screen now.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210509T122307Z" creationid="Deivon" creationdate="20210509T122307Z">
-        <seg>Чтобы стать компетентным деловым человеком, вы также должны научиться анализировать доступную вам информацию о вашей корпорации и ваших конкурентах. Нажмите значок ~Информация~ на нижней панели инструментов, чтобы открыть экран ~Информационный центр~ прямо сейчас.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075906Z" creationid="Deivon" creationdate="20210509T122307Z">
+        <seg>Чтобы стать компетентным деловым человеком, вы также должны научиться анализировать доступную вам информацию о вашей корпорации и ваших конкурентах.^^Нажмите значок ~Информация~ на нижней панели инструментов, чтобы открыть экран ~Информационный центр~ прямо сейчас.</seg>
       </tuv>
     </tu>
     <tu>
