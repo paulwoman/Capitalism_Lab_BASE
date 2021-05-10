@@ -12266,6 +12266,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ~Financial Actions~ from the Information Center.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153254Z" creationid="Deivon" creationdate="20210510T153254Z">
+        <seg>Выберите ~Финансовые действия~ в Информационном центре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Purchasing Unit~ from the list.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210508T115144Z" creationid="Deivon" creationdate="20210508T115144Z">
@@ -12982,6 +12990,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Начать радикальный научно-исследовательский проект по совершенствованию технологии производства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Starting your own corporation takes money - and lot's of it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153048Z" creationid="Deivon" creationdate="20210510T153048Z">
+        <seg>Создание собственной корпорации требует денег - и немалых.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15130,6 +15146,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Экспорт будет, когда рейтинг конкурентоспособности города превысит глобальный рейтинг конкурентоспособности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's high quality timber available for import, from which you can manufacture a variety of products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153025Z" creationid="Deivon" creationdate="20210510T153025Z">
+        <seg>Это высококачественная древесина, доступная для импорта, из которой вы можете производить различные товары.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18292,6 +18316,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You must first obtain a loan to finance your grand plans.^^Click the ~Information Center icon~ on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153202Z" creationid="Deivon" creationdate="20210510T153202Z">
+        <seg>Сначала вы должны получить кредит для финансирования своих грандиозных планов.^^Щелкните значок ~Информационный центр~ на нижней панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must select suppliers manually.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T144416Z" creationid="Александр" creationdate="20210111T144416Z">
@@ -18336,6 +18368,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165958Z" creationid="Olivier" creationdate="20210110T165958Z">
         <seg>Вы выиграете эту игру, если накопите состояние в $1 миллиард и получите контроль над 5 публичными компаниями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've spotted an opportunity in the market.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T152925Z" creationid="Deivon" creationdate="20210510T152925Z">
+        <seg>Вы заметили возможность на рынке.</seg>
       </tuv>
     </tu>
     <tu>
