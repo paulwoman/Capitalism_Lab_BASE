@@ -3336,6 +3336,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~[+]~ button next to the ~Borrow~ button.^^When you have increased the the amount to $20,000,000 or more, click the ~Borrow~ button.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153910Z" creationid="Deivon" creationdate="20210510T153910Z">
+        <seg>Нажмите кнопку ~[+]~ рядом с кнопкой ~Заимствовать~.^^Когда вы увеличите сумму до $20 000 000 или более, нажмите кнопку ~Заимствовать~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click this button to toggle the mode.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
