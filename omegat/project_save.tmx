@@ -5848,6 +5848,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From it, you will see that the overall quality of Golf Club was ~45% affected by the qualities of its raw materials~ and ~55% affected by the production technology~.^^That corresponds to the display of ~Production Quality~ and ~Raw Material Quality~ on this screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142816Z" creationid="Deivon" creationdate="20210514T142816Z">
+        <seg>Из него вы увидите, что общее качество клюшки на ~45% зависит от качества его сырья~ и ~55% зависит от технологии производства~.^^Что соответствует отображению ~Качества продукции~ и ~Качества сырья~ на этом экране.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From the menu options at the top right of the screen select ~Firm Overview~.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T122758Z" creationid="Deivon" creationdate="20210509T122650Z">
@@ -11822,6 +11830,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Переместить, снести или передать эту фирму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember the ~Manufacturer's Guide~ you looked at a moment ago?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142552Z" creationid="Deivon" creationdate="20210514T142552Z">
+        <seg>Помните ~Справочник производителя~, который вы смотрели минуту назад?</seg>
       </tuv>
     </tu>
     <tu>
