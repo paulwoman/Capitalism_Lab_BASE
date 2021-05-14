@@ -6708,6 +6708,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here it shows the ~Quality Rating~ of your Golf Club, and the factors that contribute to this quality rating, which include ~raw material qualities~, and your ~production technology~ for this product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142521Z" creationid="Deivon" creationdate="20210514T142521Z">
+        <seg>Здесь показано ~Рейтинг качества~ вашей клюшки и факторы, которые способствуют этому рейтингу качества, которые состоят из ~качество сырья~ и ~технология производства~ для этого продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here it shows the ~purchasing cost~ of the product and its ~freight cost~.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210508T120849Z" creationid="Deivon" creationdate="20210508T120849Z">
@@ -9866,6 +9874,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now let's have a closer look at the ~Manufacturing unit~ itself.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142024Z" creationid="Deivon" creationdate="20210514T142024Z">
+        <seg>Теперь давайте поближе рассмотрим ~Производственный отдел~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now link the very first ~Purchasing unit~ to the new ~Manufacturing unit~.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210514T141727Z" creationid="Deivon" creationdate="20210514T141727Z">
@@ -12470,6 +12486,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Показать все кредиты, которые были выданы местным компаниям и корпорациям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select your Golf Club Manufacturing unit by clicking on it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142139Z" creationid="Deivon" creationdate="20210514T142139Z">
+        <seg>Выберите свой производственный отдел по изготовлению клюшек для гольфа.</seg>
       </tuv>
     </tu>
     <tu>
