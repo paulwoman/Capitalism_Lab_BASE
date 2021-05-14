@@ -4872,6 +4872,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double click the top left hand unit space in the layout grid and build a ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134312Z" creationid="Deivon" creationdate="20210514T134312Z">
+        <seg>Дважды щелкните по верхнему левому блоку в сетке макета и создайте ~Отдел закупки~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-click here to add a functional unit</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -8814,6 +8822,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T075638Z" creationid="Deivon" creationdate="20210508T120124Z">
         <seg>Давайте заставим новое подразделение по закупкам работать, сообщив ему, у какого поставщика вы хотите заказать продукты.^^Нажмите на ~Отдел закупки~, чтобы выбрать ее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's get your factory producing something.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134159Z" creationid="Deivon" creationdate="20210514T134159Z">
+        <seg>Давайте начнем производтство.</seg>
       </tuv>
     </tu>
     <tu>
