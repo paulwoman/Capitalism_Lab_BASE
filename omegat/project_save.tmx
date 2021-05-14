@@ -9866,6 +9866,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now link the very first ~Purchasing unit~ to the new ~Manufacturing unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T141727Z" creationid="Deivon" creationdate="20210514T141727Z">
+        <seg>Теперь свяжите самый первый ~Отдел закупок~ с новым ~Производственным отделом~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210508T115859Z" creationid="Deivon" creationdate="20210508T115859Z">
@@ -15314,6 +15322,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T084152Z" creationid="Александр" creationdate="20210111T084152Z">
         <seg>Затем вложите капитал в банк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then select ~Steel~ from the supplier list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T141600Z" creationid="Deivon" creationdate="20210514T141600Z">
+        <seg>Затем выберите ~Сталь~ в списке поставщиков.</seg>
       </tuv>
     </tu>
     <tu>
