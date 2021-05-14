@@ -7732,6 +7732,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In order for your factory to manufacture goods and sell them, it requires three unit types to be linked within the layout grid.^^You already know ~Purchasing and Sales units~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T133625Z" creationid="Deivon" creationdate="20210514T133625Z">
+        <seg>Для того, чтобы ваша фабрика производила товары и продавала их, ей нужно, чтобы в сетке компоновки работало три блока.^^Вы уже знаете ~Отдел по закупкам и продажам~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In other words, it is the total market value of the company in the stock market.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -15018,6 +15026,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Уровень технологии отображается под каждым изображением продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The third type you require is the ~Manufacturing Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134115Z" creationid="Deivon" creationdate="20210514T134115Z">
+        <seg>Третий тип, который вам нужен, - это ~ Производственный отдел~.</seg>
       </tuv>
     </tu>
     <tu>
