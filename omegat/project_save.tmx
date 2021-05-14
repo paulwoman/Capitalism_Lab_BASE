@@ -4016,6 +4016,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connect these units as well.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T135604Z" creationid="Deivon" creationdate="20210514T135604Z">
+        <seg>Соедините и эти два блока.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consider Tender Offers from other players.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -9774,6 +9782,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Новички носят красную форму, а опытные рабочие - синюю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click the link between the units to connect them.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134739Z" creationid="Deivon" creationdate="20210514T134739Z">
+        <seg>Теперь нажмите на связь между блоками, чтобы соединить их.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16486,8 +16502,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>To the right of the Purchasing Unit, build a ~Manufacturing Unit~.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210514T134503Z" creationid="Deivon" creationdate="20210514T134503Z">
-        <seg>В блоке правее выбрите ~Производственный отдел~.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134634Z" creationid="Deivon" creationdate="20210514T134503Z">
+        <seg>В блоке правее выберите ~Производственный отдел~.</seg>
       </tuv>
     </tu>
     <tu>
