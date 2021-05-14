@@ -15278,6 +15278,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then choose a supplier that sells timber.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T140200Z" creationid="Deivon" creationdate="20210514T140200Z">
+        <seg>Затем выберите поставщика, который продает древесину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then inject capital into the bank.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T084152Z" creationid="Александр" creationdate="20210111T084152Z">
