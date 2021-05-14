@@ -3344,6 +3344,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Link~ button to open the ~Select a Supplier~ interface.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T135816Z" creationid="Deivon" creationdate="20210514T135816Z">
+        <seg>Нажмите кнопку ~Свзяь~ , чтобы открыть интерфейс ~Выбор поставщика~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~MORE~ button below the image of the Timber.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T161039Z" creationid="Deivon" creationdate="20210510T161039Z">
@@ -3820,6 +3828,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104945Z" creationid="Александр" creationdate="20210111T104945Z">
         <seg>Нажмите, чтобы включить или выключить биржевые новости.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click your ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T135735Z" creationid="Deivon" creationdate="20210514T135735Z">
+        <seg>Нажмите на свой ~Отдел закупки~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6568,6 +6584,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Серые цвета означают импорт из морских портов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Great Job!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T135614Z" creationid="Deivon" creationdate="20210514T135614Z">
+        <seg>Отличная работа!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9870,6 +9894,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T152840Z" creationid="Deivon" creationdate="20210510T152840Z">
         <seg>Теперь у вас появилась возможность фактически производить продукцию на своем собственном заводе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you need to purchase raw materials.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T135640Z" creationid="Deivon" creationdate="20210514T135640Z">
+        <seg>Теперь вам нужно закупить сырье.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17056,6 +17088,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Установить бюджет на обучение персонала этого здания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the ~Product~ filter to select ~Timber~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T140111Z" creationid="Deivon" creationdate="20210514T140111Z">
+        <seg>Используйте фильтр ~Все продукты~ и найдите ~Древесина~ и выберите ее.</seg>
       </tuv>
     </tu>
     <tu>
