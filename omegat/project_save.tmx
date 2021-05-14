@@ -16476,6 +16476,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To complete your objectives in this game, you need to achieve ~an annual revenue of $30 million~ and ~an annual profit of $3 million~.^^But remember that you still owe the bank money.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T143403Z" creationid="Deivon" creationdate="20210514T143403Z">
+        <seg>Чтобы выполнитьэто задание, вам нужно достичь ~годового дохода в размере 30 миллионов долларов~ и ~годовой прибыли в размере 3 миллионов долларов~.^^Но помните, что вы все еще должны банку деньги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To develop an OS, set up a Software Company.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -18200,6 +18208,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T105502Z" creationid="Александр" creationdate="20210111T105502Z">
         <seg>В Соревновании вы можете торговать акциями только один раз в день.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can repay part or all of your loan by accessing the ~Financial Actions~ screen of the ~Information Center~ and using the ~Repay~ section of the screen.^^Good Luck!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T143456Z" creationid="Deivon" creationdate="20210514T143456Z">
+        <seg>Вы можете погасить часть или весь свой кредит, перейдя на экран ~Финансовые действия~ Информационного центра ~и используя раздел~ Погашение ~.^^Удачи!</seg>
       </tuv>
     </tu>
     <tu>
