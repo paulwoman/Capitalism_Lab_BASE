@@ -12362,6 +12362,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ~Factory~ from the menu and find a location to build it.^^It's a good idea to build your factory in the rural area as the land is cheaper there.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T133430Z" creationid="Deivon" creationdate="20210514T133430Z">
+        <seg>Щелкните в меню ~Фарбкика~ и найдите место для его постройки.^^Это хорошая идея, чтобы построить свой завод в сельской местности, так как земля там дешевле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Financial Actions~ from the Information Center.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T153254Z" creationid="Deivon" creationdate="20210510T153254Z">
