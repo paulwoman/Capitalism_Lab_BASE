@@ -15374,6 +15374,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T141129Z" creationid="Deivon" creationdate="20210514T141129Z">
+        <seg>На вашем заводе много неиспользуемого пространства - шесть пустых блоков, если быть точным, - так что давайте их используем.^^В пустых блоках ~добавьте~ еще один ~Отдел закупок, Производственный отдел и Отдел продаж~ слева направо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There's high quality timber available for import, from which you can manufacture a variety of products.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T153025Z" creationid="Deivon" creationdate="20210510T153025Z">
