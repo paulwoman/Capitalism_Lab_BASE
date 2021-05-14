@@ -16324,6 +16324,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This ~Manufacturing unit~ will now produce ~Golf Club~.^^See how we utilized an existing ~Purchasing unit~ supplying ~Timber~, and in conjunction with a new unit purchasing ~Steel~, to manufacture a different product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T141947Z" creationid="Deivon" creationdate="20210514T141947Z">
+        <seg>Это ~Производственный отдел~ теперь будет производить ~Клюшку для гольфа~.^^Посмотрите, как мы использовали существующий ~Отдел закупок~ поставляющий ~Древесину~ и в сочетании с новым отделом, закупающий ~Сталь~, для производства другого продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Threshold for Stopping Accepting Corporate Deposits</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
