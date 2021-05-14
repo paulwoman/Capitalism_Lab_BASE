@@ -1682,6 +1682,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As soon as your factory receives Timber from the supplier, the Manufacturing Unit begins to produce Bed.^^Shortly afterwards, the Manufacturing Unit will send finished products to the Sales Unit and your Bed will be available for sale to the world.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T140518Z" creationid="Deivon" creationdate="20210514T140518Z">
+        <seg>Как только ваша фабрика получит древесину от поставщика, Производственный отдел начинает производить Кровать.^^Вскоре после этого Производственный отдел отправит готовую продукцию в Отдел продаж, и ваша кровать будет доступна для продажи по всему миру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As such, it will have the inflation artificially suppressed.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
