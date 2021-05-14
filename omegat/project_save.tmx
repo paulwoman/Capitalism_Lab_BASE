@@ -1498,6 +1498,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And to the right of the Manufacturing Unit, build a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134620Z" creationid="Deivon" creationdate="20210514T134620Z">
+        <seg>И еще правее выберите ~Отдел продаж~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual Emigrants</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -16472,6 +16480,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154715Z" creationid="Александр" creationdate="20201218T154715Z">
         <seg>Для этого просто повторите шаги, которые вы только что сделали для создания своего первого универмага.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To the right of the Purchasing Unit, build a ~Manufacturing Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134503Z" creationid="Deivon" creationdate="20210514T134503Z">
+        <seg>В блоке правее выбрите ~Производственный отдел~.</seg>
       </tuv>
     </tu>
     <tu>
