@@ -15294,6 +15294,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~Raw Material Quality~ can be increased by sourcing supplies of higher quality raw materials.^^The ~Production Quality~ can be increased by setting up R&amp;D centers (research and development centers) to develop better technology.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142856Z" creationid="Deivon" creationdate="20210514T142856Z">
+        <seg>Качество сырья может быть повышено за счет поставок сырья более высокого качества.^^~Качество продукции~ может быть повышено путем создания научно-исследовательских центров (центров исследований и разработок) для разработки более совершенных технологий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~Sales Unit~ basically shows the same information as the Purchasing unit.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T121423Z" creationid="Deivon" creationdate="20210509T121423Z">
@@ -17512,6 +17520,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T155210Z" creationid="Deivon" creationdate="20210510T155210Z">
         <seg>Мы хотим узнать, какие продукты могут быть изготовлены из ~Древесины~, поэтому нажмите кнопку ~ВВОД~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will cover this in a later tutorial.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142917Z" creationid="Deivon" creationdate="20210514T142917Z">
+        <seg>Мы рассмотрим это в более позднем уроке.</seg>
       </tuv>
     </tu>
     <tu>
