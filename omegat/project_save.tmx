@@ -9930,6 +9930,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now that your factory has been in operation, your products may already be purchased by other corporations for sale in their shops.^^To grow your business, you are advised to build retail stores to sell your own goods, and set up more factories to produce additional products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T143322Z" creationid="Deivon" creationdate="20210514T143322Z">
+        <seg>Теперь, когда ваша фабрика работает, ваши продукты уже могут быть приобретены другими корпорациями для продажи в их магазинах.^^Чтобы развивать свой бизнес, вам рекомендуется строить розничные магазины для продажи собственных товаров и создавать больше заводов для производства дополнительных продуктов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now waste no time and get started working towards this goal.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T150010Z" creationid="Deivon" creationdate="20210507T150010Z">
