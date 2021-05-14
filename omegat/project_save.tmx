@@ -4600,6 +4600,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T154534Z" creationid="Deivon" creationdate="20210514T154534Z">
+        <seg>Description=Теперь ваш розничный бизнес процветает, ваша следующая цель-начать производить свои собственные продукты и продавать их под своим брендом.^^Этот урок проведет вас через процесс строительства завода, поиска сырья и запуска производственных мощностей для выпуска продукции на продажу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=Years of research in training methodology by a consortium of leading business schools has finally produced astonishing results.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215041Z" creationid="Olivier" creationdate="20201213T214958Z">
