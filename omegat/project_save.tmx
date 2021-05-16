@@ -9938,6 +9938,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now that you know how to find suppliers, manufacture and sell products, it's time to look at ~advertising~ your products.^^Your corporation will be competing against other corporations selling the same product types.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082054Z" creationid="Deivon" creationdate="20210516T082054Z">
+        <seg>Теперь, когда вы знаете, как находить поставщиков, производить и продавать продукцию, пришло время взглянуть на рекламу вашей продукции.^^Ваша корпорация будет конкурировать с другими корпорациями, продающими те же типы продуктов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now that your factory has been in operation, your products may already be purchased by other corporations for sale in their shops.^^To grow your business, you are advised to build retail stores to sell your own goods, and set up more factories to produce additional products.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210514T143322Z" creationid="Deivon" creationdate="20210514T143322Z">
@@ -17636,6 +17644,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a consumer buys a product they consider the ~price~, the ~quality~ and the ~brand~ of the product.^^For the ~quality~, it is affected by the qualities of raw materials used and the production technology, which you have already learned in the previous tutorial.^^For the ~price~, it is very straightforward - a lower price makes a product more competitive in the market.^^A ~brand~ is a distinguishing name intended to identify and differentiate a seller's products from competitor's products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082719Z" creationid="Deivon" creationdate="20210516T082719Z">
+        <seg>Когда потребитель покупает продукт, он учитывает ~цену~, ~качество~ и ~бренд~ продукта.^^На ~качество~ влияют качества используемого сырья и технологии производства, которые вы уже изучили в предыдущем уроке.^^Для ~цены~ это очень просто - более низкая цена делает продукт более конкурентоспособным на рынке.^^A ~бренд~ - это отличительное название, предназначенное для идентификации и отличия продуктов продавца от продуктов конкурента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a consumer buys a product, the product's price, quality, and brand are considered.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -18768,6 +18784,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T123436Z" creationid="Deivon" creationdate="20210509T123436Z">
         <seg>Вам следует подумать о расширении своего бизнеса в другие города, чтобы воспользоваться доступностью различных продуктов или, возможно, отсутствием сильной конкуренции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will require a good advertising campaign if you want your business to succeed.^^Let's learn some basic concepts of brand and advertising now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082148Z" creationid="Deivon" creationdate="20210516T082148Z">
+        <seg>Вам потребуется хорошая рекламная кампания, если вы хотите, чтобы ваш бизнес был успешным.^^Давайте теперь изучим некоторые основные понятия бренда и рекламы.</seg>
       </tuv>
     </tu>
     <tu>
