@@ -7356,6 +7356,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T095559Z" creationid="Deivon" creationdate="20210516T095559Z">
+        <seg>Если в какой-то момент вы заблудитесь и захотите перезапустить урок, вы можете ~нажать клавишу ESC и выбрать Начать заного~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it is set to High, the macro economy in the game will be simulated with a high level of realism.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -9958,6 +9966,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T123110Z" creationid="Deivon" creationdate="20210509T123110Z">
         <seg>Теперь нажмите на логотип вашей ~корпорации~, чтобы просмотреть дополнительную информацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now go ahead and build a factory.^^This tutorial will continue when you have built a factory.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T094758Z" creationid="Deivon" creationdate="20210516T094758Z">
+        <seg>А теперь построй фабрику.^^Этот урок будет продолжен, когда вы построите фабрику.</seg>
       </tuv>
     </tu>
     <tu>
