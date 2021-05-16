@@ -1562,6 +1562,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apparel products include ~Blazer~, ~Jeans~, ~Leather Jacket~ and ~Sweater~ and each will require different raw materials.^^Before you decide which apparel product to manufacture, you must look at what ~raw material supplies~ are available from the ~seaports~ and study the ~Manufacturer's Guide~ to see what products you can manufacture from the available supplies.^^Now go back to the city view by right-clicking anywhere on the screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T093300Z" creationid="Deivon" creationdate="20210516T093300Z">
+        <seg>Одежда включают в себя ~Блейзер~, ~Джинсы~, ~Кожаную куртку~ и ~Свитер~, и для каждого из них потребуется разное сырье.^^Прежде чем вы решите, какой продукт одежды производить, вы должны посмотреть, какие ~поставки сырья~ доступны в ~морских портах~ и изучить ~Руководство производителя~, чтобы узнать, какие продукты вы можете производить из доступных поставок.^^Теперь вернитесь к виду города, щелкнув правой кнопкой мыши в любом месте экрана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply All</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T145228Z" creationid="Александр" creationdate="20210111T145228Z">
@@ -6660,6 +6668,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Great!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T092941Z" creationid="Deivon" creationdate="20210516T092941Z">
+        <seg>Отлично!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Green and Sports Rating</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -8702,6 +8718,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T123942Z" creationid="Deivon" creationdate="20210509T123942Z">
         <seg>Пришло время расширить свою бизнес-империю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's time to put them into use!^^ Let's build a factory to manufacture ~apparel products~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T093051Z" creationid="Deivon" creationdate="20210516T093051Z">
+        <seg>Пришло время пустить их в ход!^^ Давайте построим фабрику по производству ~швейных изделий~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18528,6 +18552,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154604Z" creationid="Александр" creationdate="20201218T154604Z">
         <seg>Вы только что расширили свой бизнес!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have just learned concepts about brands.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T093007Z" creationid="Deivon" creationdate="20210516T093007Z">
+        <seg>Вы только что изучили понятия о брендах.</seg>
       </tuv>
     </tu>
     <tu>
