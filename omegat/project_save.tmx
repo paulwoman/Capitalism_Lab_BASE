@@ -9898,6 +9898,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click the ~Search Product~ button and select ~Camera~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T090857Z" creationid="Deivon" creationdate="20210516T090857Z">
+        <seg>Теперь нажмите кнопку ~Поиск продукта~ и выберите ~Фотокамера~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now click the ~Search Product~ button and select ~Jeans~.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210516T082906Z" creationid="Deivon" creationdate="20210516T082906Z">
