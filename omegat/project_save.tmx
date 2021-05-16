@@ -15414,6 +15414,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~Necessity Index~ of ~Body Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy body lotions.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T092929Z" creationid="Deivon" creationdate="20210516T092929Z">
+        <seg>Индекс ~Необходимости~ Лосьона для тела ~составляет 80% , и это означает, что это предмет повседневной необходимости.^^Даже если сейчас идет экономический кризис, люди все равно будут покупать лосьоны для тела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~Raw Material Quality~ can be increased by sourcing supplies of higher quality raw materials.^^The ~Production Quality~ can be increased by setting up R&amp;D centers (research and development centers) to develop better technology.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210514T142856Z" creationid="Deivon" creationdate="20210514T142856Z">
