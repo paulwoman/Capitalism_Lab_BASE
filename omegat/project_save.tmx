@@ -5832,6 +5832,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For ~Jeans~, the concerns are: ~Price~ 27%, ~Quality~ 29% and ~Brand~ 44%.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T085101Z" creationid="Deivon" creationdate="20210516T085101Z">
+        <seg>Для ~Джинсов~ факторы влияющие на покупку: ~Цена~ 27%, ~Качество~ 29% и ~Бренд~ 44%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Freight</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -14504,6 +14512,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>На рисунке показаны общие депозиты клиентов из всех отделений этого банка и темпы роста по сравнению с прошлым годом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The figures in this column indicate the factors that a consumer will consider when selecting a product to buy.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T084111Z" creationid="Deivon" creationdate="20210516T084111Z">
+        <seg>Цифры в этой колонке указывают на факторы, которые потребитель будет учитывать при выборе продукта для покупки.</seg>
       </tuv>
     </tu>
     <tu>
