@@ -8412,6 +8412,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is true that different product types require different marketing strategies.^^As a rule, the higher the ~brand concern~ of the product you are selling, the more aggressively you should spend in its advertisement.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T090222Z" creationid="Deivon" creationdate="20210516T090222Z">
+        <seg>Это правда, что разные типы продуктов требуют разных маркетинговых стратегий.^^Как правило, чем выше ~Престиж бренда~ продукта, который вы продаете, тем более агрессивно вы должны тратить на его рекламу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is used for calculating the Net Exports component of GDP.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
