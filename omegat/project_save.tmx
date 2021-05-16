@@ -3856,6 +3856,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click ~Product Detail Report~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082827Z" creationid="Deivon" creationdate="20210516T082827Z">
+        <seg>Нажмите кнопку ~Подробный отчет о продукте~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Client Deposits</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -6736,6 +6744,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210508T120849Z" creationid="Deivon" creationdate="20210508T120849Z">
         <seg>Здесь он показывает ~стоимость закупки~ продукта и его ~стоимость перевозки~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here you can see ratings for ~Price~, ~Quality~, ~Brand~ and the ~Overall rating~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082930Z" creationid="Deivon" creationdate="20210516T082930Z">
+        <seg>Здесь вы можете увидеть рейтинги ~Цена~, ~Качество~, ~Бренд~ и ~Общий рейтинг~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9854,6 +9870,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210514T141404Z" creationid="Deivon" creationdate="20210514T141404Z">
         <seg>Теперь нажмите на новый ~Отдел закупок~ и нажмите кнопку ~Ссылка~, чтобы открыть список поставщиков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click the ~Search Product~ button and select ~Jeans~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082906Z" creationid="Deivon" creationdate="20210516T082906Z">
+        <seg>Теперь нажмите кнопку ~Поиск товара~ и выберите ~Джинсы~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15522,6 +15546,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Они привержены долгосрочным инвестициям и не торгуют акциями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are split into two columns.^^The ~Local~ column displays the ratings for local competitors - these are local small companies that you do not see in the corporation list.^^The ~Average~ column combines the ratings of local and corporate competitors.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T083106Z" creationid="Deivon" creationdate="20210516T083106Z">
+        <seg>Они разделены на две колонки.^^В столбце ~Местн.~ отображаются рейтинги местных конкурентов - это местные небольшие компании, которых вы не видите в списке корпораций.^^Столбец ~Среднее~ объединяет рейтинги местных и корпоративных конкурентов.</seg>
       </tuv>
     </tu>
     <tu>
