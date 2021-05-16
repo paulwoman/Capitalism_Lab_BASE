@@ -1530,6 +1530,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Another important piece of information you can see here is the ~Necessity Index~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T090931Z" creationid="Deivon" creationdate="20210516T090931Z">
+        <seg>Еще одна важная информация, которую вы можете увидеть здесь, - это индекс ~Необходимости~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apache License, Version 2.0</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T115657Z" creationid="Александр" creationdate="20201218T115657Z">
@@ -5840,6 +5848,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For ~cameras~, it's 20%, which means that it is not an everyday necessity item.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T090953Z" creationid="Deivon" creationdate="20210516T090953Z">
+        <seg>Для ~камер~ это 20%, что означает, что это не предмет повседневной необходимости.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Freight</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -9942,6 +9958,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215837Z" creationid="Olivier" creationdate="20201217T215837Z">
         <seg>Кликните по нему левой кнопкой мыши для просмотра подробностей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's check out the ~Necessity Index~ for ~Body Lotion~.^^Click the ~Search Product~ button again and this time select ~Body Lotion~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T091507Z" creationid="Deivon" creationdate="20210516T091507Z">
+        <seg>Теперь давайте проверим Индекс ~Необходимости~ для ~Body Lotion~.^^Снова нажмите кнопку ~Поиск продукта~ и на этот раз выберите ~Body Lotion~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17920,6 +17944,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Когда полоса спроса (оранжевая) длиннее, чем полоса предложения (желтая), это означает, что у вас недостаточно предложения для удовлетворения спроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the economy is in a downturn, consumers will cut back spending on products of low necessity indices.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T091041Z" creationid="Deivon" creationdate="20210516T091041Z">
+        <seg>Когда экономика находится в состоянии спада, потребители сократят расходы на продукты с низкими индексами потребности.</seg>
       </tuv>
     </tu>
     <tu>
