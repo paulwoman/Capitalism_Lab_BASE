@@ -9698,6 +9698,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next to them you will see the ~Concern~ column.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T084031Z" creationid="Deivon" creationdate="20210516T084031Z">
+        <seg>Рядом с ними вы увидите колонку ~Потреб.~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T075448Z" creationid="Deivon" creationdate="20210507T164104Z">
