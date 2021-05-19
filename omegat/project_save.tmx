@@ -8452,6 +8452,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is important to decide upon your brand strategy at the start of a game as there is a heavy cost for switching your brand strategy - it resets all existing brand ratings to zero.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145303Z" creationid="Deivon" creationdate="20210519T145303Z">
+        <seg>Важно определиться со стратегией вашего бренда в начале игры, так как переключение стратегии вашего бренда сопряжено с большими затратами - это обнуляет все существующие рейтинги бренда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is now looking for a buyer.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210106T114115Z" creationid="Александр" creationdate="20210106T114115Z">
