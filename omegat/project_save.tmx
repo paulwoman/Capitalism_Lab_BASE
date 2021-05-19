@@ -3368,6 +3368,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Link Media~ button to link your ~advertising unit~ to a media.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145936Z" creationid="Deivon" creationdate="20210519T145936Z">
+        <seg>Нажмите кнопку ~Выбор СМИ~ , чтобы связать ваш ~Отдел продаж~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Link~ button and select a product to order from the supplier list.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210508T120206Z" creationid="Deivon" creationdate="20210508T120206Z">
@@ -19088,6 +19096,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T123436Z" creationid="Deivon" creationdate="20210509T123436Z">
         <seg>Вам следует подумать о расширении своего бизнеса в другие города, чтобы воспользоваться доступностью различных продуктов или, возможно, отсутствием сильной конкуренции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should now add a new unit to your department store: the ~Advertising unit~, and link it to your sales unit.^^It is often a good idea to place the ~advertising unit~ in the center square of your layout so that it may link to any sales units.^^~Double click the center square~ and select ~Advertising Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145747Z" creationid="Deivon" creationdate="20210519T145747Z">
+        <seg>Теперь вы должны добавить новое подразделение в свой универмаг: ~Отдел рекламы~ и связать его с отделом продаж.^^Часто бывает хорошей идеей разместить ~Отдел рекламы~ в центральном квадрате вашего макета, чтобы он мог ссылаться на любые единицы продаж.^^~Дважды щелкните центральный квадрат~ и выберите ~Отдел рекламы~.</seg>
       </tuv>
     </tu>
     <tu>
