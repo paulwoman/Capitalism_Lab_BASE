@@ -18876,6 +18876,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have learned fast and had a great start with building brands for your products.^^To take it to the next level, you should expand your retail presence to other cities and make your brands global ones!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152539Z" creationid="Deivon" creationdate="20210519T152539Z">
+        <seg>Вы быстро научились и отлично начали создавать бренды для своих продуктов.^^Чтобы перейти на следующий уровень, вы должны расширить свое розничное присутствие в других городах и сделать свои бренды глобальными!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have significantly improved your corporation's operating profit margin.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215230Z" creationid="Olivier" creationdate="20201213T215230Z">
@@ -38216,6 +38224,14 @@ GM_TEC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210519T152300Z" creationid="Deivon" creationdate="20210519T152300Z">
         <seg>~Узнаваемость бренда~ - это просто мера знания потребителей о бренде.^^Помимо того, что это обусловлено рекламой, она также автоматически увеличивается с течением времени, если продукты с участием бренда широко распространены и пользуются постоянной розничной экспозицией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Brand loyalty~ is a measure of the consumers' attachment to a brand.^^If you allow quality of your products to fluctuate, the brand loyalty will suffer as consumers can easily lose faith in products with inconsistent quality.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152337Z" creationid="Deivon" creationdate="20210519T152337Z">
+        <seg>~Лояльность к бренду~ - это мера привязанности потребителей к бренду.^^Если вы позволите качеству ваших продуктов колебаться, лояльность к бренду пострадает, поскольку потребители могут легко потерять веру в продукты с несоответствующим качеством.</seg>
       </tuv>
     </tu>
     <tu>
