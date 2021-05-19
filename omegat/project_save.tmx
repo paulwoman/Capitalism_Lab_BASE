@@ -7788,6 +7788,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you wish to have a single brand covering every product you sell, then you should choose the ~Corporate brand strategy~.^^The ~advantage~ to this approach is that any new products you launch will instantly benefit from the recognition of the existing corporate brand.^^The ~disadvantage~ is that brand loyalty will suffer if any of your products fail to live up to consumers' quality expectations of your corporate brand.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T144209Z" creationid="Deivon" creationdate="20210519T144209Z">
+        <seg>Если вы хотите иметь единый бренд, охватывающий каждый продукт, который вы продаете, вам следует выбрать стратегию корпоративного бренда.^^Преимущество такого подхода заключается в том, что любые новые продукты, которые вы запускаете, мгновенно выиграют от признания существующего корпоративного бренда.^^Недостаток ~заключается в том, что лояльность к бренду пострадает, если какой-либо из ваших продуктов не оправдает ожиданий потребителей относительно качества вашего корпоративного бренда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T075210Z" creationid="Deivon" creationdate="20210507T152842Z">
@@ -15290,6 +15298,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>То же самое для двух других цифр, приведенных ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~body lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~body lotions~ would not.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T144413Z" creationid="Deivon" creationdate="20210519T144413Z">
+        <seg>Вторая стратегия, стратегия бренда ассортимента, похожа на корпоративный брендинг, но ее охват ограничен классами продуктов.^^Например, ~кожаные сумки~ и ~кожаные портфели~ относятся к классу ~изделия из кожи~.^^Если вы решили продать ~кожаные портфели~ и ~лосьоны для тела~ в дополнение к ~кожаным сумкам~, которые вы уже продаете, вы ~кожаные портфели~ немедленно унаследуете рейтинг бренда ваших ~кожаных сумок~ (~тот же класс продукта~), но ваши ~лосьоны для тела~ этого сделать не сможет.</seg>
       </tuv>
     </tu>
     <tu>
