@@ -954,6 +954,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A strategy advice for you: concentrate on the products you are already manufacturing, build new retail stores and ultimately dominate the market!^^And when you are ready to expand your business into other cities, remember to use the ~Mini map~ to switch between cities.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152644Z" creationid="Deivon" creationdate="20210519T152644Z">
+        <seg>Совет по стратегии для вас: сосредоточьтесь на продуктах, которые вы уже производите, стройте новые розничные магазины и в конечном итоге доминируйте на рынке!^^И когда вы будете готовы расширить свой бизнес в других городах, не забудьте использовать ~Мини-карту~ для переключения между городами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tender offer is an offer to buy shares of a corporation, usually at a price in excess of the value of the shares on the stock market.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -6688,6 +6696,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215129Z" creationid="Olivier" creationdate="20201213T215129Z">
         <seg>Goal Title=Meta de desempenho operacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good luck!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152730Z" creationid="Deivon" creationdate="20210519T152730Z">
+        <seg>Удачи!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19272,6 +19288,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210519T145747Z" creationid="Deivon" creationdate="20210519T145747Z">
         <seg>Теперь вы должны добавить новое подразделение в свой универмаг: ~Отдел рекламы~ и связать его с отделом продаж.^^Часто бывает хорошей идеей разместить ~Отдел рекламы~ в центральном квадрате вашего макета, чтобы он мог ссылаться на любые единицы продаж.^^~Дважды щелкните центральный квадрат~ и выберите ~Отдел рекламы~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will complete this tutorial when you ~dominate the Apparel market~ while achieving ~an annual profit~ of not less than ~$2 million~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152722Z" creationid="Deivon" creationdate="20210519T152722Z">
+        <seg>Вы завершите этот урок, когда будете доминировать на рынке одежды, достигая годовой прибыли не менее 2 миллионов долларов..</seg>
       </tuv>
     </tu>
     <tu>
