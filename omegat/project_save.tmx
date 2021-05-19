@@ -7900,6 +7900,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the previous tutorial, you have learned how to set up production facilities in a factory manually.^^This time, let's click the [+] icon to use the Manfacturer's Tool to set up the factory facilities for you automatically.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143143Z" creationid="Deivon" creationdate="20210519T143143Z">
+        <seg>В предыдущем уроке вы узнали, как вручную настроить производственные мощности на заводе.^^На этот раз давайте щелкнем значок [ + ], чтобы воспользоваться автоматической настройки заводских помещений для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T075301Z" creationid="Deivon" creationdate="20210507T161409Z">
