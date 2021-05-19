@@ -14604,6 +14604,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default strategy is ~Unique brand strategy~ in which every product has a unique brand.^^It will cost more to promote each individual product but it may be worth it because you will never have to worry about existing brands being damaged by new but low quality products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T144840Z" creationid="Deivon" creationdate="20210519T144840Z">
+        <seg>Стратегия по умолчанию-это стратегия уникального бренда, в которой каждый продукт имеет уникальный бренд.^^Продвижение каждого отдельного продукта будет стоить дороже, но это может стоить того, потому что вам никогда не придется беспокоиться о том, что существующие бренды могут пострадать от новых брендов, с низкокачественными продуктами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The demand for a software product soars during the release of a new version, then decreases over time as more users have already owned the new version.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
