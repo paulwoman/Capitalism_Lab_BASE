@@ -12746,6 +12746,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the ~Dominance~ option to see how your corporation is faring against the competition.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151844Z" creationid="Deivon" creationdate="20210519T151844Z">
+        <seg>Выберите опцию ~Доминирование~, чтобы увидеть, как ваша корпорация справляется с конкуренцией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this and the message will be sent to all players</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -15386,6 +15394,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Арендная плата устанавливается локально.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The report displays ~market dominance by industry~ as well as ~by product class~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151907Z" creationid="Deivon" creationdate="20210519T151907Z">
+        <seg>В отчете отображается ~доминирование на рынке по отраслям~ , а также ~по классам продуктов~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18524,6 +18540,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ (or ~Ctrl-D~) to access some useful market intelligence.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151754Z" creationid="Deivon" creationdate="20210519T151754Z">
+        <seg>По мере того, как реклама будет оказывать свое воздействие, рейтинги бренда ваших продуктов будут продолжать расти, что, в свою очередь, повысит общие рейтинги ваших продуктов и, таким образом, повысит их продажи.^^Пока все это происходит, давайте откроем отчет ~Корпоративные данные~, нажав комбинацию клавиш ~'D'~ (или ~Ctrl-D~), чтобы получить доступ к полезной информации о рынке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With training, operating units in your firm will gradually advance to higher levels, thus improving their efficiency.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104129Z" creationid="Александр" creationdate="20210111T104129Z">
@@ -18656,6 +18680,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Вы можете увидеть уровень цен по каждому виду страхования на странице # Страхование #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see your corporation's market shares for each product that it is currently selling.^^The ~rank~ columns indicates your company's sales ranking.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151949Z" creationid="Deivon" creationdate="20210519T151949Z">
+        <seg>Вы можете увидеть долю рынка вашей корпорации для каждого продукта, который она в настоящее время продает.^^Столбцы ~rank~ указывают рейтинг продаж вашей компании.</seg>
       </tuv>
     </tu>
     <tu>
