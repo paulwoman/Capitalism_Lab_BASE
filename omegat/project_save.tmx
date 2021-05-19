@@ -2464,6 +2464,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build another factory to produce a different ~apparel~ product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151116Z" creationid="Deivon" creationdate="20210519T151116Z">
+        <seg>Постройте еще одну фабрику для производства другого продукта ~одежда~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Building for preparing this product</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -4444,6 +4452,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>В настоящее время используется МОД.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently it is zero but with the advertising, it should be increasing soon.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150906Z" creationid="Deivon" creationdate="20210519T150906Z">
+        <seg>В настоящее время он равен нулю, но с рекламой он должен скоро увеличиться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16908,6 +16924,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To leverage the effect of the ~Range Brand strategy~, you should add another product from one of the product classes you are already selling.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151052Z" creationid="Deivon" creationdate="20210519T151052Z">
+        <seg>Чтобы использовать эффект стратегии ~Бренд ассортимента~, вам следует добавить еще один продукт из одного из классов продуктов, которые вы уже продаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To locate an specific input, type the first letter of its name.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -18616,6 +18640,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Вы можете увидеть уровень цен по каждому виду страхования на странице # Страхование #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see your product's ~brand rating~ on the ~Sales unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150840Z" creationid="Deivon" creationdate="20210519T150840Z">
+        <seg>Вы можете увидеть ~рейтинг бренда вашего продукта~ в ~Отделе продаж~.</seg>
       </tuv>
     </tu>
     <tu>
