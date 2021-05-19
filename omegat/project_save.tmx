@@ -198,6 +198,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling ~jeans~, choose ~leather jacket~).^^This tutorial will continue when you successful ~produce~ and ~sell~ a new ~apparel~ product in your ~department store~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151300Z" creationid="Deivon" creationdate="20210519T151300Z">
+        <seg>(Подсказка: если вы уже производите и продаете ~джинсы~, выберите ~кожаную куртку~).^^Этот урок будет продолжен, когда вы успешно ~произведете~ и ~продадите~ новый ~продукт одежды~ в своем ~универмаге~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(If the demand is high, set the operational capacity to a higher value.)</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -16498,6 +16506,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Этот ползунок изменяет ставку личных сбережений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This time you do not need to link the new product to the ~advertising unit~ as it is already covered by your ~apparel product class~ brand.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151652Z" creationid="Deivon" creationdate="20210519T151652Z">
+        <seg>На этот раз вам не нужно связывать новый продукт с ~Отделом рекламы~, поскольку он уже охвачен вашим брендом.</seg>
       </tuv>
     </tu>
     <tu>
