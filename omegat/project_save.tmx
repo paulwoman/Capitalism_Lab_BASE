@@ -2232,6 +2232,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before starting to advertise, you should first decide which brand strategy you want to use.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143623Z" creationid="Deivon" creationdate="20210519T143623Z">
+        <seg>Прежде чем начать рекламировать, вы должны сначала решить, какую стратегию бренда вы хотите использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before you can start to manufacture hardware using this IP, you must first develop an Operating System for the IP.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -6612,6 +6620,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Good work with your factory!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143450Z" creationid="Deivon" creationdate="20210519T143450Z">
+        <seg>Хорошая работа!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Good!</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T162601Z" creationid="Deivon" creationdate="20210510T162601Z">
@@ -10086,6 +10102,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T150010Z" creationid="Deivon" creationdate="20210507T150010Z">
         <seg>Не теряйте времени и начинайте работать над достижением этой цели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we will start dealing with branding and advertising.^^There are three different brand strategies available.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143531Z" creationid="Deivon" creationdate="20210519T143531Z">
+        <seg>Теперь мы начнем заниматься брендингом и рекламой.^^Существует три различных стратегии развития бренда.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16358,6 +16382,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This tutorial will continue when your factory starts to produce Apparel products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143433Z" creationid="Deivon" creationdate="20210519T143433Z">
+        <seg>Этот урок будет продолжен, когда ваша фабрика начнет производить одежду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This value indicates the approximate value of goods produced per person in the city.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -16632,6 +16664,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064331Z" creationid="Александр" creationdate="20210107T064331Z">
         <seg>Название=Битва за превосходство в интернете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now (or ~Ctrl-D~ if you have changed the shortcut key setting in the Options menu).</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143735Z" creationid="Deivon" creationdate="20210519T143735Z">
+        <seg>Чтобы получить доступ к экрану ~Стратегия бренда~, откройте отчет ~Сведения о компании~, нажав клавишу ~D~ сейчас (или ~Ctrl-D~, если вы изменили настройку сочетания клавиш в меню параметров).</seg>
       </tuv>
     </tu>
     <tu>
