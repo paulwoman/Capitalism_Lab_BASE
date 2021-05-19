@@ -1386,6 +1386,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All available media firms in the current city are displayed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150003Z" creationid="Deivon" creationdate="20210519T150003Z">
+        <seg>Отображаются все доступные СМИ в текущем городе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All cash and loan amounts will shrink in accordance to this Purchasing Power Index.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -17976,6 +17984,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Если этот параметр включен, в обзоре города будут отображаться только фирмы, соответствующие критериям фильтра; другие постройки будут скрыты (Ctrl-F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it comes to choosing a media to advertise, you should consider the ~Ratings Points~ and the ~Advertising Cost~ of each media.^^The higher the ~rating points~, the greater the ~audience share~.^^The ~advertising cost~ is simply the cost for your advertisement to be ~seen a thousand times~ by potential customers.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150211Z" creationid="Deivon" creationdate="20210519T150211Z">
+        <seg>Когда дело доходит до выбора средства массовой информации для рекламы, вы должны учитывать ~Рейтинговые баллы~ и ~Стоимость рекламы~ каждого средства массовой информации.^^Чем выше ~рейтинговые баллы~, тем больше ~доля аудитории~.^^~Стоимость рекламы~ - это просто стоимость того, чтобы ваша реклама была ~замечена тысячу раз~ потенциальными клиентами.</seg>
       </tuv>
     </tu>
     <tu>
