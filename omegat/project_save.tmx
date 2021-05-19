@@ -3896,6 +3896,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click your ~Sales~ unit now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150818Z" creationid="Deivon" creationdate="20210519T150818Z">
+        <seg>Нажмите на свой ~Отдел продаж~ прямо сейчас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click ~Manufacturer's Guide~ on the left of the screen to proceed.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T155119Z" creationid="Deivon" creationdate="20210510T155119Z">
@@ -10166,6 +10174,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210514T143322Z" creationid="Deivon" creationdate="20210514T143322Z">
         <seg>Теперь, когда ваша фабрика работает, ваши продукты уже могут быть приобретены другими корпорациями для продажи в их магазинах.^^Чтобы развивать свой бизнес, вам рекомендуется строить розничные магазины для продажи собственных товаров и создавать больше заводов для производства дополнительных продуктов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now the unit detail section of your advertising unit displays the media firm you have just selected.^^You may adjust the ~Monthly Spending Per Product~ slider but for now leave it set at $100,000.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150754Z" creationid="Deivon" creationdate="20210519T150754Z">
+        <seg>Теперь в разделе сведений о вашем отделе рекламы отображается только что выбранная вами СМИ.^^Вы можете настроить ползунок ~Ежемесячные расходы на продукт~ , но пока оставьте его на уровне 100 000 долларов.</seg>
       </tuv>
     </tu>
     <tu>
