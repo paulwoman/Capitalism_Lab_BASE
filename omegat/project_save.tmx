@@ -6884,6 +6884,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here you will see that the advertising is slowly increasing brand ratings for your products.^^Notice that the ~brand rating~ equals to the sum of ~Brand Awareness~ and ~Brand Loyalty~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152216Z" creationid="Deivon" creationdate="20210519T152216Z">
+        <seg>Здесь вы увидите, что реклама медленно повышает рейтинг бренда вашей продукции.^^Обратите внимание, что ~рейтинг бренда~ равен сумме ~Узнаваемости бренда~ и ~Лояльности к бренду~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here's a reminder of your goal for this tutorial game: to achieve ~an annual revenue of $50 million~ and ~an annual profit of $5 million~.^^The ~Goal Report~ gives a summary of your goal status.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T080106Z" creationid="Deivon" creationdate="20210509T124047Z">
@@ -12746,6 +12754,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the ~Brand~ menu option to view the current brand ratings of your products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152123Z" creationid="Deivon" creationdate="20210519T152123Z">
+        <seg>Выберите пункт меню ~Марка~ , чтобы просмотреть текущие рейтинги брендов ваших продуктов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the ~Dominance~ option to see how your corporation is faring against the competition.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210519T151844Z" creationid="Deivon" creationdate="20210519T151844Z">
@@ -18112,6 +18128,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Когда он установлен на более высокое значение, тот же самый общественный объект несёт большие операционные расходы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it reads "1st", it means your corporation has achieved market dominance for the respective product class.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152054Z" creationid="Deivon" creationdate="20210519T152054Z">
+        <seg>Когда он читается "1-й", это означает, что ваша корпорация достигла доминирования на рынке для соответствующего класса продуктов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38184,6 +38208,14 @@ If it is set to On, technology disruption occurs constantly and all technology v
 GM_TEC
 Технологический сбой
 Если установлено значение Вкл, то технологический сбой происходит постоянно, и все технологические переменные уменьшаются на 10% каждый год..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Brand awareness~ is simply a measure the consumers' knowledge of the brand.^^Besides driven by advertising, it also increases automatically over time, if the products featuring the brand are widely distributed and enjoy constant retail exposure.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152300Z" creationid="Deivon" creationdate="20210519T152300Z">
+        <seg>~Узнаваемость бренда~ - это просто мера знания потребителей о бренде.^^Помимо того, что это обусловлено рекламой, она также автоматически увеличивается с течением времени, если продукты с участием бренда широко распространены и пользуются постоянной розничной экспозицией.</seg>
       </tuv>
     </tu>
     <tu>
