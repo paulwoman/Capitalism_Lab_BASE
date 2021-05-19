@@ -10066,6 +10066,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy products from your factory~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145409Z" creationid="Deivon" creationdate="20210519T145409Z">
+        <seg>Теперь давайте выведем ваши продукты на рынок и приведем в действие стратегию бренда ассортимента.^^~Постройте универмаг~ и ~пусть он покупает продукты с вашей фабрики~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now link the very first ~Purchasing unit~ to the new ~Manufacturing unit~.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210514T141727Z" creationid="Deivon" creationdate="20210514T141727Z">
@@ -16426,6 +16434,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T075540Z" creationid="Deivon" creationdate="20210508T114556Z">
         <seg>На этот раз вы сделаете это сами, как опытный менеджер розничной торговли, - вручную настроите блок поставщика и продажи для вашего розничного магазина.^^~Дважды щелкните~ пустое место блока и выберите ~Отдел поставки~ из списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This tutorial will continue when you have done so.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145544Z" creationid="Deivon" creationdate="20210519T145544Z">
+        <seg>Этот урок будет продолжен, когда вы это сделаете.</seg>
       </tuv>
     </tu>
     <tu>
