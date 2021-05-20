@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23644,8 +23644,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1093]&lt;0249&gt;Public Shareholders|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T141905Z" creationid="Olivier" creationdate="20210110T141905Z">
-        <seg>[1093]&lt;0249&gt;Общественные Акционеры|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T171156Z" creationid="Olivier" creationdate="20210110T141905Z">
+        <seg>[1093]&lt;0249&gt;Гос. Акционеры|</seg>
       </tuv>
     </tu>
     <tu>
