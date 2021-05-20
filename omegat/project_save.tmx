@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37014,6 +37014,54 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210520T162405Z" creationid="Александр" creationdate="20210520T162405Z">
         <seg>[3391]&lt;EEX1&gt;Экспертиза игроков по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3392]&lt;EEX2&gt;Your COO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162418Z" creationid="Александр" creationdate="20210520T162418Z">
+        <seg>[3392]&lt;EEX2&gt;Экспертиза вашего операционного директора по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3393]&lt;EEX3&gt;Your CTO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162432Z" creationid="Александр" creationdate="20210520T162432Z">
+        <seg>[3393]&lt;EEX3&gt;Экспертиза вашего технического директора по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3394]&lt;EEX4&gt;Your CMO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162541Z" creationid="Александр" creationdate="20210520T162541Z">
+        <seg>[3394]&lt;EEX4&gt;Экспертиза вашего управляющего по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3395]&lt;ETEC&gt;Technology|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162551Z" creationid="Александр" creationdate="20210520T162551Z">
+        <seg>[3395]&lt;ETEC&gt;Технология|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3396]&lt;EINV&gt;Instant Invention of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162603Z" creationid="Александр" creationdate="20210520T162603Z">
+        <seg>[3396]&lt;EINV&gt;Мгновенное изобретение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3397]&lt;EBPE&gt;Business Permit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T165617Z" creationid="Александр" creationdate="20210520T165617Z">
+        <seg>[3397]&lt;EBPE&gt;Разрешение на ведение бизнеса|</seg>
       </tuv>
     </tu>
     <tu>
