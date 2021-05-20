@@ -198,6 +198,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling ~jeans~, choose ~leather jacket~).^^This tutorial will continue when you successful ~produce~ and ~sell~ a new ~apparel~ product in your ~department store~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151300Z" creationid="Deivon" creationdate="20210519T151300Z">
+        <seg>(Подсказка: если вы уже производите и продаете ~джинсы~, выберите ~кожаную куртку~).^^Этот урок будет продолжен, когда вы успешно ~произведете~ и ~продадите~ новый ~продукт одежды~ в своем ~универмаге~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(If the demand is high, set the operational capacity to a higher value.)</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -914,6 +922,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A product's ~overall rating~ is calculated based on its price, its quality, and its brand rating.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121550Z" creationid="Deivon" creationdate="20210508T121550Z">
+        <seg>Общий рейтинг продукта рассчитывается на основе его цены, качества и рейтинга бренда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A red bar indicates a loss; a green bar indicates a profit.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T134148Z" creationid="Александр" creationdate="20210111T134148Z">
@@ -922,10 +938,26 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A specialty stores is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075237Z" creationid="Deivon" creationdate="20210507T154141Z">
+        <seg>Специализированные магазины более привлекательны для покупателей, заинтересованных в таких товарах.^^Например, компьютерный магазин, продающий компьютеры, должен превзойти соседний универмаг, продающий тот же продукт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stock split increases the total number of shares in a corporation and diminishes its stock price.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Разделение акций увеличивает общее количество акций в корпорации и снижает их стоимость.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A strategy advice for you: concentrate on the products you are already manufacturing, build new retail stores and ultimately dominate the market!^^And when you are ready to expand your business into other cities, remember to use the ~Mini map~ to switch between cities.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152644Z" creationid="Deivon" creationdate="20210519T152644Z">
+        <seg>Совет по стратегии для вас: сосредоточьтесь на продуктах, которые вы уже производите, стройте новые розничные магазины и в конечном итоге доминируйте на рынке!^^И когда вы будете готовы расширить свой бизнес в других городах, не забудьте использовать ~Мини-карту~ для переключения между городами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +998,14 @@ Low - product customization applies to your company only; Medium - it applies to
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Значение меньше 100 означает, что он не может удовлетворить текущий спрос, и вам следует построить больше зданий этого типа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A ~Purchasing Unit~ does just that - it purchases the product you have selected from the supplier.^^Upon delivery the ~Purchasing Unit~ passes the stock to the ~Sales Unit~ which offers the product to customers.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075431Z" creationid="Deivon" creationdate="20210507T163317Z">
+        <seg>~Отдел закупок~ закупает выбранный вами продукт у поставщика.^^После поставки ~Отдел закупок~ передает товар в ~Отдел продаж~, который предлагает продукт клиентам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1402,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All available media firms in the current city are displayed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150003Z" creationid="Deivon" creationdate="20210519T150003Z">
+        <seg>Отображаются все доступные СМИ в текущем городе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All cash and loan amounts will shrink in accordance to this Purchasing Power Index.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -1434,6 +1482,22 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although you have a humble beginning, with the new skills you have acquired in this tutorial, achieving the goal shouldn't be difficult!^^Good luck!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T124235Z" creationid="Deivon" creationdate="20210509T124235Z">
+        <seg>Хотя у вас скромное начало, с новыми навыками, которые вы приобрели в этом уроке, достижение цели не должно быть трудным!^^Удачи!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Among that 60%, ~Timber~ contributes 40%; ~Cotton~ contributes 10%; and ~Linen~ contributes the remaining 10%.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T162433Z" creationid="Deivon" creationdate="20210510T162433Z">
+        <seg>Эти 60% стостоят из:~ Древесина~ 40%; ~Хлопок~ 10%; и ~Лен~ оставшиеся 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An employee with a loyalty level of 80 or higher will not be headhunted by competitors.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -1454,6 +1518,14 @@ Low - product customization applies to your company only; Medium - it applies to
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Страховая компания должна поддерживать положительный коэффициент достаточности капитала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And to the right of the Manufacturing Unit, build a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134620Z" creationid="Deivon" creationdate="20210514T134620Z">
+        <seg>И еще правее выберите ~Отдел продаж~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1554,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Another important piece of information you can see here is the ~Necessity Index~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T090931Z" creationid="Deivon" creationdate="20210516T090931Z">
+        <seg>Еще одна важная информация, которую вы можете увидеть здесь, - это индекс ~Необходимости~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apache License, Version 2.0</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T115657Z" creationid="Александр" creationdate="20201218T115657Z">
@@ -1502,6 +1582,14 @@ Low - product customization applies to your company only; Medium - it applies to
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Экран апартаментов и коммерческих зданий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apparel products include ~Blazer~, ~Jeans~, ~Leather Jacket~ and ~Sweater~ and each will require different raw materials.^^Before you decide which apparel product to manufacture, you must look at what ~raw material supplies~ are available from the ~seaports~ and study the ~Manufacturer's Guide~ to see what products you can manufacture from the available supplies.^^Now go back to the city view by right-clicking anywhere on the screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T095749Z" creationid="Deivon" creationdate="20210516T093300Z">
+        <seg>Одежда включают в себя ~Пиджак~, ~Джинсы~, ~Кожаную куртку~ и ~Свитер~, и для каждого из них потребуется разное сырье.^^Прежде чем вы решите, какой продукт одежды производить, вы должны посмотреть, какие ~поставки сырья~ доступны в ~морских портах~ и изучить ~Руководство производителя~, чтобы узнать, какие продукты вы можете производить из доступных поставок.^^Теперь вернитесь к виду города, щелкнув правой кнопкой мыши в любом месте экрана.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1634,6 +1722,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As soon as your factory receives Timber from the supplier, the Manufacturing Unit begins to produce Bed.^^Shortly afterwards, the Manufacturing Unit will send finished products to the Sales Unit and your Bed will be available for sale to the world.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T140518Z" creationid="Deivon" creationdate="20210514T140518Z">
+        <seg>Как только ваша фабрика получит древесину от поставщика, Производственный отдел начинает производить Кровать.^^Вскоре после этого Производственный отдел отправит готовую продукцию в Отдел продаж, и ваша кровать будет доступна для продажи по всему миру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As such, it will have the inflation artificially suppressed.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -1642,10 +1738,26 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T151640Z" creationid="Deivon" creationdate="20210507T151640Z">
+        <seg>Поскольку у вас больше опыта в розничной торговле, вы можете выбирать из целого ряда типов розничных магазинов для строительства, включая универмаги, круглосуточные магазины, минимаркеты, супермаркеты и другие типы магазинов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each).</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Изначально банк равномерно распределяет деньги между заемщиками с разным кредитным рейтингом (по 20%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At this moment the maximum amount you may borrow is $30,000,000.^^</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153559Z" creationid="Deivon" creationdate="20210510T153559Z">
+        <seg>На данный момент максимальная сумма, которую вы можете занять, составляет 30 000 000 долларов.^^</seg>
       </tuv>
     </tu>
     <tu>
@@ -2136,10 +2248,26 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be mindful not to choose a firm that charges too much though.^^When you have decided which media firm to advertise on, ~double-click it~ to select it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150442Z" creationid="Deivon" creationdate="20210519T150442Z">
+        <seg>Однако будьте внимательны и не выбирайте фирму, которая берет слишком много.^^Когда вы решите, какую СМИ выбрать, ~дважды щелкните ее~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because you have already reached the maximum number of product designs you can add to your library.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Потому что вы уже достигли максимального количества дизайнов продуктов, которые вы можете добавить в свою библиотеку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before starting to advertise, you should first decide which brand strategy you want to use.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143623Z" creationid="Deivon" creationdate="20210519T143623Z">
+        <seg>Прежде чем начать рекламировать, вы должны сначала решить, какую стратегию бренда вы хотите использовать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2348,6 +2476,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Построить нефтяную скважину для добычи нефти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build another factory to produce a different ~apparel~ product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151116Z" creationid="Deivon" creationdate="20210519T151116Z">
+        <seg>Постройте еще одну фабрику для производства другого продукта ~одежда~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2888,6 +3024,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clearing the stock in effect free up your retail shelves for the new product immediately.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T121711Z" creationid="Deivon" creationdate="20210509T121711Z">
+        <seg>Очистка склада фактически немедленно освободит ваши полки магазина для нового продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click again to cancel it.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -3264,10 +3408,50 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Link Media~ button to link your ~advertising unit~ to a media.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145936Z" creationid="Deivon" creationdate="20210519T145936Z">
+        <seg>Нажмите кнопку ~Выбор СМИ~ , чтобы связать ваш ~Отдел продаж~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Link~ button and select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120206Z" creationid="Deivon" creationdate="20210508T120206Z">
+        <seg>Нажмите кнопку ~Связь~ и выберите продукт для заказа из списка поставщиков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Link~ button to open the ~Select a Supplier~ interface.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T135816Z" creationid="Deivon" creationdate="20210514T135816Z">
+        <seg>Нажмите кнопку ~Свзяь~ , чтобы открыть интерфейс ~Выбор поставщика~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~MORE~ button below the image of the Timber.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T161039Z" creationid="Deivon" creationdate="20210510T161039Z">
+        <seg>Нажмите кнопку ~Далее~ под изображением древесины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~SELECT~ button now.^^</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120855Z" creationid="Александр" creationdate="20201218T120855Z">
         <seg>Нажмите кнопку ~ ВЫБРАТЬ ~. ^^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~[+]~ button next to the ~Borrow~ button.^^When you have increased the the amount to $20,000,000 or more, click the ~Borrow~ button.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153910Z" creationid="Deivon" creationdate="20210510T153910Z">
+        <seg>Нажмите кнопку ~[+]~ рядом с кнопкой ~Заимствовать~.^^Когда вы увеличите сумму до $20 000 000 или более, нажмите кнопку ~Заимствовать~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,6 +3912,38 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click your ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T135735Z" creationid="Deivon" creationdate="20210514T135735Z">
+        <seg>Нажмите на свой ~Отдел закупки~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click your ~Sales~ unit now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150818Z" creationid="Deivon" creationdate="20210519T150818Z">
+        <seg>Нажмите на свой ~Отдел продаж~ прямо сейчас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click ~Manufacturer's Guide~ on the left of the screen to proceed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155119Z" creationid="Deivon" creationdate="20210510T155119Z">
+        <seg>Нажмите ~Справочник производителя~ в левой части экрана, чтобы продолжить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click ~Product Detail Report~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082827Z" creationid="Deivon" creationdate="20210516T082827Z">
+        <seg>Нажмите кнопку ~Подробный отчет о продукте~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Client Deposits</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -3908,6 +4124,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Подтвердите изменение цены ('*' или ']')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connect these units as well.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T135604Z" creationid="Deivon" creationdate="20210514T135604Z">
+        <seg>Соедините и эти два блока.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4248,6 +4472,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Currently it is zero but with the advertising, it should be increasing soon.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150906Z" creationid="Deivon" creationdate="20210519T150906Z">
+        <seg>В настоящее время он равен нулю, но с рекламой он должен скоро увеличиться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Custom Filter</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -4448,6 +4680,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=In this tutorial, you will learn advanced management skills for running a retail store and growing your retail chain by expanding into other cities.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T080547Z" creationid="Deivon" creationdate="20210510T080547Z">
+        <seg>Description=В этом уроке вы освоите основные навыки необходимые для управления розничным магазином и начнете расширять свою розничную сеть в другие города.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=The advent of the Internet is changing every aspect of life.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064350Z" creationid="Александр" creationdate="20210107T064350Z">
@@ -4456,10 +4696,10 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Description=Years of research in training methodology by a consortium of leading business schools has finally produced astonishing results.</seg>
+        <seg>Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215041Z" creationid="Olivier" creationdate="20201213T214958Z">
-        <seg>Description=Anos de pesquisa em metodologia de treinamento por um consórcio de escolas de negócios líderes finalmente produziram resultados surpreendentes.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T154534Z" creationid="Deivon" creationdate="20210514T154534Z">
+        <seg>Description=Теперь ваш розничный бизнес процветает, ваша следующая цель-начать производить свои собственные продукты и продавать их под своим брендом.^^Этот урок проведет вас через процесс строительства завода, поиска сырья и запуска производственных мощностей для выпуска продукции на продажу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4500,6 +4740,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Развитый Город в Начале</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Differences in quality, price and brand may even things out but that's for a later tutorial.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T113803Z" creationid="Deivon" creationdate="20210507T155036Z">
+        <seg>Различия в качестве, цене и бренде могут выровнять ситуацию, но это для более позднего урока.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4756,6 +5004,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Пожертвования Соперничающие Политическим Партиям</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double click the top left hand unit space in the layout grid and build a ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134312Z" creationid="Deivon" creationdate="20210514T134312Z">
+        <seg>Дважды щелкните по верхнему левому блоку в сетке макета и создайте ~Отдел закупки~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5248,6 +5504,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Excellent!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T115910Z" creationid="Deivon" creationdate="20210508T115910Z">
+        <seg>Отлично!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Existing Life Insurance Policies provide a reliable stream of premium incomes to the insurance company.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -5336,6 +5600,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fairly obvious eh?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155626Z" creationid="Deivon" creationdate="20210510T155626Z">
+        <seg>Довольно очевидно, а?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fast</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -5400,6 +5672,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally, the corporate logo, corporate color and the CEO's portrait are displayed.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122537Z" creationid="Deivon" creationdate="20210509T122537Z">
+        <seg>Наконец, отображается корпоративный логотип, корпоративный цвет и портрет генерального директора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Financial Performance</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -5436,6 +5716,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Финансовые акции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find a media firm with a high rating points score to maximize your advertising coverage.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150309Z" creationid="Deivon" creationdate="20210519T150309Z">
+        <seg>Найдите СМИ с высоким рейтингом, чтобы максимизировать охват вашей рекламы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5544,6 +5832,22 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, a furniture store can only sell furniture.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T152859Z" creationid="Deivon" creationdate="20210507T152859Z">
+        <seg>Например, мебельный магазин может продавать только мебель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, when it comes to buying jeans, consumers generally pay more attention to the brand than the product's actual quality.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121517Z" creationid="Deivon" creationdate="20210508T121517Z">
+        <seg>Например, когда дело доходит до покупки джинсов, потребители, как правило, уделяют больше внимания бренду, чем фактическому качеству продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you may set your apartment's rent to be always 10% higher than the market rate.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -5592,6 +5896,22 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For now, keep it buying the current product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T122117Z" creationid="Deivon" creationdate="20210508T122117Z">
+        <seg>А пока пусть работают дальше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the purpose of this tutorial you will adopt the ~range brand strategy~.^^Click ~Range Brand~ to set your company's brand strategy to the Range Brand strategy.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145049Z" creationid="Deivon" creationdate="20210519T145049Z">
+        <seg>Для этого урока вы примете стратегию бренда ~ассортимент~.^^Нажмите ~Бренд ассортимента~, чтобы настроить стратегию бренда вашей компании на стратегию бренда ассортимента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T115723Z" creationid="Александр" creationdate="20201218T115718Z">
@@ -5604,6 +5924,22 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Для продукции, отмеченных на фабриках #Внутренней продажей#, ИИ всегда будет продавать их по себестоимости.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For ~Jeans~, the concerns are: ~Price~ 27%, ~Quality~ 29% and ~Brand~ 44%.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T085719Z" creationid="Deivon" creationdate="20210516T085101Z">
+        <seg>Для ~Джинсов~ факторы влияющие на покупку, следующие: ~Цена~ 26%, ~Качество~ 32% и ~Бренд~ 42%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For ~cameras~, it's 20%, which means that it is not an everyday necessity item.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T090953Z" creationid="Deivon" creationdate="20210516T090953Z">
+        <seg>Для ~камер~ это 20%, что означает, что это не предмет повседневной необходимости.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5632,6 +5968,30 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075925Z" creationid="Deivon" creationdate="20210509T122457Z">
+        <seg>Здесь вы можете просмотреть подробную информацию о вашей корпорации и конкурирующих корпорациях.^^Для каждой отображаемой корпорации вы можете сразу увидеть показатели денежных средств, выручки и прибыли и сопутствующие бары, а также график операционной прибыли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From it, you will see that the overall quality of Golf Club was ~45% affected by the qualities of its raw materials~ and ~55% affected by the production technology~.^^That corresponds to the display of ~Production Quality~ and ~Raw Material Quality~ on this screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142816Z" creationid="Deivon" creationdate="20210514T142816Z">
+        <seg>Из него вы увидите, что общее качество клюшки на ~45% зависит от качества его сырья~ и ~55% зависит от технологии производства~.^^Что соответствует отображению ~Качества продукции~ и ~Качества сырья~ на этом экране.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the menu options at the top right of the screen select ~Firm Overview~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122758Z" creationid="Deivon" creationdate="20210509T122650Z">
+        <seg>В меню в правом верхнем углу экрана выберите ~Обзор фирм~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fund Transfer</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -5650,8 +6010,8 @@ Show or hide the Toolbox menu.</seg>
       <tuv lang="en-US">
         <seg>GC_RAND</seg>
       </tuv>
-      <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
-        <seg>Пол портрета Используйте иконки Мужчина и Женщина (расположены под иконками со стрелками) для переключения пола портретов.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210520T205826Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
+        <seg>GC_RAND</seg>
       </tuv>
     </tu>
     <tu>
@@ -6260,42 +6620,10 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Goal Achieved Text=Congratulations!</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215223Z" creationid="Olivier" creationdate="20201213T215223Z">
-        <seg>Goal Achieved Text=Parabéns!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Goal Achievement Progress</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Прогресс в достижении цели</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Description=Be more aggressive in hiring and look for new talents to join your corporation.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215253Z" creationid="Olivier" creationdate="20201213T215253Z">
-        <seg>Goal Description=Seja mais agressivo na contratação e procure novos talentos para ingressar na sua corporação.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215131Z" creationid="Olivier" creationdate="20201213T215131Z">
-        <seg>Goal Description=Aproveite a nova metodologia de treinamento para melhorar a margem de lucro operacional de sua empresa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Description=With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215121Z" creationid="Olivier" creationdate="20201213T215121Z">
-        <seg>Goal Description=Com o avanço no treinamento, você agora tem a ferramenta para melhorar a eficiência operacional de sua empresa a novos patamares e fornecer retornos financeiros verdadeiramente excepcionais para seus acionistas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6308,26 +6636,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Goal Title=Aggressive Growth Plan</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215119Z" creationid="Olivier" creationdate="20201213T215119Z">
-        <seg>Goal Title=Plano de crescimento agressivo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Title=Growing the Talent Base</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215250Z" creationid="Olivier" creationdate="20201213T215250Z">
-        <seg>Goal Title=Aumentando a base de talentos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Goal Title=Operating Performance Target</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215129Z" creationid="Olivier" creationdate="20201213T215129Z">
         <seg>Goal Title=Meta de desempenho operacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good luck!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152730Z" creationid="Deivon" creationdate="20210519T152730Z">
+        <seg>Удачи!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good work with your factory!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143450Z" creationid="Deivon" creationdate="20210519T143450Z">
+        <seg>Хорошая работа!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T162601Z" creationid="Deivon" creationdate="20210510T162601Z">
+        <seg>Хорошо!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6360,6 +6696,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Серые цвета означают импорт из морских портов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Great Job!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T135614Z" creationid="Deivon" creationdate="20210514T135614Z">
+        <seg>Отличная работа!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Great job!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120313Z" creationid="Deivon" creationdate="20210508T120313Z">
+        <seg>Отличная работа!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Great!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T092941Z" creationid="Deivon" creationdate="20210516T092941Z">
+        <seg>Отлично!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6448,6 +6808,54 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Здравоохранение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120944Z" creationid="Deivon" creationdate="20210508T120944Z">
+        <seg>Здесь он показывает ~качество~ продукта и ~уровень бренда~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here it shows the ~Quality Rating~ of your Golf Club, and the factors that contribute to this quality rating, which include ~raw material qualities~, and your ~production technology~ for this product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142521Z" creationid="Deivon" creationdate="20210514T142521Z">
+        <seg>Здесь показано ~Рейтинг качества~ вашей клюшки и факторы, которые способствуют этому рейтингу качества, которые состоят из ~качество сырья~ и ~технология производства~ для этого продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here it shows the ~purchasing cost~ of the product and its ~freight cost~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120849Z" creationid="Deivon" creationdate="20210508T120849Z">
+        <seg>Здесь он показывает ~стоимость закупки~ продукта и его ~стоимость перевозки~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here you can see ratings for ~Price~, ~Quality~, ~Brand~ and the ~Overall rating~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082930Z" creationid="Deivon" creationdate="20210516T082930Z">
+        <seg>Здесь вы можете увидеть рейтинги ~Цена~, ~Качество~, ~Бренд~ и ~Общий рейтинг~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here you will see that the advertising is slowly increasing brand ratings for your products.^^Notice that the ~brand rating~ equals to the sum of ~Brand Awareness~ and ~Brand Loyalty~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152216Z" creationid="Deivon" creationdate="20210519T152216Z">
+        <seg>Здесь вы увидите, что реклама медленно повышает рейтинг бренда вашей продукции.^^Обратите внимание, что ~рейтинг бренда~ равен сумме ~Узнаваемости бренда~ и ~Лояльности к бренду~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here's a reminder of your goal for this tutorial game: to achieve ~an annual revenue of $50 million~ and ~an annual profit of $5 million~.^^The ~Goal Report~ gives a summary of your goal status.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T080106Z" creationid="Deivon" creationdate="20210509T124047Z">
+        <seg>Вот напоминание о вашей цели для этой обучающей игры: достичь ~годового дохода в размере 50 миллионов долларов~ и ~годовой прибыли в размере 5 миллионов долларов~.^^Отчет о цели ~содержит краткое описание состояния вашей цели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6844,6 +7252,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, specialty stores do have advantages over general stores.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T153541Z" creationid="Deivon" creationdate="20210507T153541Z">
+        <seg>Тем не менее, специализированные магазины имеют преимущества перед универсальными магазинами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, the relative concern consumers place on these factors varies from product to product.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -6980,10 +7396,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a supply problem occurs, you may not be able to solve it as easily because of the limited types of products that a specialty store can sell.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T113756Z" creationid="Deivon" creationdate="20210507T153223Z">
+        <seg>Если возникнет проблема с поставками, вы не сможете быстро решить ее из-за ограниченного количества продуктов, которые может продать специализированный магазин.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If any of your other firms have #broken supply links# which require the #same item# that #this Sales unit# is selling, you may use this button to #redirect all the affected supply links# to #this Sales unit#.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Если у какой-либо из ваших других фирм есть # нарушенные связи поставки #, для которых требуется # тот же товар #, который продает # этот отдел продаж #, вы можете использовать эту кнопку, чтобы # перенаправить все затронутые связи поставок # в # этот отдел продаж #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T095559Z" creationid="Deivon" creationdate="20210516T095559Z">
+        <seg>Если в какой-то момент вы заблудитесь и захотите перезапустить урок, вы можете ~нажать клавишу ESC и выбрать Начать заного~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7052,6 +7484,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the supplier is a business corporation, the color shown here is its ~corporate color~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120808Z" creationid="Deivon" creationdate="20210508T120808Z">
+        <seg>Если поставщик является коммерческой корпорацией, цвет, показанный здесь, является ее ~корпоративным цветом~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the supply shortage is persistent, you should consider switching to a better supplier.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T164214Z" creationid="Deivon" creationdate="20210507T164214Z">
+        <seg>Если нехватка поставок сохраняется, вам следует подумать о смене поставщика.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this index is higher than 100, land prices in this game will be higher than normal.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -7078,8 +7526,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If this is disabled, global competitiveness ratings will be initialized with a constant value of 30.</seg>
       </tuv>
-      <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
-        <seg>Если этот параметр отключён, рейтинги глобальной конкурентоспособности будут инициализированы с постоянным значением 30.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210520T205653Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
+        <seg>т инициализированы с постоянным значением 30.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7110,8 +7558,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If this is enabled, global competitiveness ratings across industries will be randomized in the beginning of the game.</seg>
       </tuv>
-      <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
-        <seg>Рандомизировать Рейтинги Глобальной Конкурентоспособности Если этот параметр включен, рейтинги глобальной конкурентоспособности по отраслям будут рандомизированы в начале игры.</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210520T205634Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
+        <seg>Если этот параметр включен, рейтинги глобальной конкурентоспособности по отраслям будут рандомизированы в начале игры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7316,6 +7764,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you double-click the name of another city that city is pinpointed on the world map and the city view on the main screen is updated to show that city.^^Close the World Map view by either clicking the X in the top right of its window, or by clicking the World Map icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T080045Z" creationid="Deivon" creationdate="20210509T123752Z">
+        <seg>Если вы дважды щелкните по названию другого города, этот город будет точно указан на карте мира, и вид города на главном экране будет обновлен, чтобы показать этот город.^^Закройте представление Карты мира, щелкнув значок X в правом верхнем углу окна или значок Карты мира на нижней панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -7336,6 +7792,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Если вы установите значение больше нуля, соперничающие политические партии со временем будут получать пожертвования от широкой общественности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want Capitalism Lab to play custom music files that you designate instead of the original game music,</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T154741Z" creationid="Александр" creationdate="20210520T154741Z">
+        <seg>If you want Capitalism Lab to play custom music files that you designate instead of the original game music,</seg>
       </tuv>
     </tu>
     <tu>
@@ -7368,6 +7832,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>При желании можно вернуть технологию производства на более низкий уровень и связать ее с другим пользовательским изображением изделия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you wish to have a single brand covering every product you sell, then you should choose the ~Corporate brand strategy~.^^The ~advantage~ to this approach is that any new products you launch will instantly benefit from the recognition of the existing corporate brand.^^The ~disadvantage~ is that brand loyalty will suffer if any of your products fail to live up to consumers' quality expectations of your corporate brand.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T144209Z" creationid="Deivon" creationdate="20210519T144209Z">
+        <seg>Если вы хотите иметь единый бренд, охватывающий каждый продукт, который вы продаете, вам следует выбрать стратегию корпоративного бренда.^^Преимущество такого подхода заключается в том, что любые новые продукты, которые вы запускаете, мгновенно выиграют от признания существующего корпоративного бренда.^^Недостаток ~заключается в том, что лояльность к бренду пострадает, если какой-либо из ваших продуктов не оправдает ожиданий потребителей относительно качества вашего корпоративного бренда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075210Z" creationid="Deivon" creationdate="20210507T152842Z">
+        <seg>Если по какой-либо причине поставка товара в магазин прекращается, вы можете легко заменить его другим товаром.^^С другой стороны, в ~специализированных магазинах~ могут продаватся только определенный ассортимент товаров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7452,10 +7932,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In a nutshell, ~a low price, high quality, and a high brand rating~ contribute to ~a high overall rating~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121632Z" creationid="Deivon" creationdate="20210508T121632Z">
+        <seg>В двух словах, ~низкая цена, высокое качество и высокий рейтинг бренда~ способствуют ~высокому общему рейтингу~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, the "Jobs and Income" category of the Quality of Life index will suffer a drop as well.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Кроме того, снизится и категория "Рабочие места и доходы" индекса качества жизни.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In order for your factory to manufacture goods and sell them, it requires three unit types to be linked within the layout grid.^^You already know ~Purchasing and Sales units~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T133625Z" creationid="Deivon" creationdate="20210514T133625Z">
+        <seg>Для того, чтобы ваша фабрика производила товары и продавала их, ей нужно, чтобы в сетке компоновки работало три блока.^^Вы уже знаете ~Отдел по закупкам и продажам~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7472,6 +7968,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>В игре каждому игроку дается возможность создать один IP с нуля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the previous tutorial, you have learned how to set up production facilities in a factory manually.^^This time, let's click the [+] icon to use the Manfacturer's Tool to set up the factory facilities for you automatically.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143143Z" creationid="Deivon" creationdate="20210519T143143Z">
+        <seg>В предыдущем уроке вы узнали, как вручную настроить производственные мощности на заводе.^^На этот раз давайте щелкнем значок [ + ], чтобы воспользоваться автоматической настройки заводских помещений для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075301Z" creationid="Deivon" creationdate="20210507T161409Z">
+        <seg>В предыдущем уроке вам нужно было только нажать на значок ~Добавить продукт~ и выбрать продукт из списка поставщиков, и выбранный продукт автоматически появится в вашем магазине.^^Чего вы не видели, так это ~Отдела закупок и продаж~ в вашем магазине.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the previous tutorials you have learned how to purchase products from suppliers and simply put them on sale in your stores.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T152716Z" creationid="Deivon" creationdate="20210510T152716Z">
+        <seg>В предыдущих уроках вы узнали, как покупать товары у поставщиков и просто выставлять их на продажу в своих магазинах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this tutorial, you will be trained to become a better retail manager and learn how to customize your retail stores to maximize their operational efficiency and profitability.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T141103Z" creationid="Deivon" creationdate="20210507T141103Z">
+        <seg>В этом уроке вы узнаете, как стать лучшим менеджером в розничной торговле и научитесь управлять сетью магазинов, чтобы максимизировать их операционную эффективность и прибыльность.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7964,6 +8492,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is important to decide upon your brand strategy at the start of a game as there is a heavy cost for switching your brand strategy - it resets all existing brand ratings to zero.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145303Z" creationid="Deivon" creationdate="20210519T145303Z">
+        <seg>Важно определиться со стратегией вашего бренда в начале игры, так как переключение стратегии вашего бренда сопряжено с большими затратами - это обнуляет все существующие рейтинги бренда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is now looking for a buyer.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210106T114115Z" creationid="Александр" creationdate="20210106T114115Z">
@@ -8000,6 +8536,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Это процент от прибыли, выплачиваемый акционерам в виде дивидендов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is true that different product types require different marketing strategies.^^As a rule, the higher the ~brand concern~ of the product you are selling, the more aggressively you should spend in its advertisement.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T090222Z" creationid="Deivon" creationdate="20210516T090222Z">
+        <seg>Это правда, что разные типы продуктов требуют разных маркетинговых стратегий.^^Как правило, чем выше ~Престиж бренда~ продукта, который вы продаете, тем более агрессивно вы должны тратить на его рекламу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8048,6 +8592,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T155047Z" creationid="Александр" creationdate="20201218T155047Z">
         <seg>Кажется, в рамках вашего бюджета, так что давайте продолжим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows that ~Timber~ can be used to produce ~Bed~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155602Z" creationid="Deivon" creationdate="20210510T155602Z">
+        <seg>Тут покано, что ~Древесина~ может быть использована для производства ~Кровати~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows that ~Timber~ may also be combined with ~Cotton~ and ~Linen~ to produce ~Chair~.^^The quality of ~Chair~ is 60% influenced by the raw materials.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T161156Z" creationid="Deivon" creationdate="20210510T161156Z">
+        <seg>Тут показано, что ~Древесина~ также может быть объединена с ~Хлопком~ и ~Льном~ для производства ~Стула~.^^Качество ~стула~ на 60% зависит от сырья.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8246,6 +8806,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Он установит уровни эксплуатации в зависимости от потребностей общественных объектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's time to expand your business empire.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123942Z" creationid="Deivon" creationdate="20210509T123942Z">
+        <seg>Пришло время расширить свою бизнес-империю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's time to put them into use!^^ Let's build a factory to manufacture ~apparel products~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T093051Z" creationid="Deivon" creationdate="20210516T093051Z">
+        <seg>Пришло время пустить их в ход!^^ Давайте построим фабрику по производству ~швейных изделий~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8466,10 +9042,50 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's explore more products that can be made with Timber.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T160914Z" creationid="Deivon" creationdate="20210510T160914Z">
+        <seg>Давайте посмотрим, какие еще товары можно сделать из древесины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000532Z" creationid="Olivier" creationdate="20201226T000532Z">
         <seg>Давайте его изучим.^^Видите панель инструментов в нижней части экрана?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's get the new Purchasing Unit working by telling it which supplier you want to order products from.^^Click the ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075638Z" creationid="Deivon" creationdate="20210508T120124Z">
+        <seg>Давайте заставим новое подразделение по закупкам работать, сообщив ему, у какого поставщика вы хотите заказать продукты.^^Нажмите на ~Отдел закупки~, чтобы выбрать ее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's get your factory producing something.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134159Z" creationid="Deivon" creationdate="20210514T134159Z">
+        <seg>Давайте начнем производтство.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's have a closer look at each unit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T163426Z" creationid="Deivon" creationdate="20210507T163426Z">
+        <seg>Давайте поближе рассмотрим каждый блок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's proceed to set up your production facility.^^Right click anywhere on the screen to exit back to the city view.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T162659Z" creationid="Deivon" creationdate="20210510T162659Z">
+        <seg>Давайте приступим к строительсву вашего производственного предприятия.^^Щелкните правой кнопкой мыши в любом месте экрана, чтобы вернуться к просмотру города.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8630,6 +9246,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Найти лучшие поставки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look for ~Timber~ in the list and double-click it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155337Z" creationid="Deivon" creationdate="20210510T155337Z">
+        <seg>Найдите ~Древесина~ в списке и дважды щелкните его.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9226,6 +9850,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next to them you will see the ~Concern~ column.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T084031Z" creationid="Deivon" creationdate="20210516T084031Z">
+        <seg>Рядом с ними вы увидите колонку ~Потреб.~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075448Z" creationid="Deivon" creationdate="20210507T164104Z">
+        <seg>Затем вы увидите желтую полосу предложения и оранжевую полосу спроса.^^~Желтая~ показывает объем предложения от поставщика, а ~оранжевая~ измеряет потребительский спрос на продукт. Если планка предложения короче, чем планка спроса, возникает дефицит предложения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No Active Research</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -9338,6 +9978,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notice anything different?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T155753Z" creationid="Deivon" creationdate="20210507T155753Z">
+        <seg>Заметили что-нибудь необычное?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notification Only</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -9370,6 +10018,54 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click the link between the units to connect them.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134739Z" creationid="Deivon" creationdate="20210514T134739Z">
+        <seg>Теперь нажмите на связь между блоками, чтобы соединить их.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click the new ~Purchasing unit~ and click the ~Link~ button to open the Supplier List.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T141404Z" creationid="Deivon" creationdate="20210514T141404Z">
+        <seg>Теперь нажмите на новый ~Отдел закупок~ и нажмите кнопку ~Ссылка~, чтобы открыть список поставщиков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click the ~Search Product~ button and select ~Camera~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T090857Z" creationid="Deivon" creationdate="20210516T090857Z">
+        <seg>Теперь нажмите кнопку ~Поиск продукта~ и выберите ~Фотокамера~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click the ~Search Product~ button and select ~Jeans~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082906Z" creationid="Deivon" creationdate="20210516T082906Z">
+        <seg>Теперь нажмите кнопку ~Поиск товара~ и выберите ~Джинсы~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click your ~corporation's logo~ to view more information.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123110Z" creationid="Deivon" creationdate="20210509T123110Z">
+        <seg>Теперь нажмите на логотип вашей ~корпорации~, чтобы просмотреть дополнительную информацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now go ahead and build a factory.^^This tutorial will continue when you have built a factory.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T094758Z" creationid="Deivon" creationdate="20210516T094758Z">
+        <seg>А теперь построй фабрику.^^Этот урок будет продолжен, когда вы построите фабрику.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now go and add products to your new department store and grow your business!</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T160351Z" creationid="Александр" creationdate="20201218T154429Z">
@@ -9390,6 +10086,142 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215837Z" creationid="Olivier" creationdate="20201217T215837Z">
         <seg>Кликните по нему левой кнопкой мыши для просмотра подробностей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's check out the ~Necessity Index~ for ~Body Lotion~.^^Click the ~Search Product~ button again and this time select ~Body Lotion~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T091507Z" creationid="Deivon" creationdate="20210516T091507Z">
+        <seg>Теперь давайте проверим Индекс ~Необходимости~ для ~Body Lotion~.^^Снова нажмите кнопку ~Поиск продукта~ и на этот раз выберите ~Body Lotion~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's have a closer look at the ~Manufacturing unit~ itself.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142024Z" creationid="Deivon" creationdate="20210514T142024Z">
+        <seg>Теперь давайте поближе рассмотрим ~Производственный отдел~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy products from your factory~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145409Z" creationid="Deivon" creationdate="20210519T145409Z">
+        <seg>Теперь давайте выведем ваши продукты на рынок и приведем в действие стратегию бренда ассортимента.^^~Постройте универмаг~ и ~пусть он покупает продукты с вашей фабрики~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now link the very first ~Purchasing unit~ to the new ~Manufacturing unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T141727Z" creationid="Deivon" creationdate="20210514T141727Z">
+        <seg>Теперь свяжите самый первый ~Отдел закупок~ с новым ~Производственным отделом~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T115859Z" creationid="Deivon" creationdate="20210508T115859Z">
+        <seg>Теперь свяжите два блока вместе, щелкнув линию связи между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now link your ~Advertising~ unit and your ~Sale~ unit by ~clicking the linkage line~ between them.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150618Z" creationid="Deivon" creationdate="20210519T150618Z">
+        <seg>Теперь свяжите свой ~Отдел рекламы~ и свой ~Отдел продаж~, ~щелкнув линию связи~ между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T155731Z" creationid="Deivon" creationdate="20210507T155731Z">
+        <seg>Теперь выберите в меню ~Гипермаркет~ и выберите место для постройки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now select ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T150718Z" creationid="Deivon" creationdate="20210507T150718Z">
+        <seg>Теперь выберите в меню ~Розничный магазин~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now that you have learned how to build retail stores of different types, as well as how to navigate between cities.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123914Z" creationid="Deivon" creationdate="20210509T123914Z">
+        <seg>Теперь вы узнали, как строить розничные магазины разных типов, а также как перемещаться между городами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now that you know how to find suppliers, manufacture and sell products, it's time to look at ~advertising~ your products.^^Your corporation will be competing against other corporations selling the same product types.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082054Z" creationid="Deivon" creationdate="20210516T082054Z">
+        <seg>Теперь, когда вы знаете, как находить поставщиков, производить и продавать продукцию, пришло время взглянуть на рекламу вашей продукции.^^Ваша корпорация будет конкурировать с другими корпорациями, продающими те же типы продуктов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now that your factory has been in operation, your products may already be purchased by other corporations for sale in their shops.^^To grow your business, you are advised to build retail stores to sell your own goods, and set up more factories to produce additional products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T143322Z" creationid="Deivon" creationdate="20210514T143322Z">
+        <seg>Теперь, когда ваша фабрика работает, ваши продукты уже могут быть приобретены другими корпорациями для продажи в их магазинах.^^Чтобы развивать свой бизнес, вам рекомендуется строить розничные магазины для продажи собственных товаров и создавать больше заводов для производства дополнительных продуктов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now the unit detail section of your advertising unit displays the media firm you have just selected.^^You may adjust the ~Monthly Spending Per Product~ slider but for now leave it set at $100,000.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150754Z" creationid="Deivon" creationdate="20210519T150754Z">
+        <seg>Теперь в разделе сведений о вашем отделе рекламы отображается только что выбранная вами СМИ.^^Вы можете настроить ползунок ~Ежемесячные расходы на продукт~ , но пока оставьте его на уровне 100 000 долларов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now waste no time and get started working towards this goal.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T150010Z" creationid="Deivon" creationdate="20210507T150010Z">
+        <seg>Не теряйте времени и начинайте работать над достижением этой цели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we will start dealing with branding and advertising.^^There are three different brand strategies available.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143531Z" creationid="Deivon" creationdate="20210519T143531Z">
+        <seg>Теперь мы начнем заниматься брендингом и рекламой.^^Существует три различных стратегии развития бренда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you get the chance to actually manufacture products in your own factory.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T152840Z" creationid="Deivon" creationdate="20210510T152840Z">
+        <seg>Теперь у вас появилась возможность фактически производить продукцию на своем собственном заводе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you need to purchase raw materials.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T135640Z" creationid="Deivon" creationdate="20210514T135640Z">
+        <seg>Теперь вам нужно закупить сырье.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now ~add one more group~ of ~Purchasing and Sales Units~ to increase the variety of your store's products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T123006Z" creationid="Deivon" creationdate="20210508T123006Z">
+        <seg>Теперь ~добавьте еще одну группу~ из ~Отдела закупок и продаж~, чтобы увеличить разнообразие продуктов вашего магазина.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9794,10 +10626,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Okay, enough of the theory.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T113837Z" creationid="Deivon" creationdate="20210507T155115Z">
+        <seg>Ладно, хватит теории.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On its balance sheet, the bank's net assets must be greater than the required bank capital.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>На балансе банка чистые активы должны быть больше требуемого капитала банка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other hand, for some products like ~frozen meat~, consumers are concerned less about ~brands~, and are concerned more about ~quality~ and ~prices~.^^For such products, advertising should be limited and the focus should be on optimizing your business operations to offer consumers with products of lower prices and higher quality.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T085914Z" creationid="Deivon" creationdate="20210516T085914Z">
+        <seg>С другой стороны, для некоторых продуктов, таких как ~замороженное мясо~, потребители меньше беспокоятся о ~брендах~ и больше беспокоятся о ~качестве~ и ~ценах~.^^Для таких продуктов тратить на рекламу большие деньги не имеет смысла, и основное внимание должно быть сосредоточено на оптимизации ваших бизнес-операций, чтобы предложить потребителям продукты по более низким ценам и более высокого качества.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One is labeled ~Purchase~ and it is connected to a ~Sales~ unit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T162430Z" creationid="Deivon" creationdate="20210507T162430Z">
+        <seg>Один из блоков помечен как ~Покупка~ и подключен к блоку ~Продажи~</seg>
       </tuv>
     </tu>
     <tu>
@@ -11092,8 +11948,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Randomize Global Competitiveness Ratings</seg>
       </tuv>
-      <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
-        <seg>~ GC_RAND</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210520T205622Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
+        <seg>Рандомизировать рейтинги глобальной конкурентоспособности</seg>
       </tuv>
     </tu>
     <tu>
@@ -11166,6 +12022,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T164637Z" creationid="Olivier" creationdate="20210110T164637Z">
         <seg>Real Wage Rate=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real Wage Rate=50</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210520T163316Z" creationid="Olivier" creationdate="20210520T163316Z">
+        <seg>Real Wage Rate=50</seg>
       </tuv>
     </tu>
     <tu>
@@ -11246,6 +12110,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Переместить, снести или передать эту фирму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember the ~Manufacturer's Guide~ you looked at a moment ago?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142552Z" creationid="Deivon" creationdate="20210514T142552Z">
+        <seg>Помните ~Справочник производителя~, который вы смотрели минуту назад?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember to ~link~ the three new units as well.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T141235Z" creationid="Deivon" creationdate="20210514T141235Z">
+        <seg>Не забудьте также ~связать~ три новых блока.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11490,6 +12370,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right now as the unit is new that level is 1.^^With time and training the level will increase and the unit will become more efficient, being able to handle greater stock quantities and meeting higher demand levels.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075521Z" creationid="Deivon" creationdate="20210507T165524Z">
+        <seg>Сейчас, отдел закупок является новым, его уровень равен 1.^^Со временем и обучением уровень будет увеличиваться, и отдел станет более эффективным, способным обрабатывать большие объемы запасов и удовлетворять более высокие уровни спроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click to decrease at a higher rate</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T102836Z" creationid="Александр" creationdate="20210111T102836Z">
@@ -11658,6 +12546,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the two units that have appeared in your layout grid?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T161851Z" creationid="Deivon" creationdate="20210507T161851Z">
+        <seg>Смотрите, появились два блока в вашей сетке макета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the vertical yellow and orange bars?</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121013Z" creationid="Александр" creationdate="20201218T121013Z">
@@ -11738,10 +12634,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120257Z" creationid="Deivon" creationdate="20210508T120257Z">
+        <seg>Выберите продукт для заказа из списка поставщиков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select all firms in the current list.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Выберите все фирмы из текущего списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select an Apparel product from the list and click the [SET UP FACTORY] button.^^This tutorial will continue when your factory starts to produce Apparel products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143409Z" creationid="Deivon" creationdate="20210519T143409Z">
+        <seg>Выберите изделие одежды из списка и нажмите кнопку [SET UP FACTORY].^^Этот урок будет продолжен, когда ваша фабрика начнет производить одежду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11818,6 +12730,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the ~Brand~ menu option to view the current brand ratings of your products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152123Z" creationid="Deivon" creationdate="20210519T152123Z">
+        <seg>Выберите пункт меню ~Марка~ , чтобы просмотреть текущие рейтинги брендов ваших продуктов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the ~Dominance~ option to see how your corporation is faring against the competition.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151844Z" creationid="Deivon" creationdate="20210519T151844Z">
+        <seg>Выберите опцию ~Доминирование~, чтобы увидеть, как ваша корпорация справляется с конкуренцией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this and the message will be sent to all players</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -11878,6 +12806,54 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Показать все кредиты, которые были выданы местным компаниям и корпорациям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select your Golf Club Manufacturing unit by clicking on it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142139Z" creationid="Deivon" creationdate="20210514T142139Z">
+        <seg>Выберите свой производственный отдел по изготовлению клюшек для гольфа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Brand~ from the menu list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T144015Z" creationid="Deivon" creationdate="20210519T144015Z">
+        <seg>Выберите ~Бренд~ из списка меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Factory~ from the menu and find a location to build it.^^It's a good idea to build your factory in the rural area as the land is cheaper there.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T133430Z" creationid="Deivon" creationdate="20210514T133430Z">
+        <seg>Щелкните в меню ~Фарбкика~ и найдите место для его постройки.^^Это хорошая идея, чтобы построить свой завод в сельской местности, так как земля там дешевле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Financial Actions~ from the Information Center.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153254Z" creationid="Deivon" creationdate="20210510T153254Z">
+        <seg>Выберите ~Финансовые действия~ в Информационном центре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T115144Z" creationid="Deivon" creationdate="20210508T115144Z">
+        <seg>Выберите ~Блок покупки~ из списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Sales Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T115808Z" creationid="Deivon" creationdate="20210508T115808Z">
+        <seg>Выберите ~Подразделение продаж~ из списка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12354,6 +13330,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simple eh?</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T163350Z" creationid="Deivon" creationdate="20210507T163350Z">
+        <seg>Ясно?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single-click here to select this functional unit.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -12574,6 +13558,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Начать радикальный научно-исследовательский проект по совершенствованию технологии производства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Starting your own corporation takes money - and lot's of it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153048Z" creationid="Deivon" creationdate="20210510T153048Z">
+        <seg>Создание собственной корпорации требует денег - и немалых.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12846,6 +13838,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T135742Z" creationid="Александр" creationdate="20210111T135742Z">
         <seg>T_ZOOM3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take a close look at the information shown here.^^It tells that ~120 lbs of Timber~ is needed to make ~1 unit of Bed~.^^Notice that Timber has a ~quality influence of 50%~, which means that the quality of the finished product is 50% affected by the quality of Timber.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155751Z" creationid="Deivon" creationdate="20210510T155751Z">
+        <seg>Внимательно ознакомьтесь с информацией, приведенной здесь.^^Тут видно, что ~120 фунтов древесины~ необходимо для изготовления ~1 единицы кровати~.^^Обратите внимание, что древесина оказывает ~влияние на качество 50%~, что означает, что качество готового продукта на 50% зависит от качества древесины.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13708,6 +14708,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default strategy is ~Unique brand strategy~ in which every product has a unique brand.^^It will cost more to promote each individual product but it may be worth it because you will never have to worry about existing brands being damaged by new but low quality products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T144840Z" creationid="Deivon" creationdate="20210519T144840Z">
+        <seg>Стратегия по умолчанию-это стратегия уникального бренда, в которой каждый продукт имеет уникальный бренд.^^Продвижение каждого отдельного продукта будет стоить дороже, но это может стоить того, потому что вам никогда не придется беспокоиться о том, что существующие бренды могут пострадать от новых брендов, с низкокачественными продуктами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The demand for a software product soars during the release of a new version, then decreases over time as more users have already owned the new version.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -13740,6 +14748,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The figure in the top right corner of the unit is the ~unit's level~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T165154Z" creationid="Deivon" creationdate="20210507T165154Z">
+        <seg>Цифра в правом верхнем углу блока - это уровень отдела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The figure shows the total client deposits and the year-over-year growth rate.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -13756,6 +14772,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The figures in this column indicate the factors that a consumer will consider when selecting a product to buy.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T084111Z" creationid="Deivon" creationdate="20210516T084111Z">
+        <seg>Цифры в этой колонке указывают на факторы, которые потребитель будет учитывать при выборе продукта для покупки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The financial performance of this insurance company in the past 12 months.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -13768,6 +14792,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Уровень наличных денег первого города в начале игры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first indicator, a ~blue line of dotted rectangles~, indicates the stock level of the product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122129Z" creationid="Deivon" creationdate="20210507T163929Z">
+        <seg>Первый индикатор, ~синяя линия пунктирныя~, указывает на уровень запасов продукта на складе магазина.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first way is to open the ~World Map~ by clicking its icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123533Z" creationid="Deivon" creationdate="20210509T123533Z">
+        <seg>Первый способ-открыть ~Карту мира~, щелкнув по ее значку на нижней панели инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13890,6 +14930,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Чем больше дивидендная доходность, тем больше денежных средств возвращается каждому инвестору при ежегодной выплате дивидендов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The greater the quality of your product, the more attractive it is to consumers.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121003Z" creationid="Deivon" creationdate="20210508T121003Z">
+        <seg>Чем выше качество вашего продукта, тем он привлекательнее для потребителей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14026,6 +15074,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Низкая значение показателя качества жизни заставило некоторых людей эмигрировать из этого города в другие города.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The lower left hand of the screen now displays detail about your Purchasing Unit and the product it carries.^^Below the product image, you can see the color identity of the supplier.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075735Z" creationid="Deivon" creationdate="20210508T120635Z">
+        <seg>В левой нижней части экрана теперь отображается подробная информация о вашем поставщике и продукте, который она несет.^^Под изображением продукта вы можете увидеть цветовую идентификацию поставщика.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14238,6 +15294,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075751Z" creationid="Deivon" creationdate="20210509T121319Z">
+        <seg>Продукты, заказанные отделом закупок, уже должны были быть доставлены в ваш магазин, и данный отдел должен был начать работать с отделом продаж, поставляя ему запасы.^^Давайте взглянем на ваш ~Отдел продаж~, выбрав его прямо сейчас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The profit from underwriting insurance policies.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -14326,6 +15390,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The report displays ~market dominance by industry~ as well as ~by product class~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151907Z" creationid="Deivon" creationdate="20210519T151907Z">
+        <seg>В отчете отображается ~доминирование на рынке по отраслям~ , а также ~по классам продуктов~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The retained earnings are the accumulative net earnings of a company.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -14346,6 +15418,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>То же самое для двух других цифр, приведенных ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~body lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~body lotions~ would not.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T144413Z" creationid="Deivon" creationdate="20210519T144413Z">
+        <seg>Вторая стратегия, стратегия бренда ассортимента, похожа на корпоративный брендинг, но ее охват ограничен классами продуктов.^^Например, ~кожаные сумки~ и ~кожаные портфели~ относятся к классу ~изделия из кожи~.^^Если вы решили продать ~кожаные портфели~ и ~лосьоны для тела~ в дополнение к ~кожаным сумкам~, которые вы уже продаете, вы ~кожаные портфели~ немедленно унаследуете рейтинг бренда ваших ~кожаных сумок~ (~тот же класс продукта~), но ваши ~лосьоны для тела~ этого сделать не сможет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The second way to view another city is by using the city selection interface on the ~Mini Map~, as explained in the previous tutorial.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123834Z" creationid="Deivon" creationdate="20210509T123834Z">
+        <seg>Второй способ просмотра другого города-это использование интерфейса выбора города на мини-карте~, как описано в предыдущем руководстве.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14430,6 +15518,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The third type you require is the ~Manufacturing Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134115Z" creationid="Deivon" creationdate="20210514T134115Z">
+        <seg>Третий тип, который вам нужен, - это ~ Производственный отдел~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The total GDP is the sum of the consumption, private investment, government spending and net exports.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -14458,6 +15554,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Общая стоимость импорта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The two units are now connected and are going to work with each other.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120007Z" creationid="Deivon" creationdate="20210508T120007Z">
+        <seg>Теперь эти два блока соединены и будут работать друг с другом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14510,6 +15614,86 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~Clear Stock~ button here, as its name suggests, is for clearing the Sales Unit's product stock.^^This is useful if you have located a better supply of the same product type and you wish to sell the new one as soon as possible.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075819Z" creationid="Deivon" creationdate="20210509T121550Z">
+        <seg>Кнопка ~Очистить склад~, как следует из ее названия, предназначена для очистки запаса продукции отдела продаж.^^Это полезно, если вы нашли лучшее предложение того же типа продукта и хотите продать новый как можно скорее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Corporate Detail Report~ contains a lot of useful information about your corporation.^^Through the extensive menu options, you can glean detailed information about your own corporation and any rival corporation you select.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T080023Z" creationid="Deivon" creationdate="20210509T123310Z">
+        <seg>Отчет о деталях корпорации содержит много полезной информации о вашей корпорации.^^С помощью обширных опций меню вы можете получить подробную информацию о своей корпорации и любой конкурирующей корпорации, которую вы выберете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Firm Overview~ screen displays the a summary of the corporation's firms.^^Now select ~Business Relation~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075936Z" creationid="Deivon" creationdate="20210509T122721Z">
+        <seg>На экране ~Обзор фирмы~ отображается краткая информация о фирмах корпорации.^^Теперь выберите ~Деловые отношения~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Necessity Index~ of ~Body Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy body lotions.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T092929Z" creationid="Deivon" creationdate="20210516T092929Z">
+        <seg>Индекс ~Необходимости~ Лосьона для тела ~составляет 80% , и это означает, что это предмет повседневной необходимости.^^Даже если сейчас идет экономический кризис, люди все равно будут покупать лосьоны для тела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Raw Material Quality~ can be increased by sourcing supplies of higher quality raw materials.^^The ~Production Quality~ can be increased by setting up R&amp;D centers (research and development centers) to develop better technology.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142856Z" creationid="Deivon" creationdate="20210514T142856Z">
+        <seg>Качество сырья может быть повышено за счет поставок сырья более высокого качества.^^~Качество продукции~ может быть повышено путем создания научно-исследовательских центров (центров исследований и разработок) для разработки более совершенных технологий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Sales Unit~ basically shows the same information as the Purchasing unit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T121423Z" creationid="Deivon" creationdate="20210509T121423Z">
+        <seg>~Отдел продаж~ в основном показывает ту же информацию, что и отдел закупок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Stop Purchase~ button will do exactly that.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121940Z" creationid="Deivon" creationdate="20210508T121940Z">
+        <seg>Кнопка ~Остановить~ останаливает закупку товара.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Supplier~ button displays information about the existing supplier.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121841Z" creationid="Deivon" creationdate="20210508T121841Z">
+        <seg>Кнопка ~Поставщик~ отображает информацию о существующем поставщике.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~brown bar~ represents the unit's utilization level.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T164657Z" creationid="Deivon" creationdate="20210507T164405Z">
+        <seg>~Коричневая полоска~ показывает уровень эффективности Отдела закупок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~quality of Bed~ is determined by two factors: ~Production Technology~ and ~Raw Material Quality~.^^The ~raw materials~, as just stated, represent ~50%~ of the Bed's quality and the remaining ~50%~ is determined by ~production technology of the manufacturer~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155855Z" creationid="Deivon" creationdate="20210510T155855Z">
+        <seg>Качество кровати определяется двумя факторами: Технологией производства и Качеством сырья.^^~Сырье~, как только что было сказано, составляет ~50%~ качества Кровати, а остальные ~50%~ определяются ~технологией производства производителя~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121100Z" creationid="Olivier" creationdate="20201217T220133Z">
@@ -14526,10 +15710,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then choose a supplier that sells timber.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T140200Z" creationid="Deivon" creationdate="20210514T140200Z">
+        <seg>Затем выберите поставщика, который продает древесину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then inject capital into the bank.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T084152Z" creationid="Александр" creationdate="20210111T084152Z">
         <seg>Затем вложите капитал в банк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then select ~Steel~ from the supplier list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T141600Z" creationid="Deivon" creationdate="20210514T141600Z">
+        <seg>Затем выберите ~Сталь~ в списке поставщиков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14546,6 +15746,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>В каждом городе есть местные конкуренты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are several indicators on the ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T163804Z" creationid="Deivon" creationdate="20210507T163804Z">
+        <seg>Есть несколько индикаторов на ~Отделе закупок~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14574,6 +15782,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is more than one city in this tutorial.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123331Z" creationid="Deivon" creationdate="20210509T123331Z">
+        <seg>В этом уроке есть несколько городов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There will be AI corporations focused on real estate, media and technology if this is set to High or above.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -14586,6 +15802,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Экспорт будет, когда рейтинг конкурентоспособности города превысит глобальный рейтинг конкурентоспособности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T141129Z" creationid="Deivon" creationdate="20210514T141129Z">
+        <seg>На вашем заводе много неиспользуемого пространства - шесть пустых блоков, если быть точным, - так что давайте их используем.^^В пустых блоках ~добавьте~ еще один ~Отдел закупок, Производственный отдел и Отдел продаж~ слева направо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's high quality timber available for import, from which you can manufacture a variety of products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153025Z" creationid="Deivon" creationdate="20210510T153025Z">
+        <seg>Это высококачественная древесина, доступная для импорта, из которой вы можете производить различные товары.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14606,10 +15838,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These units actually do the real work!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T112537Z" creationid="Deivon" creationdate="20210508T112444Z">
+        <seg>Эти подразделения действительно выполняют важную работу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are committed to long-term investment and do not actively trade stock.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Они привержены долгосрочным инвестициям и не торгуют акциями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are split into two columns.^^The ~Local~ column displays the ratings for local competitors - these are local small companies that you do not see in the corporation list.^^The ~Average~ column combines the ratings of local and corporate competitors.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T083106Z" creationid="Deivon" creationdate="20210516T083106Z">
+        <seg>Они разделены на две колонки.^^В столбце ~Местн.~ отображаются рейтинги местных конкурентов - это местные небольшие компании, которых вы не видите в списке корпораций.^^Столбец ~Среднее~ объединяет рейтинги местных и корпоративных конкурентов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14626,6 +15874,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Эти апартаменты продаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This color is ~gray if the product is imported via a seaport~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T120732Z" creationid="Deivon" creationdate="20210508T120732Z">
+        <seg>Серым цветом обозначаются товары, которые импортируется через морской порт~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14934,6 +16190,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the ~Corporate Summary Report~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122359Z" creationid="Deivon" creationdate="20210509T122359Z">
+        <seg>Это ~Корпоративный сводный отчет~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the ~Select a Supplier~ window.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215924Z" creationid="Olivier" creationdate="20201217T215924Z">
@@ -14946,6 +16210,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Это сделано для того, чтобы вы не смогли занизить цену поставщика на рынке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is your basic commerce unit grouping.^^Neither unit has much effect on its own but linked they allow your store to function.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075355Z" creationid="Deivon" creationdate="20210507T162813Z">
+        <seg>Это ваша основная группировка торговых блоков.^^По отдельности эти блоки не дают эффекта, но в связке, они позволяют вашему магазину функционировать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14978,6 +16250,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Это означает, что необходимо построить больше коммерческих зданий, и тогда бизнес с недвижимостью станет более прибыльным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This means that the ~brand~ is a significantly more important factor for jeans.^^So if you plan to start a business selling jeans, it is critical that you spend aggressively on advertising your jeans, so long as your budget permits.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T085254Z" creationid="Deivon" creationdate="20210516T085254Z">
+        <seg>Это означает, что ~бренд~ является значительно более важным фактором для джинсов.^^Поэтому, если вы планируете начать бизнес по продаже джинсов, очень важно, чтобы вы активно тратили деньги на рекламу своих джинсов, пока это позволяет ваш бюджет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This might be one of the reasons why your store is not making as much profit as it should be.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T164940Z" creationid="Deivon" creationdate="20210507T164940Z">
+        <seg>Это может быть одной из причин, по которой ваш магазин не получает столько прибыли, сколько должен.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15158,6 +16446,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This screen shows which corporations have been trading with your own.^^Now select ~Financial Overview~ to return to the first screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075948Z" creationid="Deivon" creationdate="20210509T123028Z">
+        <seg>Этот экран показывает, какие корпорации торгуют с вами.^^Теперь выберите ~Финансовый обзор~, чтобы вернуться к первому экрану.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This sets the average capital size of a venture capitalist.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -15218,6 +16514,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Этот ползунок изменяет ставку личных сбережений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This time you do not need to link the new product to the ~advertising unit~ as it is already covered by your ~apparel product class~ brand.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151652Z" creationid="Deivon" creationdate="20210519T151652Z">
+        <seg>На этот раз вам не нужно связывать новый продукт с ~Отделом рекламы~, поскольку он уже охвачен вашим брендом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075540Z" creationid="Deivon" creationdate="20210508T114556Z">
+        <seg>На этот раз вы сделаете это сами, как опытный менеджер розничной торговли, - вручную настроите блок поставщика и продажи для вашего розничного магазина.^^~Дважды щелкните~ пустое место блока и выберите ~Отдел поставки~ из списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This tutorial will continue when you have done so.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145544Z" creationid="Deivon" creationdate="20210519T145544Z">
+        <seg>Этот урок будет продолжен, когда вы это сделаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This tutorial will continue when your factory starts to produce Apparel products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143433Z" creationid="Deivon" creationdate="20210519T143433Z">
+        <seg>Этот урок будет продолжен, когда ваша фабрика начнет производить одежду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15436,6 +16764,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This ~Manufacturing unit~ will now produce ~Golf Club~.^^See how we utilized an existing ~Purchasing unit~ supplying ~Timber~, and in conjunction with a new unit purchasing ~Steel~, to manufacture a different product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T141947Z" creationid="Deivon" creationdate="20210514T141947Z">
+        <seg>Это ~Производственный отдел~ теперь будет производить ~Клюшку для гольфа~.^^Посмотрите, как мы использовали существующий ~Отдел закупок~ поставляющий ~Древесину~ и в сочетании с новым отделом, закупающий ~Сталь~, для производства другого продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Threshold for Stopping Accepting Corporate Deposits</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -15456,14 +16792,6 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T100515Z" creationid="Александр" creationdate="20210111T100515Z">
         <seg>Title=1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Title=Breakthrough in Training</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215020Z" creationid="Olivier" creationdate="20201213T214956Z">
-        <seg>Title=Title=Avanço no treinamento in Training</seg>
       </tuv>
     </tu>
     <tu>
@@ -15492,6 +16820,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now (or ~Ctrl-D~ if you have changed the shortcut key setting in the Options menu).</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T143735Z" creationid="Deivon" creationdate="20210519T143735Z">
+        <seg>Чтобы получить доступ к экрану ~Стратегия бренда~, откройте отчет ~Сведения о компании~, нажав клавишу ~D~ сейчас (или ~Ctrl-D~, если вы изменили настройку сочетания клавиш в меню параметров).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To add new custom product images into the game, save PNG image files (120x120 pixels) into the folder."</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -15500,10 +16836,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To become a competent business person, you should also learn to digest the information available to you about your corporation and your competitors.^^Click the ~Information icon~ on the bottom toolbar to open the ~Information Center~ screen now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075906Z" creationid="Deivon" creationdate="20210509T122307Z">
+        <seg>Чтобы стать компетентным деловым человеком, вы также должны научиться анализировать доступную вам информацию о вашей корпорации и ваших конкурентах.^^Нажмите значок ~Информация~ на нижней панели инструментов, чтобы открыть экран ~Информационный центр~ прямо сейчас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To build a new city, first select an empty region on the map that has sufficient land mass.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Чтобы построить новый город, сначала выберите на карте пустой регион с достаточной территорией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To build your first store, click the ~Build~ icon.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T150618Z" creationid="Deivon" creationdate="20210507T150618Z">
+        <seg>Чтобы построить свой первый магазин, нажмите на значок ~Build~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To complete your objectives in this game, you need to achieve ~an annual revenue of $30 million~ and ~an annual profit of $3 million~.^^But remember that you still owe the bank money.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T143403Z" creationid="Deivon" creationdate="20210514T143403Z">
+        <seg>Чтобы выполнитьэто задание, вам нужно достичь ~годового дохода в размере 30 миллионов долларов~ и ~годовой прибыли в размере 3 миллионов долларов~.^^Но помните, что вы все еще должны банку деньги.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15520,6 +16880,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Чтобы включить исследования, установите ползунок # Операция # этого университета на значение больше нуля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To gain a better understanding about how brands work, let's open the ~Product Detail Report~.^^Click the ~Information Center~ icon now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082758Z" creationid="Deivon" creationdate="20210516T082758Z">
+        <seg>Чтобы лучше понять, как работают бренды, давайте откроем ~Подробный отчет о продукте~.^^Щелкните значок ~Информационный центр~ прямо сейчас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15568,6 +16936,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Чтобы увеличить лимит, сначала увеличьте технический уровень продукта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To leverage the effect of the ~Range Brand strategy~, you should add another product from one of the product classes you are already selling.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151052Z" creationid="Deivon" creationdate="20210519T151052Z">
+        <seg>Чтобы использовать эффект стратегии ~Бренд ассортимента~, вам следует добавить еще один продукт из одного из классов продуктов, которые вы уже продаете.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15680,6 +17056,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T154715Z" creationid="Александр" creationdate="20201218T154715Z">
         <seg>Для этого просто повторите шаги, которые вы только что сделали для создания своего первого универмага.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To the right of the Purchasing Unit, build a ~Manufacturing Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T134634Z" creationid="Deivon" creationdate="20210514T134503Z">
+        <seg>В блоке правее выберите ~Производственный отдел~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To understand this better, we will just add a product to the store using the old method you are familiar with.^^Now click the ~Add Product icon~ and choose a product from the supply list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075342Z" creationid="Deivon" creationdate="20210507T161720Z">
+        <seg>Чтобы лучше это понять, мы просто добавим продукт в магазин, используя старый метод, с которым вы знакомы.^^Теперь нажмите на значок ~Добавить продукт~ и выберите продукт из списка поставок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16228,6 +17620,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the ~Product~ filter to select ~Timber~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T140111Z" creationid="Deivon" creationdate="20210514T140111Z">
+        <seg>Используйте фильтр ~Все продукты~ и найдите ~Древесина~ и выберите ее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use these buttons to select which supplier's information to be displayed.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -16524,6 +17924,38 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We can now see the ~Layout~ of your store, which is a 3x3 grid of boxes.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T155902Z" creationid="Deivon" creationdate="20210507T155902Z">
+        <seg>Теперь мы можем видеть ~Макет~ вашего магазина, который представляет собой сетку 3x3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We want to find out what products can be made from ~Timber~, so click the ~INPUT~ button.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155210Z" creationid="Deivon" creationdate="20210510T155210Z">
+        <seg>Мы хотим узнать, какие продукты могут быть изготовлены из ~Древесины~, поэтому нажмите кнопку ~ВВОД~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will cover this in a later tutorial.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T142917Z" creationid="Deivon" creationdate="20210514T142917Z">
+        <seg>Мы рассмотрим это в более позднем уроке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We will discuss production technology later.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T155938Z" creationid="Deivon" creationdate="20210510T155938Z">
+        <seg> Технологию производства мы обсудим позже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Weak consumer spending will in turn adversely affect the business sector.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -16596,6 +18028,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a consumer buys a product they consider the ~price~, the ~quality~ and the ~brand~ of the product.^^For the ~quality~, it is affected by the qualities of raw materials used and the production technology, which you have already learned in the previous tutorial.^^For the ~price~, it is very straightforward - a lower price makes a product more competitive in the market.^^A ~brand~ is a distinguishing name intended to identify and differentiate a seller's products from competitor's products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082719Z" creationid="Deivon" creationdate="20210516T082719Z">
+        <seg>Когда потребитель покупает продукт, он учитывает ~цену~, ~качество~ и ~бренд~ продукта.^^На ~качество~ влияют качества используемого сырья и технологии производства, которые вы уже изучили в предыдущем уроке.^^Для ~цены~ это очень просто - более низкая цена делает продукт более конкурентоспособным на рынке.^^A ~бренд~ - это отличительное название, предназначенное для идентификации и отличия продуктов продавца от продуктов конкурента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a consumer buys a product, the product's price, quality, and brand are considered.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -16628,6 +18068,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When it comes to choosing a media to advertise, you should consider the ~Ratings Points~ and the ~Advertising Cost~ of each media.^^The higher the ~rating points~, the greater the ~audience share~.^^The ~advertising cost~ is simply the cost for your advertisement to be ~seen a thousand times~ by potential customers.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150211Z" creationid="Deivon" creationdate="20210519T150211Z">
+        <seg>Когда дело доходит до выбора средства массовой информации для рекламы, вы должны учитывать ~Рейтинговые баллы~ и ~Стоимость рекламы~ каждого средства массовой информации.^^Чем выше ~рейтинговые баллы~, тем больше ~доля аудитории~.^^~Стоимость рекламы~ - это просто стоимость того, чтобы ваша реклама была ~замечена тысячу раз~ потенциальными клиентами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When it is enabled, money supply is more realistically simulated.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -16648,6 +18096,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Когда он установлен на более высокое значение, тот же самый общественный объект несёт большие операционные расходы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it reads "1st", it means your corporation has achieved market dominance for the respective product class.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152054Z" creationid="Deivon" creationdate="20210519T152054Z">
+        <seg>Когда он читается "1-й", это означает, что ваша корпорация достигла доминирования на рынке для соответствующего класса продуктов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16772,10 +18228,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the economy is in a downturn, consumers will cut back spending on products of low necessity indices.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T091041Z" creationid="Deivon" creationdate="20210516T091041Z">
+        <seg>Когда экономика находится в состоянии спада, потребители сократят расходы на продукты с низкими индексами потребности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the interest rate is high, the money supply is also tight.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Когда процентная ставка высокая, денежная масса также ограничена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this bar reaches its full length, it means that the unit has reached its full capacity and can process no more goods even if there is additional supply and demand.^^Conversely, if the unit is underutilized, its facilities and resources are not used effectively.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075511Z" creationid="Deivon" creationdate="20210507T164506Z">
+        <seg>Когда она достигает своей полной длины, это означает, что отдел полностью загружен и не может обрабатывать больше товаров, даже если есть дополнительное предложение и спрос.^^И наоборот, если отдел используется недостаточно, его средства и ресурсы используются неэффективно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17060,6 +18532,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ (or ~Ctrl-D~) to access some useful market intelligence.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151754Z" creationid="Deivon" creationdate="20210519T151754Z">
+        <seg>По мере того, как реклама будет оказывать свое воздействие, рейтинги бренда ваших продуктов будут продолжать расти, что, в свою очередь, повысит общие рейтинги ваших продуктов и, таким образом, повысит их продажи.^^Пока все это происходит, давайте откроем отчет ~Корпоративные данные~, нажав комбинацию клавиш ~'D'~ (или ~Ctrl-D~), чтобы получить доступ к полезной информации о рынке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With training, operating units in your firm will gradually advance to higher levels, thus improving their efficiency.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T104129Z" creationid="Александр" creationdate="20210111T104129Z">
@@ -17172,6 +18652,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can repay part or all of your loan by accessing the ~Financial Actions~ screen of the ~Information Center~ and using the ~Repay~ section of the screen.^^Good Luck!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210514T143456Z" creationid="Deivon" creationdate="20210514T143456Z">
+        <seg>Вы можете погасить часть или весь свой кредит, перейдя на экран ~Финансовые действия~ Информационного центра ~и используя раздел~ Погашение ~.^^Удачи!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210111T224051Z" creationid="Olivier" creationdate="20210111T224051Z">
@@ -17184,6 +18672,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Вы можете увидеть уровень цен по каждому виду страхования на странице # Страхование #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see your corporation's market shares for each product that it is currently selling.^^The ~rank~ columns indicates your company's sales ranking.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T151949Z" creationid="Deivon" creationdate="20210519T151949Z">
+        <seg>Вы можете увидеть долю рынка вашей корпорации для каждого продукта, который она в настоящее время продает.^^Столбцы ~rank~ указывают рейтинг продаж вашей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see your product's ~brand rating~ on the ~Sales unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T150840Z" creationid="Deivon" creationdate="20210519T150840Z">
+        <seg>Вы можете увидеть ~рейтинг бренда вашего продукта~ в ~Отделе продаж~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17216,6 +18720,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T070726Z" creationid="Александр" creationdate="20210103T070726Z">
         <seg>Вы можете просмотреть "Деньги государственного инвестора, доступные для Вашей компании", в верхней части экрана просмотра города.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot add more.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161733Z" creationid="Александр" creationdate="20210520T161733Z">
+        <seg>Вы не можете добавить больше.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -17292,6 +18804,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have decided to leave your family-owned business and branch out on your own.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T152903Z" creationid="Deivon" creationdate="20210510T152903Z">
+        <seg>Вы решили оставить свой семейный бизнес и развиться самостоятельно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have done an excellent job as the mayor of|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T082824Z" creationid="Александр" creationdate="20201228T082824Z">
@@ -17316,10 +18836,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You have significantly improved your corporation's operating profit margin.</seg>
+        <seg>You have just learned concepts about brands.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215230Z" creationid="Olivier" creationdate="20201213T215230Z">
-        <seg>Você melhorou significativamente a margem de lucro operacional de sua empresa.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T093007Z" creationid="Deivon" creationdate="20210516T093007Z">
+        <seg>Вы только что изучили понятия о брендах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have just learned the advanced skills for retail management and how to order the right products that have strong appeals to your customers.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T122113Z" creationid="Deivon" creationdate="20210509T122113Z">
+        <seg>Вы только что освоили основные навыки управления розничной торговлей и научились заказывать нужные продукты, которые имеют сильную привлекательность для ваших клиентов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have learned fast and had a great start with building brands for your products.^^To take it to the next level, you should expand your retail presence to other cities and make your brands global ones!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152539Z" creationid="Deivon" creationdate="20210519T152539Z">
+        <seg>Вы быстро научились и отлично начали создавать бренды для своих продуктов.^^Чтобы перейти на следующий уровень, вы должны расширить свое розничное присутствие в других городах и сделать свои бренды глобальными!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17344,6 +18880,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210106T114508Z" creationid="Александр" creationdate="20210106T114508Z">
         <seg>Вы успешно приватизировали эту компанию.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075656Z" creationid="Deivon" creationdate="20210508T120438Z">
+        <seg>Вы успешно обновили логистику своего магазина и добавили в него новый продукт.^^Далее, давайте посмотрим на доступную вам информацию о продуктах, которые продает ваш магазин.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17444,6 +18988,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may click the ~MORE~ button below the image of the Timber again to see more products that can be made with Timber.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T162553Z" creationid="Deivon" creationdate="20210510T162553Z">
+        <seg>Вы можете снова нажать кнопку ~Далее~ под изображением древесины, чтобы увидеть следующие товары, которые могут быть изготовлены из древесины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may customize the average amounts of insurance claims that insurance companies have to pay.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -17472,6 +19024,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210104T175120Z" creationid="Александр" creationdate="20210104T175120Z">
         <seg>Вы можете вмешиваться в работу, если владеете 75% и более акций компании.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may open it anytime by opening the ~Information Center~ and then selecting ~Goal Report~, or by pressing the ~shortcut key 'G'~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T124142Z" creationid="Deivon" creationdate="20210509T124142Z">
+        <seg>Вы можете открыть его в любое время, открыв ~Информационный центр~ и выбрав ~Отчет о цели~, или нажав ~клавишу "G"~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17620,6 +19180,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You must first obtain a loan to finance your grand plans.^^Click the ~Information Center icon~ on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153202Z" creationid="Deivon" creationdate="20210510T153202Z">
+        <seg>Сначала вы должны получить кредит для финансирования своих грандиозных планов.^^Щелкните значок ~Информационный центр~ на нижней панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must select suppliers manually.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T144416Z" creationid="Александр" creationdate="20210111T144416Z">
@@ -17632,6 +19200,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210105T114218Z" creationid="Александр" creationdate="20210105T114218Z">
         <seg>Для этого вы должны принадлежать к политической партии.\n\nСформируйте новую политическую партию, зайдите в информационный центр, выберите [Политические партии], а затем [Сформировать свою собственную партию].|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You now have the funds to start your company.^^The next step is to get an understanding about the manufacturing process.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153952Z" creationid="Deivon" creationdate="20210510T153952Z">
+        <seg>Теперь у вас есть средства, чтобы основать свою компанию.^^Следующий шаг это получить представление о производственном процессе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17652,10 +19228,58 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should consider expanding your business to other cities, to take advantage of the availabiility of different products or perhaps the absence of strong competition.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123436Z" creationid="Deivon" creationdate="20210509T123436Z">
+        <seg>Вам следует подумать о расширении своего бизнеса в другие города, чтобы воспользоваться доступностью различных продуктов или, возможно, отсутствием сильной конкуренции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should now add a new unit to your department store: the ~Advertising unit~, and link it to your sales unit.^^It is often a good idea to place the ~advertising unit~ in the center square of your layout so that it may link to any sales units.^^~Double click the center square~ and select ~Advertising Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T145747Z" creationid="Deivon" creationdate="20210519T145747Z">
+        <seg>Теперь вы должны добавить новое подразделение в свой универмаг: ~Отдел рекламы~ и связать его с отделом продаж.^^Часто бывает хорошей идеей разместить ~Отдел рекламы~ в центральном квадрате вашего макета, чтобы он мог ссылаться на любые единицы продаж.^^~Дважды щелкните центральный квадрат~ и выберите ~Отдел рекламы~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will complete this tutorial when you ~dominate the Apparel market~ while achieving ~an annual profit~ of not less than ~$2 million~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152722Z" creationid="Deivon" creationdate="20210519T152722Z">
+        <seg>Вы завершите этот урок, когда будете доминировать на рынке одежды, достигая годовой прибыли не менее 2 миллионов долларов..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will require a good advertising campaign if you want your business to succeed.^^Let's learn some basic concepts of brand and advertising now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210516T082148Z" creationid="Deivon" creationdate="20210516T082148Z">
+        <seg>Вам потребуется хорошая рекламная кампания, если вы хотите, чтобы ваш бизнес был успешным.^^Давайте теперь изучим некоторые основные понятия бренда и рекламы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You win this game when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165958Z" creationid="Olivier" creationdate="20210110T165958Z">
         <seg>Вы выиграете эту игру, если накопите состояние в $1 миллиард и получите контроль над 5 публичными компаниями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've got a basic understanding about manufacturing.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T162732Z" creationid="Deivon" creationdate="20210510T162620Z">
+        <seg>Вы получили базовое представление о производстве.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've spotted an opportunity in the market.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T152925Z" creationid="Deivon" creationdate="20210510T152925Z">
+        <seg>Вы заметили возможность на рынке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17740,10 +19364,10 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Your corporation has reached the milestone of having a staff size surpassing 1000 people.</seg>
+        <seg>Your company's credit limit varies throughout the game depending on the state of your company.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215259Z" creationid="Olivier" creationdate="20201213T215259Z">
-        <seg>Sua corporação atingiu o marco de ter um quadro de pessoal que ultrapassa 1000 pessoas.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T153320Z" creationid="Deivon" creationdate="20210510T153320Z">
+        <seg>Кредитный лимит вашей компании варьируется на протяжении всей игры в зависимости от состояния вашей компании.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17760,6 +19384,30 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210103T065535Z" creationid="Александр" creationdate="20210103T065535Z">
         <seg>Ваша новая компания была создана.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your objectives in this game are to achieve an annual revenue of $50,000,000 and an annual profit of $5,000,000.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T145926Z" creationid="Deivon" creationdate="20210507T145926Z">
+        <seg>Ваша цель в этой игре достичь годового дохода в размере 50.000.000 $ и годовой прибыли в размере 5.000.000 $.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your present city will be highlighted on the map when it first opens.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210509T123606Z" creationid="Deivon" creationdate="20210509T123606Z">
+        <seg>Ваш текущий город будет выделен на карте при первом открытии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your purchasing unit will cease to buy the current product.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T122030Z" creationid="Deivon" creationdate="20210508T122030Z">
+        <seg>Ваш отдел закупок перестанет закупать данный продукт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17784,6 +19432,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T120545Z" creationid="Александр" creationdate="20201218T120943Z">
         <seg>Keep up the good work and try to achieve even higher goals. Ваш магазин автоматически покупает выбранный вами товар в морском порту и делает его доступным для продажи вашим клиентам. ^^ Посмотрите на изображение товара слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210510T075615Z" creationid="Deivon" creationdate="20210508T115512Z">
+        <seg>В вашем магазине теперь есть новый ~Отдел закупок~.^^Перейдите к добавлению ~Отдела продаж~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21988,8 +23644,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[1093]&lt;0249&gt;Public Shareholders|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20210110T141905Z" creationid="Olivier" creationdate="20210110T141905Z">
-        <seg>[1093]&lt;0249&gt;Общественные Акционеры|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T171156Z" creationid="Olivier" creationdate="20210110T141905Z">
+        <seg>[1093]&lt;0249&gt;Гос. Акционеры|</seg>
       </tuv>
     </tu>
     <tu>
@@ -32162,6 +33818,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2968]&lt;BDR3&gt;A Corporate Bond issued by your subsidiary |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161118Z" creationid="Александр" creationdate="20210520T161118Z">
+        <seg>[2968]&lt;BDR3&gt;A Corporate Bond issued by your subsidiary |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2969]&lt;BDR4&gt; has matured, you must redeem it now.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T125039Z" creationid="Александр" creationdate="20201228T125039Z">
@@ -35146,6 +36810,262 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3342]&lt;NTEC&gt;Sorry, no technologies are available for research at the moment.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T155023Z" creationid="Александр" creationdate="20210520T155023Z">
+        <seg>[3342]&lt;NTEC&gt;К сожалению, в настоящее время нет технологий, доступных для исследования.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3343]&lt;DIS1&gt;Sorry, you cannot disable this product as it is the input for other products that are currently enabled in the Scope of Production list.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T155940Z" creationid="Александр" creationdate="20210520T155204Z">
+        <seg>[3343]&lt;DIS1&gt;К сожалению, вы не можете отключить этот продукт, так как он является входным для других продуктов, которые в настоящее время включены в список "Объем производства".|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3344]&lt;DIS2&gt;uses|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T160155Z" creationid="Александр" creationdate="20210520T160146Z">
+        <seg>[3344]&lt;DIS2&gt;использует|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3345]&lt;DLCN&gt;Sorry, this game requires %1s but you do not have this DLC yet.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161409Z" creationid="Александр" creationdate="20210520T160141Z">
+        <seg>[3345]&lt;DLCN&gt;Извините, для этой игры требуется %1s, но у вас еще нет этого DLC.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3346]&lt;DMOD&gt;Sorry, the current MOD is not compatible with the Digital Age DLC.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161444Z" creationid="Александр" creationdate="20210520T160148Z">
+        <seg>[3346]&lt;DMOD&gt;К сожалению, текущий MOD не совместим с DLC "Цифровой век".|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3347]&lt;NCHA&gt;Sorry, there are currently no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161619Z" creationid="Александр" creationdate="20210520T160207Z">
+        <seg>[3347]&lt;NCHA&gt;К сожалению, в настоящее время нет доступных соревнований.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3348]&lt;MEOS&gt;Sorry, it is prohibited by the Antitrust Law to merge two companies who both an operating system.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161639Z" creationid="Александр" creationdate="20210520T161413Z">
+        <seg>[3348]&lt;MEOS&gt;К сожалению, антимонопольное законодательство запрещает слияние двух компаний, которые выпускают операционную систему.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3349]&lt;NRHD&gt;Sorry, you cannot remove the hardware already supported by the current version of the OS.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161658Z" creationid="Александр" creationdate="20210520T161658Z">
+        <seg>[3349]&lt;NRHD&gt;К сожалению, вы не можете удалить аппаратное обеспечение, уже поддерживаемое текущей версией ОС.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3350]&lt;HDMR&gt;Sorry, the maximum number of hardware types supported by an OS has been reached.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161718Z" creationid="Александр" creationdate="20210520T161718Z">
+        <seg>[3350]&lt;HDMR&gt;Извините, максимальное количество типов оборудования, поддерживаемых ОС, достигнуто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3351]&lt;NLOA&gt;Sorry, you cannot borrow a loan at the moment as no commercial banks have been set up yet.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161827Z" creationid="Александр" creationdate="20210520T161827Z">
+        <seg>[3351]&lt;NLOA&gt;Sorry, you cannot borrow a loan at the moment as no commercial banks have been set up yet.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3376]&lt;RDB8&gt;star|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161834Z" creationid="Александр" creationdate="20210520T161834Z">
+        <seg>[3376]&lt;RDB8&gt;звезда|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3377]&lt;RDB9&gt;stars|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161840Z" creationid="Александр" creationdate="20210520T161840Z">
+        <seg>[3377]&lt;RDB9&gt;звёзды|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3378]&lt;RDS1&gt;Increase Demand Bonus in the following ways:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161901Z" creationid="Александр" creationdate="20210520T161901Z">
+        <seg>[3378]&lt;RDS1&gt;Увеличить бонус за спрос можно следующими способами:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3379]&lt;RDS3&gt;-Build more service firms of the same type in the same city.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162115Z" creationid="Александр" creationdate="20210520T162015Z">
+        <seg>[3379]&lt;RDS3&gt;-Построить больше сервисных фирм одного типа в одном городе.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3380]&lt;RDS4&gt;-Service firms in areas with high customer traffic will boost the chain popularity more.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162051Z" creationid="Александр" creationdate="20210520T162051Z">
+        <seg>[3380]&lt;RDS4&gt;-Сервисные фирмы в районах с высокой проходимостью клиентов будут способствовать росту популярности сети больше.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3381]&lt;RDS7&gt;This Service Firm's Demand Bonus:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162131Z" creationid="Александр" creationdate="20210520T162131Z">
+        <seg>[3381]&lt;RDS7&gt;Бонус за востребованность этой сервисной фирмы:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3382]&lt;ESP1&gt;Score Penalty|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162146Z" creationid="Александр" creationdate="20210520T162146Z">
+        <seg>[3382]&lt;ESP1&gt;Штрафной балл|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3383]&lt;ESB1&gt;Score Bonus (plus early completion bonus)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162225Z" creationid="Александр" creationdate="20210520T162225Z">
+        <seg>[3383]&lt;ESB1&gt;Бонус за баллы (плюс бонус за досрочное завершение)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3384]&lt;ESB2&gt;Score Bonus|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162244Z" creationid="Александр" creationdate="20210520T162233Z">
+        <seg>[3384]&lt;ESB2&gt;Бонус за баллы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3385]&lt;ECCP&gt;Corporate Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162257Z" creationid="Александр" creationdate="20210520T162257Z">
+        <seg>[3385]&lt;ECCP&gt;Корпоративный денежный штраф|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3386]&lt;ECCB&gt;Corporate Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162306Z" creationid="Александр" creationdate="20210520T162306Z">
+        <seg>[3386]&lt;ECCB&gt;Корпоративный денежный бонус|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3387]&lt;EPCP&gt;Personal Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162318Z" creationid="Александр" creationdate="20210520T162318Z">
+        <seg>[3387]&lt;EPCP&gt;Личный денежный штраф|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3388]&lt;EPCB&gt;Personal Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162327Z" creationid="Александр" creationdate="20210520T162327Z">
+        <seg>[3388]&lt;EPCB&gt;Личный денежный бонус|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3389]&lt;EICP&gt;City Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162344Z" creationid="Александр" creationdate="20210520T162344Z">
+        <seg>[3389]&lt;EICP&gt;Городской денежный штраф|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3390]&lt;EICB&gt;City Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162354Z" creationid="Александр" creationdate="20210520T162354Z">
+        <seg>[3390]&lt;EICB&gt;Городской денежный бонус|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3391]&lt;EEX1&gt;Player Expertise on|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162405Z" creationid="Александр" creationdate="20210520T162405Z">
+        <seg>[3391]&lt;EEX1&gt;Экспертиза игроков по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3392]&lt;EEX2&gt;Your COO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162418Z" creationid="Александр" creationdate="20210520T162418Z">
+        <seg>[3392]&lt;EEX2&gt;Экспертиза вашего операционного директора по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3393]&lt;EEX3&gt;Your CTO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162432Z" creationid="Александр" creationdate="20210520T162432Z">
+        <seg>[3393]&lt;EEX3&gt;Экспертиза вашего технического директора по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3394]&lt;EEX4&gt;Your CMO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162541Z" creationid="Александр" creationdate="20210520T162541Z">
+        <seg>[3394]&lt;EEX4&gt;Экспертиза вашего управляющего по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3395]&lt;ETEC&gt;Technology|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162551Z" creationid="Александр" creationdate="20210520T162551Z">
+        <seg>[3395]&lt;ETEC&gt;Технология|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3396]&lt;EINV&gt;Instant Invention of|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162603Z" creationid="Александр" creationdate="20210520T162603Z">
+        <seg>[3396]&lt;EINV&gt;Мгновенное изобретение|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3397]&lt;EBPE&gt;Business Permit|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T165617Z" creationid="Александр" creationdate="20210520T165617Z">
+        <seg>[3397]&lt;EBPE&gt;Разрешение на ведение бизнеса|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215727Z" creationid="Olivier" creationdate="20201217T215727Z">
@@ -35903,9 +37823,9 @@ Good.</seg>
         <seg>[TEXT]
 In this tutorial, you will be trained to become a better retail manager and learn how to customize your retail stores to maximize their operational efficiency and profitability.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210506T155913Z" creationid="Deivon" creationdate="20210506T155913Z">
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T140805Z" creationid="Deivon" creationdate="20210506T155913Z">
         <seg>[TEXT]
-В этом уроке вы узнаете, как стать лучшим менеджером розничной торговли и научиться настраивать свои розничные магазины, чтобы максимизировать их операционную эффективность и прибыльность.</seg>
+В этом уроке вы узнаете, как стать лучшим менеджером в розничной торговле и научитесь управлять сутью магазинов, чтобы максимизировать их операционную эффективность и прибыльность.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36120,22 +38040,6 @@ While we were exploring the interfaces, your department store was already genera
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>^^The new training methodology is able to increase corporate training efficiency by as much as 100% and companies around the globe are rapidly adopting this new training methodology.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215043Z" creationid="Olivier" creationdate="20201213T215012Z">
-        <seg>^^A nova metodologia de treinamento é capaz de aumentar a eficiência do treinamento corporativo em até 100% e empresas em todo o mundo estão adotando rapidamente esta nova metodologia de treinamento.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>^^Your company has jumped on this bandwagon as well and you are planning to leverage it to greatly improve the productivity of your workforce.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215045Z" creationid="Olivier" creationdate="20201213T215045Z">
-        <seg>^^Sua empresa também aderiu a esse movimento e você está planejando aproveitá-lo para melhorar significativamente a produtividade de sua força de trabalho.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>^^Your goal is to grow your media corporation's revenue to a substantial size and ultimately outperform all other media companies to become the largest one in the world.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064157Z" creationid="Александр" creationdate="20210107T064157Z">
@@ -36322,8 +38226,8 @@ While we were exploring the interfaces, your department store was already genera
       <tuv lang="en-US">
         <seg>~</seg>
       </tuv>
-      <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
-        <seg>~ PORTRAIT</seg>
+      <tuv lang="ru" changeid="Olivier" changedate="20210520T170403Z" creationid="Olivier" creationdate="20210520T170403Z">
+        <seg>~</seg>
       </tuv>
     </tu>
     <tu>
@@ -36528,6 +38432,46 @@ If it is set to On, technology disruption occurs constantly and all technology v
 GM_TEC
 Технологический сбой
 Если установлено значение Вкл, то технологический сбой происходит постоянно, и все технологические переменные уменьшаются на 10% каждый год..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Brand awareness~ is simply a measure the consumers' knowledge of the brand.^^Besides driven by advertising, it also increases automatically over time, if the products featuring the brand are widely distributed and enjoy constant retail exposure.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152300Z" creationid="Deivon" creationdate="20210519T152300Z">
+        <seg>~Узнаваемость бренда~ - это просто мера знания потребителей о бренде.^^Помимо того, что это обусловлено рекламой, она также автоматически увеличивается с течением времени, если продукты с участием бренда широко распространены и пользуются постоянной розничной экспозицией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Brand loyalty~ is a measure of the consumers' attachment to a brand.^^If you allow quality of your products to fluctuate, the brand loyalty will suffer as consumers can easily lose faith in products with inconsistent quality.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210519T152337Z" creationid="Deivon" creationdate="20210519T152337Z">
+        <seg>~Лояльность к бренду~ - это мера привязанности потребителей к бренду.^^Если вы позволите качеству ваших продуктов колебаться, лояльность к бренду пострадает, поскольку потребители могут легко потерять веру в продукты с несоответствующим качеством.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Brands~ can be a very important factor for consumers' purchase decisions, especially for luxury and fashion products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T121356Z" creationid="Deivon" creationdate="20210508T121356Z">
+        <seg>~Бренды~ могут быть очень важным фактором для принятия потребителями решений о покупке, особенно товаров класса люкс и модной одежды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Discount megastores~ can sell anything which makes them very versatile.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210507T152627Z" creationid="Deivon" creationdate="20210507T152627Z">
+        <seg>~Гипермаркеты~ могут продавать все, это делает их очень универсальными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Double click~ an empty unit right next to the Purchasing Unit you have just set up.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210508T115724Z" creationid="Deivon" creationdate="20210508T115724Z">
+        <seg>~Двойной щелчок~ по пустому блоку, рядом с настроенным отделом закупок.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
