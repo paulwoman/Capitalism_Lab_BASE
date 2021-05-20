@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36876,8 +36876,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3343]&lt;DIS1&gt;Sorry, you cannot disable this product as it is the input for other products that are currently enabled in the Scope of Production list.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210520T155317Z" creationid="Александр" creationdate="20210520T155204Z">
-        <seg>[3343]&lt;DIS1&gt;Salut, Oliver..|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T155940Z" creationid="Александр" creationdate="20210520T155204Z">
+        <seg>[3343]&lt;DIS1&gt;К сожалению, вы не можете отключить этот продукт, так как он является входным для других продуктов, которые в настоящее время включены в список "Объем производства".|</seg>
       </tuv>
     </tu>
     <tu>
