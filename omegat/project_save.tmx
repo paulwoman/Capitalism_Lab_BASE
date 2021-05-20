@@ -36882,6 +36882,38 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3344]&lt;DIS2&gt;uses|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T160155Z" creationid="Александр" creationdate="20210520T160146Z">
+        <seg>[3344]&lt;DIS2&gt;использует|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3345]&lt;DLCN&gt;Sorry, this game requires %1s but you do not have this DLC yet.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T160141Z" creationid="Александр" creationdate="20210520T160141Z">
+        <seg>[3345]&lt;DLCN&gt;Sorry, this game requires %1s but you do not have this DLC yet.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3346]&lt;DMOD&gt;Sorry, the current MOD is not compatible with the Digital Age DLC.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T160148Z" creationid="Александр" creationdate="20210520T160148Z">
+        <seg>[3346]&lt;DMOD&gt;Sorry, the current MOD is not compatible with the Digital Age DLC.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3347]&lt;NCHA&gt;Sorry, there are currently no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T160207Z" creationid="Александр" creationdate="20210520T160207Z">
+        <seg>[3347]&lt;NCHA&gt;Sorry, there are currently no Challenge Games available.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215727Z" creationid="Olivier" creationdate="20201217T215727Z">
