@@ -38224,6 +38224,14 @@ While we were exploring the interfaces, your department store was already genera
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Olivier" changedate="20210520T170403Z" creationid="Olivier" creationdate="20210520T170403Z">
+        <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~
 GM_ADV
 Your Advantage
