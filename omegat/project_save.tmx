@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4704,14 +4704,6 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Description=Years of research in training methodology by a consortium of leading business schools has finally produced astonishing results.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215041Z" creationid="Olivier" creationdate="20201213T214958Z">
-        <seg>Description=Anos de pesquisa em metodologia de treinamento por um consórcio de escolas de negócios líderes finalmente produziram resultados surpreendentes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Description=You always dream of building a media empire and now it is your chance to realize this dream.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210107T064134Z" creationid="Александр" creationdate="20210107T064134Z">
@@ -6660,26 +6652,10 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Goal Description=With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215121Z" creationid="Olivier" creationdate="20201213T215121Z">
-        <seg>Goal Description=Com o avanço no treinamento, você agora tem a ferramenta para melhorar a eficiência operacional de sua empresa a novos patamares e fornecer retornos financeiros verdadeiramente excepcionais para seus acionistas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Goal Report (hotkey: G)</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T134728Z" creationid="Александр" creationdate="20210111T134728Z">
         <seg>Отчёт о целях (F6)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Title=Aggressive Growth Plan</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215119Z" creationid="Olivier" creationdate="20201213T215119Z">
-        <seg>Goal Title=Plano de crescimento agressivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -16840,14 +16816,6 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T100515Z" creationid="Александр" creationdate="20210111T100515Z">
         <seg>Title=1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Title=Breakthrough in Training</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215020Z" creationid="Olivier" creationdate="20201213T214956Z">
-        <seg>Title=Title=Avanço no treinamento in Training</seg>
       </tuv>
     </tu>
     <tu>
@@ -38060,22 +38028,6 @@ While we were exploring the interfaces, your department store was already genera
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165936Z" creationid="Olivier" creationdate="20210110T165936Z">
         <seg>^^В этом сценарии вы попытаетесь реализовать свою мечту.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>^^The new training methodology is able to increase corporate training efficiency by as much as 100% and companies around the globe are rapidly adopting this new training methodology.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215043Z" creationid="Olivier" creationdate="20201213T215012Z">
-        <seg>^^A nova metodologia de treinamento é capaz de aumentar a eficiência do treinamento corporativo em até 100% e empresas em todo o mundo estão adotando rapidamente esta nova metodologia de treinamento.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>^^Your company has jumped on this bandwagon as well and you are planning to leverage it to greatly improve the productivity of your workforce.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215045Z" creationid="Olivier" creationdate="20201213T215045Z">
-        <seg>^^Sua empresa também aderiu a esse movimento e você está planejando aproveitá-lo para melhorar significativamente a produtividade de sua força de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
