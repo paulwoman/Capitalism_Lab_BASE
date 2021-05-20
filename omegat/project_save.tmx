@@ -37002,6 +37002,94 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3381]&lt;RDS7&gt;This Service Firm's Demand Bonus:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162131Z" creationid="Александр" creationdate="20210520T162131Z">
+        <seg>[3381]&lt;RDS7&gt;Бонус за востребованность этой сервисной фирмы:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3382]&lt;ESP1&gt;Score Penalty|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162146Z" creationid="Александр" creationdate="20210520T162146Z">
+        <seg>[3382]&lt;ESP1&gt;Штрафной балл|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3383]&lt;ESB1&gt;Score Bonus (plus early completion bonus)|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162225Z" creationid="Александр" creationdate="20210520T162225Z">
+        <seg>[3383]&lt;ESB1&gt;Бонус за баллы (плюс бонус за досрочное завершение)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3384]&lt;ESB2&gt;Score Bonus|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162244Z" creationid="Александр" creationdate="20210520T162233Z">
+        <seg>[3384]&lt;ESB2&gt;Бонус за баллы|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3385]&lt;ECCP&gt;Corporate Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162257Z" creationid="Александр" creationdate="20210520T162257Z">
+        <seg>[3385]&lt;ECCP&gt;Корпоративный денежный штраф|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3386]&lt;ECCB&gt;Corporate Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162306Z" creationid="Александр" creationdate="20210520T162306Z">
+        <seg>[3386]&lt;ECCB&gt;Корпоративный денежный бонус|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3387]&lt;EPCP&gt;Personal Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162318Z" creationid="Александр" creationdate="20210520T162318Z">
+        <seg>[3387]&lt;EPCP&gt;Личный денежный штраф|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3388]&lt;EPCB&gt;Personal Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162327Z" creationid="Александр" creationdate="20210520T162327Z">
+        <seg>[3388]&lt;EPCB&gt;Личный денежный бонус|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3389]&lt;EICP&gt;City Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162344Z" creationid="Александр" creationdate="20210520T162344Z">
+        <seg>[3389]&lt;EICP&gt;Городской денежный штраф|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3390]&lt;EICB&gt;City Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162354Z" creationid="Александр" creationdate="20210520T162354Z">
+        <seg>[3390]&lt;EICB&gt;Городской денежный бонус|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3391]&lt;EEX1&gt;Player Expertise on|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162405Z" creationid="Александр" creationdate="20210520T162405Z">
+        <seg>[3391]&lt;EEX1&gt;Экспертиза игроков по|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215727Z" creationid="Olivier" creationdate="20201217T215727Z">
