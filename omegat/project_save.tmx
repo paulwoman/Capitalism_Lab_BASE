@@ -36908,16 +36908,24 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3346]&lt;DMOD&gt;Sorry, the current MOD is not compatible with the Digital Age DLC.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210520T160148Z" creationid="Александр" creationdate="20210520T160148Z">
-        <seg>[3346]&lt;DMOD&gt;Sorry, the current MOD is not compatible with the Digital Age DLC.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161444Z" creationid="Александр" creationdate="20210520T160148Z">
+        <seg>[3346]&lt;DMOD&gt;К сожалению, текущий MOD не совместим с DLC "Цифровой век".|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3347]&lt;NCHA&gt;Sorry, there are currently no Challenge Games available.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210520T160207Z" creationid="Александр" creationdate="20210520T160207Z">
-        <seg>[3347]&lt;NCHA&gt;Sorry, there are currently no Challenge Games available.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161619Z" creationid="Александр" creationdate="20210520T160207Z">
+        <seg>[3347]&lt;NCHA&gt;К сожалению, в настоящее время нет доступных соревнований.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3348]&lt;MEOS&gt;Sorry, it is prohibited by the Antitrust Law to merge two companies who both an operating system.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161413Z" creationid="Александр" creationdate="20210520T161413Z">
+        <seg>[3348]&lt;MEOS&gt;Sorry, it is prohibited by the Antitrust Law to merge two companies who both an operating system.|</seg>
       </tuv>
     </tu>
     <tu>
