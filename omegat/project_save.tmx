@@ -36900,8 +36900,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>[3345]&lt;DLCN&gt;Sorry, this game requires %1s but you do not have this DLC yet.|</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210520T160141Z" creationid="Александр" creationdate="20210520T160141Z">
-        <seg>[3345]&lt;DLCN&gt;Sorry, this game requires %1s but you do not have this DLC yet.|</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161409Z" creationid="Александр" creationdate="20210520T160141Z">
+        <seg>[3345]&lt;DLCN&gt;Извините, для этой игры требуется %1s, но у вас еще нет этого DLC.|</seg>
       </tuv>
     </tu>
     <tu>
