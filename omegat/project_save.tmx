@@ -33882,6 +33882,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2968]&lt;BDR3&gt;A Corporate Bond issued by your subsidiary |</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161118Z" creationid="Александр" creationdate="20210520T161118Z">
+        <seg>[2968]&lt;BDR3&gt;A Corporate Bond issued by your subsidiary |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2969]&lt;BDR4&gt; has matured, you must redeem it now.|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201228T125039Z" creationid="Александр" creationdate="20201228T125039Z">
