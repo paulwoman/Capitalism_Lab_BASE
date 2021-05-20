@@ -6620,14 +6620,6 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Goal Achieved Text=Congratulations!</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215223Z" creationid="Olivier" creationdate="20201213T215223Z">
-        <seg>Goal Achieved Text=Parabéns!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Goal Achievement Progress</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -6636,34 +6628,10 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Goal Description=Be more aggressive in hiring and look for new talents to join your corporation.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215253Z" creationid="Olivier" creationdate="20201213T215253Z">
-        <seg>Goal Description=Seja mais agressivo na contratação e procure novos talentos para ingressar na sua corporação.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215131Z" creationid="Olivier" creationdate="20201213T215131Z">
-        <seg>Goal Description=Aproveite a nova metodologia de treinamento para melhorar a margem de lucro operacional de sua empresa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Goal Report (hotkey: G)</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T134728Z" creationid="Александр" creationdate="20210111T134728Z">
         <seg>Отчёт о целях (F6)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Goal Title=Growing the Talent Base</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215250Z" creationid="Olivier" creationdate="20201213T215250Z">
-        <seg>Goal Title=Aumentando a base de talentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -18884,14 +18852,6 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You have significantly improved your corporation's operating profit margin.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215230Z" creationid="Olivier" creationdate="20201213T215230Z">
-        <seg>Você melhorou significativamente a margem de lucro operacional de sua empresa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>You have successfully acquired and merged|</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210110T125505Z" creationid="Александр" creationdate="20210110T125505Z">
@@ -19400,14 +19360,6 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T153320Z" creationid="Deivon" creationdate="20210510T153320Z">
         <seg>Кредитный лимит вашей компании варьируется на протяжении всей игры в зависимости от состояния вашей компании.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Your corporation has reached the milestone of having a staff size surpassing 1000 people.</seg>
-      </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215259Z" creationid="Olivier" creationdate="20201213T215259Z">
-        <seg>Sua corporação atingiu o marco de ter um quadro de pessoal que ultrapassa 1000 pessoas.</seg>
       </tuv>
     </tu>
     <tu>
