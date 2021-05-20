@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7848,6 +7848,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Если вы установите значение больше нуля, соперничающие политические партии со временем будут получать пожертвования от широкой общественности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want Capitalism Lab to play custom music files that you designate instead of the original game music,</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T154741Z" creationid="Александр" creationdate="20210520T154741Z">
+        <seg>If you want Capitalism Lab to play custom music files that you designate instead of the original game music,</seg>
       </tuv>
     </tu>
     <tu>
@@ -36854,6 +36862,22 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210106T114325Z" creationid="Александр" creationdate="20210106T114325Z">
         <seg>[3341]&lt;SNAM&gt;Чтобы найти конкретный объект, введите первую букву его названия.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3342]&lt;NTEC&gt;Sorry, no technologies are available for research at the moment.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T155023Z" creationid="Александр" creationdate="20210520T155023Z">
+        <seg>[3342]&lt;NTEC&gt;К сожалению, в настоящее время нет технологий, доступных для исследования.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3343]&lt;DIS1&gt;Sorry, you cannot disable this product as it is the input for other products that are currently enabled in the Scope of Production list.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T155204Z" creationid="Александр" creationdate="20210520T155204Z">
+        <seg>[3343]&lt;DIS1&gt;Sorry, you cannot disable this product as it is the input for other products that are currently enabled in the Scope of Production list.|</seg>
       </tuv>
     </tu>
     <tu>
