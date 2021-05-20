@@ -36962,6 +36962,46 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3376]&lt;RDB8&gt;star|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161834Z" creationid="Александр" creationdate="20210520T161834Z">
+        <seg>[3376]&lt;RDB8&gt;звезда|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3377]&lt;RDB9&gt;stars|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161840Z" creationid="Александр" creationdate="20210520T161840Z">
+        <seg>[3377]&lt;RDB9&gt;звёзды|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3378]&lt;RDS1&gt;Increase Demand Bonus in the following ways:|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T161901Z" creationid="Александр" creationdate="20210520T161901Z">
+        <seg>[3378]&lt;RDS1&gt;Увеличить бонус за спрос можно следующими способами:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3379]&lt;RDS3&gt;-Build more service firms of the same type in the same city.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162115Z" creationid="Александр" creationdate="20210520T162015Z">
+        <seg>[3379]&lt;RDS3&gt;-Построить больше сервисных фирм одного типа в одном городе.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3380]&lt;RDS4&gt;-Service firms in areas with high customer traffic will boost the chain popularity more.|</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210520T162051Z" creationid="Александр" creationdate="20210520T162051Z">
+        <seg>[3380]&lt;RDS4&gt;-Сервисные фирмы в районах с высокой проходимостью клиентов будут способствовать росту популярности сети больше.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215727Z" creationid="Olivier" creationdate="20201217T215727Z">
