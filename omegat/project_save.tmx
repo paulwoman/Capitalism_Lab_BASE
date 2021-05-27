@@ -2456,6 +2456,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Budding Entrepreneur</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210527T164052Z" creationid="Александр" creationdate="20210527T164052Z">
+        <seg>Начинающий предприниматель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build Firm=Department Store, My Department Store</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215822Z" creationid="Olivier" creationdate="20201217T215822Z">
@@ -4748,6 +4756,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Депозиты из центрального офиса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210527T164112Z" creationid="Александр" creationdate="20210527T164112Z">
+        <seg>Описание=В этом руководстве вы познакомитесь с основами интерфейса игры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19700,6 +19716,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210527T164123Z" creationid="Александр" creationdate="20210527T164123Z">
+        <seg>Затем вы узнаете, как построить свой первый розничный магазин, наполнить его товарами от поставщиков и продавать их потребителям для получения дохода..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You win this game when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T165958Z" creationid="Olivier" creationdate="20210110T165958Z">
@@ -19902,8 +19926,8 @@ GM_NOC
       <tuv lang="en-US">
         <seg>Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20201228T120545Z" creationid="Александр" creationdate="20201218T120943Z">
-        <seg>Keep up the good work and try to achieve even higher goals. Ваш магазин автоматически покупает выбранный вами товар в морском порту и делает его доступным для продажи вашим клиентам. ^^ Посмотрите на изображение товара слева.</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210527T163921Z" creationid="Александр" creationdate="20201218T120943Z">
+        <seg>Продолжайте в том же духе и старайтесь достигать еще более высоких целей. Ваш магазин автоматически покупает выбранный вами товар в морском порту и делает его доступным для продажи вашим клиентам. ^^ Посмотрите на изображение товара слева.</seg>
       </tuv>
     </tu>
     <tu>
