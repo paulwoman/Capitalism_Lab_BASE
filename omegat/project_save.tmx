@@ -3944,6 +3944,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click ~Stock Exchange~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T144146Z" creationid="Deivon" creationdate="20210527T144146Z">
+        <seg>Нажмите кнопку ~Фондовая биржа~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Client Deposits</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -10906,6 +10914,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the ~Information Center~ now.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T144134Z" creationid="Deivon" creationdate="20210527T144134Z">
+        <seg>Откройте ~Информационный центр~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operating Profit Margin=15</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201213T215234Z" creationid="Olivier" creationdate="20201213T215234Z">
@@ -15550,6 +15566,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The top area shows the public companies currently listed in the stock exchange.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T144212Z" creationid="Deivon" creationdate="20210527T144212Z">
+        <seg>В верхней области показаны публичные компании, в настоящее время котирующиеся на фондовой бирже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The total GDP is the sum of the consumption, private investment, government spending and net exports.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -19400,6 +19424,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T153320Z" creationid="Deivon" creationdate="20210510T153320Z">
         <seg>Кредитный лимит вашей компании варьируется на протяжении всей игры в зависимости от состояния вашей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation is the first one on the list.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T144807Z" creationid="Deivon" creationdate="20210527T144807Z">
+        <seg>Ваша корпорация-первая в списке.</seg>
       </tuv>
     </tu>
     <tu>
