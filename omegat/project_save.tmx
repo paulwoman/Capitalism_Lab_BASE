@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5884,6 +5884,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215817Z" creationid="Olivier" creationdate="20201217T215817Z">
         <seg>Flex Text Box=300,280,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flex Text Box=80,500,400,0</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Александр" changedate="20210527T163250Z" creationid="Александр" creationdate="20210527T163250Z">
+        <seg>Flex Text Box=80,500,400,0</seg>
       </tuv>
     </tu>
     <tu>
