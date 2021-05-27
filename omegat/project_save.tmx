@@ -2312,6 +2312,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Besides buying stocks as an individual, you can also buy stocks on behalf of your company.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T154545Z" creationid="Deivon" creationdate="20210527T154545Z">
+        <seg>Помимо покупки акций как физическое лицо, вы также можете покупать акции от имени своей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121559Z" creationid="Александр" creationdate="20201218T121559Z">
@@ -6064,6 +6072,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From this point on, you should keep an eye on the stock's performance as changes in its stock price will affect your company's balance sheet as well.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T155852Z" creationid="Deivon" creationdate="20210527T155852Z">
+        <seg>С этого момента вы должны следить за показателями акций, поскольку изменения в их цене также повлияют на баланс вашей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fund Transfer</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -7924,6 +7940,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If your company owns more than ~50%~ of another company, it will be added to the ~Who section~ where you could select it and trade stocks on behalf of that company.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T160124Z" creationid="Deivon" creationdate="20210527T160124Z">
+        <seg>Если ваша компания владеет более чем ~50%~ другой компании, она будет добавлена в раздел ~Владелец~, где вы можете выбрать ее и торговать акциями от имени этой компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T075210Z" creationid="Deivon" creationdate="20210507T152842Z">
@@ -9372,8 +9396,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Look at the ~Who section~.</seg>
       </tuv>
-      <tuv lang="ru" changeid="Deivon" changedate="20210527T150825Z" creationid="Deivon" creationdate="20210527T150825Z">
-        <seg>Посмотрите на раздел ~Кто~.</seg>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T154719Z" creationid="Deivon" creationdate="20210527T150825Z">
+        <seg>Посмотрите на раздел ~Владелец~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10382,6 +10406,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T152840Z" creationid="Deivon" creationdate="20210510T152840Z">
         <seg>Теперь у вас появилась возможность фактически производить продукцию на своем собственном заводе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you may use your company's money to buy shares of other publicly listed companies as an investment.^^To do so, simply select a company from the list at the top of the screen, then click on the ~Buy~ button to buy its shares.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T155815Z" creationid="Deivon" creationdate="20210527T155815Z">
+        <seg>Теперь вы можете использовать деньги своей компании для покупки акций других компаний, котирующихся на бирже, в качестве инвестиций.^^Для этого просто выберите компанию из списка в верхней части экрана, а затем нажмите кнопку ~Купить~, чтобы купить ее акции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13014,6 +13046,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210514T142139Z" creationid="Deivon" creationdate="20210514T142139Z">
         <seg>Выберите свой производственный отдел по изготовлению клюшек для гольфа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select your company on the ~Who section~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T154659Z" creationid="Deivon" creationdate="20210527T154659Z">
+        <seg>Выберите свою компанию в разделе ~Владелец~.</seg>
       </tuv>
     </tu>
     <tu>
