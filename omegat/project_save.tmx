@@ -15846,6 +15846,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~P/E Ratio~, or the ~Price-Earnings Ratio~ is an equity valuation multiple, defined as the ~stock price~ divided by ~earnings per share~.^^A high ~P/E ratio~ generally means the the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T153554Z" creationid="Deivon" creationdate="20210527T153554Z">
+        <seg>Соотношение ~Ц/П~, или Соотношение ~Цена-Прибыль~ - это кратность оценки собственного капитала, определяемая как ~цена акций~, деленная на ~прибыль на акцию~.^^Высокий коэффициент ~Ц/П~ обычно означает, что акции дороги, поскольку люди покупают ее по высокие цены, надеясь что в перспективе доход на укацию выростет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~Raw Material Quality~ can be increased by sourcing supplies of higher quality raw materials.^^The ~Production Quality~ can be increased by setting up R&amp;D centers (research and development centers) to develop better technology.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210514T142856Z" creationid="Deivon" creationdate="20210514T142856Z">
@@ -19656,6 +19664,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T153320Z" creationid="Deivon" creationdate="20210510T153320Z">
         <seg>Кредитный лимит вашей компании варьируется на протяжении всей игры в зависимости от состояния вашей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company's stock price can only go up in the long run if its ~Earning Per Share~ also goes up.^^Thus, for the fund that you have raised with issuing new shares, you should use them to invest into new business to generate more profits for your shareholders.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T153037Z" creationid="Deivon" creationdate="20210527T153037Z">
+        <seg>Цена акций вашей компании может вырасти только в долгосрочной перспективе, если ее доход на акцию также вырастет.^^Таким образом, для фонда, который вы собрали с выпуском новых акций, вы должны использовать их для инвестирования в новый бизнес, чтобы получить больше прибыли для ваших акционеров.</seg>
       </tuv>
     </tu>
     <tu>
