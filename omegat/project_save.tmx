@@ -1762,6 +1762,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the bottom of the screen, you can view the ~performances of your stock holdings~, showing the gains or losses of individual stocks in your portfolio, as well as your total investment return to date.^^And this area can be switched to display the ~latest financial news~ by clicking the ~Stock News~ located at the bottom left of the screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T161007Z" creationid="Deivon" creationdate="20210527T161007Z">
+        <seg>В нижней части экрана вы можете просмотреть ~показатели ваших акций~, показывающие прибыли или убытки отдельных акций в вашем портфеле, а также общую доходность инвестиций на сегодняшний день.^^И эту область можно переключить для отображения ~последних финансовых новостей~, нажав на ~Новости акций~, расположенные в левом нижнем углу экрана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each).</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -10274,6 +10282,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now it's time for you to use the recently raised fund to grow your business empire.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T161040Z" creationid="Deivon" creationdate="20210527T161040Z">
+        <seg>Теперь пришло время использовать недавно собранный фонд для развития вашей бизнес-империи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now left click it to view its detail.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201217T215837Z" creationid="Olivier" creationdate="20201217T215837Z">
@@ -15334,6 +15350,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The investors are expecting you to deliver a good return to their investment.^^You win this game when ~your company's stock price~ increases to ~$100~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T161331Z" creationid="Deivon" creationdate="20210527T161331Z">
+        <seg>Инвесторы ожидают, что вы принесете хорошую отдачу от их инвестиций.^^Вы выигрываете эту игру, когда ~цена акций вашей компании~ увеличивается до ~100 долларов~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The land cost in agricultural zones are significantly lower than other zones.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -19184,6 +19208,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T152903Z" creationid="Deivon" creationdate="20210510T152903Z">
         <seg>Вы решили оставить свой семейный бизнес и развиться самостоятельно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have done a great job familiarizing yourself with the stock market!</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T161020Z" creationid="Deivon" creationdate="20210527T161020Z">
+        <seg>Вы проделали большую работу по ознакомлению с фондовым рынком!</seg>
       </tuv>
     </tu>
     <tu>
