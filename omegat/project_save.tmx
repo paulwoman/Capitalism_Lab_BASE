@@ -1714,6 +1714,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a recap, to buy stocks, you should:^^1) Select the stock you want to buy.^^2) Select whether your corporation or yourself as an individual is going to buy the stock.^^3) Set the purchase amount.^^4) Click the ~Buy~ button.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T151358Z" creationid="Deivon" creationdate="20210527T151358Z">
+        <seg>В качестве резюме, чтобы купить акции, вы должны:^^1) Выбрать акции, которые вы хотите купить.^^2) Выберите, собирается ли ваша корпорация или вы как частное лицо покупать акции.^^3) Установите сумму покупки.^^4) Нажмите кнопку ~Купить~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As people embrace the Internet, they will spend more time online and less time on the traditional media.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
@@ -19472,6 +19480,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T152925Z" creationid="Deivon" creationdate="20210510T152925Z">
         <seg>Вы заметили возможность на рынке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You, as an individual, may either buy more shares of your own corporation or invest in other corporations.^^Currently your corporation is selected on the stock list situated at the top of the screen, and you may now click the ~Buy~ button to buy its shares.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T151507Z" creationid="Deivon" creationdate="20210527T151507Z">
+        <seg>Вы, как частное лицо, можете либо купить больше акций своей собственной корпорации, либо инвестировать в другие корпорации.^^В настоящее время ваша корпорация выбрана в списке акций, расположенном в верхней части экрана, и теперь вы можете нажать кнопку ~Купить~, чтобы купить ее акции.</seg>
       </tuv>
     </tu>
     <tu>
