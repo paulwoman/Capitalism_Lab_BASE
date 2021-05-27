@@ -14106,6 +14106,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That would be an excellent long-term investment.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T151956Z" creationid="Deivon" creationdate="20210527T151956Z">
+        <seg>Это было бы отличной долгосрочной инвестицией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The #Capital Ratio# is the ratio of a bank's #Equity Capital# to its total #Loans to Customers#.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -19344,6 +19352,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Вы можете использовать эту опцию, чтобы дублировать данные о талантах в игре, чтобы увеличить количество талантов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may wonder how you can buy shares of other corporations.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T152041Z" creationid="Deivon" creationdate="20210527T152041Z">
+        <seg>Вы наверное уже задались вопросом, как покупать акции других корпораций.</seg>
       </tuv>
     </tu>
     <tu>
