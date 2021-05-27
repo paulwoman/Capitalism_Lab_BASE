@@ -4728,6 +4728,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You realize that your products can only sell well when consumers are aware of them.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T143236Z" creationid="Deivon" creationdate="20210527T143236Z">
+        <seg>Description=Ваши продукты могут хорошо продаваться только тогда, когда потребители знают о них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Detailed Help Information</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
