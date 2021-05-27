@@ -7828,6 +7828,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you find all this a bit overwhelming, don't worry as you are not required to be proficient in stock analysis in order to enjoy your Capitalism game.^^You can choose to learn and practice stock investment at a pace you prefer in later games.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T154311Z" creationid="Deivon" creationdate="20210527T154311Z">
+        <seg>Если вам показалась это сложным, не волнуйтесь, так как вам не требуется быть опытным в анализе акций, чтобы наслаждаться игрой в капитализм.^^Вы можете учиться и практиковаться инвестировать в акции в том темпе, который вы предпочитаете в последующих играх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
