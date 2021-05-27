@@ -8004,6 +8004,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this tutorial, you will be introduced to the stock market and learn how to leverage it to meet the financial needs of your corporation.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T143501Z" creationid="Deivon" creationdate="20210527T143501Z">
+        <seg>В этом уроке вы познакомитесь с фондовым рынком и узнаете, как использовать его для удовлетворения финансовых потребностей вашей корпорации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this tutorial, you will be trained to become a better retail manager and learn how to customize your retail stores to maximize their operational efficiency and profitability.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T141103Z" creationid="Deivon" creationdate="20210507T141103Z">
@@ -17984,6 +17992,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20201226T000513Z" creationid="Olivier" creationdate="20201226T000513Z">
         <seg>Превосходно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well now, let's look at the current state of the stock market.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T144110Z" creationid="Deivon" creationdate="20210527T144110Z">
+        <seg>Ну а теперь давайте посмотрим на текущее состояние фондового рынка.</seg>
       </tuv>
     </tu>
     <tu>
