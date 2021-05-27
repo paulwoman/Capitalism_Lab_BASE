@@ -5784,6 +5784,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firstly, take a look at the ~Issuing Price~, which should always be lower than the ~Current Stock Price~, in order to attract new investors to buy your company's shares.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T145316Z" creationid="Deivon" creationdate="20210527T145316Z">
+        <seg>Во-первых, взгляните на ~Цену выпуска~, которая всегда должна быть ниже ~Текущей цены акций~, чтобы привлечь новых инвесторов для покупки акций вашей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fix this apartment's rent to the market rate.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -7976,6 +7984,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Другими словами, это общая рыночная стоимость компании на фондовом рынке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In previous tutorials you've already seen how to raise cash by taking out a loan.^^This time you'll use the expectations of investors to raise the much needed money.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T145049Z" creationid="Deivon" creationdate="20210527T145049Z">
+        <seg>В предыдущих уроках вы уже видели, как собрать наличные деньги, взяв кредит.^^На этот раз вы будете использовать ожидания инвесторов, чтобы собрать столь необходимые деньги.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10174,6 +10190,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T155731Z" creationid="Deivon" creationdate="20210507T155731Z">
         <seg>Теперь выберите в меню ~Гипермаркет~ и выберите место для постройки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now select ~Issue New Shares to the Public~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T145223Z" creationid="Deivon" creationdate="20210527T145223Z">
+        <seg>Теперь выберите ~Выпустить новые акции населению~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16932,6 +16956,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To do this, select ~Financial Actions~ from the menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T145140Z" creationid="Deivon" creationdate="20210527T145140Z">
+        <seg>Для этого выберите в меню ~Финансовые дела~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To enable research, please set the #Operation slider# of this university to a value larger than zero.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -19312,6 +19344,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210519T145747Z" creationid="Deivon" creationdate="20210519T145747Z">
         <seg>Теперь вы должны добавить новое подразделение в свой универмаг: ~Отдел рекламы~ и связать его с отделом продаж.^^Часто бывает хорошей идеей разместить ~Отдел рекламы~ в центральном квадрате вашего макета, чтобы он мог ссылаться на любые единицы продаж.^^~Дважды щелкните центральный квадрат~ и выберите ~Отдел рекламы~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should now offer to issue new shares to the public.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T145113Z" creationid="Deivon" creationdate="20210527T145113Z">
+        <seg>Теперь вы должны предложить публике выпустить новые акции.</seg>
       </tuv>
     </tu>
     <tu>
