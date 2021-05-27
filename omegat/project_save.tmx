@@ -2296,6 +2296,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below the ~stock price~ and the ~total number of shares~ figures, you will see the ~Market Cap~, or the market capitalization of a corporation, which is equal to the ~share price~ times the ~total number of shares outstanding~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T152648Z" creationid="Deivon" creationdate="20210527T152648Z">
+        <seg>Ниже ~цена акций~ и ~общее количество акций~ вы увидите ~Рыночную капитализацию~, или рыночную капитализацию корпорации, которая равна ~цене акций~, умноженной на ~общее количество акций в обращении~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T121559Z" creationid="Александр" creationdate="20201218T121559Z">
@@ -5796,6 +5804,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Уровень Денежных Средств Первого Города (Моделирование экономики города DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First of all, you will have to learn how to read a company's financial data, which are displayed on the top right of the Stock Exchange screen.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T152441Z" creationid="Deivon" creationdate="20210527T152441Z">
+        <seg>Прежде всего, вам нужно будет научиться читать финансовые данные компании, которые отображаются в правом верхнем углу экрана фондовой биржи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11246,6 +11262,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210310T233409Z" creationid="OmegaT Aligner" creationdate="20210310T233409Z">
         <seg>Модификатор Ставки Личных(Персональных) Сбережений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Picking the right stocks to invest is a skill that takes time to develop.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T152412Z" creationid="Deivon" creationdate="20210527T152412Z">
+        <seg>Выбор правильных акций для инвестирования-это навык, который требует времени для развития.</seg>
       </tuv>
     </tu>
     <tu>
