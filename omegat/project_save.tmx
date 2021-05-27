@@ -8652,6 +8652,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows that you have $1,000,000 in personal cash at the moment.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T150940Z" creationid="Deivon" creationdate="20210527T150940Z">
+        <seg>Это показывает, что на данный момент у вас есть 1 000 000 долларов наличными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows that ~Timber~ can be used to produce ~Bed~.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T155602Z" creationid="Deivon" creationdate="20210510T155602Z">
@@ -9094,6 +9102,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T102222Z" creationid="Александр" creationdate="20210111T102222Z">
         <seg>Щелкните левой кнопкой мыши, чтобы увеличить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's do some stock investment with your personal money now.^^Simply ~click your name~ now to select yourself as the active investor.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T151044Z" creationid="Deivon" creationdate="20210527T151044Z">
+        <seg>Давайте сделаем некоторые инвестиции в акции с вашими личными деньгами прямо сейчас.^^Просто ~нажмите на свое имя~ сейчас, чтобы выбрать себя в качестве активного инвестора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10198,6 +10214,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210519T150618Z" creationid="Deivon" creationdate="20210519T150618Z">
         <seg>Теперь свяжите свой ~Отдел рекламы~ и свой ~Отдел продаж~, ~щелкнув линию связи~ между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now look at the ~Buy/Sell shares section~ below.^^Using this interface, you may purchase up to 5% of the total number of shares of a listed company in a single transaction, so long as you have the cash.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T151220Z" creationid="Deivon" creationdate="20210527T151220Z">
+        <seg>Теперь посмотрите на раздел ниже ~Покупка/продажа акций~.^^Используя этот интерфейс, вы можете приобрести до 5% от общего количества акций зарегистрированной компании в одной сделке, если у вас есть наличные деньги.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17952,6 +17976,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Очень медленно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Via this interface, you may buy stocks on behalf of your corporation or invest as an individual.^^Please note that the names may be truncated if there is not enough space to display them in full.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T150912Z" creationid="Deivon" creationdate="20210527T150912Z">
+        <seg>Через этот интерфейс вы можете покупать акции от имени своей корпорации или инвестировать как частное лицо.^^Пожалуйста, обратите внимание, что имена могут быть усечены, если для их полного отображения недостаточно места.</seg>
       </tuv>
     </tu>
     <tu>
