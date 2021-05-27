@@ -10540,8 +10540,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Number of Cities=2</seg>
       </tuv>
-      <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
-        <seg>Number of Cities=2</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210527T164352Z" creationid="Александр" creationdate="20210111T100916Z">
+        <seg>Количество городов=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -37702,8 +37702,8 @@ Interface Select=Select Supplier, Seaport</seg>
       <tuv lang="en-US">
         <seg>[ENVIRONMENT]</seg>
       </tuv>
-      <tuv lang="ru" changeid="Olivier" changedate="20201213T215048Z" creationid="Olivier" creationdate="20201213T215048Z">
-        <seg>[ENVIRONMENT]</seg>
+      <tuv lang="ru" changeid="Александр" changedate="20210527T164332Z" creationid="Olivier" creationdate="20201213T215048Z">
+        <seg>[ОКРУЖАЮЩАЯ СРЕДА]</seg>
       </tuv>
     </tu>
     <tu>
