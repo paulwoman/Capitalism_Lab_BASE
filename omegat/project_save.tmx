@@ -10210,6 +10210,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now set the ~Number of New Shares~ you want to issue, and click the ~Issue Now~ button to issue new shares to raise money.^^As a rule, the larger the quantity of new shares you wish to issue, the higher the discount in share prices you must offer, in order to attract enough investors to subscribe the new shares.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T145540Z" creationid="Deivon" creationdate="20210527T145540Z">
+        <seg>Теперь установите ~Количество новых акций~, которые вы хотите выпустить, и нажмите кнопку ~Выпустить сейчас~, чтобы выпустить новые акции для сбора денег.^^Как правило, чем больше количество новых акций вы хотите выпустить, тем выше скидка на цены акций, которую вы должны предложить, чтобы привлечь достаточное количество инвесторов для покупки новых акций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now that you have learned how to build retail stores of different types, as well as how to navigate between cities.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T123914Z" creationid="Deivon" creationdate="20210509T123914Z">
