@@ -18996,6 +18996,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have successfully raised the needed cash for growing your business.^^However, it did come with a price - the issuing of the new shares diluted your ownership of your corporation a bit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T150118Z" creationid="Deivon" creationdate="20210527T150118Z">
+        <seg>Вы успешно собрали необходимые денежные средства для развития своего бизнеса.^^Тем не менее, это имело свою цену - выпуск новых акций немного разбавил вашу собственность на вашу корпорацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T075656Z" creationid="Deivon" creationdate="20210508T120438Z">
