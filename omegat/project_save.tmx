@@ -2296,6 +2296,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before we progress here's a quick note on how to sell shares.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T160454Z" creationid="Deivon" creationdate="20210527T160454Z">
+        <seg>Прежде чем продолжить, вот краткое примечание о том, как продавать акции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before you can start to manufacture hardware using this IP, you must first develop an Operating System for the IP.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -2316,6 +2324,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210527T154545Z" creationid="Deivon" creationdate="20210527T154545Z">
         <seg>Помимо покупки акций как физическое лицо, вы также можете покупать акции от имени своей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides buying stocks of other companies, your company can also ~buy back its own stock~.^^The shares bought are taken out of circulation, therefore shrinking the number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T160334Z" creationid="Deivon" creationdate="20210527T160334Z">
+        <seg>Помимо покупки акций других компаний, ваша компания также может выкупить свои собственные акции.^^Купленные акции выводятся из обращения, что приводит к сокращению количества размещенных акций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7864,6 +7880,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210527T154311Z" creationid="Deivon" creationdate="20210527T154311Z">
         <seg>Если вам показалась это сложным, не волнуйтесь, так как вам не требуется быть опытным в анализе акций, чтобы наслаждаться игрой в капитализм.^^Вы можете учиться и практиковаться инвестировать в акции в том темпе, который вы предпочитаете в последующих играх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you find the stock list too cluttered, you may use the stock filters to limit the type of stock to be displayed on the screen.^^For example, you may choose to view only tech stocks that you currently own by clicking on the ~Tech~ button and then the ~Owned~ button.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T160908Z" creationid="Deivon" creationdate="20210527T160908Z">
+        <seg>Если вы обнаружите, что список акций слишком загроможден, вы можете использовать фильтры акций, чтобы ограничить тип акций, отображаемых на экране.^^Например, вы можете выбрать просмотр только тех акций, которыми вы в настоящее время владеете, нажав на кнопку ~Техн.~, а затем кнопку ~Owned~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15302,6 +15326,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The interface for selling shares is in fact very similar to that of buying shares.^^Depending on the current owner of the shares, select either yourself or your corporation (in the ~Who section~) and set the amount you wish to sell and click the ~Sell~ button.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T160554Z" creationid="Deivon" creationdate="20210527T160554Z">
+        <seg>Интерфейс продажи акций на самом деле очень похож на интерфейс покупки акций.^^В зависимости от текущего владельца акций выберите себя или свою корпорацию (в разделе ~Владелец~), установите сумму, которую вы хотите продать, и нажмите кнопку ~Продать~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The land cost in agricultural zones are significantly lower than other zones.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -16146,6 +16178,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Эти апартаменты продаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can have a positive effect on earnings per share, which in turn can have ~a positive effect~ on the stock price.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T160405Z" creationid="Deivon" creationdate="20210527T160405Z">
+        <seg>Это может оказать положительное влияние на прибыль на акцию, что, в свою очередь, может оказать положительное влияние на цену акций.</seg>
       </tuv>
     </tu>
     <tu>
