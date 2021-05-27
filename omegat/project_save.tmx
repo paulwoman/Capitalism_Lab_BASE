@@ -19476,6 +19476,14 @@ GM_NOC
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You've just used your idle personal cash to increase your shareholding of your corporation.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T151936Z" creationid="Deivon" creationdate="20210527T151936Z">
+        <seg>Вы только что использовали свои свободные личные деньги, чтобы увеличить свой пакет акций вашей корпорации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You've spotted an opportunity in the market.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T152925Z" creationid="Deivon" creationdate="20210510T152925Z">
