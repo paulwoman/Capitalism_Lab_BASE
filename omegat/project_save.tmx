@@ -1754,6 +1754,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the ~Ownership Details~ section, it shows that you now only own less than 50% of your corporation and the remainder is owned by ~Public Shareholders~, AI persons and AI corporations.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T150701Z" creationid="Deivon" creationdate="20210527T150701Z">
+        <seg>В разделе ~Сведения о собственности~ показано, что теперь вы владеете менее чем 50% своей корпорации, а остальная часть принадлежит ~Публичным акционерам~, лицам ИИ и корпорациям ИИ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At this moment the maximum amount you may borrow is $30,000,000.^^</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210510T153559Z" creationid="Deivon" creationdate="20210510T153559Z">
@@ -10186,6 +10194,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now return to the stock market to view your latest stock holdings.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T150215Z" creationid="Deivon" creationdate="20210527T150215Z">
+        <seg>Теперь вернитесь на фондовый рынок, чтобы просмотреть свои последние акции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210507T155731Z" creationid="Deivon" creationdate="20210507T155731Z">
@@ -16610,6 +16626,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210519T151652Z" creationid="Deivon" creationdate="20210519T151652Z">
         <seg>На этот раз вам не нужно связывать новый продукт с ~Отделом рекламы~, поскольку он уже охвачен вашим брендом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This time, let's use the shortcut key ~F4~ to go to the Stock Exchange.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T150305Z" creationid="Deivon" creationdate="20210527T150305Z">
+        <seg>На этот раз давайте используем комбинацию клавиш ~F4~, чтобы перейти на фондовую биржу.</seg>
       </tuv>
     </tu>
     <tu>
