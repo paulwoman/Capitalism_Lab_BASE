@@ -18780,6 +18780,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When your company owns more than ~75%~ of another company, you will be able to execute a marger which will merge all of its business operations into your company, including all of its technological know-how.^^This makes mergers a highly effective way to expand your business empire rapidly.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210527T160304Z" creationid="Deivon" creationdate="20210527T160304Z">
+        <seg>Когда ваша компания владеет более чем ~75%~ другой компании, вы сможете выполнить слияние, которое объединит все ее бизнес-операции в вашу компанию, включая все ее технологические ноу-хау.^^Это делает слияния очень эффективным способом быстрого расширения вашей бизнес-империи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When your tech level has reached this level, the current custom image will be displayed.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
