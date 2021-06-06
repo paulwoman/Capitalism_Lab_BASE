@@ -4216,6 +4216,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Congratulations, you are now selling frozen beef reared on your own farm.^^You may set up additional ~Livestock Processing Units~ to process ~milk~ and ~leather~ from cattle.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T142542Z" creationid="Deivon" creationdate="20210606T142542Z">
+        <seg>Поздравляю, теперь вы продаете замороженную говядину, выращенную на вашей собственной ферме.^^Вы можете настроить дополнительные ~Единицы обработки скота~ для обработки ~молока~ и ~кожи~ от крупного рогатого скота.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Connect these units as well.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210514T135604Z" creationid="Deivon" creationdate="20210514T135604Z">
@@ -5436,6 +5444,14 @@ Show or hide the Toolbox menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Каждый тип программного обеспечения зависит от определенной технологии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each ~Livestock Processing Unit~ can only process one product at a time.^^Now click ~Select Product~ and select ~Frozen Beef~ from the available choices.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T142330Z" creationid="Deivon" creationdate="20210606T142330Z">
+        <seg>Каждая ~Единица обработки скота~ может обрабатывать только один продукт за один раз.^^Теперь нажмите ~Выбрать продукт~ и выберите ~Замороженная говядина~ из доступных вариантов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12038,6 +12054,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Наличие товаров в рознице</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Products of cattle include ~frozen beef~, ~milk~, and ~leather~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T142254Z" creationid="Deivon" creationdate="20210606T142254Z">
+        <seg>Продукты крупного рогатого скота включают ~замороженную говядину~, ~молоко~ и ~кожу~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19888,6 +19912,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20210111T100916Z" creationid="Александр" creationdate="20210111T100916Z">
         <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your cattle will now be reared and processed as frozen beef.^^Add a ~Sales Unit~ and link it to the ~Livestock Processing Unit~ so that your farm can sell the frozen beef.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T142432Z" creationid="Deivon" creationdate="20210606T142432Z">
+        <seg>Теперь ваш скот будет выращиваться и перерабатываться в замороженную говядину.^^Добавьте ~Подразделение продаж~ и свяжите его с ~Подразделением переработки скота~, чтобы ваша ферма могла продавать замороженную говядину.</seg>
       </tuv>
     </tu>
     <tu>
