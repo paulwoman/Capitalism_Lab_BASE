@@ -1370,6 +1370,14 @@ Low - product customization applies to your company only; Medium - it applies to
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Agricultural goods are essential to manufacture of a great number of products and you will find farming an indispensable business of your corporation.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T142751Z" creationid="Deivon" creationdate="20210606T142751Z">
+        <seg>Сельскохозяйственные товары необходимы для производства большого количества продуктов, и вы найдете сельское хозяйство незаменимым бизнесом вашей корпорации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Cities Or Current City filter</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
@@ -6928,6 +6936,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Вырастить урожай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Growing crops is a time consuming process and it has to go through sowing, growing and harvesting before you will see the products coming out from the unit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T142720Z" creationid="Deivon" creationdate="20210606T142720Z">
+        <seg>Выращивание сельскохозяйственных культур-это трудоемкий процесс, и он должен пройти через посев, выращивание и сбор урожая, прежде чем вы увидите готовые продукты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19480,6 +19496,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>То же самое при 2-й клике на записи НИОКР центра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may also grow crops in farms by using ~Crop Growing Units~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T142625Z" creationid="Deivon" creationdate="20210606T142625Z">
+        <seg>Вы также можете выращивать сельскохозяйственные культуры на фермах, используя ~Единицы выращивания сельскохозяйственных культур~.</seg>
       </tuv>
     </tu>
     <tu>
