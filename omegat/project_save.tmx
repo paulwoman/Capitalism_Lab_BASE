@@ -13154,6 +13154,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ~Farm - Medium~ from the menu and choose a location in a rural area to build your farm.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T141734Z" creationid="Deivon" creationdate="20210606T141734Z">
+        <seg>Выберите в меню ~Средняя ферма~ и выберите место в сельской местности, чтобы построить свою ферму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Farm~ from the menu.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210606T141039Z" creationid="Deivon" creationdate="20210606T141039Z">
@@ -15152,6 +15160,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210509T122129Z" creationid="Deivon" creationdate="20210507T163929Z">
         <seg>Первый индикатор, ~синяя линия пунктирныя~, указывает на уровень запасов продукта на складе магазина.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first thing we are going to do is to raise some livestock.^^~Double click the top left slot~ and build a ~Livestock Raising Unit~ unit.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T141837Z" creationid="Deivon" creationdate="20210606T141837Z">
+        <seg>Первое, что мы собираемся сделать, - это вырастить немного скота.^^~Дважды щелкните верхний левый слот~ и создайте блок ~Животноводства~.</seg>
       </tuv>
     </tu>
     <tu>
