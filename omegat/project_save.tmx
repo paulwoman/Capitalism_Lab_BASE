@@ -17580,6 +17580,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To win this game, your company must make at least ~20 types of products~ to demonstrate its ability to produce a wide range of products.^^At the same time you must achieve ~an annual revenue of $100 million~ and ~an annual profit of $10 million~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T142857Z" creationid="Deivon" creationdate="20210606T142857Z">
+        <seg>Чтобы выиграть в этой игре, ваша компания должна произвести не менее ~20 видов продукции~, чтобы продемонстрировать свою способность производить широкий ассортимент продукции.^^В то же время вы должны достичь ~годового дохода в размере 100 миллионов долларов~ и ~годовой прибыли в размере 10 миллионов долларов~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Together with the e-commerce site quality rating, they affect the amount of visitors to this site.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
