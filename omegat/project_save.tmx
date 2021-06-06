@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8172,6 +8172,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this tutorial you will set up a farm to supply your supermarkets with your own agriculural products.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T140846Z" creationid="Deivon" creationdate="20210606T140846Z">
+        <seg>В этом уроке вы построите ферму для снабжения ваших супермаркетов вашими сельскохозяйственными продуктами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this tutorial, you will be introduced to the stock market and learn how to leverage it to meet the financial needs of your corporation.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210527T143501Z" creationid="Deivon" creationdate="20210527T143501Z">
@@ -13998,6 +14006,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="OmegaT Aligner" changedate="20210111T183805Z" creationid="OmegaT Aligner" creationdate="20210111T183805Z">
         <seg>Большой экспорт значительно повысит занятость в городе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Such backward integration will create a more reliable supply chain and increase your profit margins.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T140930Z" creationid="Deivon" creationdate="20210606T140930Z">
+        <seg>Такая обратная интеграция создаст более надежную цепочку поставок и увеличит вашу прибыль.</seg>
       </tuv>
     </tu>
     <tu>
