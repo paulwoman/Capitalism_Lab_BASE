@@ -3512,6 +3512,14 @@ Show or hide the Toolbox menu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Raise Livestock~ button and then select ~Cattle~ from the popup menu.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T141950Z" creationid="Deivon" creationdate="20210606T141950Z">
+        <seg>Нажмите кнопку ~Выращивать скот~, а затем выберите ~Крупный рогатый скот~ во всплывающем меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~SELECT~ button now.^^</seg>
       </tuv>
       <tuv lang="ru" changeid="Александр" changedate="20201218T120855Z" creationid="Александр" creationdate="20201218T120855Z">
@@ -10502,6 +10510,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="ru" changeid="Deivon" changedate="20210514T135640Z" creationid="Deivon" creationdate="20210514T135640Z">
         <seg>Теперь вам нужно закупить сырье.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you need to set the type of animals to be raised.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T141911Z" creationid="Deivon" creationdate="20210606T141911Z">
+        <seg>Теперь вам нужно выбрать животных, которые будут выращиваться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19928,6 +19944,14 @@ GM_NOC
       </tuv>
       <tuv lang="ru" changeid="Olivier" changedate="20210110T162853Z" creationid="Olivier" creationdate="20210110T162853Z">
         <seg>Ваш технологический уровень в настоящий момент - %3s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your farm has begun rearing cattle.^^To the right of the ~Livestock Raising Unit~, build a ~Livestock Processing Unit~.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Deivon" changedate="20210606T142221Z" creationid="Deivon" creationdate="20210606T142221Z">
+        <seg>Ваша ферма начала выращивать крупный рогатый скот.^^Справа от ~Животноводства~ постройте ~Отработка скота~.</seg>
       </tuv>
     </tu>
     <tu>
